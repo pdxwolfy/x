@@ -1,0 +1,328 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.760 --> 00:00:04.470 align:start position:0%
+ 
+this<00:00:04.000><c> problem</c>
+
+00:00:04.470 --> 00:00:04.480 align:start position:0%
+this problem
+ 
+
+00:00:04.480 --> 00:00:06.630 align:start position:0%
+this problem
+asks<00:00:04.799><c> us</c><00:00:05.040><c> to</c><00:00:05.359><c> demonstrate</c><00:00:06.000><c> how</c><00:00:06.160><c> we</c><00:00:06.319><c> would</c>
+
+00:00:06.630 --> 00:00:06.640 align:start position:0%
+asks us to demonstrate how we would
+ 
+
+00:00:06.640 --> 00:00:08.150 align:start position:0%
+asks us to demonstrate how we would
+access<00:00:07.120><c> joe's</c><00:00:07.520><c> email</c>
+
+00:00:08.150 --> 00:00:08.160 align:start position:0%
+access joe's email
+ 
+
+00:00:08.160 --> 00:00:10.470 align:start position:0%
+access joe's email
+and<00:00:08.480><c> sally's</c><00:00:09.040><c> phone</c><00:00:09.280><c> number</c><00:00:09.840><c> so</c><00:00:10.080><c> we</c><00:00:10.240><c> can</c>
+
+00:00:10.470 --> 00:00:10.480 align:start position:0%
+and sally's phone number so we can
+ 
+
+00:00:10.480 --> 00:00:11.270 align:start position:0%
+and sally's phone number so we can
+access<00:00:10.960><c> the</c>
+
+00:00:11.270 --> 00:00:11.280 align:start position:0%
+access the
+ 
+
+00:00:11.280 --> 00:00:15.030 align:start position:0%
+access the
+information<00:00:11.840><c> about</c><00:00:12.320><c> joe</c>
+
+00:00:15.030 --> 00:00:15.040 align:start position:0%
+ 
+ 
+
+00:00:15.040 --> 00:00:21.429 align:start position:0%
+ 
+by<00:00:15.360><c> simply</c><00:00:15.679><c> passing</c><00:00:16.080><c> in</c><00:00:16.160><c> the</c><00:00:16.320><c> key</c><00:00:17.279><c> joe</c><00:00:17.600><c> smith</c>
+
+00:00:21.429 --> 00:00:21.439 align:start position:0%
+ 
+ 
+
+00:00:21.439 --> 00:00:23.830 align:start position:0%
+ 
+and<00:00:21.600><c> when</c><00:00:21.760><c> i</c><00:00:21.920><c> run</c><00:00:22.160><c> this</c><00:00:22.400><c> code</c><00:00:22.800><c> i</c><00:00:22.960><c> see</c><00:00:23.199><c> the</c><00:00:23.359><c> value</c>
+
+00:00:23.830 --> 00:00:23.840 align:start position:0%
+and when i run this code i see the value
+ 
+
+00:00:23.840 --> 00:00:25.670 align:start position:0%
+and when i run this code i see the value
+associated<00:00:24.400><c> with</c><00:00:24.560><c> that</c><00:00:24.880><c> key</c>
+
+00:00:25.670 --> 00:00:25.680 align:start position:0%
+associated with that key
+ 
+
+00:00:25.680 --> 00:00:27.990 align:start position:0%
+associated with that key
+however<00:00:26.240><c> the</c><00:00:26.480><c> value</c><00:00:27.119><c> associated</c><00:00:27.680><c> with</c><00:00:27.840><c> the</c>
+
+00:00:27.990 --> 00:00:28.000 align:start position:0%
+however the value associated with the
+ 
+
+00:00:28.000 --> 00:00:31.189 align:start position:0%
+however the value associated with the
+key<00:00:28.240><c> joe</c><00:00:28.560><c> smith</c><00:00:28.960><c> is</c><00:00:29.119><c> a</c><00:00:29.279><c> hash</c>
+
+00:00:31.189 --> 00:00:31.199 align:start position:0%
+key joe smith is a hash
+ 
+
+00:00:31.199 --> 00:00:34.069 align:start position:0%
+key joe smith is a hash
+in<00:00:31.279><c> this</c><00:00:31.519><c> problem</c><00:00:32.000><c> we</c><00:00:32.239><c> only</c><00:00:32.640><c> want</c><00:00:32.880><c> to</c><00:00:33.120><c> return</c>
+
+00:00:34.069 --> 00:00:34.079 align:start position:0%
+in this problem we only want to return
+ 
+
+00:00:34.079 --> 00:00:37.430 align:start position:0%
+in this problem we only want to return
+one<00:00:34.399><c> piece</c><00:00:34.640><c> of</c><00:00:34.800><c> information</c><00:00:35.600><c> from</c><00:00:35.840><c> this</c><00:00:36.079><c> hash</c>
+
+00:00:37.430 --> 00:00:37.440 align:start position:0%
+one piece of information from this hash
+ 
+
+00:00:37.440 --> 00:00:40.389 align:start position:0%
+one piece of information from this hash
+our<00:00:37.600><c> hash</c><00:00:37.920><c> has</c><00:00:38.160><c> three</c><00:00:38.480><c> key</c><00:00:38.640><c> value</c><00:00:39.120><c> pairs</c><00:00:40.160><c> we</c>
+
+00:00:40.389 --> 00:00:40.399 align:start position:0%
+our hash has three key value pairs we
+ 
+
+00:00:40.399 --> 00:00:42.869 align:start position:0%
+our hash has three key value pairs we
+only<00:00:40.640><c> want</c><00:00:40.879><c> to</c><00:00:41.040><c> return</c><00:00:41.520><c> the</c><00:00:41.760><c> email</c>
+
+00:00:42.869 --> 00:00:42.879 align:start position:0%
+only want to return the email
+ 
+
+00:00:42.879 --> 00:00:45.190 align:start position:0%
+only want to return the email
+which<00:00:43.120><c> is</c><00:00:43.280><c> the</c><00:00:43.440><c> value</c><00:00:44.239><c> of</c><00:00:44.399><c> this</c><00:00:44.640><c> first</c><00:00:44.960><c> key</c>
+
+00:00:45.190 --> 00:00:45.200 align:start position:0%
+which is the value of this first key
+ 
+
+00:00:45.200 --> 00:00:49.990 align:start position:0%
+which is the value of this first key
+value<00:00:45.600><c> pair</c>
+
+00:00:49.990 --> 00:00:50.000 align:start position:0%
+ 
+ 
+
+00:00:50.000 --> 00:00:52.389 align:start position:0%
+ 
+so<00:00:50.160><c> we</c><00:00:50.320><c> know</c><00:00:50.559><c> this</c><00:00:50.800><c> code</c><00:00:51.039><c> on</c><00:00:51.120><c> line</c><00:00:51.440><c> 14</c><00:00:51.920><c> returns</c>
+
+00:00:52.389 --> 00:00:52.399 align:start position:0%
+so we know this code on line 14 returns
+ 
+
+00:00:52.399 --> 00:00:53.110 align:start position:0%
+so we know this code on line 14 returns
+a<00:00:52.480><c> hash</c>
+
+00:00:53.110 --> 00:00:53.120 align:start position:0%
+a hash
+ 
+
+00:00:53.120 --> 00:00:55.910 align:start position:0%
+a hash
+and<00:00:53.360><c> to</c><00:00:53.600><c> access</c><00:00:54.000><c> a</c><00:00:54.079><c> given</c><00:00:54.480><c> value</c><00:00:54.960><c> in</c><00:00:55.039><c> a</c><00:00:55.199><c> hash</c><00:00:55.680><c> we</c>
+
+00:00:55.910 --> 00:00:55.920 align:start position:0%
+and to access a given value in a hash we
+ 
+
+00:00:55.920 --> 00:00:56.709 align:start position:0%
+and to access a given value in a hash we
+just<00:00:56.160><c> need</c><00:00:56.399><c> to</c>
+
+00:00:56.709 --> 00:00:56.719 align:start position:0%
+just need to
+ 
+
+00:00:56.719 --> 00:00:59.910 align:start position:0%
+just need to
+pass<00:00:57.039><c> in</c><00:00:57.120><c> the</c><00:00:57.360><c> key</c><00:00:58.879><c> so</c><00:00:59.120><c> we'll</c><00:00:59.359><c> again</c>
+
+00:00:59.910 --> 00:00:59.920 align:start position:0%
+pass in the key so we'll again
+ 
+
+00:00:59.920 --> 00:01:03.750 align:start position:0%
+pass in the key so we'll again
+pass<00:01:00.399><c> in</c><00:01:01.039><c> another</c><00:01:01.520><c> key</c><00:01:01.840><c> here</c><00:01:02.079><c> on</c><00:01:02.239><c> line</c><00:01:02.559><c> 14</c>
+
+00:01:03.750 --> 00:01:03.760 align:start position:0%
+pass in another key here on line 14
+ 
+
+00:01:03.760 --> 00:01:05.750 align:start position:0%
+pass in another key here on line 14
+indicating<00:01:04.400><c> that</c><00:01:04.559><c> we</c><00:01:04.720><c> want</c><00:01:04.960><c> to</c><00:01:05.119><c> access</c><00:01:05.519><c> the</c>
+
+00:01:05.750 --> 00:01:05.760 align:start position:0%
+indicating that we want to access the
+ 
+
+00:01:05.760 --> 00:01:07.750 align:start position:0%
+indicating that we want to access the
+value<00:01:06.240><c> associated</c><00:01:06.880><c> with</c><00:01:07.040><c> the</c><00:01:07.280><c> key</c>
+
+00:01:07.750 --> 00:01:07.760 align:start position:0%
+value associated with the key
+ 
+
+00:01:07.760 --> 00:01:11.830 align:start position:0%
+value associated with the key
+email<00:01:08.560><c> in</c><00:01:08.720><c> this</c><00:01:08.960><c> hash</c>
+
+00:01:11.830 --> 00:01:11.840 align:start position:0%
+ 
+ 
+
+00:01:11.840 --> 00:01:13.670 align:start position:0%
+ 
+and<00:01:12.000><c> now</c><00:01:12.159><c> when</c><00:01:12.320><c> we</c><00:01:12.479><c> run</c><00:01:12.720><c> our</c><00:01:12.880><c> code</c><00:01:13.119><c> we</c><00:01:13.280><c> see</c><00:01:13.439><c> just</c>
+
+00:01:13.670 --> 00:01:13.680 align:start position:0%
+and now when we run our code we see just
+ 
+
+00:01:13.680 --> 00:01:19.749 align:start position:0%
+and now when we run our code we see just
+the<00:01:13.840><c> email</c>
+
+00:01:19.749 --> 00:01:19.759 align:start position:0%
+ 
+ 
+
+00:01:19.759 --> 00:01:24.550 align:start position:0%
+ 
+so<00:01:20.000><c> let's</c><00:01:20.240><c> do</c><00:01:20.479><c> as</c><00:01:20.640><c> the</c><00:01:20.799><c> problem</c><00:01:21.280><c> says</c><00:01:21.600><c> here</c>
+
+00:01:24.550 --> 00:01:24.560 align:start position:0%
+ 
+ 
+
+00:01:24.560 --> 00:01:27.190 align:start position:0%
+ 
+we'll<00:01:24.799><c> access</c><00:01:25.360><c> joe's</c><00:01:25.680><c> email</c><00:01:26.400><c> and</c><00:01:26.720><c> sally's</c>
+
+00:01:27.190 --> 00:01:27.200 align:start position:0%
+we'll access joe's email and sally's
+ 
+
+00:01:27.200 --> 00:01:29.830 align:start position:0%
+we'll access joe's email and sally's
+phone<00:01:27.439><c> number</c>
+
+00:01:29.830 --> 00:01:29.840 align:start position:0%
+ 
+ 
+
+00:01:29.840 --> 00:01:51.590 align:start position:0%
+ 
+and<00:01:30.079><c> i'll</c><00:01:30.240><c> use</c><00:01:30.479><c> interpolation</c><00:01:38.840><c> here</c>
+
+00:01:51.590 --> 00:01:51.600 align:start position:0%
+ 
+ 
+
+00:01:51.600 --> 00:01:53.590 align:start position:0%
+ 
+again<00:01:51.920><c> we'll</c><00:01:52.159><c> pass</c><00:01:52.479><c> in</c><00:01:52.640><c> the</c><00:01:52.799><c> key</c><00:01:53.200><c> sally</c>
+
+00:01:53.590 --> 00:01:53.600 align:start position:0%
+again we'll pass in the key sally
+ 
+
+00:01:53.600 --> 00:01:54.870 align:start position:0%
+again we'll pass in the key sally
+johnson
+
+00:01:54.870 --> 00:01:54.880 align:start position:0%
+johnson
+ 
+
+00:01:54.880 --> 00:01:57.830 align:start position:0%
+johnson
+to<00:01:55.119><c> return</c><00:01:55.680><c> the</c><00:01:56.240><c> hash</c><00:01:56.799><c> associated</c><00:01:57.520><c> with</c><00:01:57.680><c> the</c>
+
+00:01:57.830 --> 00:01:57.840 align:start position:0%
+to return the hash associated with the
+ 
+
+00:01:57.840 --> 00:01:58.149 align:start position:0%
+to return the hash associated with the
+key
+
+00:01:58.149 --> 00:01:58.159 align:start position:0%
+key
+ 
+
+00:01:58.159 --> 00:02:02.389 align:start position:0%
+key
+sally<00:01:58.560><c> johnson</c><00:01:59.920><c> and</c><00:02:00.079><c> then</c><00:02:00.240><c> we'll</c><00:02:00.479><c> pass</c><00:02:00.880><c> in</c>
+
+00:02:02.389 --> 00:02:02.399 align:start position:0%
+sally johnson and then we'll pass in
+ 
+
+00:02:02.399 --> 00:02:07.109 align:start position:0%
+sally johnson and then we'll pass in
+the<00:02:02.640><c> key</c><00:02:02.880><c> associated</c><00:02:03.520><c> with</c><00:02:03.680><c> her</c><00:02:03.840><c> phone</c><00:02:04.079><c> number</c>
+
+00:02:07.109 --> 00:02:07.119 align:start position:0%
+ 
+ 
+
+00:02:07.119 --> 00:02:09.029 align:start position:0%
+ 
+and<00:02:07.280><c> now</c><00:02:07.439><c> when</c><00:02:07.600><c> we</c><00:02:07.759><c> run</c><00:02:08.000><c> our</c><00:02:08.160><c> code</c><00:02:08.560><c> we'll</c><00:02:08.800><c> see</c>
+
+00:02:09.029 --> 00:02:09.039 align:start position:0%
+and now when we run our code we'll see
+ 
+
+00:02:09.039 --> 00:02:23.270 align:start position:0%
+and now when we run our code we'll see
+this<00:02:09.280><c> information</c><00:02:09.920><c> output</c><00:02:20.840><c> nicely</c>
+
+00:02:23.270 --> 00:02:23.280 align:start position:0%
+this information output nicely
+ 
+
+00:02:23.280 --> 00:02:25.360 align:start position:0%
+this information output nicely
+you
+

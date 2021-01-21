@@ -1,0 +1,224 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.919 --> 00:00:05.670 align:start position:0%
+ 
+we<00:00:04.080><c> need</c><00:00:04.240><c> to</c><00:00:04.560><c> write</c><00:00:04.799><c> a</c><00:00:04.880><c> method</c><00:00:05.359><c> called</c>
+
+00:00:05.670 --> 00:00:05.680 align:start position:0%
+we need to write a method called
+ 
+
+00:00:05.680 --> 00:00:07.030 align:start position:0%
+we need to write a method called
+multiply
+
+00:00:07.030 --> 00:00:07.040 align:start position:0%
+multiply
+ 
+
+00:00:07.040 --> 00:00:10.230 align:start position:0%
+multiply
+that<00:00:07.279><c> takes</c><00:00:07.759><c> two</c><00:00:08.080><c> arguments</c><00:00:09.120><c> and</c><00:00:09.440><c> returns</c><00:00:10.000><c> the</c>
+
+00:00:10.230 --> 00:00:10.240 align:start position:0%
+that takes two arguments and returns the
+ 
+
+00:00:10.240 --> 00:00:12.150 align:start position:0%
+that takes two arguments and returns the
+product<00:00:10.719><c> of</c><00:00:10.960><c> the</c><00:00:11.120><c> two</c><00:00:11.360><c> arguments</c>
+
+00:00:12.150 --> 00:00:12.160 align:start position:0%
+product of the two arguments
+ 
+
+00:00:12.160 --> 00:00:15.350 align:start position:0%
+product of the two arguments
+which<00:00:12.400><c> are</c><00:00:12.480><c> going</c><00:00:12.639><c> to</c><00:00:12.719><c> be</c><00:00:12.960><c> numbers</c>
+
+00:00:15.350 --> 00:00:15.360 align:start position:0%
+which are going to be numbers
+ 
+
+00:00:15.360 --> 00:00:18.550 align:start position:0%
+which are going to be numbers
+so<00:00:15.599><c> let's</c><00:00:15.839><c> define</c><00:00:16.240><c> our</c><00:00:16.400><c> method</c><00:00:16.800><c> multiply</c>
+
+00:00:18.550 --> 00:00:18.560 align:start position:0%
+so let's define our method multiply
+ 
+
+00:00:18.560 --> 00:00:21.029 align:start position:0%
+so let's define our method multiply
+and<00:00:18.720><c> we</c><00:00:18.880><c> need</c><00:00:19.119><c> to</c><00:00:19.279><c> define</c><00:00:19.760><c> two</c><00:00:20.000><c> parameters</c>
+
+00:00:21.029 --> 00:00:21.039 align:start position:0%
+and we need to define two parameters
+ 
+
+00:00:21.039 --> 00:00:23.349 align:start position:0%
+and we need to define two parameters
+we'll<00:00:21.279><c> call</c><00:00:21.520><c> them</c>
+
+00:00:23.349 --> 00:00:23.359 align:start position:0%
+we'll call them
+ 
+
+00:00:23.359 --> 00:00:30.390 align:start position:0%
+we'll call them
+number<00:00:23.840><c> one</c><00:00:25.039><c> and</c><00:00:25.279><c> number</c><00:00:28.840><c> two</c><00:00:29.920><c> because</c><00:00:30.240><c> we</c>
+
+00:00:30.390 --> 00:00:30.400 align:start position:0%
+number one and number two because we
+ 
+
+00:00:30.400 --> 00:00:32.310 align:start position:0%
+number one and number two because we
+know<00:00:30.560><c> we</c><00:00:30.720><c> want</c><00:00:30.960><c> to</c><00:00:31.199><c> return</c><00:00:31.599><c> the</c><00:00:31.760><c> product</c><00:00:32.160><c> of</c>
+
+00:00:32.310 --> 00:00:32.320 align:start position:0%
+know we want to return the product of
+ 
+
+00:00:32.320 --> 00:00:34.630 align:start position:0%
+know we want to return the product of
+the<00:00:32.480><c> two</c><00:00:32.719><c> numbers</c>
+
+00:00:34.630 --> 00:00:34.640 align:start position:0%
+the two numbers
+ 
+
+00:00:34.640 --> 00:00:37.350 align:start position:0%
+the two numbers
+we<00:00:34.800><c> can</c><00:00:35.040><c> simply</c><00:00:35.840><c> multiply</c><00:00:36.480><c> them</c><00:00:36.800><c> within</c><00:00:37.200><c> our</c>
+
+00:00:37.350 --> 00:00:37.360 align:start position:0%
+we can simply multiply them within our
+ 
+
+00:00:37.360 --> 00:00:39.430 align:start position:0%
+we can simply multiply them within our
+method
+
+00:00:39.430 --> 00:00:39.440 align:start position:0%
+method
+ 
+
+00:00:39.440 --> 00:00:42.470 align:start position:0%
+method
+because<00:00:39.840><c> line</c><00:00:40.239><c> two</c><00:00:40.719><c> is</c><00:00:40.960><c> the</c><00:00:41.600><c> last</c><00:00:42.160><c> line</c>
+
+00:00:42.470 --> 00:00:42.480 align:start position:0%
+because line two is the last line
+ 
+
+00:00:42.480 --> 00:00:44.790 align:start position:0%
+because line two is the last line
+executed<00:00:43.200><c> in</c><00:00:43.360><c> our</c><00:00:43.520><c> multiply</c><00:00:44.160><c> method</c>
+
+00:00:44.790 --> 00:00:44.800 align:start position:0%
+executed in our multiply method
+ 
+
+00:00:44.800 --> 00:00:47.029 align:start position:0%
+executed in our multiply method
+the<00:00:44.960><c> return</c><00:00:45.440><c> value</c><00:00:45.920><c> of</c><00:00:46.160><c> multiplying</c><00:00:46.800><c> these</c>
+
+00:00:47.029 --> 00:00:47.039 align:start position:0%
+the return value of multiplying these
+ 
+
+00:00:47.039 --> 00:00:48.229 align:start position:0%
+the return value of multiplying these
+two<00:00:47.200><c> numbers</c><00:00:47.600><c> together</c>
+
+00:00:48.229 --> 00:00:48.239 align:start position:0%
+two numbers together
+ 
+
+00:00:48.239 --> 00:00:54.709 align:start position:0%
+two numbers together
+will<00:00:48.399><c> be</c><00:00:48.559><c> the</c><00:00:48.719><c> return</c><00:00:49.120><c> value</c><00:00:49.600><c> of</c><00:00:49.760><c> the</c><00:00:49.920><c> method</c>
+
+00:00:54.709 --> 00:00:54.719 align:start position:0%
+ 
+ 
+
+00:00:54.719 --> 00:00:57.270 align:start position:0%
+ 
+we<00:00:54.879><c> can</c><00:00:55.280><c> invoke</c><00:00:55.600><c> the</c><00:00:55.760><c> multiply</c><00:00:56.399><c> method</c><00:00:57.120><c> and</c>
+
+00:00:57.270 --> 00:00:57.280 align:start position:0%
+we can invoke the multiply method and
+ 
+
+00:00:57.280 --> 00:00:58.150 align:start position:0%
+we can invoke the multiply method and
+we'll<00:00:57.520><c> pass</c><00:00:57.840><c> in</c>
+
+00:00:58.150 --> 00:00:58.160 align:start position:0%
+we'll pass in
+ 
+
+00:00:58.160 --> 00:01:01.750 align:start position:0%
+we'll pass in
+4<00:00:58.640><c> and</c><00:00:58.800><c> 2</c><00:00:59.120><c> as</c><00:00:59.280><c> our</c><00:00:59.520><c> arguments</c><00:01:00.960><c> so</c><00:01:01.120><c> we'll</c><00:01:01.440><c> expect</c>
+
+00:01:01.750 --> 00:01:01.760 align:start position:0%
+4 and 2 as our arguments so we'll expect
+ 
+
+00:01:01.760 --> 00:01:03.830 align:start position:0%
+4 and 2 as our arguments so we'll expect
+that<00:01:01.920><c> the</c><00:01:02.079><c> return</c><00:01:02.559><c> value</c><00:01:03.039><c> of</c><00:01:03.120><c> the</c><00:01:03.280><c> multiply</c>
+
+00:01:03.830 --> 00:01:03.840 align:start position:0%
+that the return value of the multiply
+ 
+
+00:01:03.840 --> 00:01:07.350 align:start position:0%
+that the return value of the multiply
+method<00:01:04.239><c> will</c><00:01:04.400><c> be</c><00:01:04.640><c> 8.</c>
+
+00:01:07.350 --> 00:01:07.360 align:start position:0%
+ 
+ 
+
+00:01:07.360 --> 00:01:09.670 align:start position:0%
+ 
+and<00:01:07.520><c> so</c><00:01:07.680><c> we</c><00:01:07.840><c> can</c><00:01:08.000><c> see</c><00:01:08.240><c> that</c><00:01:08.640><c> let's</c><00:01:09.119><c> output</c><00:01:09.520><c> the</c>
+
+00:01:09.670 --> 00:01:09.680 align:start position:0%
+and so we can see that let's output the
+ 
+
+00:01:09.680 --> 00:01:10.870 align:start position:0%
+and so we can see that let's output the
+return<00:01:10.159><c> value</c>
+
+00:01:10.870 --> 00:01:10.880 align:start position:0%
+return value
+ 
+
+00:01:10.880 --> 00:01:18.310 align:start position:0%
+return value
+with<00:01:11.200><c> put</c><00:01:11.520><c> us</c><00:01:12.640><c> so</c><00:01:12.799><c> let's</c><00:01:13.119><c> run</c><00:01:13.360><c> our</c><00:01:13.520><c> program</c>
+
+00:01:18.310 --> 00:01:18.320 align:start position:0%
+ 
+ 
+
+00:01:18.320 --> 00:01:29.590 align:start position:0%
+ 
+and<00:01:18.560><c> we</c><00:01:18.720><c> see</c><00:01:19.040><c> 8</c><00:01:19.439><c> as</c><00:01:19.600><c> we</c><00:01:19.759><c> were</c><00:01:24.840><c> expecting</c>
+
+00:01:29.590 --> 00:01:29.600 align:start position:0%
+ 
+ 
+
+00:01:29.600 --> 00:01:31.680 align:start position:0%
+ 
+you
+

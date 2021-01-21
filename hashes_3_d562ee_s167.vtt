@@ -1,0 +1,416 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.960 --> 00:00:05.430 align:start position:0%
+ 
+using
+
+00:00:05.430 --> 00:00:05.440 align:start position:0%
+using
+ 
+
+00:00:05.440 --> 00:00:08.390 align:start position:0%
+using
+a<00:00:05.759><c> built-in</c><00:00:06.319><c> hash</c><00:00:06.720><c> method</c><00:00:07.279><c> we're</c><00:00:07.520><c> going</c><00:00:07.919><c> to</c>
+
+00:00:08.390 --> 00:00:08.400 align:start position:0%
+a built-in hash method we're going to
+ 
+
+00:00:08.400 --> 00:00:10.470 align:start position:0%
+a built-in hash method we're going to
+write<00:00:08.639><c> a</c><00:00:08.800><c> program</c><00:00:09.280><c> that</c><00:00:09.599><c> loops</c><00:00:09.920><c> through</c><00:00:10.160><c> this</c>
+
+00:00:10.470 --> 00:00:10.480 align:start position:0%
+write a program that loops through this
+ 
+
+00:00:10.480 --> 00:00:11.110 align:start position:0%
+write a program that loops through this
+hash
+
+00:00:11.110 --> 00:00:11.120 align:start position:0%
+hash
+ 
+
+00:00:11.120 --> 00:00:14.470 align:start position:0%
+hash
+and<00:00:11.519><c> prints</c><00:00:12.000><c> all</c><00:00:12.160><c> of</c><00:00:12.240><c> the</c><00:00:12.559><c> keys</c>
+
+00:00:14.470 --> 00:00:14.480 align:start position:0%
+and prints all of the keys
+ 
+
+00:00:14.480 --> 00:00:17.510 align:start position:0%
+and prints all of the keys
+we<00:00:14.639><c> can</c><00:00:14.799><c> see</c><00:00:14.960><c> that</c><00:00:15.200><c> our</c><00:00:15.440><c> hash</c><00:00:15.839><c> here</c><00:00:16.240><c> opposites</c>
+
+00:00:17.510 --> 00:00:17.520 align:start position:0%
+we can see that our hash here opposites
+ 
+
+00:00:17.520 --> 00:00:21.189 align:start position:0%
+we can see that our hash here opposites
+has<00:00:17.920><c> three</c><00:00:18.240><c> key</c><00:00:18.480><c> value</c><00:00:18.880><c> pairs</c>
+
+00:00:21.189 --> 00:00:21.199 align:start position:0%
+has three key value pairs
+ 
+
+00:00:21.199 --> 00:00:23.910 align:start position:0%
+has three key value pairs
+looking<00:00:21.600><c> at</c><00:00:21.760><c> the</c><00:00:22.000><c> hash</c><00:00:22.320><c> documentation</c><00:00:23.519><c> we</c><00:00:23.760><c> see</c>
+
+00:00:23.910 --> 00:00:23.920 align:start position:0%
+looking at the hash documentation we see
+ 
+
+00:00:23.920 --> 00:00:24.630 align:start position:0%
+looking at the hash documentation we see
+a<00:00:24.080><c> method</c>
+
+00:00:24.630 --> 00:00:24.640 align:start position:0%
+a method
+ 
+
+00:00:24.640 --> 00:00:26.950 align:start position:0%
+a method
+each<00:00:25.039><c> key</c><00:00:25.920><c> so</c><00:00:26.080><c> this</c><00:00:26.320><c> looks</c><00:00:26.560><c> like</c><00:00:26.720><c> a</c><00:00:26.800><c> good</c>
+
+00:00:26.950 --> 00:00:26.960 align:start position:0%
+each key so this looks like a good
+ 
+
+00:00:26.960 --> 00:00:32.870 align:start position:0%
+each key so this looks like a good
+candidate<00:00:27.519><c> for</c><00:00:27.760><c> what</c><00:00:27.920><c> we're</c><00:00:28.080><c> trying</c><00:00:28.320><c> to</c><00:00:28.840><c> do</c>
+
+00:00:32.870 --> 00:00:32.880 align:start position:0%
+ 
+ 
+
+00:00:32.880 --> 00:00:38.470 align:start position:0%
+ 
+we'll<00:00:33.120><c> call</c><00:00:33.360><c> this</c><00:00:33.680><c> method</c><00:00:34.239><c> on</c><00:00:34.480><c> the</c><00:00:34.719><c> hash</c>
+
+00:00:38.470 --> 00:00:38.480 align:start position:0%
+ 
+ 
+
+00:00:38.480 --> 00:00:41.030 align:start position:0%
+ 
+and<00:00:38.800><c> each</c><00:00:39.200><c> key</c><00:00:39.520><c> is</c><00:00:39.680><c> going</c><00:00:40.000><c> to</c><00:00:40.160><c> be</c><00:00:40.399><c> passed</c><00:00:40.879><c> to</c>
+
+00:00:41.030 --> 00:00:41.040 align:start position:0%
+and each key is going to be passed to
+ 
+
+00:00:41.040 --> 00:00:43.270 align:start position:0%
+and each key is going to be passed to
+the<00:00:41.200><c> block</c><00:00:41.600><c> as</c><00:00:41.760><c> an</c><00:00:41.920><c> argument</c>
+
+00:00:43.270 --> 00:00:43.280 align:start position:0%
+the block as an argument
+ 
+
+00:00:43.280 --> 00:00:46.950 align:start position:0%
+the block as an argument
+and<00:00:43.440><c> we</c><00:00:43.680><c> simply</c><00:00:44.000><c> want</c><00:00:44.239><c> to</c><00:00:44.480><c> output</c><00:00:44.960><c> each</c><00:00:45.200><c> key</c>
+
+00:00:46.950 --> 00:00:46.960 align:start position:0%
+and we simply want to output each key
+ 
+
+00:00:46.960 --> 00:00:50.950 align:start position:0%
+and we simply want to output each key
+we'll<00:00:47.360><c> invoke</c><00:00:47.760><c> put</c><00:00:48.000><c> us</c>
+
+00:00:50.950 --> 00:00:50.960 align:start position:0%
+ 
+ 
+
+00:00:50.960 --> 00:00:52.709 align:start position:0%
+ 
+and<00:00:51.120><c> now</c><00:00:51.280><c> when</c><00:00:51.440><c> we</c><00:00:51.600><c> run</c><00:00:51.840><c> our</c><00:00:52.000><c> code</c><00:00:52.320><c> we</c><00:00:52.480><c> should</c>
+
+00:00:52.709 --> 00:00:52.719 align:start position:0%
+and now when we run our code we should
+ 
+
+00:00:52.719 --> 00:00:54.709 align:start position:0%
+and now when we run our code we should
+see<00:00:53.199><c> each</c><00:00:53.440><c> of</c><00:00:53.520><c> these</c><00:00:53.760><c> three</c><00:00:54.160><c> keys</c>
+
+00:00:54.709 --> 00:00:54.719 align:start position:0%
+see each of these three keys
+ 
+
+00:00:54.719 --> 00:00:58.709 align:start position:0%
+see each of these three keys
+output<00:00:55.120><c> on</c><00:00:55.199><c> its</c><00:00:55.360><c> own</c><00:00:56.840><c> line</c>
+
+00:00:58.709 --> 00:00:58.719 align:start position:0%
+output on its own line
+ 
+
+00:00:58.719 --> 00:01:02.389 align:start position:0%
+output on its own line
+and<00:00:58.879><c> that's</c><00:00:59.120><c> what</c><00:00:59.280><c> we</c><00:00:59.440><c> see</c>
+
+00:01:02.389 --> 00:01:02.399 align:start position:0%
+ 
+ 
+
+00:01:02.399 --> 00:01:04.310 align:start position:0%
+ 
+so<00:01:02.640><c> moving</c><00:01:03.039><c> on</c><00:01:03.280><c> to</c><00:01:03.440><c> the</c><00:01:03.520><c> next</c><00:01:03.760><c> part</c><00:01:04.000><c> of</c><00:01:04.159><c> our</c>
+
+00:01:04.310 --> 00:01:04.320 align:start position:0%
+so moving on to the next part of our
+ 
+
+00:01:04.320 --> 00:01:05.590 align:start position:0%
+so moving on to the next part of our
+problem
+
+00:01:05.590 --> 00:01:05.600 align:start position:0%
+problem
+ 
+
+00:01:05.600 --> 00:01:07.429 align:start position:0%
+problem
+we<00:01:05.760><c> need</c><00:01:05.920><c> to</c><00:01:06.080><c> write</c><00:01:06.320><c> a</c><00:01:06.479><c> program</c><00:01:06.880><c> that</c><00:01:07.040><c> does</c><00:01:07.280><c> the</c>
+
+00:01:07.429 --> 00:01:07.439 align:start position:0%
+we need to write a program that does the
+ 
+
+00:01:07.439 --> 00:01:08.870 align:start position:0%
+we need to write a program that does the
+same<00:01:07.760><c> thing</c><00:01:08.000><c> here</c><00:01:08.400><c> except</c>
+
+00:01:08.870 --> 00:01:08.880 align:start position:0%
+same thing here except
+ 
+
+00:01:08.880 --> 00:01:11.990 align:start position:0%
+same thing here except
+prints<00:01:09.200><c> the</c><00:01:09.360><c> values</c><00:01:11.600><c> again</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+prints the values again
+ 
+
+00:01:12.000 --> 00:01:14.230 align:start position:0%
+prints the values again
+looking<00:01:12.320><c> back</c><00:01:12.560><c> at</c><00:01:12.640><c> the</c><00:01:12.799><c> hash</c><00:01:13.119><c> documentation</c>
+
+00:01:14.230 --> 00:01:14.240 align:start position:0%
+looking back at the hash documentation
+ 
+
+00:01:14.240 --> 00:01:16.149 align:start position:0%
+looking back at the hash documentation
+we<00:01:14.479><c> conveniently</c><00:01:15.200><c> have</c><00:01:15.439><c> a</c><00:01:15.520><c> method</c><00:01:15.840><c> that</c><00:01:16.000><c> can</c>
+
+00:01:16.149 --> 00:01:16.159 align:start position:0%
+we conveniently have a method that can
+ 
+
+00:01:16.159 --> 00:01:19.590 align:start position:0%
+we conveniently have a method that can
+help<00:01:16.400><c> us</c><00:01:16.560><c> do</c><00:01:16.799><c> this</c>
+
+00:01:19.590 --> 00:01:19.600 align:start position:0%
+ 
+ 
+
+00:01:19.600 --> 00:01:22.710 align:start position:0%
+ 
+each<00:01:20.000><c> value</c><00:01:21.680><c> will</c><00:01:21.840><c> iterate</c><00:01:22.320><c> through</c>
+
+00:01:22.710 --> 00:01:22.720 align:start position:0%
+each value will iterate through
+ 
+
+00:01:22.720 --> 00:01:26.469 align:start position:0%
+each value will iterate through
+each<00:01:23.040><c> value</c><00:01:23.520><c> of</c><00:01:23.600><c> the</c><00:01:23.759><c> calling</c><00:01:24.840><c> hash</c>
+
+00:01:26.469 --> 00:01:26.479 align:start position:0%
+each value of the calling hash
+ 
+
+00:01:26.479 --> 00:01:28.390 align:start position:0%
+each value of the calling hash
+so<00:01:26.880><c> let's</c><00:01:27.119><c> name</c><00:01:27.360><c> our</c><00:01:27.439><c> block</c><00:01:27.759><c> parameter</c>
+
+00:01:28.390 --> 00:01:28.400 align:start position:0%
+so let's name our block parameter
+ 
+
+00:01:28.400 --> 00:01:32.870 align:start position:0%
+so let's name our block parameter
+appropriately
+
+00:01:32.870 --> 00:01:32.880 align:start position:0%
+ 
+ 
+
+00:01:32.880 --> 00:01:38.830 align:start position:0%
+ 
+and<00:01:33.040><c> again</c><00:01:33.360><c> we'll</c><00:01:33.600><c> use</c><00:01:33.920><c> put</c><00:01:34.159><c> s</c><00:01:34.400><c> to</c><00:01:34.640><c> output</c><00:01:34.960><c> the</c>
+
+00:01:38.830 --> 00:01:38.840 align:start position:0%
+ 
+ 
+
+00:01:38.840 --> 00:01:43.670 align:start position:0%
+ 
+value
+
+00:01:43.670 --> 00:01:43.680 align:start position:0%
+ 
+ 
+
+00:01:43.680 --> 00:01:45.990 align:start position:0%
+ 
+now<00:01:44.000><c> lastly</c><00:01:44.799><c> we</c><00:01:44.960><c> want</c><00:01:45.119><c> to</c><00:01:45.280><c> write</c><00:01:45.520><c> a</c><00:01:45.600><c> program</c>
+
+00:01:45.990 --> 00:01:46.000 align:start position:0%
+now lastly we want to write a program
+ 
+
+00:01:46.000 --> 00:01:53.590 align:start position:0%
+now lastly we want to write a program
+that<00:01:46.240><c> prints</c><00:01:46.720><c> both</c><00:01:47.040><c> the</c><00:01:47.280><c> key</c><00:01:47.680><c> and</c><00:01:48.000><c> value</c>
+
+00:01:53.590 --> 00:01:53.600 align:start position:0%
+ 
+ 
+
+00:01:53.600 --> 00:01:55.990 align:start position:0%
+ 
+so<00:01:53.840><c> instead</c><00:01:54.240><c> of</c><00:01:54.399><c> calling</c><00:01:54.799><c> each</c><00:01:55.119><c> key</c><00:01:55.520><c> or</c><00:01:55.759><c> each</c>
+
+00:01:55.990 --> 00:01:56.000 align:start position:0%
+so instead of calling each key or each
+ 
+
+00:01:56.000 --> 00:01:56.630 align:start position:0%
+so instead of calling each key or each
+value
+
+00:01:56.630 --> 00:01:56.640 align:start position:0%
+value
+ 
+
+00:01:56.640 --> 00:02:00.230 align:start position:0%
+value
+we<00:01:56.799><c> can</c><00:01:57.040><c> simply</c><00:01:57.520><c> call</c><00:01:57.759><c> the</c><00:01:58.000><c> each</c><00:01:58.320><c> method</c>
+
+00:02:00.230 --> 00:02:00.240 align:start position:0%
+we can simply call the each method
+ 
+
+00:02:00.240 --> 00:02:02.630 align:start position:0%
+we can simply call the each method
+each<00:02:00.640><c> will</c><00:02:00.960><c> iterate</c><00:02:01.439><c> through</c><00:02:01.680><c> our</c><00:02:01.840><c> hash</c><00:02:02.399><c> and</c>
+
+00:02:02.630 --> 00:02:02.640 align:start position:0%
+each will iterate through our hash and
+ 
+
+00:02:02.640 --> 00:02:04.149 align:start position:0%
+each will iterate through our hash and
+pass<00:02:03.119><c> both</c><00:02:03.520><c> the</c><00:02:03.759><c> key</c>
+
+00:02:04.149 --> 00:02:04.159 align:start position:0%
+pass both the key
+ 
+
+00:02:04.159 --> 00:02:08.070 align:start position:0%
+pass both the key
+and<00:02:04.479><c> value</c><00:02:05.040><c> as</c><00:02:05.280><c> arguments</c><00:02:05.920><c> to</c><00:02:06.079><c> the</c><00:02:06.840><c> block</c>
+
+00:02:08.070 --> 00:02:08.080 align:start position:0%
+and value as arguments to the block
+ 
+
+00:02:08.080 --> 00:02:09.990 align:start position:0%
+and value as arguments to the block
+so<00:02:08.319><c> we'll</c><00:02:08.560><c> name</c><00:02:08.800><c> our</c><00:02:08.959><c> block</c><00:02:09.360><c> parameters</c>
+
+00:02:09.990 --> 00:02:10.000 align:start position:0%
+so we'll name our block parameters
+ 
+
+00:02:10.000 --> 00:02:11.990 align:start position:0%
+so we'll name our block parameters
+accordingly
+
+00:02:11.990 --> 00:02:12.000 align:start position:0%
+accordingly
+ 
+
+00:02:12.000 --> 00:02:14.309 align:start position:0%
+accordingly
+and<00:02:12.239><c> then</c><00:02:12.560><c> output</c><00:02:13.040><c> a</c><00:02:13.120><c> message</c><00:02:13.520><c> with</c><00:02:13.760><c> both</c><00:02:14.000><c> the</c>
+
+00:02:14.309 --> 00:02:14.319 align:start position:0%
+and then output a message with both the
+ 
+
+00:02:14.319 --> 00:02:18.710 align:start position:0%
+and then output a message with both the
+key<00:02:14.640><c> and</c><00:02:14.879><c> value</c>
+
+00:02:18.710 --> 00:02:18.720 align:start position:0%
+ 
+ 
+
+00:02:18.720 --> 00:02:26.790 align:start position:0%
+ 
+and<00:02:18.959><c> we'll</c><00:02:19.120><c> use</c><00:02:19.360><c> string</c><00:02:19.760><c> interpolation</c><00:02:20.840><c> here</c>
+
+00:02:26.790 --> 00:02:26.800 align:start position:0%
+ 
+ 
+
+00:02:26.800 --> 00:02:29.270 align:start position:0%
+ 
+now<00:02:26.959><c> when</c><00:02:27.120><c> we</c><00:02:27.280><c> run</c><00:02:27.520><c> our</c><00:02:27.680><c> code</c><00:02:28.080><c> we'll</c><00:02:28.400><c> see</c><00:02:29.120><c> our</c>
+
+00:02:29.270 --> 00:02:29.280 align:start position:0%
+now when we run our code we'll see our
+ 
+
+00:02:29.280 --> 00:02:31.430 align:start position:0%
+now when we run our code we'll see our
+display<00:02:29.760><c> message</c><00:02:30.319><c> which</c><00:02:30.560><c> will</c><00:02:30.800><c> include</c><00:02:31.200><c> both</c>
+
+00:02:31.430 --> 00:02:31.440 align:start position:0%
+display message which will include both
+ 
+
+00:02:31.440 --> 00:02:34.830 align:start position:0%
+display message which will include both
+the<00:02:31.599><c> key</c><00:02:32.000><c> and</c>
+
+00:02:34.830 --> 00:02:34.840 align:start position:0%
+ 
+ 
+
+00:02:34.840 --> 00:02:37.110 align:start position:0%
+ 
+value
+
+00:02:37.110 --> 00:02:37.120 align:start position:0%
+value
+ 
+
+00:02:37.120 --> 00:02:49.360 align:start position:0%
+value
+and<00:02:37.200><c> that's</c><00:02:37.440><c> what</c><00:02:37.599><c> we</c><00:02:46.360><c> see</c>
+

@@ -1,0 +1,141 @@
+0:00:04.000,0:00:07.759
+this exercise
+
+0:00:04.960,0:00:09.760
+asks us to get rid of 11 which is the
+
+0:00:07.759,0:00:13.120
+last element in our array
+
+0:00:09.760,0:00:13.120
+and append a 3.
+
+0:00:13.440,0:00:18.800
+so just to look at our current array
+
+0:00:16.720,0:00:20.000
+we'll run our code and we see our array
+
+0:00:18.800,0:00:23.119
+contains numbers
+
+0:00:20.000,0:00:23.119
+0 through 11.
+
+0:00:23.680,0:00:27.039
+i'm going to jump into irb to
+
+0:00:26.000,0:00:29.439
+demonstrate
+
+0:00:27.039,0:00:31.679
+a method we can use to remove the last
+
+0:00:29.439,0:00:34.160
+element of an array
+
+0:00:31.679,0:00:38.719
+so here in irb i'm going to just create
+
+0:00:34.160,0:00:38.719
+a small array of integers 1 2 and 3.
+
+0:00:39.680,0:00:46.160
+now if i invoke the array pop method
+
+0:00:42.719,0:00:48.399
+on this array it returns the last
+
+0:00:46.160,0:00:50.320
+element of the array
+
+0:00:48.399,0:00:53.840
+but that's not all it does it
+
+0:00:50.320,0:00:57.199
+destructively removes that last element
+
+0:00:53.840,0:00:58.320
+so now if i examine what our array is
+
+0:00:57.199,0:01:01.280
+currently
+
+0:00:58.320,0:01:03.199
+we see it contains only the elements 1
+
+0:01:01.280,0:01:04.960
+and 2.
+
+0:01:03.199,0:01:07.280
+our last element 3 was removed
+
+0:01:04.960,0:01:08.720
+destructively when we called pop on the
+
+0:01:07.280,0:01:10.960
+array
+
+0:01:08.720,0:01:13.040
+it is important to remember that pop
+
+0:01:10.960,0:01:16.560
+returns the removed element
+
+0:01:13.040,0:01:16.560
+rather than the array itself
+
+0:01:16.880,0:01:22.640
+so hopping back to our text editor
+
+0:01:19.920,0:01:24.560
+we can remove 11 from the end of our
+
+0:01:22.640,0:01:27.840
+array
+
+0:01:24.560,0:01:32.560
+by calling pop on the array
+
+0:01:27.840,0:01:32.560
+the next step here is to append a three
+
+0:01:33.520,0:01:38.240
+and again we can do that either using
+
+0:01:35.520,0:01:41.040
+the shovel operator to append
+
+0:01:38.240,0:01:42.990
+or using the array push method which
+
+0:01:41.040,0:01:46.150
+would look like this
+
+0:01:42.990,0:01:46.150
+[Music]
+
+0:01:46.159,0:01:49.520
+now let's run our code again printing
+
+0:01:48.320,0:01:51.360
+our array
+
+0:01:49.520,0:01:52.640
+and we expect to see that our array
+
+0:01:51.360,0:01:55.520
+contains integers
+
+0:01:52.640,0:01:57.680
+0 through ten and that the last element
+
+0:01:55.520,0:01:57.680
+is
+
+0:02:06.840,0:02:09.840
+three
+
+0:02:11.200,0:02:13.280
+you
+

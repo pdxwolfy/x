@@ -1,0 +1,129 @@
+0:00:04.400,0:00:08.559
+we've been asked
+
+0:00:05.359,0:00:11.920
+to append 11 to the end of our array
+
+0:00:08.559,0:00:14.320
+and prepend 0 to the beginning
+
+0:00:11.920,0:00:16.160
+so let's just begin with appending 11 to
+
+0:00:14.320,0:00:17.760
+the end of our array
+
+0:00:16.160,0:00:19.279
+now there's more than one way that we
+
+0:00:17.760,0:00:22.720
+could do this
+
+0:00:19.279,0:00:24.800
+one is by calling the push method
+
+0:00:22.720,0:00:25.920
+we simply need to pass in the value that
+
+0:00:24.800,0:00:30.080
+we want to append
+
+0:00:25.920,0:00:33.600
+onto our array on line five i'm going
+
+0:00:30.080,0:00:35.120
+to output our array with p
+
+0:00:33.600,0:00:37.920
+and you'll see that this method is
+
+0:00:35.120,0:00:37.920
+destructive
+
+0:00:39.760,0:00:45.840
+now we see 11 at the end of our array
+
+0:00:46.879,0:00:51.920
+another way to achieve this is to append
+
+0:00:49.840,0:00:55.440
+with what we call the shovel operator
+
+0:00:51.920,0:00:55.440
+however this is an array method
+
+0:00:57.280,0:01:02.719
+this is also a destructive method
+
+0:01:00.480,0:01:05.039
+and again i'll output the array on line
+
+0:01:02.719,0:01:05.039
+five
+
+0:01:05.360,0:01:09.040
+and we see the output is the same
+
+0:01:11.760,0:01:17.280
+so next we want to prepend 0 to the
+
+0:01:14.159,0:01:17.280
+beginning of our array
+
+0:01:17.600,0:01:21.439
+to prepend a value to the beginning of
+
+0:01:19.520,0:01:24.560
+an array we call the
+
+0:01:21.439,0:01:24.560
+unshift method
+
+0:01:25.200,0:01:28.799
+and similarly to when we used the push
+
+0:01:27.920,0:01:31.040
+method
+
+0:01:28.799,0:01:33.280
+we simply want to pass in the value that
+
+0:01:31.040,0:01:35.280
+we want to add to our array
+
+0:01:33.280,0:01:37.680
+however this unshift method is
+
+0:01:35.280,0:01:38.799
+prepending the value onto the front of
+
+0:01:37.680,0:01:41.360
+the array
+
+0:01:38.799,0:01:43.119
+whereas the push method was appending it
+
+0:01:41.360,0:01:45.759
+onto the end of the array
+
+0:01:43.119,0:01:48.079
+this method is also destructive so now
+
+0:01:45.759,0:01:51.200
+on line 7 when we output our array
+
+0:01:48.079,0:01:52.560
+we expect to see 0 as the first element
+
+0:01:51.200,0:01:56.399
+in our array
+
+0:01:52.560,0:01:56.399
+and 11 as the last element
+
+0:01:59.920,0:02:09.840
+and that's what we see
+
+0:02:12.000,0:02:14.080
+you
+

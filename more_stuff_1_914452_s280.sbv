@@ -1,0 +1,255 @@
+0:00:04.000,0:00:08.160
+this exercise
+
+0:00:05.120,0:00:09.360
+asks us to write a program that checks
+
+0:00:08.160,0:00:12.639
+if the sequence of
+
+0:00:09.360,0:00:15.040
+characters lab or lab
+
+0:00:12.639,0:00:17.359
+exists in the following strings and
+
+0:00:15.040,0:00:19.840
+we've been given five strings
+
+0:00:17.359,0:00:22.880
+if the sequence of characters does exist
+
+0:00:19.840,0:00:25.760
+we want to print the word out
+
+0:00:22.880,0:00:27.599
+we can accomplish this using regex and
+
+0:00:25.760,0:00:30.880
+to explore that a little bit
+
+0:00:27.599,0:00:34.480
+let's jump into irb so
+
+0:00:30.880,0:00:34.480
+the pattern we want to match
+
+0:00:34.640,0:00:42.239
+is the sequence of characters lab
+
+0:00:38.160,0:00:44.000
+and we can use the regex match operator
+
+0:00:42.239,0:00:47.680
+let's check this pattern against the
+
+0:00:44.000,0:00:50.000
+string laboratory first
+
+0:00:47.680,0:00:52.000
+now looking at the documentation for
+
+0:00:50.000,0:00:54.399
+this regex match operator
+
+0:00:52.000,0:00:55.360
+we can see that it will return either an
+
+0:00:54.399,0:00:58.640
+integer
+
+0:00:55.360,0:01:01.440
+or nil let's see what's returned when we
+
+0:00:58.640,0:01:01.440
+run this code
+
+0:01:02.399,0:01:08.320
+0 is returned 0 is the index at which
+
+0:01:06.400,0:01:13.360
+that match begins
+
+0:01:08.320,0:01:16.560
+if we instead check the string elaborate
+
+0:01:13.360,0:01:18.880
+we'll see a different integer returned
+
+0:01:16.560,0:01:21.280
+this time we see one because that
+
+0:01:18.880,0:01:22.560
+sequence of characters begins at index
+
+0:01:21.280,0:01:26.080
+one
+
+0:01:22.560,0:01:28.880
+now what happens if we check the string
+
+0:01:26.080,0:01:28.880
+experiment
+
+0:01:29.360,0:01:32.799
+you can see that we don't expect a match
+
+0:01:31.360,0:01:35.920
+here
+
+0:01:32.799,0:01:40.400
+and nil is returned so
+
+0:01:35.920,0:01:44.320
+let's hop into our code editor
+
+0:01:40.400,0:01:47.520
+we can write a method let's call it
+
+0:01:44.320,0:01:50.560
+check in and we'll pass in the word
+
+0:01:47.520,0:01:50.560
+that we want to check
+
+0:01:51.840,0:01:59.280
+and we know that we can use this regex
+
+0:01:55.680,0:02:01.520
+to check for a match in word as we saw
+
+0:01:59.280,0:02:02.320
+this code is going to return either an
+
+0:02:01.520,0:02:06.799
+integer
+
+0:02:02.320,0:02:08.959
+which is truthy or nil which is falsey
+
+0:02:06.799,0:02:11.759
+and because of this we can easily use an
+
+0:02:08.959,0:02:11.759
+if statement here
+
+0:02:14.640,0:02:20.000
+if there is a match our condition will
+
+0:02:18.319,0:02:22.400
+be truthy
+
+0:02:20.000,0:02:23.280
+and line three will be executed so in
+
+0:02:22.400,0:02:27.440
+that case
+
+0:02:23.280,0:02:31.920
+we want to output the word with put s
+
+0:02:27.440,0:02:31.920
+if there's no match and nil is returned
+
+0:02:32.959,0:02:37.200
+the else branch of our if statement will
+
+0:02:34.720,0:02:40.400
+be executed
+
+0:02:37.200,0:02:43.040
+in that case let's just output
+
+0:02:40.400,0:02:43.040
+no match
+
+0:02:44.560,0:02:47.680
+let's test this out
+
+0:02:47.920,0:02:51.840
+we'll invoke our check check-in method
+
+0:02:49.680,0:02:53.680
+with the string laboratory
+
+0:02:51.840,0:02:54.879
+and we expect that this will output the
+
+0:02:53.680,0:02:57.920
+string laboratory
+
+0:02:54.879,0:02:57.920
+because it is a match
+
+0:03:00.080,0:03:05.840
+and it does
+
+0:03:09.599,0:03:19.840
+now let's run our method with the other
+
+0:03:11.440,0:03:19.840
+four strings passed in as arguments
+
+0:03:36.000,0:03:40.159
+so when we run our code we see that
+
+0:03:38.000,0:03:42.640
+laboratory and elaborate
+
+0:03:40.159,0:03:44.959
+did contain the sequence of characters
+
+0:03:42.640,0:03:46.959
+so those strings were output
+
+0:03:44.959,0:03:48.799
+the other three strings did not contain
+
+0:03:46.959,0:03:52.640
+the sequence of characters
+
+0:03:48.799,0:03:52.640
+and so no match was output
+
+0:03:54.239,0:03:58.000
+now there's one interesting thing to
+
+0:03:55.920,0:04:01.280
+note here which is that
+
+0:03:58.000,0:04:03.599
+labyrinth did not produce a match to our
+
+0:04:01.280,0:04:06.319
+sequence of characters
+
+0:04:03.599,0:04:07.599
+and that's because the l in labyrinth is
+
+0:04:06.319,0:04:09.599
+uppercase
+
+0:04:07.599,0:04:11.519
+and our sequence of characters is
+
+0:04:09.599,0:04:15.280
+specifically looking for
+
+0:04:11.519,0:04:16.079
+a lowercase l for case insensitive
+
+0:04:15.280,0:04:20.799
+matches
+
+0:04:16.079,0:04:24.800
+we can use the i option with our regex
+
+0:04:20.799,0:04:24.800
+now when we run our code we'll see three
+
+0:04:26.840,0:04:42.720
+matches
+
+0:04:28.880,0:04:42.720
+and that's what we see
+

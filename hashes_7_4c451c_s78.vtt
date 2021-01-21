@@ -1,0 +1,208 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.319 --> 00:00:05.749 align:start position:0%
+ 
+this<00:00:04.640><c> exercise</c><00:00:05.359><c> has</c>
+
+00:00:05.749 --> 00:00:05.759 align:start position:0%
+this exercise has
+ 
+
+00:00:05.759 --> 00:00:07.909 align:start position:0%
+this exercise has
+asked<00:00:06.160><c> us</c><00:00:06.399><c> to</c><00:00:06.560><c> determine</c><00:00:07.200><c> the</c><00:00:07.440><c> difference</c>
+
+00:00:07.909 --> 00:00:07.919 align:start position:0%
+asked us to determine the difference
+ 
+
+00:00:07.919 --> 00:00:10.070 align:start position:0%
+asked us to determine the difference
+between<00:00:08.320><c> the</c><00:00:08.559><c> two</c><00:00:08.880><c> hashes</c><00:00:09.360><c> that</c><00:00:09.519><c> we</c><00:00:09.760><c> see</c><00:00:10.000><c> in</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+between the two hashes that we see in
+ 
+
+00:00:10.080 --> 00:00:11.509 align:start position:0%
+between the two hashes that we see in
+this<00:00:10.400><c> code</c>
+
+00:00:11.509 --> 00:00:11.519 align:start position:0%
+this code
+ 
+
+00:00:11.519 --> 00:00:14.709 align:start position:0%
+this code
+my<00:00:11.840><c> hash</c><00:00:12.240><c> is</c><00:00:12.400><c> initialized</c><00:00:13.120><c> on</c><00:00:13.360><c> line</c><00:00:13.679><c> two</c>
+
+00:00:14.709 --> 00:00:14.719 align:start position:0%
+my hash is initialized on line two
+ 
+
+00:00:14.719 --> 00:00:16.550 align:start position:0%
+my hash is initialized on line two
+and<00:00:15.040><c> you</c><00:00:15.200><c> can</c><00:00:15.360><c> see</c><00:00:15.519><c> that</c><00:00:15.599><c> there's</c><00:00:15.920><c> a</c><00:00:16.080><c> colon</c>
+
+00:00:16.550 --> 00:00:16.560 align:start position:0%
+and you can see that there's a colon
+ 
+
+00:00:16.560 --> 00:00:18.710 align:start position:0%
+and you can see that there's a colon
+after<00:00:16.880><c> the</c><00:00:17.119><c> x</c>
+
+00:00:18.710 --> 00:00:18.720 align:start position:0%
+after the x
+ 
+
+00:00:18.720 --> 00:00:22.230 align:start position:0%
+after the x
+the<00:00:18.880><c> key</c><00:00:19.279><c> in</c><00:00:19.359><c> this</c><00:00:19.680><c> hash</c><00:00:20.160><c> is</c><00:00:20.320><c> a</c><00:00:20.560><c> symbol</c><00:00:21.680><c> on</c><00:00:21.840><c> line</c>
+
+00:00:22.230 --> 00:00:22.240 align:start position:0%
+the key in this hash is a symbol on line
+ 
+
+00:00:22.240 --> 00:00:22.790 align:start position:0%
+the key in this hash is a symbol on line
+3
+
+00:00:22.790 --> 00:00:22.800 align:start position:0%
+3
+ 
+
+00:00:22.800 --> 00:00:26.150 align:start position:0%
+3
+we<00:00:23.039><c> also</c><00:00:23.439><c> see</c><00:00:23.600><c> an</c><00:00:23.840><c> x</c><00:00:24.960><c> but</c><00:00:25.199><c> in</c><00:00:25.279><c> this</c><00:00:25.519><c> case</c>
+
+00:00:26.150 --> 00:00:26.160 align:start position:0%
+we also see an x but in this case
+ 
+
+00:00:26.160 --> 00:00:29.429 align:start position:0%
+we also see an x but in this case
+x<00:00:26.400><c> is</c><00:00:26.480><c> not</c><00:00:26.720><c> a</c><00:00:26.880><c> symbol</c><00:00:27.920><c> x</c><00:00:28.400><c> is</c><00:00:28.640><c> the</c><00:00:29.039><c> local</c>
+
+00:00:29.429 --> 00:00:29.439 align:start position:0%
+x is not a symbol x is the local
+ 
+
+00:00:29.439 --> 00:00:32.389 align:start position:0%
+x is not a symbol x is the local
+variable<00:00:29.920><c> that</c><00:00:30.080><c> we</c><00:00:30.320><c> initialized</c><00:00:31.119><c> on</c><00:00:31.279><c> line</c><00:00:31.599><c> 1.</c>
+
+00:00:32.389 --> 00:00:32.399 align:start position:0%
+variable that we initialized on line 1.
+ 
+
+00:00:32.399 --> 00:00:34.630 align:start position:0%
+variable that we initialized on line 1.
+this<00:00:32.640><c> variable</c><00:00:33.200><c> references</c><00:00:33.760><c> the</c><00:00:33.920><c> string</c><00:00:34.399><c> hi</c>
+
+00:00:34.630 --> 00:00:34.640 align:start position:0%
+this variable references the string hi
+ 
+
+00:00:34.640 --> 00:00:35.750 align:start position:0%
+this variable references the string hi
+there
+
+00:00:35.750 --> 00:00:35.760 align:start position:0%
+there
+ 
+
+00:00:35.760 --> 00:00:38.869 align:start position:0%
+there
+now<00:00:36.079><c> to</c><00:00:36.320><c> see</c><00:00:36.480><c> the</c><00:00:36.719><c> difference</c><00:00:38.160><c> let's</c><00:00:38.559><c> print</c>
+
+00:00:38.869 --> 00:00:38.879 align:start position:0%
+now to see the difference let's print
+ 
+
+00:00:38.879 --> 00:00:50.150 align:start position:0%
+now to see the difference let's print
+both<00:00:39.120><c> of</c><00:00:39.280><c> these</c><00:00:42.840><c> hashes</c>
+
+00:00:50.150 --> 00:00:50.160 align:start position:0%
+ 
+ 
+
+00:00:50.160 --> 00:00:52.790 align:start position:0%
+ 
+when<00:00:50.320><c> we</c><00:00:50.480><c> print</c><00:00:50.719><c> these</c><00:00:51.039><c> two</c><00:00:51.280><c> hashes</c><00:00:51.760><c> with</c><00:00:52.079><c> p</c><00:00:52.640><c> we</c>
+
+00:00:52.790 --> 00:00:52.800 align:start position:0%
+when we print these two hashes with p we
+ 
+
+00:00:52.800 --> 00:00:54.790 align:start position:0%
+when we print these two hashes with p we
+can<00:00:52.960><c> see</c><00:00:53.199><c> the</c><00:00:53.360><c> symbol</c><00:00:53.840><c> that</c><00:00:54.079><c> is</c><00:00:54.239><c> the</c><00:00:54.399><c> key</c><00:00:54.640><c> of</c>
+
+00:00:54.790 --> 00:00:54.800 align:start position:0%
+can see the symbol that is the key of
+ 
+
+00:00:54.800 --> 00:00:56.150 align:start position:0%
+can see the symbol that is the key of
+the<00:00:54.960><c> first</c><00:00:55.280><c> hash</c>
+
+00:00:56.150 --> 00:00:56.160 align:start position:0%
+the first hash
+ 
+
+00:00:56.160 --> 00:00:58.389 align:start position:0%
+the first hash
+and<00:00:56.399><c> in</c><00:00:56.480><c> the</c><00:00:56.640><c> second</c><00:00:56.960><c> hash</c><00:00:57.440><c> we</c><00:00:57.600><c> see</c><00:00:57.760><c> the</c><00:00:57.920><c> string</c>
+
+00:00:58.389 --> 00:00:58.399 align:start position:0%
+and in the second hash we see the string
+ 
+
+00:00:58.399 --> 00:00:59.349 align:start position:0%
+and in the second hash we see the string
+high<00:00:58.640><c> there</c>
+
+00:00:59.349 --> 00:00:59.359 align:start position:0%
+high there
+ 
+
+00:00:59.359 --> 00:01:02.549 align:start position:0%
+high there
+as<00:00:59.520><c> the</c><00:00:59.760><c> key</c><00:01:01.039><c> and</c><00:01:01.280><c> again</c><00:01:01.760><c> this</c><00:01:02.000><c> is</c><00:01:02.160><c> because</c>
+
+00:01:02.549 --> 00:01:02.559 align:start position:0%
+as the key and again this is because
+ 
+
+00:01:02.559 --> 00:01:04.789 align:start position:0%
+as the key and again this is because
+when<00:01:02.719><c> we</c><00:01:02.960><c> initialized</c><00:01:03.760><c> the</c><00:01:03.920><c> second</c><00:01:04.320><c> hash</c>
+
+00:01:04.789 --> 00:01:04.799 align:start position:0%
+when we initialized the second hash
+ 
+
+00:01:04.799 --> 00:01:07.990 align:start position:0%
+when we initialized the second hash
+on<00:01:05.040><c> line</c><00:01:05.360><c> three</c><00:01:06.240><c> we</c><00:01:06.479><c> use</c><00:01:06.720><c> the</c><00:01:06.880><c> local</c><00:01:07.280><c> variable</c>
+
+00:01:07.990 --> 00:01:08.000 align:start position:0%
+on line three we use the local variable
+ 
+
+00:01:08.000 --> 00:01:10.950 align:start position:0%
+on line three we use the local variable
+x<00:01:08.479><c> as</c><00:01:08.720><c> the</c><00:01:08.960><c> key</c><00:01:09.520><c> which</c><00:01:09.760><c> references</c><00:01:10.400><c> the</c><00:01:10.560><c> string</c>
+
+00:01:10.950 --> 00:01:10.960 align:start position:0%
+x as the key which references the string
+ 
+
+00:01:10.960 --> 00:01:13.840 align:start position:0%
+x as the key which references the string
+hi<00:01:11.200><c> there</c>
+

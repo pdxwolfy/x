@@ -1,0 +1,132 @@
+0:00:04.160,0:00:08.080
+we need to
+
+0:00:05.040,0:00:10.480
+add some more code to our name.rb
+
+0:00:08.080,0:00:12.799
+file that will print the name of the
+
+0:00:10.480,0:00:17.920
+user 10 times
+
+0:00:12.799,0:00:21.199
+let's run our name.rb file as it is
+
+0:00:17.920,0:00:23.199
+we're prompted for our name
+
+0:00:21.199,0:00:25.840
+i'll input bob and then the program
+
+0:00:23.199,0:00:25.840
+greets me
+
+0:00:26.480,0:00:30.400
+going back to our name.rb file we want
+
+0:00:29.840,0:00:33.440
+to
+
+0:00:30.400,0:00:34.559
+output the value referenced by the local
+
+0:00:33.440,0:00:38.160
+variable name
+
+0:00:34.559,0:00:41.760
+10 times and to output the name
+
+0:00:38.160,0:00:44.800
+we could simply invoke the put s method
+
+0:00:41.760,0:00:46.879
+and pass the name variable to it now
+
+0:00:44.800,0:00:48.480
+in this case we want to print the name
+
+0:00:46.879,0:00:51.039
+10 times
+
+0:00:48.480,0:00:51.680
+but we don't want to write the same line
+
+0:00:51.039,0:00:55.039
+of code
+
+0:00:51.680,0:00:57.039
+10 times in our file so we need to
+
+0:00:55.039,0:00:58.399
+figure out how to execute the code
+
+0:00:57.039,0:01:02.239
+written on line 5
+
+0:00:58.399,0:01:05.199
+10 times but only write it once
+
+0:01:02.239,0:01:07.600
+to do that we can use the integer times
+
+0:01:05.199,0:01:07.600
+method
+
+0:01:09.439,0:01:16.720
+we invoke the times method on an integer
+
+0:01:13.439,0:01:16.720
+in this case 10
+
+0:01:17.360,0:01:22.560
+and we pass it a block
+
+0:01:20.640,0:01:24.400
+and in our block we'll put the code that
+
+0:01:22.560,0:01:27.119
+we want to execute
+
+0:01:24.400,0:01:27.920
+when this code runs ruby will iterate
+
+0:01:27.119,0:01:30.960
+through the block
+
+0:01:27.920,0:01:31.840
+10 times this means that the code on
+
+0:01:30.960,0:01:34.079
+line 8
+
+0:01:31.840,0:01:35.920
+where we print the user's name will be
+
+0:01:34.079,0:01:38.640
+executed 10 times
+
+0:01:35.920,0:01:40.000
+even though we've only written it once
+
+0:01:38.640,0:01:42.240
+so let's run our code to see
+
+0:01:40.000,0:01:42.240
+this
+
+0:01:43.680,0:01:50.479
+i'll input bob as the user's name
+
+0:01:48.000,0:01:52.640
+the program greets us and then outputs
+
+0:01:50.479,0:01:55.840
+bob 10 times
+
+0:01:52.640,0:01:55.840
+and that's the behavior we were
+
+0:02:04.200,0:02:07.200
+expecting
+

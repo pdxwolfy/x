@@ -1,0 +1,66 @@
+0:00:04.400,0:00:08.240
+we need to
+
+0:00:05.359,0:00:09.040
+modify this code so that the block we
+
+0:00:08.240,0:00:12.559
+see on line
+
+0:00:09.040,0:00:13.519
+5 is executed and we see the expected
+
+0:00:12.559,0:00:16.880
+output
+
+0:00:13.519,0:00:19.520
+hello from inside the execute method so
+
+0:00:16.880,0:00:20.000
+again at this point we are returning a
+
+0:00:19.520,0:00:23.199
+proc
+
+0:00:20.000,0:00:26.480
+object from the execute method however
+
+0:00:23.199,0:00:28.800
+we're not using it in order to
+
+0:00:26.480,0:00:30.720
+execute the code inside of the block
+
+0:00:28.800,0:00:33.680
+that we see on line five
+
+0:00:30.720,0:00:34.399
+we need to invoke the call method on
+
+0:00:33.680,0:00:37.520
+this proc
+
+0:00:34.399,0:00:40.000
+object on line two
+
+0:00:37.520,0:00:41.840
+doing so will ensure that the block on
+
+0:00:40.000,0:00:44.559
+line five is executed
+
+0:00:41.840,0:00:47.760
+and we see the expected output so let's
+
+0:00:44.559,0:00:47.760
+run our code and see that
+
+0:00:50.320,0:00:59.840
+now we see the expected output and we
+
+0:00:53.440,0:00:59.840
+know that our block has been executed
+
+0:01:02.399,0:01:04.480
+you
+

@@ -1,0 +1,159 @@
+0:00:03.679,0:00:06.720
+we need to
+
+0:00:04.400,0:00:07.520
+get rid of duplicate elements in our
+
+0:00:06.720,0:00:09.920
+array
+
+0:00:07.520,0:00:11.280
+without specifically removing any one
+
+0:00:09.920,0:00:13.440
+value
+
+0:00:11.280,0:00:15.599
+so looking at what our array is
+
+0:00:13.440,0:00:17.680
+currently you can see that we have one
+
+0:00:15.599,0:00:20.320
+duplicate value which is three
+
+0:00:17.680,0:00:22.880
+we have a three at index three and at
+
+0:00:20.320,0:00:24.480
+the end of our array at index 11.
+
+0:00:22.880,0:00:26.880
+so this is a good time to look at the
+
+0:00:24.480,0:00:29.279
+documentation and see if there are any
+
+0:00:26.880,0:00:33.359
+useful methods
+
+0:00:29.279,0:00:33.359
+you may notice the unique method
+
+0:00:34.559,0:00:39.520
+now i'm going to output the return value
+
+0:00:36.960,0:00:41.920
+of invoking unique on our array
+
+0:00:39.520,0:00:45.840
+and then on line 10 i'll also just print
+
+0:00:41.920,0:00:45.840
+the array
+
+0:00:47.039,0:00:51.280
+and you may notice that these are two
+
+0:00:48.879,0:00:53.280
+different arrays the return value of
+
+0:00:51.280,0:00:55.840
+invoking unique on an array
+
+0:00:53.280,0:00:59.520
+is a new array you can see that that
+
+0:00:55.840,0:01:02.160
+duplicate 3 is not in this new array
+
+0:00:59.520,0:01:03.039
+however it did not mutate our original
+
+0:01:02.160,0:01:04.879
+array
+
+0:01:03.039,0:01:07.280
+as you can see in the second line of
+
+0:01:04.879,0:01:07.280
+output
+
+0:01:08.560,0:01:13.840
+if we want to destructively modify our
+
+0:01:11.040,0:01:13.840
+original array
+
+0:01:14.320,0:01:19.119
+we can use the destructive unique method
+
+0:01:17.040,0:01:21.759
+which has a bang at the end
+
+0:01:19.119,0:01:24.840
+now these are two different methods
+
+0:01:21.759,0:01:26.080
+you'll see that in the ruby
+
+0:01:24.840,0:01:28.080
+documentation
+
+0:01:26.080,0:01:29.119
+now when we invoke the unique with a
+
+0:01:28.080,0:01:32.159
+bang on line
+
+0:01:29.119,0:01:33.600
+9 on our array and output the array on
+
+0:01:32.159,0:01:35.920
+line 10
+
+0:01:33.600,0:01:38.840
+we expect to see no duplicates because
+
+0:01:35.920,0:01:41.840
+this method destructively modified our
+
+0:01:38.840,0:01:41.840
+array
+
+0:01:42.159,0:01:47.520
+so here's our original array with the
+
+0:01:44.479,0:01:47.520
+duplicates removed
+
+0:01:50.560,0:01:54.320
+if you're unsure about whether a method
+
+0:01:52.720,0:01:56.000
+is destructive or not
+
+0:01:54.320,0:01:58.960
+be sure to read the documentation
+
+0:01:56.000,0:02:01.680
+carefully remember that these methods
+
+0:01:58.960,0:02:02.640
+unique and unique with a bang are two
+
+0:02:01.680,0:02:05.119
+different methods
+
+0:02:02.640,0:02:07.439
+as you'll see in the documentation you
+
+0:02:05.119,0:02:08.000
+can't simply make any method destructive
+
+0:02:07.439,0:02:16.879
+by adding
+
+0:02:08.000,0:02:16.879
+a bang at the end
+

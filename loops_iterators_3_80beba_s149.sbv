@@ -1,0 +1,177 @@
+0:00:04.640,0:00:09.200
+this problem asks us to
+
+0:00:06.319,0:00:09.840
+iterate through an array and print each
+
+0:00:09.200,0:00:12.160
+index
+
+0:00:09.840,0:00:12.960
+and value in that array and we're going
+
+0:00:12.160,0:00:15.280
+to use the
+
+0:00:12.960,0:00:16.640
+each with index method to accomplish
+
+0:00:15.280,0:00:18.560
+this
+
+0:00:16.640,0:00:19.680
+so we've already got an array here
+
+0:00:18.560,0:00:22.720
+called top 5
+
+0:00:19.680,0:00:24.720
+games and this is the array that we're
+
+0:00:22.720,0:00:27.439
+going to invoke the each with index
+
+0:00:24.720,0:00:27.439
+method on
+
+0:00:29.359,0:00:34.719
+now when you call each on an array
+
+0:00:32.399,0:00:38.000
+each element of that array is going to
+
+0:00:34.719,0:00:40.719
+be passed as an argument to the block
+
+0:00:38.000,0:00:41.680
+when using each with index both the
+
+0:00:40.719,0:00:43.520
+element
+
+0:00:41.680,0:00:45.520
+and its index will be passed to the
+
+0:00:43.520,0:00:47.440
+block
+
+0:00:45.520,0:00:49.760
+so we'll define these block parameters
+
+0:00:47.440,0:00:52.399
+with appropriate names
+
+0:00:49.760,0:00:54.320
+first the element itself will be passed
+
+0:00:52.399,0:00:55.520
+and this second argument will be the
+
+0:00:54.320,0:00:59.840
+index
+
+0:00:55.520,0:00:59.840
+so we'll name that parameter accordingly
+
+0:01:00.000,0:01:03.120
+now within our block we know we want to
+
+0:01:01.920,0:01:06.720
+output both the
+
+0:01:03.120,0:01:07.520
+element and the index so we'll invoke
+
+0:01:06.720,0:01:11.280
+put us
+
+0:01:07.520,0:01:14.560
+and use string interpolation here
+
+0:01:11.280,0:01:15.040
+let's number our list of games so first
+
+0:01:14.560,0:01:18.240
+we'll
+
+0:01:15.040,0:01:21.600
+output the index
+
+0:01:18.240,0:01:21.600
+and then the game
+
+0:01:22.000,0:01:27.840
+now let's run our code and take a look
+
+0:01:23.680,0:01:27.840
+at our output
+
+0:01:29.280,0:01:32.720
+so this looks pretty good we've got our
+
+0:01:31.280,0:01:35.680
+five games listed
+
+0:01:32.720,0:01:36.960
+and each index is listed as well but our
+
+0:01:35.680,0:01:41.520
+output looks a little bit
+
+0:01:36.960,0:01:44.799
+odd here we number our games from 0 to 4
+
+0:01:41.520,0:01:45.600
+rather than from 1 to 5. of course
+
+0:01:44.799,0:01:48.720
+that's because
+
+0:01:45.600,0:01:52.240
+array indexes are 0 based so
+
+0:01:48.720,0:01:54.479
+the index of the first element will be 0
+
+0:01:52.240,0:01:55.520
+and the index of the last element will
+
+0:01:54.479,0:01:57.920
+be one less
+
+0:01:55.520,0:01:59.520
+than the size of that array in this case
+
+0:01:57.920,0:02:01.600
+four
+
+0:01:59.520,0:02:04.240
+since this looks a little bit odd let's
+
+0:02:01.600,0:02:06.240
+go back to our code
+
+0:02:04.240,0:02:08.800
+instead of numbering our games just by
+
+0:02:06.240,0:02:11.840
+the index
+
+0:02:08.800,0:02:13.680
+let's add one to that index and now
+
+0:02:11.840,0:02:16.879
+we'll expect that the output will be
+
+0:02:13.680,0:02:16.879
+numbered one to five
+
+0:02:17.040,0:02:23.840
+running our code again that's what we
+
+0:02:20.840,0:02:23.840
+see
+
+0:02:28.959,0:02:31.040
+you
+

@@ -1,0 +1,93 @@
+0:00:03.760,0:00:09.760
+we're asked to use the array each method
+
+0:00:07.120,0:00:11.360
+to iterate over an array of integers
+
+0:00:09.760,0:00:14.719
+from 1 to 10
+
+0:00:11.360,0:00:17.920
+and print each value so let's just
+
+0:00:14.719,0:00:17.920
+initialize an array here
+
+0:00:23.519,0:00:27.680
+so on line one we have an array of
+
+0:00:25.519,0:00:29.920
+integers one to ten
+
+0:00:27.680,0:00:33.199
+and now we want to invoke the array each
+
+0:00:29.920,0:00:33.199
+method on this array
+
+0:00:34.480,0:00:38.640
+we know that each element of this array
+
+0:00:36.960,0:00:41.840
+is going to be passed as an
+
+0:00:38.640,0:00:43.280
+argument to the block so let's call that
+
+0:00:41.840,0:00:45.840
+block parameter
+
+0:00:43.280,0:00:45.840
+number
+
+0:00:46.559,0:00:50.079
+now within the block we simply need to
+
+0:00:49.440,0:00:52.719
+output
+
+0:00:50.079,0:00:55.680
+each value and we can do that by
+
+0:00:52.719,0:00:55.680
+invoking put us
+
+0:00:56.480,0:01:00.480
+now when we run our code we expect to
+
+0:00:58.640,0:01:04.559
+see each number from 1
+
+0:01:00.480,0:01:04.559
+through 10 output on its own line
+
+0:01:07.200,0:01:14.000
+and that's what we see
+
+0:01:12.080,0:01:16.080
+now because the code within our block
+
+0:01:14.000,0:01:20.000
+here is so short we can actually
+
+0:01:16.080,0:01:20.000
+write our block on only one line
+
+0:01:24.799,0:01:30.720
+here rather than using do and end
+
+0:01:28.320,0:01:33.280
+to start and end our block we use curly
+
+0:01:30.720,0:01:33.280
+braces
+
+0:01:33.360,0:01:38.000
+this code is still pretty easy to read
+
+0:01:35.920,0:01:41.840
+and when we run it
+
+0:01:38.000,0:01:41.840
+we see the same output
+

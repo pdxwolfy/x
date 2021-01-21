@@ -1,0 +1,189 @@
+0:00:05.120,0:00:09.519
+we've been asked
+
+0:00:06.240,0:00:12.480
+to edit the given code so that it does
+
+0:00:09.519,0:00:13.599
+print the method parameter words to the
+
+0:00:12.480,0:00:15.599
+screen
+
+0:00:13.599,0:00:17.920
+the reason that our method doesn't
+
+0:00:15.599,0:00:20.480
+currently print anything to the screen
+
+0:00:17.920,0:00:23.680
+is because we return from the method
+
+0:00:20.480,0:00:27.119
+prior to executing the code on line 4
+
+0:00:23.680,0:00:29.279
+where we pass words to the method put us
+
+0:00:27.119,0:00:30.240
+so to make sure that we execute the code
+
+0:00:29.279,0:00:32.719
+on that line
+
+0:00:30.240,0:00:35.680
+we can remove the reserved word return
+
+0:00:32.719,0:00:35.680
+from line three
+
+0:00:36.480,0:00:40.320
+after doing so when our method is
+
+0:00:38.559,0:00:42.960
+invoked both lines two
+
+0:00:40.320,0:00:44.000
+and three will be executed and words
+
+0:00:42.960,0:00:46.320
+will be output to the
+
+0:00:44.000,0:00:46.320
+screen
+
+0:00:48.000,0:00:51.680
+we can run our code to see this
+
+0:00:52.559,0:00:58.000
+and there's the string as expected
+
+0:00:55.680,0:01:00.239
+the second part of this problem asks us
+
+0:00:58.000,0:01:03.600
+what are method returns
+
+0:01:00.239,0:01:04.559
+previously when we had a return on line
+
+0:01:03.600,0:01:07.280
+3
+
+0:01:04.559,0:01:11.119
+our method returned nil and we can see
+
+0:01:07.280,0:01:15.439
+that when we leave the return on line 3
+
+0:01:11.119,0:01:19.280
+and use p to print the return value
+
+0:01:15.439,0:01:19.280
+of invoking our screen method
+
+0:01:20.880,0:01:27.840
+now when we run our code we see that the
+
+0:01:23.280,0:01:27.840
+return value of the method is nil
+
+0:01:28.720,0:01:33.040
+if we were to place some additional code
+
+0:01:30.960,0:01:35.600
+on line 3
+
+0:01:33.040,0:01:37.280
+ruby would return the evaluated result
+
+0:01:35.600,0:01:40.079
+of that expression
+
+0:01:37.280,0:01:41.759
+for example if we want to return words
+
+0:01:40.079,0:01:45.280
+explicitly
+
+0:01:41.759,0:01:46.240
+we can do so on line three now when we
+
+0:01:45.280,0:01:51.280
+run our code
+
+0:01:46.240,0:01:51.280
+and use p to output the return value
+
+0:01:52.479,0:01:58.240
+we see that the string referenced by
+
+0:01:54.720,0:01:58.240
+words is returned
+
+0:01:59.040,0:02:03.600
+so the problem asks us now that we have
+
+0:02:01.280,0:02:04.479
+removed the explicit return from our
+
+0:02:03.600,0:02:06.159
+method
+
+0:02:04.479,0:02:07.840
+what will the return value of this
+
+0:02:06.159,0:02:10.879
+method be
+
+0:02:07.840,0:02:13.599
+without an explicit return in our method
+
+0:02:10.879,0:02:14.640
+the return value will be the evaluated
+
+0:02:13.599,0:02:18.160
+result
+
+0:02:14.640,0:02:20.560
+of the last line executed in this case
+
+0:02:18.160,0:02:21.360
+the last line executed in our method
+
+0:02:20.560,0:02:24.560
+will be line
+
+0:02:21.360,0:02:25.200
+three on line three we invoked the put s
+
+0:02:24.560,0:02:28.400
+method
+
+0:02:25.200,0:02:29.280
+which always returns nil so one last
+
+0:02:28.400,0:02:31.920
+time we will
+
+0:02:29.280,0:02:34.000
+invoke our screen method and output its
+
+0:02:31.920,0:02:37.680
+return value with p
+
+0:02:34.000,0:02:40.400
+we expect to see the words string output
+
+0:02:37.680,0:02:43.440
+and then nil when we output the return
+
+0:02:40.400,0:02:43.440
+value of this method
+
+0:02:46.319,0:02:51.840
+and that's what we see
+
+0:02:55.040,0:02:57.120
+you
+

@@ -1,0 +1,156 @@
+0:00:04.000,0:00:07.440
+we need to determine what this program
+
+0:00:05.839,0:00:09.280
+will output
+
+0:00:07.440,0:00:11.120
+and you can see that we're comparing the
+
+0:00:09.280,0:00:14.480
+equality of hash one
+
+0:00:11.120,0:00:15.120
+and hash two if they are equal we'll
+
+0:00:14.480,0:00:17.760
+output
+
+0:00:15.120,0:00:19.680
+these hashes are the same otherwise
+
+0:00:17.760,0:00:22.320
+we're going to output these hashes are
+
+0:00:19.680,0:00:24.640
+not the same
+
+0:00:22.320,0:00:25.439
+so taking a closer look at hash one and
+
+0:00:24.640,0:00:27.680
+hash two
+
+0:00:25.439,0:00:30.080
+on lines one and two you can see that
+
+0:00:27.680,0:00:33.600
+although our key value pairs are
+
+0:00:30.080,0:00:35.760
+in different orders we do have the same
+
+0:00:33.600,0:00:37.760
+key value pairs in each hash
+
+0:00:35.760,0:00:39.280
+now they do use a slightly different
+
+0:00:37.760,0:00:43.360
+syntax in places
+
+0:00:39.280,0:00:46.960
+to associate a key with a value
+
+0:00:43.360,0:00:49.200
+for example in hash one we have the key
+
+0:00:46.960,0:00:50.079
+shoes which is a symbol associated with
+
+0:00:49.200,0:00:53.360
+the string
+
+0:00:50.079,0:00:55.120
+nike and this key value pair is written
+
+0:00:53.360,0:00:58.719
+in this new syntax
+
+0:00:55.120,0:01:01.440
+in hash two on line 2 we also have
+
+0:00:58.719,0:01:02.480
+the symbol shoes as a key associated
+
+0:01:01.440,0:01:06.159
+with the string
+
+0:01:02.480,0:01:08.400
+nike as the value however this key value
+
+0:01:06.159,0:01:10.640
+pair uses the older syntax with a hash
+
+0:01:08.400,0:01:12.560
+rocket
+
+0:01:10.640,0:01:14.560
+so the question is whether or not these
+
+0:01:12.560,0:01:18.479
+two hashes are going to
+
+0:01:14.560,0:01:18.479
+be equal let's run our code
+
+0:01:19.759,0:01:24.799
+and they are in ruby we aren't relying
+
+0:01:22.640,0:01:27.439
+on the order of hashes
+
+0:01:24.799,0:01:28.880
+because we retrieve values based on the
+
+0:01:27.439,0:01:32.159
+key
+
+0:01:28.880,0:01:35.119
+now with arrays let's hop into irb
+
+0:01:32.159,0:01:37.200
+we are relying on the order or index of
+
+0:01:35.119,0:01:40.960
+each element
+
+0:01:37.200,0:01:42.799
+so i'm going to create a three element
+
+0:01:40.960,0:01:46.320
+array
+
+0:01:42.799,0:01:48.880
+with elements one two and three
+
+0:01:46.320,0:01:50.320
+and another array with the same elements
+
+0:01:48.880,0:01:52.079
+in a different order
+
+0:01:50.320,0:01:55.040
+and when we compare their equality you
+
+0:01:52.079,0:01:59.040
+can see that it returns false
+
+0:01:55.040,0:02:01.119
+with arrays order always matters
+
+0:01:59.040,0:02:03.680
+however as you can see in the program
+
+0:02:01.119,0:02:06.560
+that we just ran
+
+0:02:03.680,0:02:08.319
+these two hashes are equal despite the
+
+0:02:06.560,0:02:17.760
+fact that we've written their key value
+
+0:02:08.319,0:02:17.760
+pairs in a different order
+

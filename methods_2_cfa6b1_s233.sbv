@@ -1,0 +1,243 @@
+0:00:04.400,0:00:08.960
+this problem has given us
+
+0:00:06.399,0:00:10.240
+five lines of code and we need to
+
+0:00:08.960,0:00:14.639
+determine
+
+0:00:10.240,0:00:14.639
+what each line of code will evaluate to
+
+0:00:14.799,0:00:18.480
+first on line 1 we have variable
+
+0:00:17.359,0:00:21.199
+assignment
+
+0:00:18.480,0:00:23.439
+the variable x is being assigned to the
+
+0:00:21.199,0:00:25.680
+integer 2.
+
+0:00:23.439,0:00:27.680
+variable assignment is going to return
+
+0:00:25.680,0:00:29.920
+the value that is assigned
+
+0:00:27.680,0:00:33.039
+so in this case we expect the return
+
+0:00:29.920,0:00:33.039
+value to be 2.
+
+0:00:33.760,0:00:37.040
+let's hop into irb
+
+0:00:37.440,0:00:40.960
+and we can see this in action so we'll
+
+0:00:39.440,0:00:44.239
+assign a variable
+
+0:00:40.960,0:00:47.520
+x to the integer 2
+
+0:00:44.239,0:00:49.920
+irb shows us that this evaluates to
+
+0:00:47.520,0:00:49.920
+2.
+
+0:00:52.160,0:00:57.520
+moving on to the code on line 3
+
+0:00:55.199,0:00:58.800
+in this line of code we're assigning the
+
+0:00:57.520,0:01:01.760
+variable x to
+
+0:00:58.800,0:01:02.879
+2 but we're also invoking the puts
+
+0:01:01.760,0:01:06.000
+method
+
+0:01:02.879,0:01:08.560
+the put s method will output the return
+
+0:01:06.000,0:01:09.200
+value of this assignment so it will
+
+0:01:08.560,0:01:12.159
+output
+
+0:01:09.200,0:01:12.880
+2 however the put s method always
+
+0:01:12.159,0:01:16.000
+returns
+
+0:01:12.880,0:01:19.680
+nil so this expression on line three
+
+0:01:16.000,0:01:22.240
+will evaluate to nil let's hop back to
+
+0:01:19.680,0:01:22.240
+irb
+
+0:01:25.680,0:01:30.799
+we invoke put us and we pass in that
+
+0:01:28.240,0:01:30.799
+assignment
+
+0:01:31.520,0:01:36.799
+we can see that it output 2 and returned
+
+0:01:38.840,0:01:43.439
+nil
+
+0:01:40.240,0:01:45.600
+moving on to our code on line 5 again we
+
+0:01:43.439,0:01:47.840
+see variable assignment
+
+0:01:45.600,0:01:49.439
+we are assigning the variable name to
+
+0:01:47.840,0:01:51.200
+the string joe
+
+0:01:49.439,0:01:52.640
+and we're going to output the return
+
+0:01:51.200,0:01:54.640
+value of that assignment
+
+0:01:52.640,0:01:55.840
+similarly to what we saw in our last
+
+0:01:54.640,0:01:58.560
+code example
+
+0:01:55.840,0:01:59.600
+however this time we're using the method
+
+0:01:58.560,0:02:02.159
+p
+
+0:01:59.600,0:02:04.880
+this method will output its argument and
+
+0:02:02.159,0:02:07.200
+then return its argument
+
+0:02:04.880,0:02:08.000
+so we expect that this line of code will
+
+0:02:07.200,0:02:11.360
+evaluate
+
+0:02:08.000,0:02:11.360
+to the string joe
+
+0:02:17.360,0:02:23.120
+we're using p to output the return of
+
+0:02:20.000,0:02:25.599
+this variable assignment
+
+0:02:23.120,0:02:29.360
+we see the output and below we also see
+
+0:02:25.599,0:02:29.360
+that the string joe is returned
+
+0:02:30.239,0:02:36.080
+moving down to the code on line 7 this
+
+0:02:33.440,0:02:37.680
+is simple variable assignment again we
+
+0:02:36.080,0:02:40.879
+are assigning the variable
+
+0:02:37.680,0:02:42.720
+4 to the string 4.
+
+0:02:40.879,0:02:45.120
+so in this case we expect that the
+
+0:02:42.720,0:02:51.840
+expression will evaluate to the string
+
+0:02:45.120,0:02:51.840
+4. we'll test it out in irb
+
+0:02:53.760,0:02:58.080
+and we can see that the string 4 is
+
+0:02:55.519,0:02:58.080
+returned
+
+0:02:59.840,0:03:05.519
+in our last example we assign the string
+
+0:03:02.879,0:03:07.519
+nothing to a variable something
+
+0:03:05.519,0:03:09.120
+and we pass the return value of that
+
+0:03:07.519,0:03:12.159
+assignment to the method
+
+0:03:09.120,0:03:13.440
+print print will output the return value
+
+0:03:12.159,0:03:18.400
+of this assignment
+
+0:03:13.440,0:03:20.480
+and then return nil
+
+0:03:18.400,0:03:23.360
+we'll hop into irb one last time to
+
+0:03:20.480,0:03:23.360
+demonstrate this
+
+0:03:26.799,0:03:31.360
+our output and return here look a little
+
+0:03:29.200,0:03:33.360
+bit different in this example
+
+0:03:31.360,0:03:35.360
+because the print method does not append
+
+0:03:33.360,0:03:37.200
+a new line onto its output
+
+0:03:35.360,0:03:41.280
+and that's why we see the output and the
+
+0:03:37.200,0:03:41.280
+return value here on the same line
+
+0:03:42.480,0:03:48.799
+so we've successfully determined what
+
+0:03:44.560,0:03:48.799
+all five of these expressions evaluate
+
+0:03:52.439,0:03:55.439
+too
+

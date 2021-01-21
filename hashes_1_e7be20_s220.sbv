@@ -1,0 +1,216 @@
+0:00:04.799,0:00:08.559
+we're going to
+
+0:00:05.680,0:00:10.719
+use the select method to gather only the
+
+0:00:08.559,0:00:14.880
+immediate family members names
+
+0:00:10.719,0:00:14.880
+from this hash into a new array
+
+0:00:15.599,0:00:20.000
+so we see this family hash on lines one
+
+0:00:18.480,0:00:24.000
+through five
+
+0:00:20.000,0:00:26.640
+and this hash has four key value pairs
+
+0:00:24.000,0:00:28.240
+each value is actually an array of
+
+0:00:26.640,0:00:31.119
+strings
+
+0:00:28.240,0:00:34.480
+so we know we want to invoke the select
+
+0:00:31.119,0:00:34.480
+method on this hash
+
+0:00:36.640,0:00:40.800
+and when calling the hash select method
+
+0:00:41.120,0:00:46.480
+each key value pair is going to be
+
+0:00:43.360,0:00:46.480
+passed to the block
+
+0:00:47.520,0:00:51.039
+the first block parameter k will
+
+0:00:49.920,0:00:53.039
+represent the key
+
+0:00:51.039,0:00:54.399
+and the second block parameter v will
+
+0:00:53.039,0:00:57.120
+represent the value
+
+0:00:54.399,0:00:58.000
+now the select method will return a new
+
+0:00:57.120,0:01:01.039
+hash
+
+0:00:58.000,0:01:02.320
+containing the key value pairs for which
+
+0:01:01.039,0:01:06.479
+the return value
+
+0:01:02.320,0:01:08.560
+of this block evaluates as true
+
+0:01:06.479,0:01:12.560
+so we need to do some type of comparison
+
+0:01:08.560,0:01:14.640
+here on line 8.
+
+0:01:12.560,0:01:16.320
+we know that we want to include only the
+
+0:01:14.640,0:01:19.200
+immediate family members
+
+0:01:16.320,0:01:21.520
+in this new hash so that would be only
+
+0:01:19.200,0:01:23.520
+the sisters and brothers
+
+0:01:21.520,0:01:24.960
+so in order to select the appropriate
+
+0:01:23.520,0:01:28.000
+key value pairs
+
+0:01:24.960,0:01:31.759
+we can simply compare the key to the
+
+0:01:28.000,0:01:34.000
+symbols sisters and brothers
+
+0:01:31.759,0:01:37.840
+these are going to be our key value
+
+0:01:34.000,0:01:37.840
+pairs related to immediate family
+
+0:01:38.840,0:01:41.840
+members
+
+0:01:44.079,0:01:48.960
+if the key is equal to the symbol
+
+0:01:46.399,0:01:48.960
+sisters
+
+0:01:49.119,0:01:56.320
+or brothers
+
+0:01:52.799,0:01:58.880
+then these are immediate family members
+
+0:01:56.320,0:02:00.900
+let's store the returned hash in a
+
+0:01:58.880,0:02:04.029
+variable
+
+0:02:00.900,0:02:04.029
+[Music]
+
+0:02:04.240,0:02:09.840
+and just output this new hash
+
+0:02:13.360,0:02:17.440
+so we see our new hash that has two key
+
+0:02:15.840,0:02:19.680
+value pairs
+
+0:02:17.440,0:02:22.000
+this is what we want however in our
+
+0:02:19.680,0:02:23.040
+final result we only want the names
+
+0:02:22.000,0:02:26.000
+which in this case
+
+0:02:23.040,0:02:26.000
+are the values
+
+0:02:27.120,0:02:34.000
+we can invoke the hash values method
+
+0:02:30.560,0:02:35.760
+to return an array of the values in that
+
+0:02:34.000,0:02:38.160
+hash
+
+0:02:35.760,0:02:40.800
+again let's run this code and output
+
+0:02:38.160,0:02:40.800
+that with p
+
+0:02:41.040,0:02:45.280
+okay and this is closer to what we want
+
+0:02:43.200,0:02:47.040
+we see all the names of the immediate
+
+0:02:45.280,0:02:48.879
+family members
+
+0:02:47.040,0:02:51.840
+but you can see that the array we have
+
+0:02:48.879,0:02:54.800
+right now is a two-dimensional array
+
+0:02:51.840,0:02:57.280
+we have two elements in this array the
+
+0:02:54.800,0:03:00.560
+array of the names of the sisters
+
+0:02:57.280,0:03:02.840
+and the array of the names of brothers
+
+0:03:00.560,0:03:05.280
+we want just a one-dimensional array
+
+0:03:02.840,0:03:09.120
+here
+
+0:03:05.280,0:03:11.200
+we can invoke the array flatten method
+
+0:03:09.120,0:03:13.599
+this will return a flat one dimensional
+
+0:03:11.200,0:03:13.599
+array
+
+0:03:13.920,0:03:24.319
+and let's store this new array
+
+0:03:18.480,0:03:24.319
+in a variable r and output that array
+
+0:03:26.640,0:03:33.840
+and there we have our final result
+
+0:03:40.000,0:03:42.080
+you
+

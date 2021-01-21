@@ -1,0 +1,648 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.400 --> 00:00:06.389 align:start position:0%
+ 
+this<00:00:04.720><c> problem</c><00:00:05.279><c> has</c><00:00:05.680><c> given</c><00:00:06.080><c> us</c>
+
+00:00:06.389 --> 00:00:06.399 align:start position:0%
+this problem has given us
+ 
+
+00:00:06.399 --> 00:00:08.950 align:start position:0%
+this problem has given us
+five<00:00:06.799><c> lines</c><00:00:07.200><c> of</c><00:00:07.359><c> code</c><00:00:08.080><c> and</c><00:00:08.400><c> we</c><00:00:08.559><c> need</c><00:00:08.800><c> to</c>
+
+00:00:08.950 --> 00:00:08.960 align:start position:0%
+five lines of code and we need to
+ 
+
+00:00:08.960 --> 00:00:10.230 align:start position:0%
+five lines of code and we need to
+determine
+
+00:00:10.230 --> 00:00:10.240 align:start position:0%
+determine
+ 
+
+00:00:10.240 --> 00:00:14.789 align:start position:0%
+determine
+what<00:00:10.559><c> each</c><00:00:10.800><c> line</c><00:00:11.120><c> of</c><00:00:11.280><c> code</c><00:00:11.519><c> will</c><00:00:11.759><c> evaluate</c><00:00:12.480><c> to</c>
+
+00:00:14.789 --> 00:00:14.799 align:start position:0%
+ 
+ 
+
+00:00:14.799 --> 00:00:17.349 align:start position:0%
+ 
+first<00:00:15.280><c> on</c><00:00:15.519><c> line</c><00:00:15.839><c> 1</c><00:00:16.320><c> we</c><00:00:16.480><c> have</c><00:00:16.720><c> variable</c>
+
+00:00:17.349 --> 00:00:17.359 align:start position:0%
+first on line 1 we have variable
+ 
+
+00:00:17.359 --> 00:00:18.470 align:start position:0%
+first on line 1 we have variable
+assignment
+
+00:00:18.470 --> 00:00:18.480 align:start position:0%
+assignment
+ 
+
+00:00:18.480 --> 00:00:21.189 align:start position:0%
+assignment
+the<00:00:18.640><c> variable</c><00:00:19.279><c> x</c><00:00:20.000><c> is</c><00:00:20.160><c> being</c><00:00:20.480><c> assigned</c><00:00:20.800><c> to</c><00:00:20.960><c> the</c>
+
+00:00:21.189 --> 00:00:21.199 align:start position:0%
+the variable x is being assigned to the
+ 
+
+00:00:21.199 --> 00:00:23.429 align:start position:0%
+the variable x is being assigned to the
+integer<00:00:21.680><c> 2.</c>
+
+00:00:23.429 --> 00:00:23.439 align:start position:0%
+integer 2.
+ 
+
+00:00:23.439 --> 00:00:25.670 align:start position:0%
+integer 2.
+variable<00:00:24.000><c> assignment</c><00:00:24.560><c> is</c><00:00:24.720><c> going</c><00:00:24.960><c> to</c><00:00:25.199><c> return</c>
+
+00:00:25.670 --> 00:00:25.680 align:start position:0%
+variable assignment is going to return
+ 
+
+00:00:25.680 --> 00:00:27.670 align:start position:0%
+variable assignment is going to return
+the<00:00:25.920><c> value</c><00:00:26.320><c> that</c><00:00:26.480><c> is</c><00:00:26.640><c> assigned</c>
+
+00:00:27.670 --> 00:00:27.680 align:start position:0%
+the value that is assigned
+ 
+
+00:00:27.680 --> 00:00:29.910 align:start position:0%
+the value that is assigned
+so<00:00:27.920><c> in</c><00:00:28.080><c> this</c><00:00:28.320><c> case</c><00:00:28.640><c> we</c><00:00:28.880><c> expect</c><00:00:29.279><c> the</c><00:00:29.439><c> return</c>
+
+00:00:29.910 --> 00:00:29.920 align:start position:0%
+so in this case we expect the return
+ 
+
+00:00:29.920 --> 00:00:33.750 align:start position:0%
+so in this case we expect the return
+value<00:00:30.240><c> to</c><00:00:30.400><c> be</c><00:00:30.640><c> 2.</c>
+
+00:00:33.750 --> 00:00:33.760 align:start position:0%
+ 
+ 
+
+00:00:33.760 --> 00:00:37.430 align:start position:0%
+ 
+let's<00:00:34.000><c> hop</c><00:00:34.239><c> into</c><00:00:34.480><c> irb</c>
+
+00:00:37.430 --> 00:00:37.440 align:start position:0%
+ 
+ 
+
+00:00:37.440 --> 00:00:39.430 align:start position:0%
+ 
+and<00:00:37.600><c> we</c><00:00:37.760><c> can</c><00:00:37.920><c> see</c><00:00:38.079><c> this</c><00:00:38.320><c> in</c><00:00:38.559><c> action</c><00:00:38.960><c> so</c><00:00:39.120><c> we'll</c>
+
+00:00:39.430 --> 00:00:39.440 align:start position:0%
+and we can see this in action so we'll
+ 
+
+00:00:39.440 --> 00:00:40.950 align:start position:0%
+and we can see this in action so we'll
+assign<00:00:40.079><c> a</c><00:00:40.320><c> variable</c>
+
+00:00:40.950 --> 00:00:40.960 align:start position:0%
+assign a variable
+ 
+
+00:00:40.960 --> 00:00:44.229 align:start position:0%
+assign a variable
+x<00:00:41.760><c> to</c><00:00:41.920><c> the</c><00:00:42.079><c> integer</c><00:00:42.840><c> 2</c>
+
+00:00:44.229 --> 00:00:44.239 align:start position:0%
+x to the integer 2
+ 
+
+00:00:44.239 --> 00:00:47.510 align:start position:0%
+x to the integer 2
+irb<00:00:44.879><c> shows</c><00:00:45.200><c> us</c><00:00:45.440><c> that</c><00:00:45.840><c> this</c><00:00:46.160><c> evaluates</c><00:00:46.879><c> to</c>
+
+00:00:47.510 --> 00:00:47.520 align:start position:0%
+irb shows us that this evaluates to
+ 
+
+00:00:47.520 --> 00:00:52.150 align:start position:0%
+irb shows us that this evaluates to
+2.
+
+00:00:52.150 --> 00:00:52.160 align:start position:0%
+ 
+ 
+
+00:00:52.160 --> 00:00:55.189 align:start position:0%
+ 
+moving<00:00:52.559><c> on</c><00:00:52.800><c> to</c><00:00:52.960><c> the</c><00:00:53.120><c> code</c><00:00:53.360><c> on</c><00:00:53.520><c> line</c><00:00:53.840><c> 3</c>
+
+00:00:55.189 --> 00:00:55.199 align:start position:0%
+moving on to the code on line 3
+ 
+
+00:00:55.199 --> 00:00:57.510 align:start position:0%
+moving on to the code on line 3
+in<00:00:55.360><c> this</c><00:00:55.600><c> line</c><00:00:55.840><c> of</c><00:00:56.000><c> code</c><00:00:56.640><c> we're</c><00:00:56.960><c> assigning</c><00:00:57.360><c> the</c>
+
+00:00:57.510 --> 00:00:57.520 align:start position:0%
+in this line of code we're assigning the
+ 
+
+00:00:57.520 --> 00:00:58.790 align:start position:0%
+in this line of code we're assigning the
+variable<00:00:58.160><c> x</c><00:00:58.480><c> to</c>
+
+00:00:58.790 --> 00:00:58.800 align:start position:0%
+variable x to
+ 
+
+00:00:58.800 --> 00:01:01.750 align:start position:0%
+variable x to
+2<00:00:59.760><c> but</c><00:00:59.920><c> we're</c><00:01:00.160><c> also</c><00:01:00.559><c> invoking</c><00:01:01.039><c> the</c><00:01:01.199><c> puts</c>
+
+00:01:01.750 --> 00:01:01.760 align:start position:0%
+2 but we're also invoking the puts
+ 
+
+00:01:01.760 --> 00:01:02.869 align:start position:0%
+2 but we're also invoking the puts
+method
+
+00:01:02.869 --> 00:01:02.879 align:start position:0%
+method
+ 
+
+00:01:02.879 --> 00:01:05.990 align:start position:0%
+method
+the<00:01:03.039><c> put</c><00:01:03.359><c> s</c><00:01:03.600><c> method</c><00:01:04.080><c> will</c><00:01:04.479><c> output</c><00:01:05.280><c> the</c><00:01:05.439><c> return</c>
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+the put s method will output the return
+ 
+
+00:01:06.000 --> 00:01:08.550 align:start position:0%
+the put s method will output the return
+value<00:01:06.479><c> of</c><00:01:06.640><c> this</c><00:01:06.880><c> assignment</c><00:01:08.000><c> so</c><00:01:08.240><c> it</c><00:01:08.320><c> will</c>
+
+00:01:08.550 --> 00:01:08.560 align:start position:0%
+value of this assignment so it will
+ 
+
+00:01:08.560 --> 00:01:09.190 align:start position:0%
+value of this assignment so it will
+output
+
+00:01:09.190 --> 00:01:09.200 align:start position:0%
+output
+ 
+
+00:01:09.200 --> 00:01:12.149 align:start position:0%
+output
+2<00:01:10.000><c> however</c><00:01:10.400><c> the</c><00:01:10.560><c> put</c><00:01:10.880><c> s</c><00:01:11.119><c> method</c><00:01:11.600><c> always</c>
+
+00:01:12.149 --> 00:01:12.159 align:start position:0%
+2 however the put s method always
+ 
+
+00:01:12.159 --> 00:01:12.870 align:start position:0%
+2 however the put s method always
+returns
+
+00:01:12.870 --> 00:01:12.880 align:start position:0%
+returns
+ 
+
+00:01:12.880 --> 00:01:15.990 align:start position:0%
+returns
+nil<00:01:13.760><c> so</c><00:01:13.920><c> this</c><00:01:14.240><c> expression</c><00:01:14.799><c> on</c><00:01:14.960><c> line</c><00:01:15.280><c> three</c>
+
+00:01:15.990 --> 00:01:16.000 align:start position:0%
+nil so this expression on line three
+ 
+
+00:01:16.000 --> 00:01:19.670 align:start position:0%
+nil so this expression on line three
+will<00:01:16.240><c> evaluate</c><00:01:16.880><c> to</c><00:01:17.119><c> nil</c><00:01:18.799><c> let's</c><00:01:19.040><c> hop</c><00:01:19.280><c> back</c><00:01:19.520><c> to</c>
+
+00:01:19.670 --> 00:01:19.680 align:start position:0%
+will evaluate to nil let's hop back to
+ 
+
+00:01:19.680 --> 00:01:25.670 align:start position:0%
+will evaluate to nil let's hop back to
+irb
+
+00:01:25.670 --> 00:01:25.680 align:start position:0%
+ 
+ 
+
+00:01:25.680 --> 00:01:28.230 align:start position:0%
+ 
+we<00:01:26.000><c> invoke</c><00:01:26.400><c> put</c><00:01:26.720><c> us</c><00:01:27.119><c> and</c><00:01:27.360><c> we</c><00:01:27.600><c> pass</c><00:01:27.920><c> in</c><00:01:28.000><c> that</c>
+
+00:01:28.230 --> 00:01:28.240 align:start position:0%
+we invoke put us and we pass in that
+ 
+
+00:01:28.240 --> 00:01:31.510 align:start position:0%
+we invoke put us and we pass in that
+assignment
+
+00:01:31.510 --> 00:01:31.520 align:start position:0%
+ 
+ 
+
+00:01:31.520 --> 00:01:38.830 align:start position:0%
+ 
+we<00:01:31.680><c> can</c><00:01:31.920><c> see</c><00:01:32.079><c> that</c><00:01:32.320><c> it</c><00:01:32.560><c> output</c><00:01:33.119><c> 2</c><00:01:34.079><c> and</c><00:01:34.320><c> returned</c>
+
+00:01:38.830 --> 00:01:38.840 align:start position:0%
+ 
+ 
+
+00:01:38.840 --> 00:01:40.230 align:start position:0%
+ 
+nil
+
+00:01:40.230 --> 00:01:40.240 align:start position:0%
+nil
+ 
+
+00:01:40.240 --> 00:01:43.429 align:start position:0%
+nil
+moving<00:01:40.640><c> on</c><00:01:40.799><c> to</c><00:01:40.960><c> our</c><00:01:41.119><c> code</c><00:01:41.439><c> on</c><00:01:41.520><c> line</c><00:01:41.840><c> 5</c><00:01:42.960><c> again</c><00:01:43.280><c> we</c>
+
+00:01:43.429 --> 00:01:43.439 align:start position:0%
+moving on to our code on line 5 again we
+ 
+
+00:01:43.439 --> 00:01:45.590 align:start position:0%
+moving on to our code on line 5 again we
+see<00:01:43.680><c> variable</c><00:01:44.240><c> assignment</c>
+
+00:01:45.590 --> 00:01:45.600 align:start position:0%
+see variable assignment
+ 
+
+00:01:45.600 --> 00:01:47.830 align:start position:0%
+see variable assignment
+we<00:01:45.840><c> are</c><00:01:46.000><c> assigning</c><00:01:46.479><c> the</c><00:01:46.640><c> variable</c><00:01:47.280><c> name</c><00:01:47.680><c> to</c>
+
+00:01:47.830 --> 00:01:47.840 align:start position:0%
+we are assigning the variable name to
+ 
+
+00:01:47.840 --> 00:01:49.429 align:start position:0%
+we are assigning the variable name to
+the<00:01:48.000><c> string</c><00:01:48.479><c> joe</c>
+
+00:01:49.429 --> 00:01:49.439 align:start position:0%
+the string joe
+ 
+
+00:01:49.439 --> 00:01:51.190 align:start position:0%
+the string joe
+and<00:01:49.680><c> we're</c><00:01:49.840><c> going</c><00:01:50.079><c> to</c><00:01:50.320><c> output</c><00:01:50.640><c> the</c><00:01:50.720><c> return</c>
+
+00:01:51.190 --> 00:01:51.200 align:start position:0%
+and we're going to output the return
+ 
+
+00:01:51.200 --> 00:01:52.630 align:start position:0%
+and we're going to output the return
+value<00:01:51.520><c> of</c><00:01:51.600><c> that</c><00:01:51.840><c> assignment</c>
+
+00:01:52.630 --> 00:01:52.640 align:start position:0%
+value of that assignment
+ 
+
+00:01:52.640 --> 00:01:54.630 align:start position:0%
+value of that assignment
+similarly<00:01:53.280><c> to</c><00:01:53.439><c> what</c><00:01:53.600><c> we</c><00:01:53.759><c> saw</c><00:01:54.000><c> in</c><00:01:54.159><c> our</c><00:01:54.320><c> last</c>
+
+00:01:54.630 --> 00:01:54.640 align:start position:0%
+similarly to what we saw in our last
+ 
+
+00:01:54.640 --> 00:01:55.830 align:start position:0%
+similarly to what we saw in our last
+code<00:01:54.880><c> example</c>
+
+00:01:55.830 --> 00:01:55.840 align:start position:0%
+code example
+ 
+
+00:01:55.840 --> 00:01:58.550 align:start position:0%
+code example
+however<00:01:56.399><c> this</c><00:01:56.719><c> time</c><00:01:57.040><c> we're</c><00:01:57.280><c> using</c><00:01:57.680><c> the</c><00:01:57.920><c> method</c>
+
+00:01:58.550 --> 00:01:58.560 align:start position:0%
+however this time we're using the method
+ 
+
+00:01:58.560 --> 00:01:59.590 align:start position:0%
+however this time we're using the method
+p
+
+00:01:59.590 --> 00:01:59.600 align:start position:0%
+p
+ 
+
+00:01:59.600 --> 00:02:02.149 align:start position:0%
+p
+this<00:01:59.840><c> method</c><00:02:00.240><c> will</c><00:02:00.640><c> output</c><00:02:01.040><c> its</c><00:02:01.280><c> argument</c><00:02:02.000><c> and</c>
+
+00:02:02.149 --> 00:02:02.159 align:start position:0%
+this method will output its argument and
+ 
+
+00:02:02.159 --> 00:02:04.870 align:start position:0%
+this method will output its argument and
+then<00:02:02.399><c> return</c><00:02:02.880><c> its</c><00:02:03.119><c> argument</c>
+
+00:02:04.870 --> 00:02:04.880 align:start position:0%
+then return its argument
+ 
+
+00:02:04.880 --> 00:02:07.190 align:start position:0%
+then return its argument
+so<00:02:05.040><c> we</c><00:02:05.280><c> expect</c><00:02:05.680><c> that</c><00:02:05.920><c> this</c><00:02:06.159><c> line</c><00:02:06.479><c> of</c><00:02:06.640><c> code</c><00:02:06.960><c> will</c>
+
+00:02:07.190 --> 00:02:07.200 align:start position:0%
+so we expect that this line of code will
+ 
+
+00:02:07.200 --> 00:02:07.990 align:start position:0%
+so we expect that this line of code will
+evaluate
+
+00:02:07.990 --> 00:02:08.000 align:start position:0%
+evaluate
+ 
+
+00:02:08.000 --> 00:02:17.350 align:start position:0%
+evaluate
+to<00:02:08.239><c> the</c><00:02:08.479><c> string</c><00:02:08.959><c> joe</c>
+
+00:02:17.350 --> 00:02:17.360 align:start position:0%
+ 
+ 
+
+00:02:17.360 --> 00:02:19.990 align:start position:0%
+ 
+we're<00:02:17.599><c> using</c><00:02:18.000><c> p</c><00:02:18.400><c> to</c><00:02:18.879><c> output</c><00:02:19.200><c> the</c><00:02:19.360><c> return</c><00:02:19.840><c> of</c>
+
+00:02:19.990 --> 00:02:20.000 align:start position:0%
+we're using p to output the return of
+ 
+
+00:02:20.000 --> 00:02:23.110 align:start position:0%
+we're using p to output the return of
+this<00:02:20.239><c> variable</c><00:02:20.840><c> assignment</c>
+
+00:02:23.110 --> 00:02:23.120 align:start position:0%
+this variable assignment
+ 
+
+00:02:23.120 --> 00:02:25.589 align:start position:0%
+this variable assignment
+we<00:02:23.280><c> see</c><00:02:23.520><c> the</c><00:02:23.760><c> output</c><00:02:24.239><c> and</c><00:02:24.400><c> below</c><00:02:24.800><c> we</c><00:02:25.040><c> also</c><00:02:25.440><c> see</c>
+
+00:02:25.589 --> 00:02:25.599 align:start position:0%
+we see the output and below we also see
+ 
+
+00:02:25.599 --> 00:02:30.229 align:start position:0%
+we see the output and below we also see
+that<00:02:25.840><c> the</c><00:02:26.000><c> string</c><00:02:26.319><c> joe</c><00:02:26.640><c> is</c><00:02:26.800><c> returned</c>
+
+00:02:30.229 --> 00:02:30.239 align:start position:0%
+ 
+ 
+
+00:02:30.239 --> 00:02:33.430 align:start position:0%
+ 
+moving<00:02:30.640><c> down</c><00:02:30.879><c> to</c><00:02:31.040><c> the</c><00:02:31.120><c> code</c><00:02:31.440><c> on</c><00:02:31.519><c> line</c><00:02:31.920><c> 7</c><00:02:33.120><c> this</c>
+
+00:02:33.430 --> 00:02:33.440 align:start position:0%
+moving down to the code on line 7 this
+ 
+
+00:02:33.440 --> 00:02:36.070 align:start position:0%
+moving down to the code on line 7 this
+is<00:02:33.599><c> simple</c><00:02:34.000><c> variable</c><00:02:34.560><c> assignment</c><00:02:35.040><c> again</c><00:02:35.760><c> we</c>
+
+00:02:36.070 --> 00:02:36.080 align:start position:0%
+is simple variable assignment again we
+ 
+
+00:02:36.080 --> 00:02:37.670 align:start position:0%
+is simple variable assignment again we
+are<00:02:36.319><c> assigning</c><00:02:36.800><c> the</c><00:02:37.040><c> variable</c>
+
+00:02:37.670 --> 00:02:37.680 align:start position:0%
+are assigning the variable
+ 
+
+00:02:37.680 --> 00:02:40.869 align:start position:0%
+are assigning the variable
+4<00:02:38.319><c> to</c><00:02:38.480><c> the</c><00:02:38.640><c> string</c><00:02:39.200><c> 4.</c>
+
+00:02:40.869 --> 00:02:40.879 align:start position:0%
+4 to the string 4.
+ 
+
+00:02:40.879 --> 00:02:42.710 align:start position:0%
+4 to the string 4.
+so<00:02:41.120><c> in</c><00:02:41.280><c> this</c><00:02:41.440><c> case</c><00:02:41.760><c> we</c><00:02:41.920><c> expect</c><00:02:42.319><c> that</c><00:02:42.480><c> the</c>
+
+00:02:42.710 --> 00:02:42.720 align:start position:0%
+so in this case we expect that the
+ 
+
+00:02:42.720 --> 00:02:45.110 align:start position:0%
+so in this case we expect that the
+expression<00:02:43.280><c> will</c><00:02:43.599><c> evaluate</c><00:02:44.239><c> to</c><00:02:44.400><c> the</c><00:02:44.560><c> string</c>
+
+00:02:45.110 --> 00:02:45.120 align:start position:0%
+expression will evaluate to the string
+ 
+
+00:02:45.120 --> 00:02:53.750 align:start position:0%
+expression will evaluate to the string
+4.<00:02:48.000><c> we'll</c><00:02:48.239><c> test</c><00:02:48.560><c> it</c><00:02:48.720><c> out</c><00:02:48.879><c> in</c><00:02:49.040><c> irb</c>
+
+00:02:53.750 --> 00:02:53.760 align:start position:0%
+ 
+ 
+
+00:02:53.760 --> 00:02:55.509 align:start position:0%
+ 
+and<00:02:53.920><c> we</c><00:02:54.080><c> can</c><00:02:54.239><c> see</c><00:02:54.400><c> that</c><00:02:54.560><c> the</c><00:02:54.720><c> string</c><00:02:55.120><c> 4</c><00:02:55.360><c> is</c>
+
+00:02:55.509 --> 00:02:55.519 align:start position:0%
+and we can see that the string 4 is
+ 
+
+00:02:55.519 --> 00:02:59.830 align:start position:0%
+and we can see that the string 4 is
+returned
+
+00:02:59.830 --> 00:02:59.840 align:start position:0%
+ 
+ 
+
+00:02:59.840 --> 00:03:02.869 align:start position:0%
+ 
+in<00:03:00.000><c> our</c><00:03:00.159><c> last</c><00:03:00.480><c> example</c><00:03:01.599><c> we</c><00:03:01.920><c> assign</c><00:03:02.239><c> the</c><00:03:02.480><c> string</c>
+
+00:03:02.869 --> 00:03:02.879 align:start position:0%
+in our last example we assign the string
+ 
+
+00:03:02.879 --> 00:03:05.509 align:start position:0%
+in our last example we assign the string
+nothing<00:03:03.360><c> to</c><00:03:03.519><c> a</c><00:03:03.680><c> variable</c><00:03:04.239><c> something</c>
+
+00:03:05.509 --> 00:03:05.519 align:start position:0%
+nothing to a variable something
+ 
+
+00:03:05.519 --> 00:03:07.509 align:start position:0%
+nothing to a variable something
+and<00:03:05.760><c> we</c><00:03:06.000><c> pass</c><00:03:06.319><c> the</c><00:03:06.480><c> return</c><00:03:06.879><c> value</c><00:03:07.200><c> of</c><00:03:07.280><c> that</c>
+
+00:03:07.509 --> 00:03:07.519 align:start position:0%
+and we pass the return value of that
+ 
+
+00:03:07.519 --> 00:03:09.110 align:start position:0%
+and we pass the return value of that
+assignment<00:03:08.239><c> to</c><00:03:08.400><c> the</c><00:03:08.560><c> method</c>
+
+00:03:09.110 --> 00:03:09.120 align:start position:0%
+assignment to the method
+ 
+
+00:03:09.120 --> 00:03:12.149 align:start position:0%
+assignment to the method
+print<00:03:10.080><c> print</c><00:03:10.400><c> will</c><00:03:10.879><c> output</c><00:03:11.200><c> the</c><00:03:11.360><c> return</c><00:03:11.840><c> value</c>
+
+00:03:12.149 --> 00:03:12.159 align:start position:0%
+print print will output the return value
+ 
+
+00:03:12.159 --> 00:03:13.430 align:start position:0%
+print print will output the return value
+of<00:03:12.319><c> this</c><00:03:12.560><c> assignment</c>
+
+00:03:13.430 --> 00:03:13.440 align:start position:0%
+of this assignment
+ 
+
+00:03:13.440 --> 00:03:18.390 align:start position:0%
+of this assignment
+and<00:03:13.599><c> then</c><00:03:13.840><c> return</c><00:03:16.840><c> nil</c>
+
+00:03:18.390 --> 00:03:18.400 align:start position:0%
+and then return nil
+ 
+
+00:03:18.400 --> 00:03:20.470 align:start position:0%
+and then return nil
+we'll<00:03:18.560><c> hop</c><00:03:18.800><c> into</c><00:03:19.120><c> irb</c><00:03:19.599><c> one</c><00:03:19.840><c> last</c><00:03:20.080><c> time</c><00:03:20.319><c> to</c>
+
+00:03:20.470 --> 00:03:20.480 align:start position:0%
+we'll hop into irb one last time to
+ 
+
+00:03:20.480 --> 00:03:26.789 align:start position:0%
+we'll hop into irb one last time to
+demonstrate<00:03:21.120><c> this</c>
+
+00:03:26.789 --> 00:03:26.799 align:start position:0%
+ 
+ 
+
+00:03:26.799 --> 00:03:29.190 align:start position:0%
+ 
+our<00:03:27.120><c> output</c><00:03:27.599><c> and</c><00:03:27.760><c> return</c><00:03:28.319><c> here</c><00:03:28.640><c> look</c><00:03:28.879><c> a</c><00:03:28.959><c> little</c>
+
+00:03:29.190 --> 00:03:29.200 align:start position:0%
+our output and return here look a little
+ 
+
+00:03:29.200 --> 00:03:31.350 align:start position:0%
+our output and return here look a little
+bit<00:03:29.440><c> different</c><00:03:29.840><c> in</c><00:03:29.920><c> this</c><00:03:30.239><c> example</c>
+
+00:03:31.350 --> 00:03:31.360 align:start position:0%
+bit different in this example
+ 
+
+00:03:31.360 --> 00:03:33.350 align:start position:0%
+bit different in this example
+because<00:03:31.599><c> the</c><00:03:31.840><c> print</c><00:03:32.080><c> method</c><00:03:32.560><c> does</c><00:03:32.799><c> not</c><00:03:33.040><c> append</c>
+
+00:03:33.350 --> 00:03:33.360 align:start position:0%
+because the print method does not append
+ 
+
+00:03:33.360 --> 00:03:35.350 align:start position:0%
+because the print method does not append
+a<00:03:33.519><c> new</c><00:03:33.760><c> line</c><00:03:34.159><c> onto</c><00:03:34.480><c> its</c><00:03:34.720><c> output</c>
+
+00:03:35.350 --> 00:03:35.360 align:start position:0%
+a new line onto its output
+ 
+
+00:03:35.360 --> 00:03:37.190 align:start position:0%
+a new line onto its output
+and<00:03:35.519><c> that's</c><00:03:35.760><c> why</c><00:03:35.920><c> we</c><00:03:36.080><c> see</c><00:03:36.319><c> the</c><00:03:36.480><c> output</c><00:03:36.959><c> and</c><00:03:37.120><c> the</c>
+
+00:03:37.190 --> 00:03:37.200 align:start position:0%
+and that's why we see the output and the
+ 
+
+00:03:37.200 --> 00:03:42.470 align:start position:0%
+and that's why we see the output and the
+return<00:03:37.680><c> value</c><00:03:38.080><c> here</c><00:03:38.400><c> on</c><00:03:38.480><c> the</c><00:03:38.640><c> same</c><00:03:38.959><c> line</c>
+
+00:03:42.470 --> 00:03:42.480 align:start position:0%
+ 
+ 
+
+00:03:42.480 --> 00:03:44.550 align:start position:0%
+ 
+so<00:03:42.720><c> we've</c><00:03:42.959><c> successfully</c><00:03:43.599><c> determined</c><00:03:44.239><c> what</c>
+
+00:03:44.550 --> 00:03:44.560 align:start position:0%
+so we've successfully determined what
+ 
+
+00:03:44.560 --> 00:03:52.429 align:start position:0%
+so we've successfully determined what
+all<00:03:44.799><c> five</c><00:03:45.120><c> of</c><00:03:45.200><c> these</c><00:03:45.519><c> expressions</c><00:03:46.159><c> evaluate</c>
+
+00:03:52.429 --> 00:03:52.439 align:start position:0%
+ 
+ 
+
+00:03:52.439 --> 00:03:55.439 align:start position:0%
+ 
+too
+

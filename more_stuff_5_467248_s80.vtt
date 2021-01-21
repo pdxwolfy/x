@@ -1,0 +1,248 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.799 --> 00:00:06.070 align:start position:0%
+ 
+in<00:00:04.960><c> this</c><00:00:05.200><c> exercise</c>
+
+00:00:06.070 --> 00:00:06.080 align:start position:0%
+in this exercise
+ 
+
+00:00:06.080 --> 00:00:09.589 align:start position:0%
+in this exercise
+we<00:00:06.319><c> are</c><00:00:06.879><c> shown</c><00:00:07.200><c> an</c><00:00:07.520><c> error</c><00:00:08.320><c> and</c><00:00:08.720><c> asked</c><00:00:09.200><c> why</c><00:00:09.440><c> the</c>
+
+00:00:09.589 --> 00:00:09.599 align:start position:0%
+we are shown an error and asked why the
+ 
+
+00:00:09.599 --> 00:00:11.430 align:start position:0%
+we are shown an error and asked why the
+code<00:00:09.840><c> we've</c><00:00:10.000><c> been</c><00:00:10.240><c> given</c><00:00:10.639><c> produces</c><00:00:11.280><c> this</c>
+
+00:00:11.430 --> 00:00:11.440 align:start position:0%
+code we've been given produces this
+ 
+
+00:00:11.440 --> 00:00:12.789 align:start position:0%
+code we've been given produces this
+error
+
+00:00:12.789 --> 00:00:12.799 align:start position:0%
+error
+ 
+
+00:00:12.799 --> 00:00:16.150 align:start position:0%
+error
+so<00:00:13.040><c> this</c><00:00:13.280><c> is</c><00:00:13.440><c> an</c><00:00:13.759><c> argument</c><00:00:14.320><c> error</c><00:00:15.679><c> we're</c><00:00:15.839><c> told</c>
+
+00:00:16.150 --> 00:00:16.160 align:start position:0%
+so this is an argument error we're told
+ 
+
+00:00:16.160 --> 00:00:17.830 align:start position:0%
+so this is an argument error we're told
+that<00:00:16.480><c> we</c><00:00:16.640><c> have</c><00:00:16.800><c> the</c><00:00:17.039><c> wrong</c><00:00:17.279><c> number</c><00:00:17.600><c> of</c>
+
+00:00:17.830 --> 00:00:17.840 align:start position:0%
+that we have the wrong number of
+ 
+
+00:00:17.840 --> 00:00:20.230 align:start position:0%
+that we have the wrong number of
+arguments<00:00:18.560><c> being</c><00:00:18.880><c> passed</c><00:00:19.279><c> to</c><00:00:19.439><c> our</c><00:00:19.680><c> execute</c>
+
+00:00:20.230 --> 00:00:20.240 align:start position:0%
+arguments being passed to our execute
+ 
+
+00:00:20.240 --> 00:00:22.150 align:start position:0%
+arguments being passed to our execute
+method
+
+00:00:22.150 --> 00:00:22.160 align:start position:0%
+method
+ 
+
+00:00:22.160 --> 00:00:24.550 align:start position:0%
+method
+the<00:00:22.320><c> method</c><00:00:22.720><c> was</c><00:00:23.039><c> expecting</c><00:00:23.680><c> one</c><00:00:23.920><c> argument</c>
+
+00:00:24.550 --> 00:00:24.560 align:start position:0%
+the method was expecting one argument
+ 
+
+00:00:24.560 --> 00:00:27.109 align:start position:0%
+the method was expecting one argument
+and<00:00:24.880><c> received</c><00:00:25.359><c> zero</c>
+
+00:00:27.109 --> 00:00:27.119 align:start position:0%
+and received zero
+ 
+
+00:00:27.119 --> 00:00:29.189 align:start position:0%
+and received zero
+now<00:00:27.359><c> this</c><00:00:27.599><c> code</c><00:00:28.080><c> looks</c><00:00:28.320><c> very</c><00:00:28.560><c> similar</c><00:00:29.039><c> to</c>
+
+00:00:29.189 --> 00:00:29.199 align:start position:0%
+now this code looks very similar to
+ 
+
+00:00:29.199 --> 00:00:30.470 align:start position:0%
+now this code looks very similar to
+previous<00:00:29.679><c> code</c>
+
+00:00:30.470 --> 00:00:30.480 align:start position:0%
+previous code
+ 
+
+00:00:30.480 --> 00:00:32.310 align:start position:0%
+previous code
+the<00:00:30.640><c> difference</c><00:00:31.119><c> is</c><00:00:31.279><c> that</c><00:00:31.519><c> we</c><00:00:31.679><c> don't</c><00:00:31.920><c> have</c><00:00:32.160><c> an</c>
+
+00:00:32.310 --> 00:00:32.320 align:start position:0%
+the difference is that we don't have an
+ 
+
+00:00:32.320 --> 00:00:34.150 align:start position:0%
+the difference is that we don't have an
+ampersand<00:00:33.120><c> preceding</c>
+
+00:00:34.150 --> 00:00:34.160 align:start position:0%
+ampersand preceding
+ 
+
+00:00:34.160 --> 00:00:37.670 align:start position:0%
+ampersand preceding
+block<00:00:35.440><c> because</c><00:00:35.760><c> of</c><00:00:35.920><c> this</c><00:00:36.320><c> ruby</c><00:00:36.800><c> is</c><00:00:37.040><c> expecting</c>
+
+00:00:37.670 --> 00:00:37.680 align:start position:0%
+block because of this ruby is expecting
+ 
+
+00:00:37.680 --> 00:00:37.990 align:start position:0%
+block because of this ruby is expecting
+for
+
+00:00:37.990 --> 00:00:38.000 align:start position:0%
+for
+ 
+
+00:00:38.000 --> 00:00:40.950 align:start position:0%
+for
+execute<00:00:38.559><c> to</c><00:00:38.800><c> receive</c><00:00:39.360><c> a</c><00:00:39.440><c> regular</c><00:00:40.000><c> argument</c>
+
+00:00:40.950 --> 00:00:40.960 align:start position:0%
+execute to receive a regular argument
+ 
+
+00:00:40.960 --> 00:00:41.270 align:start position:0%
+execute to receive a regular argument
+not
+
+00:00:41.270 --> 00:00:41.280 align:start position:0%
+not
+ 
+
+00:00:41.280 --> 00:00:44.470 align:start position:0%
+not
+a<00:00:41.440><c> block</c><00:00:41.920><c> as</c><00:00:42.160><c> an</c><00:00:42.320><c> argument</c><00:00:43.280><c> so</c><00:00:43.520><c> this</c><00:00:43.760><c> parameter</c>
+
+00:00:44.470 --> 00:00:44.480 align:start position:0%
+a block as an argument so this parameter
+ 
+
+00:00:44.480 --> 00:00:45.029 align:start position:0%
+a block as an argument so this parameter
+block
+
+00:00:45.029 --> 00:00:45.039 align:start position:0%
+block
+ 
+
+00:00:45.039 --> 00:00:47.270 align:start position:0%
+block
+looks<00:00:45.280><c> like</c><00:00:45.600><c> just</c><00:00:45.920><c> any</c><00:00:46.239><c> other</c><00:00:46.480><c> parameter</c><00:00:47.120><c> to</c>
+
+00:00:47.270 --> 00:00:47.280 align:start position:0%
+looks like just any other parameter to
+ 
+
+00:00:47.280 --> 00:00:48.069 align:start position:0%
+looks like just any other parameter to
+ruby
+
+00:00:48.069 --> 00:00:48.079 align:start position:0%
+ruby
+ 
+
+00:00:48.079 --> 00:00:51.029 align:start position:0%
+ruby
+ruby<00:00:48.480><c> is</c><00:00:48.640><c> not</c><00:00:48.879><c> expecting</c><00:00:49.840><c> it</c><00:00:50.079><c> to</c><00:00:50.239><c> represent</c><00:00:50.879><c> a</c>
+
+00:00:51.029 --> 00:00:51.039 align:start position:0%
+ruby is not expecting it to represent a
+ 
+
+00:00:51.039 --> 00:00:54.069 align:start position:0%
+ruby is not expecting it to represent a
+block<00:00:51.440><c> being</c><00:00:51.840><c> passed</c><00:00:52.239><c> in</c>
+
+00:00:54.069 --> 00:00:54.079 align:start position:0%
+block being passed in
+ 
+
+00:00:54.079 --> 00:00:55.590 align:start position:0%
+block being passed in
+and<00:00:54.239><c> that's</c><00:00:54.480><c> why</c><00:00:54.640><c> we're</c><00:00:54.800><c> receiving</c><00:00:55.360><c> an</c>
+
+00:00:55.590 --> 00:00:55.600 align:start position:0%
+and that's why we're receiving an
+ 
+
+00:00:55.600 --> 00:00:57.990 align:start position:0%
+and that's why we're receiving an
+argument<00:00:56.840><c> error</c>
+
+00:00:57.990 --> 00:00:58.000 align:start position:0%
+argument error
+ 
+
+00:00:58.000 --> 00:01:00.709 align:start position:0%
+argument error
+when<00:00:58.239><c> using</c><00:00:58.559><c> an</c><00:00:58.719><c> ampersand</c><00:00:59.600><c> to</c><00:01:00.000><c> define</c><00:01:00.480><c> this</c>
+
+00:01:00.709 --> 00:01:00.719 align:start position:0%
+when using an ampersand to define this
+ 
+
+00:01:00.719 --> 00:01:01.670 align:start position:0%
+when using an ampersand to define this
+parameter
+
+00:01:01.670 --> 00:01:01.680 align:start position:0%
+parameter
+ 
+
+00:01:01.680 --> 00:01:04.310 align:start position:0%
+parameter
+ruby<00:01:02.079><c> knows</c><00:01:02.320><c> that</c><00:01:02.480><c> it's</c><00:01:02.719><c> expecting</c><00:01:03.199><c> a</c><00:01:03.440><c> block</c>
+
+00:01:04.310 --> 00:01:04.320 align:start position:0%
+ruby knows that it's expecting a block
+ 
+
+00:01:04.320 --> 00:01:20.710 align:start position:0%
+ruby knows that it's expecting a block
+and<00:01:04.640><c> now</c><00:01:04.879><c> it</c><00:01:04.960><c> will</c><00:01:05.199><c> run</c><00:01:05.439><c> as</c><00:01:10.840><c> expected</c>
+
+00:01:20.710 --> 00:01:20.720 align:start position:0%
+ 
+ 
+
+00:01:20.720 --> 00:01:22.799 align:start position:0%
+ 
+you
+

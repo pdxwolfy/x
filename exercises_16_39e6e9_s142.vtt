@@ -1,0 +1,400 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.560 --> 00:00:06.309 align:start position:0%
+ 
+we've<00:00:04.799><c> been</c><00:00:04.960><c> given</c><00:00:05.359><c> an</c><00:00:05.520><c> array</c>
+
+00:00:06.309 --> 00:00:06.319 align:start position:0%
+we've been given an array
+ 
+
+00:00:06.319 --> 00:00:10.070 align:start position:0%
+we've been given an array
+each<00:00:06.640><c> element</c><00:00:07.200><c> is</c><00:00:07.359><c> a</c><00:00:07.520><c> string</c><00:00:08.000><c> with</c><00:00:08.320><c> two</c><00:00:08.720><c> words</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+each element is a string with two words
+ 
+
+00:00:10.080 --> 00:00:12.629 align:start position:0%
+each element is a string with two words
+we<00:00:10.240><c> need</c><00:00:10.400><c> to</c><00:00:10.800><c> turn</c><00:00:11.040><c> this</c><00:00:11.280><c> array</c><00:00:11.840><c> into</c><00:00:12.240><c> a</c><00:00:12.400><c> new</c>
+
+00:00:12.629 --> 00:00:12.639 align:start position:0%
+we need to turn this array into a new
+ 
+
+00:00:12.639 --> 00:00:13.910 align:start position:0%
+we need to turn this array into a new
+array<00:00:12.960><c> of</c><00:00:13.120><c> strings</c>
+
+00:00:13.910 --> 00:00:13.920 align:start position:0%
+array of strings
+ 
+
+00:00:13.920 --> 00:00:16.710 align:start position:0%
+array of strings
+where<00:00:14.240><c> each</c><00:00:14.480><c> element</c><00:00:14.960><c> is</c><00:00:15.200><c> one</c><00:00:15.519><c> word</c><00:00:16.240><c> so</c><00:00:16.560><c> we</c>
+
+00:00:16.710 --> 00:00:16.720 align:start position:0%
+where each element is one word so we
+ 
+
+00:00:16.720 --> 00:00:19.349 align:start position:0%
+where each element is one word so we
+know<00:00:16.960><c> we</c><00:00:17.119><c> want</c><00:00:17.520><c> to</c><00:00:17.760><c> do</c><00:00:18.000><c> some</c><00:00:18.320><c> transformation</c>
+
+00:00:19.349 --> 00:00:19.359 align:start position:0%
+know we want to do some transformation
+ 
+
+00:00:19.359 --> 00:00:20.310 align:start position:0%
+know we want to do some transformation
+here
+
+00:00:20.310 --> 00:00:20.320 align:start position:0%
+here
+ 
+
+00:00:20.320 --> 00:00:22.390 align:start position:0%
+here
+and<00:00:20.800><c> that</c><00:00:20.960><c> tells</c><00:00:21.279><c> us</c><00:00:21.439><c> that</c><00:00:21.600><c> we</c><00:00:21.760><c> may</c><00:00:22.000><c> want</c><00:00:22.240><c> to</c>
+
+00:00:22.390 --> 00:00:22.400 align:start position:0%
+and that tells us that we may want to
+ 
+
+00:00:22.400 --> 00:00:23.590 align:start position:0%
+and that tells us that we may want to
+use<00:00:22.720><c> the</c><00:00:23.119><c> map</c>
+
+00:00:23.590 --> 00:00:23.600 align:start position:0%
+use the map
+ 
+
+00:00:23.600 --> 00:00:29.189 align:start position:0%
+use the map
+method<00:00:25.519><c> so</c><00:00:25.680><c> let's</c><00:00:26.000><c> invoke</c><00:00:26.480><c> map</c><00:00:26.800><c> on</c><00:00:26.960><c> our</c><00:00:27.119><c> array</c>
+
+00:00:29.189 --> 00:00:29.199 align:start position:0%
+method so let's invoke map on our array
+ 
+
+00:00:29.199 --> 00:00:31.750 align:start position:0%
+method so let's invoke map on our array
+and<00:00:29.439><c> we'll</c><00:00:29.599><c> name</c><00:00:29.840><c> our</c><00:00:29.920><c> block</c><00:00:30.320><c> parameter</c><00:00:31.119><c> pairs</c>
+
+00:00:31.750 --> 00:00:31.760 align:start position:0%
+and we'll name our block parameter pairs
+ 
+
+00:00:31.760 --> 00:00:33.990 align:start position:0%
+and we'll name our block parameter pairs
+as<00:00:31.920><c> we</c><00:00:32.079><c> have</c><00:00:32.320><c> pairs</c><00:00:32.800><c> of</c><00:00:33.040><c> words</c><00:00:33.520><c> that</c><00:00:33.680><c> will</c><00:00:33.840><c> be</c>
+
+00:00:33.990 --> 00:00:34.000 align:start position:0%
+as we have pairs of words that will be
+ 
+
+00:00:34.000 --> 00:00:34.870 align:start position:0%
+as we have pairs of words that will be
+passed<00:00:34.399><c> in</c>
+
+00:00:34.870 --> 00:00:34.880 align:start position:0%
+passed in
+ 
+
+00:00:34.880 --> 00:00:37.990 align:start position:0%
+passed in
+and<00:00:35.040><c> we</c><00:00:35.280><c> simply</c><00:00:35.680><c> want</c><00:00:35.920><c> to</c><00:00:36.719><c> split</c>
+
+00:00:37.990 --> 00:00:38.000 align:start position:0%
+and we simply want to split
+ 
+
+00:00:38.000 --> 00:00:41.990 align:start position:0%
+and we simply want to split
+each<00:00:38.399><c> pair</c><00:00:38.640><c> of</c><00:00:38.879><c> words</c><00:00:39.920><c> into</c><00:00:40.320><c> individual</c><00:00:41.040><c> words</c>
+
+00:00:41.990 --> 00:00:42.000 align:start position:0%
+each pair of words into individual words
+ 
+
+00:00:42.000 --> 00:00:44.229 align:start position:0%
+each pair of words into individual words
+we<00:00:42.160><c> can</c><00:00:42.320><c> do</c><00:00:42.480><c> that</c><00:00:42.719><c> with</c><00:00:42.879><c> the</c><00:00:43.120><c> string</c><00:00:43.840><c> split</c>
+
+00:00:44.229 --> 00:00:44.239 align:start position:0%
+we can do that with the string split
+ 
+
+00:00:44.239 --> 00:00:46.389 align:start position:0%
+we can do that with the string split
+method
+
+00:00:46.389 --> 00:00:46.399 align:start position:0%
+method
+ 
+
+00:00:46.399 --> 00:00:48.310 align:start position:0%
+method
+without<00:00:46.800><c> an</c><00:00:47.039><c> argument</c><00:00:47.440><c> this</c><00:00:47.680><c> is</c><00:00:47.760><c> simply</c><00:00:48.160><c> going</c>
+
+00:00:48.310 --> 00:00:48.320 align:start position:0%
+without an argument this is simply going
+ 
+
+00:00:48.320 --> 00:00:51.590 align:start position:0%
+without an argument this is simply going
+to<00:00:48.559><c> split</c><00:00:48.960><c> on</c><00:00:49.120><c> the</c><00:00:49.280><c> white</c><00:00:49.520><c> space</c>
+
+00:00:51.590 --> 00:00:51.600 align:start position:0%
+to split on the white space
+ 
+
+00:00:51.600 --> 00:00:54.950 align:start position:0%
+to split on the white space
+so<00:00:52.000><c> let's</c><00:00:52.320><c> first</c><00:00:52.719><c> output</c><00:00:53.120><c> this</c><00:00:54.480><c> and</c><00:00:54.640><c> see</c><00:00:54.800><c> what</c>
+
+00:00:54.950 --> 00:00:54.960 align:start position:0%
+so let's first output this and see what
+ 
+
+00:00:54.960 --> 00:00:59.910 align:start position:0%
+so let's first output this and see what
+our<00:00:55.120><c> array</c><00:00:55.440><c> looks</c><00:00:55.680><c> like</c><00:00:56.840><c> now</c>
+
+00:00:59.910 --> 00:00:59.920 align:start position:0%
+ 
+ 
+
+00:00:59.920 --> 00:01:02.709 align:start position:0%
+ 
+so<00:01:00.160><c> now</c><00:01:00.320><c> we</c><00:01:00.559><c> see</c><00:01:00.879><c> a</c><00:01:01.120><c> two-dimensional</c><00:01:01.920><c> array</c>
+
+00:01:02.709 --> 00:01:02.719 align:start position:0%
+so now we see a two-dimensional array
+ 
+
+00:01:02.719 --> 00:01:06.550 align:start position:0%
+so now we see a two-dimensional array
+and<00:01:03.039><c> each</c><00:01:03.359><c> sub-array</c><00:01:04.000><c> is</c><00:01:04.159><c> an</c><00:01:04.320><c> array</c><00:01:04.799><c> of</c><00:01:04.960><c> words</c>
+
+00:01:06.550 --> 00:01:06.560 align:start position:0%
+and each sub-array is an array of words
+ 
+
+00:01:06.560 --> 00:01:09.030 align:start position:0%
+and each sub-array is an array of words
+so<00:01:06.720><c> we've</c><00:01:06.960><c> successfully</c><00:01:07.840><c> split</c><00:01:08.320><c> our</c><00:01:08.560><c> pairs</c><00:01:08.880><c> of</c>
+
+00:01:09.030 --> 00:01:09.040 align:start position:0%
+so we've successfully split our pairs of
+ 
+
+00:01:09.040 --> 00:01:11.510 align:start position:0%
+so we've successfully split our pairs of
+words<00:01:09.520><c> into</c><00:01:09.760><c> single</c><00:01:10.159><c> words</c>
+
+00:01:11.510 --> 00:01:11.520 align:start position:0%
+words into single words
+ 
+
+00:01:11.520 --> 00:01:13.350 align:start position:0%
+words into single words
+but<00:01:11.760><c> we</c><00:01:11.920><c> don't</c><00:01:12.159><c> want</c><00:01:12.400><c> a</c><00:01:12.640><c> two-dimensional</c>
+
+00:01:13.350 --> 00:01:13.360 align:start position:0%
+but we don't want a two-dimensional
+ 
+
+00:01:13.360 --> 00:01:16.149 align:start position:0%
+but we don't want a two-dimensional
+array<00:01:14.479><c> before</c><00:01:14.880><c> we</c><00:01:15.040><c> do</c><00:01:15.200><c> anything</c><00:01:15.680><c> else</c>
+
+00:01:16.149 --> 00:01:16.159 align:start position:0%
+array before we do anything else
+ 
+
+00:01:16.159 --> 00:01:19.350 align:start position:0%
+array before we do anything else
+let's<00:01:16.479><c> reassign</c><00:01:17.200><c> a</c><00:01:17.920><c> to</c><00:01:18.080><c> the</c><00:01:18.240><c> return</c><00:01:18.720><c> value</c>
+
+00:01:19.350 --> 00:01:19.360 align:start position:0%
+let's reassign a to the return value
+ 
+
+00:01:19.360 --> 00:01:22.390 align:start position:0%
+let's reassign a to the return value
+of<00:01:19.520><c> this</c><00:01:19.759><c> invocation</c><00:01:20.320><c> of</c><00:01:20.560><c> map</c>
+
+00:01:22.390 --> 00:01:22.400 align:start position:0%
+of this invocation of map
+ 
+
+00:01:22.400 --> 00:01:24.630 align:start position:0%
+of this invocation of map
+so<00:01:22.720><c> now</c><00:01:23.119><c> a</c><00:01:23.439><c> points</c><00:01:23.840><c> to</c><00:01:24.000><c> this</c><00:01:24.320><c> new</c>
+
+00:01:24.630 --> 00:01:24.640 align:start position:0%
+so now a points to this new
+ 
+
+00:01:24.640 --> 00:01:27.749 align:start position:0%
+so now a points to this new
+two-dimensional<00:01:25.439><c> array</c>
+
+00:01:27.749 --> 00:01:27.759 align:start position:0%
+two-dimensional array
+ 
+
+00:01:27.759 --> 00:01:29.830 align:start position:0%
+two-dimensional array
+now<00:01:28.080><c> as</c><00:01:28.240><c> the</c><00:01:28.400><c> problem</c><00:01:28.799><c> description</c><00:01:29.360><c> suggests</c>
+
+00:01:29.830 --> 00:01:29.840 align:start position:0%
+now as the problem description suggests
+ 
+
+00:01:29.840 --> 00:01:32.550 align:start position:0%
+now as the problem description suggests
+there<00:01:30.000><c> is</c><00:01:30.159><c> a</c><00:01:30.240><c> very</c><00:01:30.560><c> useful</c><00:01:31.040><c> array</c><00:01:31.520><c> method</c>
+
+00:01:32.550 --> 00:01:32.560 align:start position:0%
+there is a very useful array method
+ 
+
+00:01:32.560 --> 00:01:35.270 align:start position:0%
+there is a very useful array method
+to<00:01:32.960><c> transform</c><00:01:33.600><c> a</c><00:01:33.799><c> multi-dimensional</c><00:01:34.880><c> array</c>
+
+00:01:35.270 --> 00:01:35.280 align:start position:0%
+to transform a multi-dimensional array
+ 
+
+00:01:35.280 --> 00:01:38.149 align:start position:0%
+to transform a multi-dimensional array
+into<00:01:35.600><c> a</c><00:01:35.680><c> one-dimensional</c><00:01:36.560><c> array</c>
+
+00:01:38.149 --> 00:01:38.159 align:start position:0%
+into a one-dimensional array
+ 
+
+00:01:38.159 --> 00:01:42.310 align:start position:0%
+into a one-dimensional array
+and<00:01:38.320><c> that</c><00:01:38.560><c> is</c><00:01:38.720><c> the</c><00:01:38.880><c> array</c><00:01:39.840><c> method</c>
+
+00:01:42.310 --> 00:01:42.320 align:start position:0%
+ 
+ 
+
+00:01:42.320 --> 00:01:45.270 align:start position:0%
+ 
+so<00:01:42.479><c> let's</c><00:01:42.720><c> again</c><00:01:43.200><c> reassign</c><00:01:43.920><c> a</c><00:01:44.479><c> to</c><00:01:44.640><c> the</c><00:01:44.799><c> return</c>
+
+00:01:45.270 --> 00:01:45.280 align:start position:0%
+so let's again reassign a to the return
+ 
+
+00:01:45.280 --> 00:01:48.550 align:start position:0%
+so let's again reassign a to the return
+value<00:01:45.759><c> of</c><00:01:46.000><c> invoking</c><00:01:46.399><c> the</c><00:01:46.560><c> flatten</c><00:01:47.040><c> method</c>
+
+00:01:48.550 --> 00:01:48.560 align:start position:0%
+value of invoking the flatten method
+ 
+
+00:01:48.560 --> 00:01:51.030 align:start position:0%
+value of invoking the flatten method
+this<00:01:48.799><c> method</c><00:01:49.200><c> returns</c><00:01:49.759><c> a</c><00:01:50.000><c> new</c><00:01:50.240><c> array</c><00:01:50.880><c> which</c>
+
+00:01:51.030 --> 00:01:51.040 align:start position:0%
+this method returns a new array which
+ 
+
+00:01:51.040 --> 00:01:52.710 align:start position:0%
+this method returns a new array which
+will<00:01:51.200><c> be</c><00:01:51.520><c> one-dimensional</c>
+
+00:01:52.710 --> 00:01:52.720 align:start position:0%
+will be one-dimensional
+ 
+
+00:01:52.720 --> 00:01:59.190 align:start position:0%
+will be one-dimensional
+on<00:01:52.960><c> line</c><00:01:53.280><c> six</c><00:01:53.520><c> will</c><00:01:53.840><c> output</c><00:01:54.320><c> a</c>
+
+00:01:59.190 --> 00:01:59.200 align:start position:0%
+ 
+ 
+
+00:01:59.200 --> 00:02:01.749 align:start position:0%
+ 
+and<00:01:59.360><c> as</c><00:01:59.520><c> you</c><00:01:59.680><c> can</c><00:01:59.840><c> see</c><00:02:00.479><c> this</c><00:02:01.040><c> one-dimensional</c>
+
+00:02:01.749 --> 00:02:01.759 align:start position:0%
+and as you can see this one-dimensional
+ 
+
+00:02:01.759 --> 00:02:02.950 align:start position:0%
+and as you can see this one-dimensional
+array<00:02:02.240><c> contains</c>
+
+00:02:02.950 --> 00:02:02.960 align:start position:0%
+array contains
+ 
+
+00:02:02.960 --> 00:02:04.870 align:start position:0%
+array contains
+all<00:02:03.119><c> of</c><00:02:03.280><c> the</c><00:02:03.439><c> elements</c><00:02:03.920><c> that</c><00:02:04.079><c> were</c><00:02:04.320><c> in</c><00:02:04.560><c> our</c>
+
+00:02:04.870 --> 00:02:04.880 align:start position:0%
+all of the elements that were in our
+ 
+
+00:02:04.880 --> 00:02:06.550 align:start position:0%
+all of the elements that were in our
+two-dimensional<00:02:05.600><c> array</c>
+
+00:02:06.550 --> 00:02:06.560 align:start position:0%
+two-dimensional array
+ 
+
+00:02:06.560 --> 00:02:09.190 align:start position:0%
+two-dimensional array
+but<00:02:06.799><c> it</c><00:02:06.960><c> has</c><00:02:07.119><c> simply</c><00:02:07.600><c> flattened</c><00:02:08.080><c> the</c><00:02:08.239><c> array</c>
+
+00:02:09.190 --> 00:02:09.200 align:start position:0%
+but it has simply flattened the array
+ 
+
+00:02:09.200 --> 00:02:09.869 align:start position:0%
+but it has simply flattened the array
+from<00:02:09.440><c> being</c>
+
+00:02:09.869 --> 00:02:09.879 align:start position:0%
+from being
+ 
+
+00:02:09.879 --> 00:02:15.500 align:start position:0%
+from being
+multi-dimensional<00:02:11.520><c> into</c><00:02:12.000><c> a</c><00:02:12.239><c> one-dimensional</c>
+
+00:02:15.500 --> 00:02:15.510 align:start position:0%
+ 
+ 
+
+00:02:15.510 --> 00:02:20.830 align:start position:0%
+ 
+[Music]
+
+00:02:20.830 --> 00:02:20.840 align:start position:0%
+ 
+ 
+
+00:02:20.840 --> 00:02:23.840 align:start position:0%
+ 
+array
+

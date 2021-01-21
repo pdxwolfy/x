@@ -1,0 +1,105 @@
+0:00:03.439,0:00:06.879
+this exercise is similar to the previous
+
+0:00:06.000,0:00:09.360
+one
+
+0:00:06.879,0:00:10.080
+however this time we want to alter our
+
+0:00:09.360,0:00:12.320
+code
+
+0:00:10.080,0:00:13.200
+so that we only print out values that
+
+0:00:12.320,0:00:16.480
+are greater than
+
+0:00:13.200,0:00:18.000
+five so in this case we want to output
+
+0:00:16.480,0:00:20.720
+only 6 through 10
+
+0:00:18.000,0:00:23.279
+instead of 1 through 10. we can do this
+
+0:00:20.720,0:00:26.720
+with a simple if statement
+
+0:00:23.279,0:00:26.720
+so inside of the block
+
+0:00:28.000,0:00:32.559
+we'll write an if statement and the
+
+0:00:30.480,0:00:34.079
+condition that we need to provide our if
+
+0:00:32.559,0:00:38.559
+statement in this case
+
+0:00:34.079,0:00:40.640
+is number is greater than 5.
+
+0:00:38.559,0:00:43.200
+this comparison is going to return
+
+0:00:40.640,0:00:46.640
+either true or false
+
+0:00:43.200,0:00:47.760
+if it returns true line 5 will be
+
+0:00:46.640,0:00:51.520
+executed
+
+0:00:47.760,0:00:54.960
+and we'll output the number otherwise
+
+0:00:51.520,0:00:59.840
+there will be no output so we can run
+
+0:00:54.960,0:00:59.840
+our code and see this
+
+0:01:00.239,0:01:05.600
+and we see that only 6 7 8 9 and 10
+
+0:01:03.760,0:01:08.000
+the numbers greater than 5 have been
+
+0:01:05.600,0:01:08.000
+output
+
+0:01:11.200,0:01:14.799
+this block can also be written on one
+
+0:01:13.600,0:01:18.479
+line
+
+0:01:14.799,0:01:18.479
+and let's see an example of that
+
+0:01:21.119,0:01:24.400
+rather than writing a multi-line if
+
+0:01:23.280,0:01:28.880
+statement
+
+0:01:24.400,0:01:28.880
+we can use if as a statement modifier
+
+0:01:28.960,0:01:36.720
+so we want to output number if
+
+0:01:33.200,0:01:36.720
+number is greater than five
+
+0:01:36.960,0:01:41.840
+and we'll run our code to see the same
+
+0:01:38.840,0:01:41.840
+behavior
+

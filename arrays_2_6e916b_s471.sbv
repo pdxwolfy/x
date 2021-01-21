@@ -1,0 +1,513 @@
+0:00:04.000,0:00:08.639
+this exercise has given us
+
+0:00:06.080,0:00:11.120
+two programs and we need to determine
+
+0:00:08.639,0:00:15.120
+what each one will return
+
+0:00:11.120,0:00:17.840
+and what the value of r is going to be
+
+0:00:15.120,0:00:18.720
+so you can see on line one we initialize
+
+0:00:17.840,0:00:22.560
+an array
+
+0:00:18.720,0:00:27.279
+r and it contains two strings
+
+0:00:22.560,0:00:29.920
+b and a and we're going to hop into irb
+
+0:00:27.279,0:00:32.320
+to examine the code on lines two and
+
+0:00:29.920,0:00:32.320
+three
+
+0:00:33.520,0:00:38.800
+so i'll hop into irb and i'm going to
+
+0:00:35.600,0:00:38.800
+paste in that array
+
+0:00:39.280,0:00:44.800
+now looking at line two you can see that
+
+0:00:42.000,0:00:46.000
+we first call the product method on this
+
+0:00:44.800,0:00:48.960
+array
+
+0:00:46.000,0:00:49.680
+and we pass in some other code as an
+
+0:00:48.960,0:00:52.719
+argument
+
+0:00:49.680,0:00:54.480
+that may not look familiar to you let's
+
+0:00:52.719,0:00:59.840
+just run this code in irb
+
+0:00:54.480,0:00:59.840
+and see what it does
+
+0:01:01.120,0:01:05.119
+you can see that it returns an array of
+
+0:01:04.320,0:01:08.400
+integers
+
+0:01:05.119,0:01:11.840
+in the range provided so in this case 1
+
+0:01:08.400,0:01:14.000
+2 and 3. so when thinking about what the
+
+0:01:11.840,0:01:15.119
+argument to the product method on line
+
+0:01:14.000,0:01:16.960
+two will be
+
+0:01:15.119,0:01:19.520
+it's going to be an array of the
+
+0:01:16.960,0:01:21.119
+integers one two and three
+
+0:01:19.520,0:01:23.119
+the next question we need to ask
+
+0:01:21.119,0:01:25.119
+ourselves is what does the product
+
+0:01:23.119,0:01:27.200
+method do
+
+0:01:25.119,0:01:29.200
+this would be a good time to check out
+
+0:01:27.200,0:01:32.000
+the array documentation
+
+0:01:29.200,0:01:33.920
+and take a look at the product method as
+
+0:01:32.000,0:01:36.960
+you'll see in the documentation
+
+0:01:33.920,0:01:39.360
+the product method returns an array of
+
+0:01:36.960,0:01:40.960
+all combinations of elements from all
+
+0:01:39.360,0:01:43.200
+arrays
+
+0:01:40.960,0:01:44.640
+so on line two when we invoke the
+
+0:01:43.200,0:01:47.759
+product method
+
+0:01:44.640,0:01:50.880
+we return a new array containing
+
+0:01:47.759,0:01:54.240
+all combinations of our array
+
+0:01:50.880,0:01:57.439
+r and the array passed in as an argument
+
+0:01:54.240,0:01:58.240
+of the integers 1 2 and 3 and we
+
+0:01:57.439,0:02:02.000
+reassign
+
+0:01:58.240,0:02:04.159
+r to this new array so let's take a look
+
+0:02:02.000,0:02:07.360
+at this code
+
+0:02:04.159,0:02:10.479
+we'll reassign r to the new array
+
+0:02:07.360,0:02:12.879
+returned by calling product
+
+0:02:10.479,0:02:12.879
+on r
+
+0:02:17.040,0:02:23.840
+and we pass in this code as an argument
+
+0:02:19.360,0:02:23.840
+which generates a new array
+
+0:02:25.040,0:02:29.520
+you can see the returned array this is a
+
+0:02:27.440,0:02:30.560
+two-dimensional array it's an array of
+
+0:02:29.520,0:02:32.720
+arrays
+
+0:02:30.560,0:02:33.840
+and each of these sub-arrays contains
+
+0:02:32.720,0:02:37.120
+two elements
+
+0:02:33.840,0:02:39.040
+a string and an integer so now that
+
+0:02:37.120,0:02:40.959
+we've determined what line two will do
+
+0:02:39.040,0:02:43.440
+let's take a look at line three of the
+
+0:02:40.959,0:02:47.120
+exercise
+
+0:02:43.440,0:02:49.120
+we call the first method on r
+
+0:02:47.120,0:02:52.319
+and we can see what that returns by just
+
+0:02:49.120,0:02:52.319
+testing it out in irb
+
+0:02:54.959,0:02:58.080
+first returns the first element of the
+
+0:02:57.120,0:03:01.200
+calling array
+
+0:02:58.080,0:03:03.599
+which in this case is also an array
+
+0:03:01.200,0:03:04.319
+and looking at line three you can see
+
+0:03:03.599,0:03:08.560
+that we
+
+0:03:04.319,0:03:10.239
+invoke the delete method on this element
+
+0:03:08.560,0:03:13.280
+again this is a good time to look at
+
+0:03:10.239,0:03:16.879
+ruby's array documentation
+
+0:03:13.280,0:03:18.159
+the delete method will delete all items
+
+0:03:16.879,0:03:21.200
+from the calling array
+
+0:03:18.159,0:03:23.440
+that are equal to the argument
+
+0:03:21.200,0:03:25.200
+and importantly it will return the
+
+0:03:23.440,0:03:27.280
+deleted item
+
+0:03:25.200,0:03:28.799
+so let's look at what argument we passed
+
+0:03:27.280,0:03:30.239
+to the delete method
+
+0:03:28.799,0:03:32.159
+we've chained a couple of methods
+
+0:03:30.239,0:03:35.680
+together here
+
+0:03:32.159,0:03:39.680
+we already saw what our first returns
+
+0:03:35.680,0:03:43.280
+which is an array of two elements
+
+0:03:39.680,0:03:44.560
+on line three we also chain on a call to
+
+0:03:43.280,0:03:47.680
+last
+
+0:03:44.560,0:03:48.720
+and this will return the last element of
+
+0:03:47.680,0:03:51.760
+this array
+
+0:03:48.720,0:03:55.200
+so that will be the integer one so
+
+0:03:51.760,0:03:55.200
+running our code all together
+
+0:03:56.560,0:04:00.000
+we're going to invoke the delete method
+
+0:03:59.519,0:04:03.360
+on the
+
+0:04:00.000,0:04:03.360
+first sub-array in r
+
+0:04:07.280,0:04:12.720
+this code will return the deleted item
+
+0:04:09.439,0:04:16.079
+which will be the integer one
+
+0:04:12.720,0:04:16.799
+and it does now that we've deleted that
+
+0:04:16.079,0:04:19.840
+item from
+
+0:04:16.799,0:04:22.479
+r we expect that the first subarray in
+
+0:04:19.840,0:04:25.040
+r will contain only one element the
+
+0:04:22.479,0:04:25.040
+string b
+
+0:04:27.440,0:04:34.320
+and it does so i'm going to
+
+0:04:30.639,0:04:34.320
+clear out this irb session
+
+0:04:36.479,0:04:41.600
+and go over to our code
+
+0:04:39.520,0:04:44.960
+let's comment out this first program and
+
+0:04:41.600,0:04:44.960
+take a look at the second one
+
+0:04:45.040,0:04:48.080
+again in the second program we've
+
+0:04:47.120,0:04:51.280
+initialized
+
+0:04:48.080,0:04:53.600
+r with two strings b and a
+
+0:04:51.280,0:04:55.040
+and this code looks very similar to what
+
+0:04:53.600,0:04:58.800
+we just looked at
+
+0:04:55.040,0:05:02.240
+but there is one small difference
+
+0:04:58.800,0:05:02.240
+let's hop back into irb
+
+0:05:04.880,0:05:10.479
+i'll paste in our array now the second
+
+0:05:08.320,0:05:12.560
+line of the code that we were given
+
+0:05:10.479,0:05:14.479
+looks a little bit different than the
+
+0:05:12.560,0:05:17.039
+last program
+
+0:05:14.479,0:05:20.080
+the difference here is that we have
+
+0:05:17.039,0:05:20.080
+square brackets
+
+0:05:21.680,0:05:27.280
+around this code that we use as an
+
+0:05:23.600,0:05:27.280
+argument to the product method
+
+0:05:28.240,0:05:31.840
+what this does is it wraps the return
+
+0:05:31.039,0:05:34.560
+value
+
+0:05:31.840,0:05:35.520
+of generating an array of elements 1 to
+
+0:05:34.560,0:05:38.720
+3
+
+0:05:35.520,0:05:39.919
+into an array itself the subarray has
+
+0:05:38.720,0:05:43.440
+three elements
+
+0:05:39.919,0:05:45.840
+the integers one two and three
+
+0:05:43.440,0:05:46.560
+so let's take a look at how this is
+
+0:05:45.840,0:05:50.400
+going to
+
+0:05:46.560,0:05:50.400
+affect our invocation of the product
+
+0:05:50.840,0:05:53.840
+method
+
+0:05:54.320,0:05:57.919
+we'll invoke product on r
+
+0:06:04.080,0:06:08.319
+and now we see that the returned array
+
+0:06:06.080,0:06:10.880
+is three levels deep
+
+0:06:08.319,0:06:12.000
+we have an outer array which contains
+
+0:06:10.880,0:06:14.639
+two elements
+
+0:06:12.000,0:06:15.680
+both of which are arrays each of those
+
+0:06:14.639,0:06:18.639
+two sub-arrays
+
+0:06:15.680,0:06:19.520
+also contains two elements one is a
+
+0:06:18.639,0:06:23.280
+string
+
+0:06:19.520,0:06:26.240
+and one is another array finally let's
+
+0:06:23.280,0:06:30.800
+look at the last line of this program
+
+0:06:26.240,0:06:30.800
+again we call first on r
+
+0:06:31.600,0:06:35.280
+and when we do that we can see that the
+
+0:06:33.759,0:06:38.720
+first element of r
+
+0:06:35.280,0:06:41.039
+is this two element subarray now as an
+
+0:06:38.720,0:06:43.840
+argument to delete in this line of code
+
+0:06:41.039,0:06:43.840
+we pass in
+
+0:06:45.360,0:06:50.800
+r first and then we chain on a method
+
+0:06:49.360,0:06:52.960
+call to last
+
+0:06:50.800,0:06:54.319
+this is going to return the subarray
+
+0:06:52.960,0:06:57.759
+that contains the elements
+
+0:06:54.319,0:07:00.000
+1 2 and 3.
+
+0:06:57.759,0:07:01.360
+so we are going to delete the last
+
+0:07:00.000,0:07:04.479
+element from the
+
+0:07:01.360,0:07:08.479
+first element of r
+
+0:07:04.479,0:07:08.479
+so let's run this whole line of code
+
+0:07:09.199,0:07:13.919
+remember that delete will return the
+
+0:07:11.039,0:07:13.919
+deleted item
+
+0:07:15.199,0:07:20.720
+so we expect that this code will return
+
+0:07:18.240,0:07:23.039
+the array with the integers one two and
+
+0:07:20.720,0:07:23.039
+three
+
+0:07:23.120,0:07:28.479
+and now we'll see that r still contains
+
+0:07:25.680,0:07:28.479
+two elements
+
+0:07:28.720,0:07:32.479
+however the first element the first
+
+0:07:31.599,0:07:36.319
+subarray
+
+0:07:32.479,0:07:36.319
+now contains only one element
+
+0:07:36.560,0:07:39.759
+this code may have felt a little bit
+
+0:07:38.400,0:07:41.720
+difficult to parse
+
+0:07:39.759,0:07:42.960
+don't hesitate to check out the
+
+0:07:41.720,0:07:53.280
+documentation
+
+0:07:42.960,0:07:53.280
+and test code out in irb
+

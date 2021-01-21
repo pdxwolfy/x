@@ -1,0 +1,84 @@
+0:00:04.799,0:00:08.480
+this exercise
+
+0:00:05.759,0:00:09.519
+asks us whether hash values can be
+
+0:00:08.480,0:00:11.360
+arrays
+
+0:00:09.519,0:00:14.240
+and whether we can have an array of
+
+0:00:11.360,0:00:17.199
+hashes so let's hop into irb
+
+0:00:14.240,0:00:19.279
+and experiment with this let's write a
+
+0:00:17.199,0:00:23.199
+hash
+
+0:00:19.279,0:00:24.880
+and our key will be names now this value
+
+0:00:23.199,0:00:30.480
+can be an array
+
+0:00:24.880,0:00:32.640
+so let's give it an array of strings
+
+0:00:30.480,0:00:34.559
+here you can see we've got a hash with
+
+0:00:32.640,0:00:36.640
+one key value pair
+
+0:00:34.559,0:00:40.239
+the key is the symbol names and the
+
+0:00:36.640,0:00:40.239
+value is an array of strings
+
+0:00:40.399,0:00:47.280
+now let's take a look at an array of
+
+0:00:42.840,0:00:47.280
+hashes so i'll write out an array
+
+0:00:49.280,0:00:55.680
+and let's give it several hashes with
+
+0:00:52.399,0:00:55.680
+one key value pair
+
+0:00:56.640,0:01:01.520
+each one of these will have a symbol as
+
+0:00:58.960,0:01:01.520
+the key
+
+0:01:02.239,0:01:05.680
+and a string as the value
+
+0:01:08.560,0:01:12.080
+so now we've got a three element array
+
+0:01:10.560,0:01:14.720
+and each of those elements
+
+0:01:12.080,0:01:14.720
+is a hash
+
+0:01:15.360,0:01:21.439
+so this is definitely possible and
+
+0:01:17.439,0:01:21.439
+you'll see nested collections like this
+
+0:01:24.840,0:01:29.920
+frequently
+
+0:01:27.840,0:01:29.920
+you
+

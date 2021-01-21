@@ -1,0 +1,400 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.760 --> 00:00:05.670 align:start position:0%
+ 
+we've<00:00:04.000><c> been</c><00:00:04.160><c> given</c><00:00:04.560><c> an</c><00:00:04.720><c> array</c><00:00:05.200><c> which</c><00:00:05.359><c> you</c><00:00:05.520><c> can</c>
+
+00:00:05.670 --> 00:00:05.680 align:start position:0%
+we've been given an array which you can
+ 
+
+00:00:05.680 --> 00:00:06.389 align:start position:0%
+we've been given an array which you can
+see<00:00:05.839><c> on</c><00:00:06.000><c> line</c>
+
+00:00:06.389 --> 00:00:06.399 align:start position:0%
+see on line
+ 
+
+00:00:06.399 --> 00:00:09.430 align:start position:0%
+see on line
+one<00:00:07.440><c> and</c><00:00:07.600><c> then</c><00:00:07.839><c> we've</c><00:00:08.080><c> been</c><00:00:08.320><c> given</c><00:00:09.040><c> three</c>
+
+00:00:09.430 --> 00:00:09.440 align:start position:0%
+one and then we've been given three
+ 
+
+00:00:09.440 --> 00:00:10.950 align:start position:0%
+one and then we've been given three
+method<00:00:09.920><c> calls</c>
+
+00:00:10.950 --> 00:00:10.960 align:start position:0%
+method calls
+ 
+
+00:00:10.960 --> 00:00:13.589 align:start position:0%
+method calls
+on<00:00:11.120><c> lines</c><00:00:11.519><c> three</c><00:00:11.840><c> five</c><00:00:12.160><c> and</c><00:00:12.400><c> seven</c><00:00:13.280><c> and</c><00:00:13.440><c> we</c>
+
+00:00:13.589 --> 00:00:13.599 align:start position:0%
+on lines three five and seven and we
+ 
+
+00:00:13.599 --> 00:00:15.270 align:start position:0%
+on lines three five and seven and we
+need<00:00:13.759><c> to</c><00:00:13.920><c> determine</c><00:00:14.320><c> what</c><00:00:14.559><c> each</c><00:00:14.799><c> method</c><00:00:15.120><c> will</c>
+
+00:00:15.270 --> 00:00:15.280 align:start position:0%
+need to determine what each method will
+ 
+
+00:00:15.280 --> 00:00:17.109 align:start position:0%
+need to determine what each method will
+return
+
+00:00:17.109 --> 00:00:17.119 align:start position:0%
+return
+ 
+
+00:00:17.119 --> 00:00:20.520 align:start position:0%
+return
+so<00:00:17.359><c> let's</c><00:00:17.600><c> paste</c><00:00:17.840><c> this</c><00:00:18.080><c> array</c><00:00:18.400><c> into</c><00:00:18.640><c> irb</c>
+
+00:00:20.520 --> 00:00:20.530 align:start position:0%
+so let's paste this array into irb
+ 
+
+00:00:20.530 --> 00:00:22.230 align:start position:0%
+so let's paste this array into irb
+[Music]
+
+00:00:22.230 --> 00:00:22.240 align:start position:0%
+[Music]
+ 
+
+00:00:22.240 --> 00:00:24.310 align:start position:0%
+[Music]
+now<00:00:22.400><c> the</c><00:00:22.560><c> first</c><00:00:22.800><c> method</c><00:00:23.199><c> we</c><00:00:23.359><c> see</c><00:00:23.600><c> is</c><00:00:23.680><c> the</c><00:00:23.920><c> index</c>
+
+00:00:24.310 --> 00:00:24.320 align:start position:0%
+now the first method we see is the index
+ 
+
+00:00:24.320 --> 00:00:26.630 align:start position:0%
+now the first method we see is the index
+method<00:00:24.960><c> this</c><00:00:25.199><c> method</c><00:00:25.599><c> is</c><00:00:25.760><c> going</c><00:00:26.000><c> to</c><00:00:26.240><c> return</c>
+
+00:00:26.630 --> 00:00:26.640 align:start position:0%
+method this method is going to return
+ 
+
+00:00:26.640 --> 00:00:26.950 align:start position:0%
+method this method is going to return
+the
+
+00:00:26.950 --> 00:00:26.960 align:start position:0%
+the
+ 
+
+00:00:26.960 --> 00:00:30.310 align:start position:0%
+the
+index<00:00:27.920><c> of</c><00:00:28.160><c> the</c><00:00:28.320><c> first</c><00:00:28.800><c> object</c><00:00:29.359><c> in</c><00:00:29.519><c> the</c><00:00:29.679><c> array</c>
+
+00:00:30.310 --> 00:00:30.320 align:start position:0%
+index of the first object in the array
+ 
+
+00:00:30.320 --> 00:00:33.750 align:start position:0%
+index of the first object in the array
+that<00:00:30.640><c> is</c><00:00:30.880><c> equal</c><00:00:31.119><c> to</c><00:00:31.279><c> the</c><00:00:31.519><c> argument</c><00:00:33.120><c> so</c><00:00:33.360><c> in</c><00:00:33.520><c> this</c>
+
+00:00:33.750 --> 00:00:33.760 align:start position:0%
+that is equal to the argument so in this
+ 
+
+00:00:33.760 --> 00:00:34.790 align:start position:0%
+that is equal to the argument so in this
+case<00:00:34.000><c> we've</c><00:00:34.320><c> passed</c>
+
+00:00:34.790 --> 00:00:34.800 align:start position:0%
+case we've passed
+ 
+
+00:00:34.800 --> 00:00:38.389 align:start position:0%
+case we've passed
+in<00:00:34.960><c> the</c><00:00:35.200><c> argument</c><00:00:35.840><c> five</c><00:00:37.520><c> now</c><00:00:37.680><c> looking</c><00:00:38.000><c> at</c><00:00:38.160><c> our</c>
+
+00:00:38.389 --> 00:00:38.399 align:start position:0%
+in the argument five now looking at our
+ 
+
+00:00:38.399 --> 00:00:40.310 align:start position:0%
+in the argument five now looking at our
+array<00:00:38.800><c> we</c><00:00:38.879><c> can</c><00:00:39.120><c> see</c><00:00:39.280><c> that</c><00:00:39.520><c> we</c><00:00:39.760><c> have</c>
+
+00:00:40.310 --> 00:00:40.320 align:start position:0%
+array we can see that we have
+ 
+
+00:00:40.320 --> 00:00:43.590 align:start position:0%
+array we can see that we have
+two<00:00:40.719><c> fives</c><00:00:41.280><c> in</c><00:00:41.440><c> our</c><00:00:41.600><c> array</c><00:00:42.879><c> but</c><00:00:43.120><c> the</c><00:00:43.200><c> method</c>
+
+00:00:43.590 --> 00:00:43.600 align:start position:0%
+two fives in our array but the method
+ 
+
+00:00:43.600 --> 00:00:46.229 align:start position:0%
+two fives in our array but the method
+documentation<00:00:44.480><c> has</c><00:00:44.800><c> told</c><00:00:45.120><c> us</c><00:00:45.280><c> that</c><00:00:45.600><c> ruby</c><00:00:45.920><c> will</c>
+
+00:00:46.229 --> 00:00:46.239 align:start position:0%
+documentation has told us that ruby will
+ 
+
+00:00:46.239 --> 00:00:48.709 align:start position:0%
+documentation has told us that ruby will
+return<00:00:46.719><c> the</c><00:00:46.960><c> index</c><00:00:47.520><c> of</c><00:00:47.680><c> the</c><00:00:48.079><c> first</c>
+
+00:00:48.709 --> 00:00:48.719 align:start position:0%
+return the index of the first
+ 
+
+00:00:48.719 --> 00:00:51.270 align:start position:0%
+return the index of the first
+element<00:00:49.120><c> that</c><00:00:49.360><c> matches</c><00:00:49.760><c> the</c><00:00:49.920><c> argument</c><00:00:51.039><c> so</c>
+
+00:00:51.270 --> 00:00:51.280 align:start position:0%
+element that matches the argument so
+ 
+
+00:00:51.280 --> 00:00:52.630 align:start position:0%
+element that matches the argument so
+looking<00:00:51.600><c> at</c><00:00:51.760><c> the</c><00:00:52.000><c> position</c>
+
+00:00:52.630 --> 00:00:52.640 align:start position:0%
+looking at the position
+ 
+
+00:00:52.640 --> 00:00:55.510 align:start position:0%
+looking at the position
+of<00:00:52.719><c> the</c><00:00:52.879><c> first</c><00:00:53.280><c> 5</c><00:00:53.600><c> in</c><00:00:53.760><c> our</c><00:00:53.920><c> array</c><00:00:54.640><c> and</c><00:00:55.120><c> knowing</c>
+
+00:00:55.510 --> 00:00:55.520 align:start position:0%
+of the first 5 in our array and knowing
+ 
+
+00:00:55.520 --> 00:00:57.110 align:start position:0%
+of the first 5 in our array and knowing
+that<00:00:55.760><c> array</c><00:00:56.239><c> indexes</c>
+
+00:00:57.110 --> 00:00:57.120 align:start position:0%
+that array indexes
+ 
+
+00:00:57.120 --> 00:01:00.310 align:start position:0%
+that array indexes
+are<00:00:57.520><c> 0</c><00:00:57.920><c> based</c><00:00:58.960><c> we</c><00:00:59.199><c> expect</c><00:00:59.520><c> that</c><00:00:59.680><c> the</c><00:00:59.840><c> return</c>
+
+00:01:00.310 --> 00:01:00.320 align:start position:0%
+are 0 based we expect that the return
+ 
+
+00:01:00.320 --> 00:01:02.709 align:start position:0%
+are 0 based we expect that the return
+value<00:01:00.719><c> here</c><00:01:00.960><c> will</c><00:01:01.120><c> be</c><00:01:01.359><c> 3.</c>
+
+00:01:02.709 --> 00:01:02.719 align:start position:0%
+value here will be 3.
+ 
+
+00:01:02.719 --> 00:01:06.950 align:start position:0%
+value here will be 3.
+the<00:01:02.879><c> first</c><00:01:03.199><c> 5</c><00:01:03.440><c> in</c><00:01:03.520><c> this</c><00:01:03.760><c> array</c><00:01:04.159><c> is</c><00:01:04.320><c> at</c><00:01:04.479><c> index</c><00:01:04.879><c> 3.</c>
+
+00:01:06.950 --> 00:01:06.960 align:start position:0%
+the first 5 in this array is at index 3.
+ 
+
+00:01:06.960 --> 00:01:09.350 align:start position:0%
+the first 5 in this array is at index 3.
+and<00:01:07.119><c> that's</c><00:01:07.280><c> what</c><00:01:07.439><c> we</c><00:01:07.600><c> see</c><00:01:08.560><c> the</c><00:01:08.720><c> next</c><00:01:08.960><c> line</c><00:01:09.200><c> of</c>
+
+00:01:09.350 --> 00:01:09.360 align:start position:0%
+and that's what we see the next line of
+ 
+
+00:01:09.360 --> 00:01:10.550 align:start position:0%
+and that's what we see the next line of
+code<00:01:09.600><c> we've</c><00:01:09.840><c> been</c><00:01:10.080><c> given</c>
+
+00:01:10.550 --> 00:01:10.560 align:start position:0%
+code we've been given
+ 
+
+00:01:10.560 --> 00:01:13.270 align:start position:0%
+code we've been given
+it<00:01:10.799><c> looks</c><00:01:11.040><c> like</c><00:01:11.360><c> we</c><00:01:11.600><c> are</c><00:01:11.840><c> trying</c><00:01:12.159><c> to</c><00:01:12.479><c> access</c>
+
+00:01:13.270 --> 00:01:13.280 align:start position:0%
+it looks like we are trying to access
+ 
+
+00:01:13.280 --> 00:01:13.670 align:start position:0%
+it looks like we are trying to access
+the
+
+00:01:13.670 --> 00:01:13.680 align:start position:0%
+the
+ 
+
+00:01:13.680 --> 00:01:17.109 align:start position:0%
+the
+array<00:01:14.240><c> element</c><00:01:14.799><c> at</c><00:01:15.119><c> index</c><00:01:15.680><c> five</c>
+
+00:01:17.109 --> 00:01:17.119 align:start position:0%
+array element at index five
+ 
+
+00:01:17.119 --> 00:01:18.950 align:start position:0%
+array element at index five
+and<00:01:17.360><c> in</c><00:01:17.520><c> this</c><00:01:17.759><c> case</c><00:01:18.000><c> that's</c><00:01:18.240><c> the</c><00:01:18.479><c> integer</c>
+
+00:01:18.950 --> 00:01:18.960 align:start position:0%
+and in this case that's the integer
+ 
+
+00:01:18.960 --> 00:01:21.350 align:start position:0%
+and in this case that's the integer
+eight<00:01:19.680><c> however</c><00:01:20.159><c> this</c><00:01:20.400><c> syntax</c><00:01:20.880><c> is</c><00:01:21.040><c> going</c><00:01:21.200><c> to</c>
+
+00:01:21.350 --> 00:01:21.360 align:start position:0%
+eight however this syntax is going to
+ 
+
+00:01:21.360 --> 00:01:23.429 align:start position:0%
+eight however this syntax is going to
+raise<00:01:21.600><c> an</c><00:01:21.840><c> error</c>
+
+00:01:23.429 --> 00:01:23.439 align:start position:0%
+raise an error
+ 
+
+00:01:23.439 --> 00:01:25.990 align:start position:0%
+raise an error
+the<00:01:23.680><c> square</c><00:01:24.000><c> brackets</c><00:01:24.880><c> look</c><00:01:25.119><c> similar</c><00:01:25.680><c> to</c>
+
+00:01:25.990 --> 00:01:26.000 align:start position:0%
+the square brackets look similar to
+ 
+
+00:01:26.000 --> 00:01:27.830 align:start position:0%
+the square brackets look similar to
+array<00:01:26.400><c> element</c><00:01:26.880><c> reference</c>
+
+00:01:27.830 --> 00:01:27.840 align:start position:0%
+array element reference
+ 
+
+00:01:27.840 --> 00:01:31.350 align:start position:0%
+array element reference
+but<00:01:28.080><c> rather</c><00:01:28.400><c> than</c><00:01:28.560><c> using</c><00:01:28.880><c> the</c><00:01:29.119><c> index</c><00:01:29.520><c> method</c>
+
+00:01:31.350 --> 00:01:31.360 align:start position:0%
+but rather than using the index method
+ 
+
+00:01:31.360 --> 00:01:33.429 align:start position:0%
+but rather than using the index method
+we're<00:01:31.520><c> going</c><00:01:31.759><c> to</c><00:01:31.920><c> use</c><00:01:32.159><c> this</c><00:01:32.640><c> array</c><00:01:33.040><c> element</c>
+
+00:01:33.429 --> 00:01:33.439 align:start position:0%
+we're going to use this array element
+ 
+
+00:01:33.439 --> 00:01:36.550 align:start position:0%
+we're going to use this array element
+reference<00:01:34.079><c> on</c><00:01:34.240><c> the</c><00:01:34.479><c> array</c><00:01:34.799><c> itself</c>
+
+00:01:36.550 --> 00:01:36.560 align:start position:0%
+reference on the array itself
+ 
+
+00:01:36.560 --> 00:01:38.830 align:start position:0%
+reference on the array itself
+and<00:01:36.720><c> when</c><00:01:36.880><c> i</c><00:01:37.040><c> run</c><00:01:37.280><c> that</c><00:01:37.520><c> code</c><00:01:37.920><c> we</c><00:01:38.159><c> see</c><00:01:38.400><c> 8</c><00:01:38.640><c> is</c>
+
+00:01:38.830 --> 00:01:38.840 align:start position:0%
+and when i run that code we see 8 is
+ 
+
+00:01:38.840 --> 00:01:41.109 align:start position:0%
+and when i run that code we see 8 is
+returned
+
+00:01:41.109 --> 00:01:41.119 align:start position:0%
+returned
+ 
+
+00:01:41.119 --> 00:01:43.749 align:start position:0%
+returned
+so<00:01:41.360><c> we</c><00:01:41.520><c> can</c><00:01:41.759><c> access</c><00:01:42.399><c> elements</c><00:01:42.960><c> in</c><00:01:43.119><c> an</c><00:01:43.280><c> array</c>
+
+00:01:43.749 --> 00:01:43.759 align:start position:0%
+so we can access elements in an array
+ 
+
+00:01:43.759 --> 00:01:45.429 align:start position:0%
+so we can access elements in an array
+based<00:01:44.079><c> on</c><00:01:44.240><c> their</c><00:01:44.560><c> index</c>
+
+00:01:45.429 --> 00:01:45.439 align:start position:0%
+based on their index
+ 
+
+00:01:45.439 --> 00:01:48.230 align:start position:0%
+based on their index
+and<00:01:45.759><c> we</c><00:01:45.920><c> can</c><00:01:46.159><c> access</c><00:01:46.799><c> the</c><00:01:47.119><c> index</c><00:01:47.680><c> of</c><00:01:47.840><c> a</c><00:01:47.920><c> given</c>
+
+00:01:48.230 --> 00:01:48.240 align:start position:0%
+and we can access the index of a given
+ 
+
+00:01:48.240 --> 00:01:50.069 align:start position:0%
+and we can access the index of a given
+element<00:01:48.720><c> in</c><00:01:48.799><c> an</c><00:01:49.040><c> array</c>
+
+00:01:50.069 --> 00:01:50.079 align:start position:0%
+element in an array
+ 
+
+00:01:50.079 --> 00:01:52.830 align:start position:0%
+element in an array
+just<00:01:50.320><c> be</c><00:01:50.479><c> sure</c><00:01:50.799><c> to</c><00:01:50.960><c> remember</c><00:01:51.600><c> that</c><00:01:51.920><c> the</c><00:01:52.159><c> index</c>
+
+00:01:52.830 --> 00:01:52.840 align:start position:0%
+just be sure to remember that the index
+ 
+
+00:01:52.840 --> 00:01:53.990 align:start position:0%
+just be sure to remember that the index
+method
+
+00:01:53.990 --> 00:01:54.000 align:start position:0%
+method
+ 
+
+00:01:54.000 --> 00:01:56.310 align:start position:0%
+method
+only<00:01:54.320><c> returns</c><00:01:54.880><c> the</c><00:01:55.119><c> index</c><00:01:55.600><c> of</c><00:01:55.680><c> the</c><00:01:55.920><c> first</c>
+
+00:01:56.310 --> 00:01:56.320 align:start position:0%
+only returns the index of the first
+ 
+
+00:01:56.320 --> 00:02:05.600 align:start position:0%
+only returns the index of the first
+occurrence<00:01:56.880><c> of</c><00:01:56.960><c> that</c><00:02:02.600><c> element</c>
+

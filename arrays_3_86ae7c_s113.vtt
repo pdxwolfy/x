@@ -1,0 +1,94 @@
+WEBVTT
+
+1
+00:00:03.560 --> 00:00:06.720
+This exercise has given us an array
+
+2
+00:00:06.920 --> 00:00:12.720
+and we're asked to return
+the string example from this array.
+
+3
+00:00:12.920 --> 00:00:18.680
+So taking a closer look, you can see
+that this array has two elements.
+
+4
+00:00:18.880 --> 00:00:22.320
+Each of those elements is also an array.
+
+5
+00:00:22.520 --> 00:00:26.360
+The first element is an array
+that contains three strings.
+
+6
+00:00:26.560 --> 00:00:28.440
+And the second element is an array
+
+7
+00:00:28.640 --> 00:00:32.040
+that contains two elements,
+which are also strings.
+
+8
+00:00:32.240 --> 00:00:38.840
+And you can see that the string example is
+the first element in the second sub array.
+
+9
+00:00:39.040 --> 00:00:44.400
+We can access this second
+element in our two element array
+
+10
+00:00:44.600 --> 00:00:47.600
+with the array last method.
+
+11
+00:00:47.800 --> 00:00:55.120
+So I'm going to use P to output that
+and let's run our code and see that.
+
+12
+00:01:00.760 --> 00:01:08.160
+So now we see the last element of our
+array, ah, which is a two element array
+
+13
+00:01:08.360 --> 00:01:12.840
+example, is the first
+element of this array.
+
+14
+00:01:14.080 --> 00:01:16.520
+Knowing that we want to return the string
+
+15
+00:01:16.720 --> 00:01:23.000
+example, we can simply chain a method
+called to the array first method.
+
+16
+00:01:23.200 --> 00:01:26.160
+This will return the first element
+
+17
+00:01:26.360 --> 00:01:34.040
+of the last element of the array,
+let's output this.
+
+18
+00:01:36.200 --> 00:01:39.960
+And we see the stirring example,
+
+19
+00:01:41.160 --> 00:01:43.200
+you can read about these array methods
+
+20
+00:01:43.400 --> 00:01:47.120
+and more in the ruby documentation
+for the array class.
+

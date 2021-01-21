@@ -1,0 +1,78 @@
+0:00:04.319,0:00:07.919
+this exercise has
+
+0:00:05.759,0:00:10.080
+asked us to determine the difference
+
+0:00:07.919,0:00:11.519
+between the two hashes that we see in
+
+0:00:10.080,0:00:14.719
+this code
+
+0:00:11.519,0:00:16.560
+my hash is initialized on line two
+
+0:00:14.719,0:00:18.720
+and you can see that there's a colon
+
+0:00:16.560,0:00:22.240
+after the x
+
+0:00:18.720,0:00:22.800
+the key in this hash is a symbol on line
+
+0:00:22.240,0:00:26.160
+3
+
+0:00:22.800,0:00:29.439
+we also see an x but in this case
+
+0:00:26.160,0:00:32.399
+x is not a symbol x is the local
+
+0:00:29.439,0:00:34.640
+variable that we initialized on line 1.
+
+0:00:32.399,0:00:35.760
+this variable references the string hi
+
+0:00:34.640,0:00:38.879
+there
+
+0:00:35.760,0:00:45.840
+now to see the difference let's print
+
+0:00:38.879,0:00:45.840
+both of these hashes
+
+0:00:50.160,0:00:54.800
+when we print these two hashes with p we
+
+0:00:52.800,0:00:56.160
+can see the symbol that is the key of
+
+0:00:54.800,0:00:58.399
+the first hash
+
+0:00:56.160,0:00:59.359
+and in the second hash we see the string
+
+0:00:58.399,0:01:02.559
+high there
+
+0:00:59.359,0:01:04.799
+as the key and again this is because
+
+0:01:02.559,0:01:08.000
+when we initialized the second hash
+
+0:01:04.799,0:01:10.960
+on line three we use the local variable
+
+0:01:08.000,0:01:13.840
+x as the key which references the string
+
+0:01:10.960,0:01:13.840
+hi there
+

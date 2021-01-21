@@ -1,0 +1,219 @@
+0:00:03.600,0:00:09.200
+this exercise asks us to
+
+0:00:05.680,0:00:13.599
+write a method that counts down to zero
+
+0:00:09.200,0:00:16.880
+using recursion so let's call our method
+
+0:00:13.599,0:00:19.359
+count two zero
+
+0:00:16.880,0:00:20.960
+and we're going to pass in an argument
+
+0:00:19.359,0:00:23.199
+which is going to be the number that we
+
+0:00:20.960,0:00:26.960
+want to count down from
+
+0:00:23.199,0:00:26.960
+so we'll call this perimeter number
+
+0:00:28.720,0:00:35.280
+and let's first just think about
+
+0:00:32.160,0:00:37.360
+counting down from 10. so when we
+
+0:00:35.280,0:00:39.040
+invoke this method we want it to count
+
+0:00:37.360,0:00:42.399
+down from 10 to 0
+
+0:00:39.040,0:00:42.399
+and output each number
+
+0:00:43.680,0:00:48.800
+so in order to output the number we
+
+0:00:45.680,0:00:48.800
+would invoke put us
+
+0:00:49.600,0:00:54.399
+now if we run our code we just expect to
+
+0:00:51.600,0:00:54.399
+output 10.
+
+0:00:55.760,0:00:59.840
+and that's what we see
+
+0:01:00.079,0:01:03.840
+so in order to recursively count down to
+
+0:01:02.960,0:01:07.840
+zero
+
+0:01:03.840,0:01:07.840
+we want to call this method
+
+0:01:09.200,0:01:15.360
+and as an argument we'll pass in one
+
+0:01:11.840,0:01:17.439
+less than the current number
+
+0:01:15.360,0:01:19.040
+now when this method call on line three
+
+0:01:17.439,0:01:21.920
+is executed
+
+0:01:19.040,0:01:23.200
+number will be one less so we would
+
+0:01:21.920,0:01:25.600
+count down from 10
+
+0:01:23.200,0:01:28.080
+to nine to eight and this will output
+
+0:01:25.600,0:01:31.280
+the number
+
+0:01:28.080,0:01:35.680
+let's run our code and you can see that
+
+0:01:31.280,0:01:35.680
+we raised an error stack level too deep
+
+0:01:38.560,0:01:42.479
+we need to think about what type of stop
+
+0:01:40.640,0:01:44.560
+condition we're going to provide this
+
+0:01:42.479,0:01:46.079
+recursive method
+
+0:01:44.560,0:01:49.040
+well we know that we want to stop
+
+0:01:46.079,0:01:52.479
+counting down when we've reached zero
+
+0:01:49.040,0:01:52.479
+so let's use an if statement
+
+0:01:53.280,0:01:56.399
+and we'll provided the condition if
+
+0:01:55.680,0:02:00.719
+number
+
+0:01:56.399,0:02:00.719
+is less than or equal to zero
+
+0:02:00.880,0:02:04.399
+we're going to output the number
+
+0:02:05.520,0:02:12.640
+otherwise we want to output the number
+
+0:02:08.640,0:02:12.640
+and invoke count to 0 again
+
+0:02:16.800,0:02:21.520
+so we'll continue outputting number and
+
+0:02:19.760,0:02:23.920
+invoking count to 0
+
+0:02:21.520,0:02:25.040
+with number being one less than the
+
+0:02:23.920,0:02:27.120
+current number
+
+0:02:25.040,0:02:28.160
+up until number is less than or equal to
+
+0:02:27.120,0:02:30.319
+zero
+
+0:02:28.160,0:02:33.440
+at that point we'll just output the
+
+0:02:30.319,0:02:35.599
+number and return from the method
+
+0:02:33.440,0:02:36.720
+let's run our code now and we expect to
+
+0:02:35.599,0:02:39.519
+output 10
+
+0:02:36.720,0:02:39.519
+down to zero
+
+0:02:40.319,0:02:43.200
+and that's what we see
+
+0:02:44.879,0:02:51.840
+let's run our code one more time let's
+
+0:02:47.519,0:02:51.840
+count from 20 to zero
+
+0:02:52.879,0:02:57.840
+and we see the expected output
+
+0:02:54.670,0:03:00.239
+[Music]
+
+0:02:57.840,0:03:02.720
+now lastly you may have wondered on line
+
+0:03:00.239,0:03:03.120
+2 why we needed to check whether number
+
+0:03:02.720,0:03:05.840
+was
+
+0:03:03.120,0:03:07.840
+less than or equal to zero and we wanted
+
+0:03:05.840,0:03:08.480
+to do that in case a negative number
+
+0:03:07.840,0:03:12.400
+were passed
+
+0:03:08.480,0:03:12.400
+as the argument to count to zero
+
+0:03:15.360,0:03:19.519
+if a negative number is passed to the
+
+0:03:17.280,0:03:21.599
+method then we simply want to output the
+
+0:03:19.519,0:03:23.280
+number and return from the method
+
+0:03:21.599,0:03:26.239
+let's run this code to make sure that's
+
+0:03:23.280,0:03:26.239
+the behavior we see
+
+0:03:27.280,0:03:33.840
+and it is
+
+0:03:37.680,0:03:39.760
+you
+

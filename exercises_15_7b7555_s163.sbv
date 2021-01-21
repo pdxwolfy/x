@@ -1,0 +1,174 @@
+0:00:03.360,0:00:08.559
+we're going to use ruby's delete
+
+0:00:05.359,0:00:09.360
+if method and the string method start
+
+0:00:08.559,0:00:11.440
+with
+
+0:00:09.360,0:00:12.480
+to delete all of the words from this
+
+0:00:11.440,0:00:14.880
+given array
+
+0:00:12.480,0:00:16.960
+that begin with s and now would be a
+
+0:00:14.880,0:00:19.760
+good time for you to take a look at the
+
+0:00:16.960,0:00:22.000
+documentation for the delete if method
+
+0:00:19.760,0:00:23.680
+and the startwith method if you're not
+
+0:00:22.000,0:00:25.920
+familiar with these
+
+0:00:23.680,0:00:27.119
+the ruby documentation tells us that
+
+0:00:25.920,0:00:29.599
+deleteif
+
+0:00:27.119,0:00:30.160
+will delete every element of the calling
+
+0:00:29.599,0:00:34.640
+array
+
+0:00:30.160,0:00:34.640
+for which the block evaluates to true
+
+0:00:35.760,0:00:42.239
+so we'll invoke delete if on our array
+
+0:00:39.840,0:00:44.640
+and each element is going to be passed
+
+0:00:42.239,0:00:47.200
+to the block
+
+0:00:44.640,0:00:48.320
+let's name this parameter word and we
+
+0:00:47.200,0:00:51.360
+know we want to
+
+0:00:48.320,0:00:52.320
+remove the element from the array if the
+
+0:00:51.360,0:00:56.079
+word begins with
+
+0:00:52.320,0:00:59.280
+s we can invoke the string
+
+0:00:56.079,0:01:01.440
+start with method
+
+0:00:59.280,0:01:02.559
+and check whether the string starts with
+
+0:01:01.440,0:01:04.400
+s
+
+0:01:02.559,0:01:06.560
+now the startwith method is going to
+
+0:01:04.400,0:01:09.280
+return a boolean either true or
+
+0:01:06.560,0:01:11.360
+false so for every word for which the
+
+0:01:09.280,0:01:15.040
+block returns true
+
+0:01:11.360,0:01:17.759
+it will be removed from the array
+
+0:01:15.040,0:01:18.159
+so let's output the array on line five
+
+0:01:17.759,0:01:20.720
+and
+
+0:01:18.159,0:01:22.080
+now we expect to see only the words that
+
+0:01:20.720,0:01:26.400
+did not begin with s
+
+0:01:22.080,0:01:29.280
+in our array
+
+0:01:26.400,0:01:29.280
+and that's what we see
+
+0:01:31.040,0:01:35.439
+now the second part of this problem says
+
+0:01:33.200,0:01:38.560
+to get rid of all words that start with
+
+0:01:35.439,0:01:40.479
+s or w so
+
+0:01:38.560,0:01:43.439
+we can change the way we write our block
+
+0:01:40.479,0:01:43.439
+on line three
+
+0:01:44.479,0:01:48.320
+and use a logical operator here
+
+0:01:50.000,0:01:56.320
+word start with s or word start with w
+
+0:01:54.320,0:01:58.560
+we expect that in our array after
+
+0:01:56.320,0:02:00.159
+running this code ice will be the only
+
+0:01:58.560,0:02:08.000
+word left
+
+0:02:00.159,0:02:11.120
+and let's run our code to see that
+
+0:02:08.000,0:02:13.599
+however there's an easier way here and
+
+0:02:11.120,0:02:15.840
+taking a close look at the documentation
+
+0:02:13.599,0:02:17.680
+for the start with method
+
+0:02:15.840,0:02:20.599
+will tell you that you can pass in
+
+0:02:17.680,0:02:21.760
+multiple prefixes as an argument to this
+
+0:02:20.599,0:02:27.440
+method
+
+0:02:21.760,0:02:27.440
+so we can pass in s and also pass in w
+
+0:02:29.920,0:02:34.000
+and our program works as expected all
+
+0:02:32.319,0:02:45.680
+the words beginning with
+
+0:02:34.000,0:02:45.680
+s or w were removed from our array
+

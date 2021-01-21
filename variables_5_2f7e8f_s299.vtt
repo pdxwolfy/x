@@ -1,0 +1,904 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.720 --> 00:00:06.389 align:start position:0%
+ 
+this<00:00:04.960><c> problem</c><00:00:05.359><c> has</c><00:00:05.600><c> given</c><00:00:06.000><c> us</c>
+
+00:00:06.389 --> 00:00:06.399 align:start position:0%
+this problem has given us
+ 
+
+00:00:06.399 --> 00:00:09.270 align:start position:0%
+this problem has given us
+two<00:00:06.640><c> pieces</c><00:00:07.040><c> of</c><00:00:07.279><c> code</c><00:00:08.160><c> and</c><00:00:08.400><c> we're</c><00:00:08.639><c> going</c><00:00:08.880><c> to</c>
+
+00:00:09.270 --> 00:00:09.280 align:start position:0%
+two pieces of code and we're going to
+ 
+
+00:00:09.280 --> 00:00:10.230 align:start position:0%
+two pieces of code and we're going to
+examine<00:00:09.920><c> them</c>
+
+00:00:10.230 --> 00:00:10.240 align:start position:0%
+examine them
+ 
+
+00:00:10.240 --> 00:00:12.789 align:start position:0%
+examine them
+each<00:00:10.639><c> and</c><00:00:10.880><c> determine</c><00:00:11.840><c> what</c><00:00:12.080><c> the</c><00:00:12.240><c> program</c><00:00:12.559><c> will</c>
+
+00:00:12.789 --> 00:00:12.799 align:start position:0%
+each and determine what the program will
+ 
+
+00:00:12.799 --> 00:00:14.870 align:start position:0%
+each and determine what the program will
+output
+
+00:00:14.870 --> 00:00:14.880 align:start position:0%
+output
+ 
+
+00:00:14.880 --> 00:00:17.590 align:start position:0%
+output
+so<00:00:15.040><c> looking</c><00:00:15.440><c> at</c><00:00:15.599><c> the</c><00:00:15.759><c> first</c><00:00:16.080><c> piece</c><00:00:16.320><c> of</c><00:00:16.480><c> code</c><00:00:17.359><c> on</c>
+
+00:00:17.590 --> 00:00:17.600 align:start position:0%
+so looking at the first piece of code on
+ 
+
+00:00:17.600 --> 00:00:18.390 align:start position:0%
+so looking at the first piece of code on
+line<00:00:17.920><c> one</c>
+
+00:00:18.390 --> 00:00:18.400 align:start position:0%
+line one
+ 
+
+00:00:18.400 --> 00:00:21.189 align:start position:0%
+line one
+a<00:00:18.640><c> local</c><00:00:18.960><c> variable</c><00:00:19.520><c> x</c><00:00:19.840><c> is</c><00:00:20.000><c> initialized</c><00:00:20.880><c> and</c><00:00:21.119><c> it</c>
+
+00:00:21.189 --> 00:00:21.199 align:start position:0%
+a local variable x is initialized and it
+ 
+
+00:00:21.199 --> 00:00:22.070 align:start position:0%
+a local variable x is initialized and it
+references
+
+00:00:22.070 --> 00:00:22.080 align:start position:0%
+references
+ 
+
+00:00:22.080 --> 00:00:25.429 align:start position:0%
+references
+the<00:00:22.320><c> integer</c><00:00:22.880><c> zero</c><00:00:24.320><c> we</c><00:00:24.480><c> then</c><00:00:24.800><c> invoke</c><00:00:25.199><c> the</c>
+
+00:00:25.429 --> 00:00:25.439 align:start position:0%
+the integer zero we then invoke the
+ 
+
+00:00:25.439 --> 00:00:26.390 align:start position:0%
+the integer zero we then invoke the
+times<00:00:25.920><c> method</c>
+
+00:00:26.390 --> 00:00:26.400 align:start position:0%
+times method
+ 
+
+00:00:26.400 --> 00:00:29.029 align:start position:0%
+times method
+on<00:00:26.560><c> the</c><00:00:26.720><c> integer</c><00:00:27.279><c> three</c><00:00:28.320><c> and</c><00:00:28.480><c> we've</c><00:00:28.720><c> passed</c>
+
+00:00:29.029 --> 00:00:29.039 align:start position:0%
+on the integer three and we've passed
+ 
+
+00:00:29.039 --> 00:00:32.069 align:start position:0%
+on the integer three and we've passed
+the<00:00:29.199><c> block</c><00:00:29.599><c> to</c><00:00:29.760><c> this</c><00:00:30.000><c> times</c><00:00:30.400><c> method</c>
+
+00:00:32.069 --> 00:00:32.079 align:start position:0%
+the block to this times method
+ 
+
+00:00:32.079 --> 00:00:34.150 align:start position:0%
+the block to this times method
+so<00:00:32.320><c> ruby's</c><00:00:32.719><c> going</c><00:00:32.960><c> to</c><00:00:33.280><c> iterate</c><00:00:33.760><c> through</c><00:00:34.000><c> this</c>
+
+00:00:34.150 --> 00:00:34.160 align:start position:0%
+so ruby's going to iterate through this
+ 
+
+00:00:34.160 --> 00:00:37.110 align:start position:0%
+so ruby's going to iterate through this
+block<00:00:34.559><c> three</c><00:00:34.880><c> times</c>
+
+00:00:37.110 --> 00:00:37.120 align:start position:0%
+block three times
+ 
+
+00:00:37.120 --> 00:00:38.950 align:start position:0%
+block three times
+the<00:00:37.360><c> code</c><00:00:37.600><c> on</c><00:00:37.760><c> line</c><00:00:38.079><c> three</c><00:00:38.399><c> may</c><00:00:38.559><c> look</c><00:00:38.719><c> a</c><00:00:38.800><c> little</c>
+
+00:00:38.950 --> 00:00:38.960 align:start position:0%
+the code on line three may look a little
+ 
+
+00:00:38.960 --> 00:00:40.709 align:start position:0%
+the code on line three may look a little
+bit<00:00:39.200><c> confusing</c><00:00:39.760><c> if</c><00:00:39.920><c> you</c><00:00:40.000><c> haven't</c><00:00:40.320><c> seen</c><00:00:40.640><c> it</c>
+
+00:00:40.709 --> 00:00:40.719 align:start position:0%
+bit confusing if you haven't seen it
+ 
+
+00:00:40.719 --> 00:00:42.150 align:start position:0%
+bit confusing if you haven't seen it
+before
+
+00:00:42.150 --> 00:00:42.160 align:start position:0%
+before
+ 
+
+00:00:42.160 --> 00:00:45.510 align:start position:0%
+before
+this<00:00:42.399><c> is</c><00:00:42.840><c> shorthand</c>
+
+00:00:45.510 --> 00:00:45.520 align:start position:0%
+this is shorthand
+ 
+
+00:00:45.520 --> 00:00:49.430 align:start position:0%
+this is shorthand
+for<00:00:45.920><c> x</c><00:00:46.239><c> equals</c><00:00:46.879><c> x</c><00:00:47.280><c> plus</c><00:00:47.600><c> one</c>
+
+00:00:49.430 --> 00:00:49.440 align:start position:0%
+for x equals x plus one
+ 
+
+00:00:49.440 --> 00:00:51.830 align:start position:0%
+for x equals x plus one
+so<00:00:49.600><c> this</c><00:00:49.920><c> operation</c><00:00:50.559><c> here</c><00:00:50.800><c> on</c><00:00:50.960><c> line</c><00:00:51.280><c> three</c><00:00:51.680><c> is</c>
+
+00:00:51.830 --> 00:00:51.840 align:start position:0%
+so this operation here on line three is
+ 
+
+00:00:51.840 --> 00:00:53.270 align:start position:0%
+so this operation here on line three is
+reassignment
+
+00:00:53.270 --> 00:00:53.280 align:start position:0%
+reassignment
+ 
+
+00:00:53.280 --> 00:00:57.029 align:start position:0%
+reassignment
+we<00:00:53.440><c> are</c><00:00:53.600><c> reassigning</c><00:00:54.399><c> x</c><00:00:55.360><c> to</c><00:00:55.920><c> the</c><00:00:56.079><c> value</c><00:00:56.480><c> of</c><00:00:56.640><c> x</c>
+
+00:00:57.029 --> 00:00:57.039 align:start position:0%
+we are reassigning x to the value of x
+ 
+
+00:00:57.039 --> 00:01:00.709 align:start position:0%
+we are reassigning x to the value of x
+plus<00:00:57.440><c> 1.</c><00:00:59.039><c> so</c><00:00:59.199><c> on</c><00:00:59.359><c> our</c><00:00:59.520><c> first</c><00:00:59.920><c> iteration</c>
+
+00:01:00.709 --> 00:01:00.719 align:start position:0%
+plus 1. so on our first iteration
+ 
+
+00:01:00.719 --> 00:01:02.150 align:start position:0%
+plus 1. so on our first iteration
+through<00:01:00.960><c> this</c><00:01:01.199><c> block</c>
+
+00:01:02.150 --> 00:01:02.160 align:start position:0%
+through this block
+ 
+
+00:01:02.160 --> 00:01:05.270 align:start position:0%
+through this block
+x<00:01:02.399><c> will</c><00:01:02.480><c> be</c><00:01:02.640><c> reassigned</c><00:01:03.359><c> to</c><00:01:03.520><c> the</c><00:01:03.680><c> integer</c><00:01:04.239><c> 1</c>
+
+00:01:05.270 --> 00:01:05.280 align:start position:0%
+x will be reassigned to the integer 1
+ 
+
+00:01:05.280 --> 00:01:08.950 align:start position:0%
+x will be reassigned to the integer 1
+then<00:01:05.600><c> 2</c><00:01:06.000><c> and</c><00:01:06.159><c> then</c><00:01:06.400><c> 3.</c><00:01:07.840><c> then</c><00:01:08.080><c> ruby</c><00:01:08.479><c> stops</c>
+
+00:01:08.950 --> 00:01:08.960 align:start position:0%
+then 2 and then 3. then ruby stops
+ 
+
+00:01:08.960 --> 00:01:11.429 align:start position:0%
+then 2 and then 3. then ruby stops
+iterating<00:01:09.520><c> through</c><00:01:09.760><c> this</c><00:01:10.000><c> block</c>
+
+00:01:11.429 --> 00:01:11.439 align:start position:0%
+iterating through this block
+ 
+
+00:01:11.439 --> 00:01:13.750 align:start position:0%
+iterating through this block
+and<00:01:11.680><c> our</c><00:01:11.840><c> program</c><00:01:12.320><c> execution</c><00:01:12.960><c> reaches</c><00:01:13.439><c> line</c>
+
+00:01:13.750 --> 00:01:13.760 align:start position:0%
+and our program execution reaches line
+ 
+
+00:01:13.760 --> 00:01:14.630 align:start position:0%
+and our program execution reaches line
+five
+
+00:01:14.630 --> 00:01:14.640 align:start position:0%
+five
+ 
+
+00:01:14.640 --> 00:01:17.350 align:start position:0%
+five
+on<00:01:14.880><c> line</c><00:01:15.200><c> five</c><00:01:15.520><c> we</c><00:01:15.759><c> invoke</c><00:01:16.080><c> the</c><00:01:16.240><c> put</c><00:01:16.479><c> us</c><00:01:16.720><c> method</c>
+
+00:01:17.350 --> 00:01:17.360 align:start position:0%
+on line five we invoke the put us method
+ 
+
+00:01:17.360 --> 00:01:17.830 align:start position:0%
+on line five we invoke the put us method
+to
+
+00:01:17.830 --> 00:01:17.840 align:start position:0%
+to
+ 
+
+00:01:17.840 --> 00:01:21.510 align:start position:0%
+to
+output<00:01:18.479><c> x</c><00:01:20.159><c> because</c><00:01:20.479><c> we</c><00:01:20.720><c> know</c><00:01:20.880><c> that</c><00:01:21.119><c> we</c><00:01:21.280><c> have</c>
+
+00:01:21.510 --> 00:01:21.520 align:start position:0%
+output x because we know that we have
+ 
+
+00:01:21.520 --> 00:01:24.070 align:start position:0%
+output x because we know that we have
+iterated<00:01:22.000><c> through</c><00:01:22.240><c> this</c><00:01:22.479><c> block</c><00:01:22.880><c> three</c><00:01:23.200><c> times</c>
+
+00:01:24.070 --> 00:01:24.080 align:start position:0%
+iterated through this block three times
+ 
+
+00:01:24.080 --> 00:01:27.190 align:start position:0%
+iterated through this block three times
+incrementing<00:01:24.880><c> the</c><00:01:25.200><c> integer</c><00:01:25.680><c> referenced</c><00:01:26.159><c> by</c><00:01:26.479><c> x</c>
+
+00:01:27.190 --> 00:01:27.200 align:start position:0%
+incrementing the integer referenced by x
+ 
+
+00:01:27.200 --> 00:01:29.270 align:start position:0%
+incrementing the integer referenced by x
+we<00:01:27.439><c> expect</c><00:01:27.759><c> that</c><00:01:28.080><c> x</c><00:01:28.320><c> now</c><00:01:28.560><c> references</c><00:01:29.119><c> the</c>
+
+00:01:29.270 --> 00:01:29.280 align:start position:0%
+we expect that x now references the
+ 
+
+00:01:29.280 --> 00:01:32.230 align:start position:0%
+we expect that x now references the
+integer<00:01:29.759><c> three</c>
+
+00:01:32.230 --> 00:01:32.240 align:start position:0%
+ 
+ 
+
+00:01:32.240 --> 00:01:34.230 align:start position:0%
+ 
+and<00:01:32.320><c> that's</c><00:01:32.640><c> what</c><00:01:32.799><c> we</c><00:01:33.040><c> expect</c><00:01:33.439><c> to</c><00:01:33.600><c> see</c><00:01:33.840><c> when</c><00:01:34.000><c> we</c>
+
+00:01:34.230 --> 00:01:34.240 align:start position:0%
+and that's what we expect to see when we
+ 
+
+00:01:34.240 --> 00:01:37.030 align:start position:0%
+and that's what we expect to see when we
+output<00:01:34.720><c> x</c><00:01:34.960><c> on</c><00:01:35.119><c> line</c><00:01:35.439><c> five</c>
+
+00:01:37.030 --> 00:01:37.040 align:start position:0%
+output x on line five
+ 
+
+00:01:37.040 --> 00:01:43.590 align:start position:0%
+output x on line five
+so<00:01:37.200><c> let's</c><00:01:37.439><c> run</c><00:01:37.680><c> our</c><00:01:37.759><c> code</c><00:01:38.000><c> and</c><00:01:38.159><c> see</c><00:01:38.840><c> that</c>
+
+00:01:43.590 --> 00:01:43.600 align:start position:0%
+ 
+ 
+
+00:01:43.600 --> 00:01:50.149 align:start position:0%
+ 
+and<00:01:43.840><c> we</c><00:01:44.000><c> see</c><00:01:44.240><c> three</c><00:01:44.640><c> as</c><00:01:44.880><c> expected</c>
+
+00:01:50.149 --> 00:01:50.159 align:start position:0%
+ 
+ 
+
+00:01:50.159 --> 00:01:52.469 align:start position:0%
+ 
+so<00:01:50.320><c> let's</c><00:01:50.640><c> take</c><00:01:50.880><c> a</c><00:01:50.960><c> look</c><00:01:51.360><c> at</c><00:01:51.759><c> the</c><00:01:51.920><c> second</c><00:01:52.240><c> piece</c>
+
+00:01:52.469 --> 00:01:52.479 align:start position:0%
+so let's take a look at the second piece
+ 
+
+00:01:52.479 --> 00:01:56.310 align:start position:0%
+so let's take a look at the second piece
+of<00:01:52.640><c> code</c><00:01:52.799><c> we</c><00:01:52.960><c> were</c><00:01:53.119><c> given</c>
+
+00:01:56.310 --> 00:01:56.320 align:start position:0%
+ 
+ 
+
+00:01:56.320 --> 00:01:58.870 align:start position:0%
+ 
+this<00:01:56.560><c> code</c><00:01:56.880><c> is</c><00:01:56.960><c> a</c><00:01:57.040><c> little</c><00:01:57.280><c> bit</c><00:01:57.439><c> different</c><00:01:58.719><c> we</c>
+
+00:01:58.870 --> 00:01:58.880 align:start position:0%
+this code is a little bit different we
+ 
+
+00:01:58.880 --> 00:02:00.550 align:start position:0%
+this code is a little bit different we
+have<00:01:59.200><c> two</c><00:01:59.439><c> variables</c>
+
+00:02:00.550 --> 00:02:00.560 align:start position:0%
+have two variables
+ 
+
+00:02:00.560 --> 00:02:05.190 align:start position:0%
+have two variables
+y<00:02:01.040><c> and</c><00:02:01.280><c> x</c><00:02:02.719><c> y</c><00:02:03.040><c> is</c><00:02:03.200><c> initialized</c><00:02:04.000><c> on</c><00:02:04.159><c> line</c><00:02:04.479><c> one</c>
+
+00:02:05.190 --> 00:02:05.200 align:start position:0%
+y and x y is initialized on line one
+ 
+
+00:02:05.200 --> 00:02:08.389 align:start position:0%
+y and x y is initialized on line one
+and<00:02:05.439><c> it</c><00:02:05.520><c> references</c><00:02:06.079><c> zero</c><00:02:07.360><c> again</c><00:02:07.759><c> we</c><00:02:08.000><c> invoke</c>
+
+00:02:08.389 --> 00:02:08.399 align:start position:0%
+and it references zero again we invoke
+ 
+
+00:02:08.399 --> 00:02:10.869 align:start position:0%
+and it references zero again we invoke
+the<00:02:08.479><c> times</c><00:02:08.879><c> method</c><00:02:09.280><c> on</c><00:02:09.440><c> the</c><00:02:09.599><c> integer</c><00:02:10.080><c> 3</c><00:02:10.560><c> and</c>
+
+00:02:10.869 --> 00:02:10.879 align:start position:0%
+the times method on the integer 3 and
+ 
+
+00:02:10.879 --> 00:02:12.470 align:start position:0%
+the times method on the integer 3 and
+pass<00:02:11.120><c> it</c><00:02:11.280><c> a</c><00:02:11.360><c> block</c>
+
+00:02:12.470 --> 00:02:12.480 align:start position:0%
+pass it a block
+ 
+
+00:02:12.480 --> 00:02:15.030 align:start position:0%
+pass it a block
+within<00:02:12.800><c> the</c><00:02:12.959><c> block</c><00:02:13.920><c> we</c><00:02:14.239><c> are</c><00:02:14.400><c> going</c><00:02:14.720><c> to</c>
+
+00:02:15.030 --> 00:02:15.040 align:start position:0%
+within the block we are going to
+ 
+
+00:02:15.040 --> 00:02:16.150 align:start position:0%
+within the block we are going to
+reassign<00:02:15.680><c> y</c>
+
+00:02:16.150 --> 00:02:16.160 align:start position:0%
+reassign y
+ 
+
+00:02:16.160 --> 00:02:19.589 align:start position:0%
+reassign y
+to<00:02:16.640><c> y</c><00:02:16.959><c> plus</c><00:02:17.280><c> 1</c><00:02:17.599><c> each</c><00:02:17.920><c> time</c><00:02:18.080><c> we</c><00:02:18.239><c> iterate</c><00:02:18.720><c> through</c>
+
+00:02:19.589 --> 00:02:19.599 align:start position:0%
+to y plus 1 each time we iterate through
+ 
+
+00:02:19.599 --> 00:02:21.270 align:start position:0%
+to y plus 1 each time we iterate through
+that's<00:02:19.840><c> the</c><00:02:20.080><c> behavior</c><00:02:20.480><c> we</c><00:02:20.720><c> saw</c><00:02:20.959><c> with</c><00:02:21.120><c> the</c>
+
+00:02:21.270 --> 00:02:21.280 align:start position:0%
+that's the behavior we saw with the
+ 
+
+00:02:21.280 --> 00:02:25.350 align:start position:0%
+that's the behavior we saw with the
+variable<00:02:21.840><c> x</c><00:02:22.480><c> in</c><00:02:22.640><c> our</c><00:02:22.800><c> previous</c><00:02:23.360><c> piece</c><00:02:23.599><c> of</c><00:02:23.760><c> code</c>
+
+00:02:25.350 --> 00:02:25.360 align:start position:0%
+variable x in our previous piece of code
+ 
+
+00:02:25.360 --> 00:02:27.510 align:start position:0%
+variable x in our previous piece of code
+then<00:02:25.599><c> on</c><00:02:25.760><c> line</c><00:02:26.080><c> 4</c><00:02:26.400><c> you</c><00:02:26.560><c> can</c><00:02:26.800><c> see</c><00:02:27.040><c> that</c><00:02:27.360><c> we</c>
+
+00:02:27.510 --> 00:02:27.520 align:start position:0%
+then on line 4 you can see that we
+ 
+
+00:02:27.520 --> 00:02:29.270 align:start position:0%
+then on line 4 you can see that we
+initialize<00:02:28.160><c> a</c><00:02:28.239><c> local</c><00:02:28.640><c> variable</c>
+
+00:02:29.270 --> 00:02:29.280 align:start position:0%
+initialize a local variable
+ 
+
+00:02:29.280 --> 00:02:32.070 align:start position:0%
+initialize a local variable
+x<00:02:30.239><c> and</c><00:02:30.480><c> we</c><00:02:30.720><c> point</c><00:02:30.959><c> it</c><00:02:31.120><c> at</c><00:02:31.280><c> the</c><00:02:31.440><c> same</c><00:02:31.680><c> value</c>
+
+00:02:32.070 --> 00:02:32.080 align:start position:0%
+x and we point it at the same value
+ 
+
+00:02:32.080 --> 00:02:34.070 align:start position:0%
+x and we point it at the same value
+referenced<00:02:32.640><c> by</c><00:02:32.879><c> y</c>
+
+00:02:34.070 --> 00:02:34.080 align:start position:0%
+referenced by y
+ 
+
+00:02:34.080 --> 00:02:35.910 align:start position:0%
+referenced by y
+so<00:02:34.319><c> as</c><00:02:34.480><c> we</c><00:02:34.720><c> iterate</c><00:02:35.120><c> through</c><00:02:35.280><c> this</c><00:02:35.519><c> block</c>
+
+00:02:35.910 --> 00:02:35.920 align:start position:0%
+so as we iterate through this block
+ 
+
+00:02:35.920 --> 00:02:38.869 align:start position:0%
+so as we iterate through this block
+three<00:02:36.160><c> times</c><00:02:36.720><c> y</c><00:02:36.959><c> will</c><00:02:37.120><c> be</c><00:02:37.280><c> reassigned</c><00:02:38.000><c> to</c><00:02:38.239><c> one</c>
+
+00:02:38.869 --> 00:02:38.879 align:start position:0%
+three times y will be reassigned to one
+ 
+
+00:02:38.879 --> 00:02:42.790 align:start position:0%
+three times y will be reassigned to one
+two<00:02:39.280><c> and</c><00:02:39.440><c> then</c><00:02:39.760><c> three</c><00:02:41.599><c> when</c><00:02:41.840><c> the</c><00:02:42.000><c> code</c><00:02:42.319><c> on</c><00:02:42.480><c> line</c>
+
+00:02:42.790 --> 00:02:42.800 align:start position:0%
+two and then three when the code on line
+ 
+
+00:02:42.800 --> 00:02:43.190 align:start position:0%
+two and then three when the code on line
+four
+
+00:02:43.190 --> 00:02:43.200 align:start position:0%
+four
+ 
+
+00:02:43.200 --> 00:02:45.670 align:start position:0%
+four
+runs<00:02:43.920><c> x</c><00:02:44.160><c> will</c><00:02:44.480><c> also</c><00:02:44.800><c> be</c><00:02:44.959><c> assigned</c><00:02:45.280><c> to</c><00:02:45.440><c> those</c>
+
+00:02:45.670 --> 00:02:45.680 align:start position:0%
+runs x will also be assigned to those
+ 
+
+00:02:45.680 --> 00:02:48.070 align:start position:0%
+runs x will also be assigned to those
+integers
+
+00:02:48.070 --> 00:02:48.080 align:start position:0%
+integers
+ 
+
+00:02:48.080 --> 00:02:50.710 align:start position:0%
+integers
+so<00:02:48.239><c> when</c><00:02:48.480><c> program</c><00:02:49.040><c> execution</c><00:02:49.920><c> reaches</c><00:02:50.319><c> line</c>
+
+00:02:50.710 --> 00:02:50.720 align:start position:0%
+so when program execution reaches line
+ 
+
+00:02:50.720 --> 00:02:51.589 align:start position:0%
+so when program execution reaches line
+six<00:02:51.120><c> and</c><00:02:51.280><c> we</c>
+
+00:02:51.589 --> 00:02:51.599 align:start position:0%
+six and we
+ 
+
+00:02:51.599 --> 00:02:55.430 align:start position:0%
+six and we
+output<00:02:52.160><c> x</c><00:02:52.800><c> you</c><00:02:52.959><c> may</c><00:02:53.280><c> expect</c><00:02:53.760><c> to</c><00:02:53.920><c> see</c><00:02:54.239><c> three</c>
+
+00:02:55.430 --> 00:02:55.440 align:start position:0%
+output x you may expect to see three
+ 
+
+00:02:55.440 --> 00:02:57.670 align:start position:0%
+output x you may expect to see three
+however<00:02:55.920><c> there</c><00:02:56.080><c> is</c><00:02:56.239><c> a</c><00:02:56.400><c> problem</c><00:02:56.800><c> here</c><00:02:57.280><c> because</c>
+
+00:02:57.670 --> 00:02:57.680 align:start position:0%
+however there is a problem here because
+ 
+
+00:02:57.680 --> 00:02:59.030 align:start position:0%
+however there is a problem here because
+unlike<00:02:58.239><c> y</c>
+
+00:02:59.030 --> 00:02:59.040 align:start position:0%
+unlike y
+ 
+
+00:02:59.040 --> 00:03:02.550 align:start position:0%
+unlike y
+x<00:02:59.280><c> was</c><00:02:59.519><c> initialized</c><00:03:00.239><c> within</c><00:03:00.720><c> the</c><00:03:00.959><c> block</c>
+
+00:03:02.550 --> 00:03:02.560 align:start position:0%
+x was initialized within the block
+ 
+
+00:03:02.560 --> 00:03:05.990 align:start position:0%
+x was initialized within the block
+blocks<00:03:03.040><c> create</c><00:03:03.440><c> an</c><00:03:03.680><c> inner</c><00:03:04.080><c> scope</c><00:03:05.280><c> variables</c>
+
+00:03:05.990 --> 00:03:06.000 align:start position:0%
+blocks create an inner scope variables
+ 
+
+00:03:06.000 --> 00:03:08.149 align:start position:0%
+blocks create an inner scope variables
+initialized<00:03:06.640><c> within</c><00:03:07.040><c> an</c><00:03:07.280><c> inner</c><00:03:07.599><c> scope</c>
+
+00:03:08.149 --> 00:03:08.159 align:start position:0%
+initialized within an inner scope
+ 
+
+00:03:08.159 --> 00:03:11.350 align:start position:0%
+initialized within an inner scope
+are<00:03:08.319><c> not</c><00:03:08.640><c> available</c><00:03:09.440><c> in</c><00:03:09.599><c> an</c><00:03:09.760><c> outer</c><00:03:10.080><c> scope</c>
+
+00:03:11.350 --> 00:03:11.360 align:start position:0%
+are not available in an outer scope
+ 
+
+00:03:11.360 --> 00:03:13.670 align:start position:0%
+are not available in an outer scope
+on<00:03:11.599><c> line</c><00:03:11.920><c> six</c><00:03:12.319><c> we</c><00:03:12.480><c> expect</c><00:03:12.879><c> that</c><00:03:13.120><c> ruby</c><00:03:13.440><c> will</c>
+
+00:03:13.670 --> 00:03:13.680 align:start position:0%
+on line six we expect that ruby will
+ 
+
+00:03:13.680 --> 00:03:19.270 align:start position:0%
+on line six we expect that ruby will
+raise<00:03:13.920><c> an</c><00:03:16.840><c> error</c>
+
+00:03:19.270 --> 00:03:19.280 align:start position:0%
+raise an error
+ 
+
+00:03:19.280 --> 00:03:22.149 align:start position:0%
+raise an error
+we<00:03:19.440><c> run</c><00:03:19.680><c> our</c><00:03:19.840><c> code</c><00:03:20.159><c> and</c><00:03:20.239><c> we</c><00:03:20.480><c> see</c><00:03:20.640><c> this</c><00:03:20.879><c> error</c><00:03:22.000><c> we</c>
+
+00:03:22.149 --> 00:03:22.159 align:start position:0%
+we run our code and we see this error we
+ 
+
+00:03:22.159 --> 00:03:23.990 align:start position:0%
+we run our code and we see this error we
+can<00:03:22.400><c> see</c><00:03:22.720><c> that</c><00:03:22.959><c> the</c><00:03:23.120><c> problem</c><00:03:23.519><c> occurred</c><00:03:23.920><c> on</c>
+
+00:03:23.990 --> 00:03:24.000 align:start position:0%
+can see that the problem occurred on
+ 
+
+00:03:24.000 --> 00:03:24.390 align:start position:0%
+can see that the problem occurred on
+line
+
+00:03:24.390 --> 00:03:24.400 align:start position:0%
+line
+ 
+
+00:03:24.400 --> 00:03:26.949 align:start position:0%
+line
+6<00:03:24.879><c> and</c><00:03:25.040><c> the</c><00:03:25.200><c> error</c><00:03:25.519><c> message</c><00:03:26.000><c> tells</c><00:03:26.400><c> us</c><00:03:26.640><c> we</c><00:03:26.799><c> have</c>
+
+00:03:26.949 --> 00:03:26.959 align:start position:0%
+6 and the error message tells us we have
+ 
+
+00:03:26.959 --> 00:03:27.830 align:start position:0%
+6 and the error message tells us we have
+an<00:03:27.120><c> undefined</c>
+
+00:03:27.830 --> 00:03:27.840 align:start position:0%
+an undefined
+ 
+
+00:03:27.840 --> 00:03:33.910 align:start position:0%
+an undefined
+local<00:03:28.239><c> variable</c><00:03:28.799><c> or</c><00:03:28.959><c> method</c><00:03:30.840><c> x</c>
+
+00:03:33.910 --> 00:03:33.920 align:start position:0%
+ 
+ 
+
+00:03:33.920 --> 00:03:36.309 align:start position:0%
+ 
+because<00:03:34.400><c> x</c><00:03:34.640><c> was</c><00:03:34.879><c> initialized</c><00:03:35.599><c> in</c><00:03:35.760><c> that</c><00:03:36.000><c> inner</c>
+
+00:03:36.309 --> 00:03:36.319 align:start position:0%
+because x was initialized in that inner
+ 
+
+00:03:36.319 --> 00:03:38.949 align:start position:0%
+because x was initialized in that inner
+scope<00:03:36.799><c> ruby</c><00:03:37.120><c> cannot</c><00:03:37.599><c> see</c><00:03:37.760><c> what</c><00:03:38.000><c> x</c><00:03:38.239><c> is</c><00:03:38.480><c> on</c><00:03:38.640><c> line</c>
+
+00:03:38.949 --> 00:03:38.959 align:start position:0%
+scope ruby cannot see what x is on line
+ 
+
+00:03:38.959 --> 00:03:40.309 align:start position:0%
+scope ruby cannot see what x is on line
+six
+
+00:03:40.309 --> 00:03:40.319 align:start position:0%
+six
+ 
+
+00:03:40.319 --> 00:03:43.670 align:start position:0%
+six
+however<00:03:40.799><c> we</c><00:03:41.040><c> can</c><00:03:41.440><c> output</c><00:03:41.920><c> y</c><00:03:43.040><c> and</c><00:03:43.200><c> if</c><00:03:43.360><c> we</c><00:03:43.440><c> run</c>
+
+00:03:43.670 --> 00:03:43.680 align:start position:0%
+however we can output y and if we run
+ 
+
+00:03:43.680 --> 00:03:48.869 align:start position:0%
+however we can output y and if we run
+our<00:03:43.840><c> code</c><00:03:44.080><c> we'll</c><00:03:44.319><c> see</c><00:03:44.840><c> that</c>
+
+00:03:48.869 --> 00:03:48.879 align:start position:0%
+ 
+ 
+
+00:03:48.879 --> 00:03:51.750 align:start position:0%
+ 
+the<00:03:49.040><c> difference</c><00:03:49.599><c> is</c><00:03:49.760><c> that</c><00:03:50.000><c> y</c><00:03:50.319><c> was</c><00:03:50.560><c> initialized</c>
+
+00:03:51.750 --> 00:03:51.760 align:start position:0%
+the difference is that y was initialized
+ 
+
+00:03:51.760 --> 00:03:52.869 align:start position:0%
+the difference is that y was initialized
+on<00:03:52.000><c> line</c><00:03:52.319><c> 1</c>
+
+00:03:52.869 --> 00:03:52.879 align:start position:0%
+on line 1
+ 
+
+00:03:52.879 --> 00:03:56.149 align:start position:0%
+on line 1
+in<00:03:52.959><c> the</c><00:03:53.120><c> outer</c><00:03:53.519><c> scope</c><00:03:55.120><c> interscopes</c>
+
+00:03:56.149 --> 00:03:56.159 align:start position:0%
+in the outer scope interscopes
+ 
+
+00:03:56.159 --> 00:03:58.710 align:start position:0%
+in the outer scope interscopes
+can<00:03:56.480><c> access</c><00:03:56.959><c> variables</c><00:03:57.519><c> initialized</c><00:03:58.400><c> in</c><00:03:58.480><c> the</c>
+
+00:03:58.710 --> 00:03:58.720 align:start position:0%
+can access variables initialized in the
+ 
+
+00:03:58.720 --> 00:03:59.750 align:start position:0%
+can access variables initialized in the
+outer<00:03:59.040><c> scope</c>
+
+00:03:59.750 --> 00:03:59.760 align:start position:0%
+outer scope
+ 
+
+00:03:59.760 --> 00:04:01.830 align:start position:0%
+outer scope
+however<00:04:00.239><c> the</c><00:04:00.400><c> outer</c><00:04:00.640><c> scope</c><00:04:01.040><c> cannot</c><00:04:01.439><c> access</c>
+
+00:04:01.830 --> 00:04:01.840 align:start position:0%
+however the outer scope cannot access
+ 
+
+00:04:01.840 --> 00:04:03.270 align:start position:0%
+however the outer scope cannot access
+variables<00:04:02.480><c> initialized</c>
+
+00:04:03.270 --> 00:04:03.280 align:start position:0%
+variables initialized
+ 
+
+00:04:03.280 --> 00:04:07.030 align:start position:0%
+variables initialized
+in<00:04:03.439><c> the</c><00:04:03.599><c> inner</c><00:04:03.920><c> scope</c><00:04:05.599><c> in</c><00:04:05.760><c> order</c><00:04:06.080><c> to</c><00:04:06.319><c> output</c><00:04:06.799><c> x</c>
+
+00:04:07.030 --> 00:04:07.040 align:start position:0%
+in the inner scope in order to output x
+ 
+
+00:04:07.040 --> 00:04:07.589 align:start position:0%
+in the inner scope in order to output x
+on<00:04:07.200><c> line</c>
+
+00:04:07.589 --> 00:04:07.599 align:start position:0%
+on line
+ 
+
+00:04:07.599 --> 00:04:10.630 align:start position:0%
+on line
+6<00:04:08.000><c> we</c><00:04:08.159><c> would</c><00:04:08.400><c> need</c><00:04:08.720><c> to</c><00:04:09.200><c> initialize</c><00:04:10.080><c> x</c><00:04:10.400><c> in</c><00:04:10.480><c> the</c>
+
+00:04:10.630 --> 00:04:10.640 align:start position:0%
+6 we would need to initialize x in the
+ 
+
+00:04:10.640 --> 00:04:14.550 align:start position:0%
+6 we would need to initialize x in the
+outer<00:04:12.840><c> scope</c>
+
+00:04:14.550 --> 00:04:14.560 align:start position:0%
+outer scope
+ 
+
+00:04:14.560 --> 00:04:17.749 align:start position:0%
+outer scope
+so<00:04:14.720><c> if</c><00:04:14.879><c> we</c><00:04:15.120><c> initialize</c><00:04:15.760><c> x</c><00:04:16.000><c> on</c><00:04:16.160><c> line</c><00:04:16.560><c> two</c>
+
+00:04:17.749 --> 00:04:17.759 align:start position:0%
+so if we initialize x on line two
+ 
+
+00:04:17.759 --> 00:04:21.189 align:start position:0%
+so if we initialize x on line two
+and<00:04:17.919><c> run</c><00:04:18.160><c> our</c><00:04:18.239><c> code</c><00:04:18.479><c> again</c><00:04:20.160><c> our</c><00:04:20.400><c> code</c><00:04:20.720><c> now</c><00:04:20.959><c> runs</c>
+
+00:04:21.189 --> 00:04:21.199 align:start position:0%
+and run our code again our code now runs
+ 
+
+00:04:21.199 --> 00:04:22.150 align:start position:0%
+and run our code again our code now runs
+without<00:04:21.680><c> error</c>
+
+00:04:22.150 --> 00:04:22.160 align:start position:0%
+without error
+ 
+
+00:04:22.160 --> 00:04:26.830 align:start position:0%
+without error
+and<00:04:22.400><c> is</c><00:04:22.560><c> able</c><00:04:22.880><c> to</c><00:04:23.120><c> output</c><00:04:23.520><c> x</c><00:04:23.840><c> from</c><00:04:24.080><c> outside</c><00:04:24.479><c> the</c>
+
+00:04:26.830 --> 00:04:26.840 align:start position:0%
+ 
+ 
+
+00:04:26.840 --> 00:04:30.469 align:start position:0%
+ 
+block
+
+00:04:30.469 --> 00:04:30.479 align:start position:0%
+ 
+ 
+
+00:04:30.479 --> 00:04:32.150 align:start position:0%
+ 
+looking<00:04:30.800><c> back</c><00:04:31.040><c> at</c><00:04:31.199><c> our</c><00:04:31.360><c> first</c><00:04:31.600><c> snippet</c><00:04:32.080><c> of</c>
+
+00:04:32.150 --> 00:04:32.160 align:start position:0%
+looking back at our first snippet of
+ 
+
+00:04:32.160 --> 00:04:34.469 align:start position:0%
+looking back at our first snippet of
+code<00:04:32.880><c> which</c><00:04:33.120><c> i've</c><00:04:33.280><c> pasted</c><00:04:33.759><c> on</c><00:04:33.919><c> lines</c><00:04:34.240><c> 8</c>
+
+00:04:34.469 --> 00:04:34.479 align:start position:0%
+code which i've pasted on lines 8
+ 
+
+00:04:34.479 --> 00:04:35.670 align:start position:0%
+code which i've pasted on lines 8
+through<00:04:34.720><c> 12</c>
+
+00:04:35.670 --> 00:04:35.680 align:start position:0%
+through 12
+ 
+
+00:04:35.680 --> 00:04:38.310 align:start position:0%
+through 12
+you<00:04:35.840><c> can</c><00:04:36.080><c> see</c><00:04:36.240><c> the</c><00:04:36.400><c> same</c><00:04:36.639><c> behavior</c><00:04:37.120><c> there</c><00:04:38.080><c> x</c>
+
+00:04:38.310 --> 00:04:38.320 align:start position:0%
+you can see the same behavior there x
+ 
+
+00:04:38.320 --> 00:04:39.350 align:start position:0%
+you can see the same behavior there x
+was<00:04:38.560><c> initialized</c>
+
+00:04:39.350 --> 00:04:39.360 align:start position:0%
+was initialized
+ 
+
+00:04:39.360 --> 00:04:42.629 align:start position:0%
+was initialized
+on<00:04:39.520><c> line</c><00:04:40.000><c> 8</c><00:04:40.400><c> in</c><00:04:40.479><c> the</c><00:04:40.639><c> outer</c><00:04:41.040><c> scope</c>
+
+00:04:42.629 --> 00:04:42.639 align:start position:0%
+on line 8 in the outer scope
+ 
+
+00:04:42.639 --> 00:04:45.110 align:start position:0%
+on line 8 in the outer scope
+it<00:04:42.800><c> was</c><00:04:43.040><c> accessible</c><00:04:43.840><c> inside</c><00:04:44.240><c> the</c><00:04:44.400><c> inner</c><00:04:44.720><c> scope</c>
+
+00:04:45.110 --> 00:04:45.120 align:start position:0%
+it was accessible inside the inner scope
+ 
+
+00:04:45.120 --> 00:04:48.230 align:start position:0%
+it was accessible inside the inner scope
+of<00:04:45.280><c> the</c><00:04:45.440><c> block</c><00:04:45.919><c> on</c><00:04:46.080><c> line</c><00:04:46.400><c> 10</c>
+
+00:04:48.230 --> 00:04:48.240 align:start position:0%
+of the block on line 10
+ 
+
+00:04:48.240 --> 00:04:50.790 align:start position:0%
+of the block on line 10
+and<00:04:48.400><c> was</c><00:04:48.639><c> successfully</c><00:04:49.440><c> output</c><00:04:49.919><c> on</c><00:04:50.080><c> line</c><00:04:50.320><c> 12</c>
+
+00:04:50.790 --> 00:04:50.800 align:start position:0%
+and was successfully output on line 12
+ 
+
+00:04:50.800 --> 00:04:58.870 align:start position:0%
+and was successfully output on line 12
+in<00:04:50.960><c> the</c><00:04:51.040><c> outer</c><00:04:54.840><c> scope</c>
+
+00:04:58.870 --> 00:04:58.880 align:start position:0%
+ 
+ 
+
+00:04:58.880 --> 00:05:00.960 align:start position:0%
+ 
+you
+

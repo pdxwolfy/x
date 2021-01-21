@@ -1,0 +1,96 @@
+0:00:03.520,0:00:07.359
+we're going to
+
+0:00:04.400,0:00:08.880
+write a hash using both the old style
+
+0:00:07.359,0:00:12.559
+and new style
+
+0:00:08.880,0:00:12.559
+so i'm going to do this in irb
+
+0:00:12.639,0:00:17.840
+so let's create an example hash and
+
+0:00:15.599,0:00:20.160
+first let's write this in the old syntax
+
+0:00:17.840,0:00:20.160
+style
+
+0:00:20.320,0:00:27.359
+so i'll wrap my hash and curly braces
+
+0:00:24.080,0:00:29.599
+and our key will be name and this is a
+
+0:00:27.359,0:00:32.320
+symbol
+
+0:00:29.599,0:00:33.200
+we'll use the hash rocket to associate
+
+0:00:32.320,0:00:35.280
+this key
+
+0:00:33.200,0:00:36.640
+with the value which is going to be the
+
+0:00:35.280,0:00:39.840
+string bob
+
+0:00:36.640,0:00:42.840
+so this hash has one key value pair
+
+0:00:39.840,0:00:44.879
+a symbol as the key and a string for the
+
+0:00:42.840,0:00:47.039
+value
+
+0:00:44.879,0:00:58.960
+so now let's write this same hash in the
+
+0:00:47.039,0:01:00.879
+newer syntax style and when i press
+
+0:00:58.960,0:01:03.039
+enter and you see the hash that's
+
+0:01:00.879,0:01:05.199
+returned from this assignment
+
+0:01:03.039,0:01:06.240
+you can see that it looks exactly the
+
+0:01:05.199,0:01:09.119
+same as
+
+0:01:06.240,0:01:09.600
+the first hash that we wrote on line one
+
+0:01:09.119,0:01:12.400
+now
+
+0:01:09.600,0:01:14.400
+this newer syntax only works if your key
+
+0:01:12.400,0:01:16.880
+is a symbol
+
+0:01:14.400,0:01:18.240
+if you want your key to be a string or
+
+0:01:16.880,0:01:20.240
+any other object
+
+0:01:18.240,0:01:27.200
+then you need to use the older syntax
+
+0:01:20.240,0:01:29.280
+style with the hash rocket
+
+0:01:27.200,0:01:29.280
+you
+

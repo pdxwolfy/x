@@ -1,0 +1,336 @@
+0:00:04.560,0:00:08.639
+we're going to
+
+0:00:05.520,0:00:12.719
+write a program that prompts the user to
+
+0:00:08.639,0:00:14.719
+input a number between 0 and 100.
+
+0:00:12.719,0:00:16.960
+the program will then display a message
+
+0:00:14.719,0:00:17.760
+to the user reporting whether the number
+
+0:00:16.960,0:00:21.039
+is between
+
+0:00:17.760,0:00:24.800
+0 and 50 51 and 100
+
+0:00:21.039,0:00:28.880
+or above 100 so the first step here is
+
+0:00:24.800,0:00:28.880
+simply to prompt the user for a number
+
+0:00:29.039,0:00:34.800
+so we'll use put s to output a message
+
+0:00:32.079,0:00:34.800
+to the user
+
+0:00:38.480,0:00:44.800
+please enter a number between 0 and 100.
+
+0:00:42.320,0:00:47.280
+we want to capture that user input and
+
+0:00:44.800,0:00:50.719
+store it in a variable
+
+0:00:47.280,0:00:53.199
+let's call that variable number
+
+0:00:50.719,0:00:55.199
+and in order to pause program execution
+
+0:00:53.199,0:00:55.920
+and wait for the user to give their
+
+0:00:55.199,0:00:59.840
+input
+
+0:00:55.920,0:00:59.840
+we'll use the get s method
+
+0:01:00.320,0:01:04.879
+and we'll chain a method call to chomp
+
+0:01:03.199,0:01:06.640
+on the get s method
+
+0:01:04.879,0:01:09.360
+and this will remove the newline
+
+0:01:06.640,0:01:11.920
+character from user input
+
+0:01:09.360,0:01:13.280
+so i'm going to run our program as it is
+
+0:01:11.920,0:01:16.960
+now and use the p
+
+0:01:13.280,0:01:20.240
+method to output number after we've
+
+0:01:16.960,0:01:20.240
+captured it from the user
+
+0:01:23.680,0:01:28.320
+so i'll run our program i'm prompted for
+
+0:01:26.400,0:01:31.759
+a number
+
+0:01:28.320,0:01:33.040
+i'll enter 50. now you'll notice that on
+
+0:01:31.759,0:01:36.240
+the last line there
+
+0:01:33.040,0:01:40.400
+when our program output number it output
+
+0:01:36.240,0:01:43.040
+a string
+
+0:01:40.400,0:01:44.159
+remember that all user input comes in as
+
+0:01:43.040,0:01:46.000
+a string
+
+0:01:44.159,0:01:47.360
+but because we're going to want to
+
+0:01:46.000,0:01:50.479
+compare this number
+
+0:01:47.360,0:01:55.360
+to integers between 0 and 100
+
+0:01:50.479,0:01:57.280
+we want number to be an integer
+
+0:01:55.360,0:02:00.320
+we can store the user input as an
+
+0:01:57.280,0:02:03.840
+integer in our variable number
+
+0:02:00.320,0:02:05.600
+by chaining a method called 2i
+
+0:02:03.840,0:02:08.789
+i'm going to run our program the same
+
+0:02:05.600,0:02:11.909
+way one more time
+
+0:02:08.789,0:02:11.909
+[Music]
+
+0:02:14.480,0:02:17.680
+again i'll enter 50 and this time when
+
+0:02:17.200,0:02:20.800
+we use
+
+0:02:17.680,0:02:24.560
+p to output that number back to us
+
+0:02:20.800,0:02:24.560
+you can see that it's an integer
+
+0:02:24.640,0:02:28.160
+so now that we've stored the user input
+
+0:02:26.959,0:02:30.640
+as an integer
+
+0:02:28.160,0:02:31.200
+in the variable number we can compare
+
+0:02:30.640,0:02:33.519
+number
+
+0:02:31.200,0:02:35.840
+to different integers in order to
+
+0:02:33.519,0:02:38.160
+display the appropriate message to the
+
+0:02:35.840,0:02:42.000
+user
+
+0:02:38.160,0:02:44.000
+we can do this using an if statement
+
+0:02:42.000,0:02:46.239
+so first we want to make sure the user
+
+0:02:44.000,0:02:48.160
+didn't enter a negative number
+
+0:02:46.239,0:02:49.280
+so the condition we'll provide to our if
+
+0:02:48.160,0:02:52.560
+statement is
+
+0:02:49.280,0:02:56.160
+if number is less than zero if this
+
+0:02:52.560,0:03:01.440
+comparison returns true
+
+0:02:56.160,0:03:01.440
+we'll output you can't enter a negative
+
+0:03:02.840,0:03:06.800
+number
+
+0:03:04.720,0:03:08.239
+if this next branch of our if statement
+
+0:03:06.800,0:03:10.239
+is being evaluated
+
+0:03:08.239,0:03:13.280
+then we know that the number must be
+
+0:03:10.239,0:03:15.280
+greater than or equal to zero
+
+0:03:13.280,0:03:19.760
+so now we simply need to check whether
+
+0:03:15.280,0:03:22.800
+the number is less than or equal to 50.
+
+0:03:19.760,0:03:24.959
+if this condition evaluates as true
+
+0:03:22.800,0:03:26.799
+then we know that number is between 0
+
+0:03:24.959,0:03:28.560
+and 50.
+
+0:03:26.799,0:03:30.959
+we'll output a message to the user
+
+0:03:28.560,0:03:32.080
+reflecting that and we can use string
+
+0:03:30.959,0:03:37.040
+interpolation
+
+0:03:32.080,0:03:37.040
+to display the number
+
+0:03:40.480,0:03:45.519
+on line 8 we'll write a condition to
+
+0:03:43.280,0:03:49.840
+determine whether number is between
+
+0:03:45.519,0:03:50.720
+51 and 100. again if we've reached this
+
+0:03:49.840,0:03:53.200
+branch of our
+
+0:03:50.720,0:03:56.080
+if statement we already know that the
+
+0:03:53.200,0:03:58.000
+number is greater than 50.
+
+0:03:56.080,0:04:01.840
+so we simply need to check whether it's
+
+0:03:58.000,0:04:01.840
+less than or equal to 100
+
+0:04:03.840,0:04:07.680
+if the number is less than or equal to
+
+0:04:05.680,0:04:14.400
+100
+
+0:04:07.680,0:04:16.880
+we'll output a similar message
+
+0:04:14.400,0:04:19.680
+lastly we'll give our if statement in
+
+0:04:16.880,0:04:19.680
+else clause
+
+0:04:21.199,0:04:25.040
+and the code in this branch of our if
+
+0:04:23.120,0:04:27.040
+statement will be executed
+
+0:04:25.040,0:04:29.600
+if none of the other conditions in our
+
+0:04:27.040,0:04:32.400
+if statement evaluated as true
+
+0:04:29.600,0:04:33.680
+and in this case that means the number
+
+0:04:32.400,0:04:36.880
+the user provided
+
+0:04:33.680,0:04:36.880
+is over 100
+
+0:04:37.600,0:04:41.120
+so we'll display a message reflecting
+
+0:04:39.600,0:04:44.479
+that
+
+0:04:41.120,0:04:44.479
+and now let's run our code
+
+0:04:44.720,0:04:48.720
+so first we'll input a negative number
+
+0:04:49.520,0:04:53.280
+and we see the appropriate message
+
+0:04:55.600,0:04:58.720
+let's enter a number between 0 and 50.
+
+0:04:58.080,0:05:01.280
+i'll enter
+
+0:04:58.720,0:05:01.280
+15.
+
+0:05:04.720,0:05:11.840
+this time i'll choose a number between
+
+0:05:06.560,0:05:11.840
+51 and 100.
+
+0:05:13.759,0:05:18.720
+and lastly i'm going to choose a number
+
+0:05:15.840,0:05:18.720
+over 100
+
+0:05:18.880,0:05:25.840
+and we see the appropriate message
+
+0:05:30.800,0:05:32.880
+you
+

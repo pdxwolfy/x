@@ -1,0 +1,147 @@
+0:00:04.160,0:00:08.080
+this exercise
+
+0:00:05.279,0:00:09.679
+asks us to create a new directory named
+
+0:00:08.080,0:00:12.000
+my folder
+
+0:00:09.679,0:00:13.519
+my command line prompt displays my
+
+0:00:12.000,0:00:16.800
+current working directory
+
+0:00:13.519,0:00:19.840
+which is a folder called exercises
+
+0:00:16.800,0:00:22.000
+i can use the ls command to display the
+
+0:00:19.840,0:00:23.519
+contents of this directory
+
+0:00:22.000,0:00:25.439
+and you can see that right now it's
+
+0:00:23.519,0:00:28.880
+empty
+
+0:00:25.439,0:00:28.880
+to create a new directory
+
+0:00:29.359,0:00:33.439
+we can use mkdir
+
+0:00:34.719,0:00:37.840
+and give it the name of our new
+
+0:00:36.160,0:00:41.040
+directory which we'll call
+
+0:00:37.840,0:00:42.719
+myfolder now when we view the contents
+
+0:00:41.040,0:00:45.280
+of our current directory
+
+0:00:42.719,0:00:48.640
+we can see that new directory there so
+
+0:00:45.280,0:00:51.440
+let's navigate into this folder
+
+0:00:48.640,0:00:51.760
+using the cd command which you can think
+
+0:00:51.440,0:00:55.280
+of
+
+0:00:51.760,0:00:55.280
+as change directory
+
+0:00:56.879,0:01:01.920
+and we'll use ls to look at the contents
+
+0:00:59.359,0:01:05.600
+of this folder as well
+
+0:01:01.920,0:01:07.119
+and it's empty so let's create a couple
+
+0:01:05.600,0:01:12.320
+of new files
+
+0:01:07.119,0:01:16.720
+we'll do this using touch
+
+0:01:12.320,0:01:21.040
+we'll create a ruby file 1.rb
+
+0:01:16.720,0:01:23.439
+and a second ruby file 2.rb
+
+0:01:21.040,0:01:24.479
+now when we examine the contents of my
+
+0:01:23.439,0:01:27.520
+folder
+
+0:01:24.479,0:01:29.759
+we see our two new files there the
+
+0:01:27.520,0:01:32.320
+exercise tells us that we want
+
+0:01:29.759,0:01:35.200
+each of our ruby files to output a
+
+0:01:32.320,0:01:38.000
+message to the user when we run them
+
+0:01:35.200,0:01:40.079
+so let's hop over to our text editor
+
+0:01:38.000,0:01:43.280
+i've accessed the new directory
+
+0:01:40.079,0:01:45.439
+my folder within the text editor and
+
+0:01:43.280,0:01:47.920
+opened up each of the two ruby files we
+
+0:01:45.439,0:01:47.920
+created
+
+0:01:48.320,0:01:52.560
+i just want to output a simple message
+
+0:01:51.200,0:01:55.759
+to the user
+
+0:01:52.560,0:01:55.759
+this is file one
+
+0:01:56.159,0:02:00.000
+jumping back to our command line
+
+0:02:01.680,0:02:08.399
+let's run this file
+
+0:02:04.880,0:02:10.239
+and we see the expected output
+
+0:02:08.399,0:02:23.840
+so we should be able to do something
+
+0:02:10.239,0:02:23.840
+very similar for our second file as well
+
+0:02:28.800,0:02:39.519
+and again we see that output
+
+0:02:37.440,0:02:39.519
+you
+

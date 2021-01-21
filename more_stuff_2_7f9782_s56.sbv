@@ -1,0 +1,60 @@
+0:00:04.160,0:00:07.839
+in this exercise
+
+0:00:05.359,0:00:10.080
+a block is being explicitly passed to
+
+0:00:07.839,0:00:12.080
+this execute method
+
+0:00:10.080,0:00:13.280
+and we're asked what will this program
+
+0:00:12.080,0:00:17.119
+print to the screen
+
+0:00:13.280,0:00:19.760
+and what will it return
+
+0:00:17.119,0:00:20.880
+so looking at the block on line 5 you
+
+0:00:19.760,0:00:23.119
+may think that
+
+0:00:20.880,0:00:25.599
+hello from inside the execute method
+
+0:00:23.119,0:00:27.760
+will be printed to the screen
+
+0:00:25.599,0:00:29.519
+however although we have passed the
+
+0:00:27.760,0:00:32.079
+block into the method
+
+0:00:29.519,0:00:33.760
+it's not being executed so what does
+
+0:00:32.079,0:00:36.000
+this method return
+
+0:00:33.760,0:00:37.680
+we can see that by outputting the return
+
+0:00:36.000,0:00:42.239
+with p
+
+0:00:37.680,0:00:42.239
+on line 5 and running our code
+
+0:00:42.879,0:00:46.160
+you can see that there's no output
+
+0:00:44.960,0:00:58.559
+however a proc
+
+0:00:46.160,0:00:58.559
+object is returned
+

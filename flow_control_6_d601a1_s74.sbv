@@ -1,0 +1,78 @@
+0:00:04.240,0:00:08.880
+this code we've been given raises an
+
+0:00:06.160,0:00:09.840
+error and we need to determine why we
+
+0:00:08.880,0:00:12.639
+get this error
+
+0:00:09.840,0:00:13.200
+and fix it so let's run our code and
+
+0:00:12.639,0:00:17.680
+just see
+
+0:00:13.200,0:00:19.439
+the error it's a syntax error that has
+
+0:00:17.680,0:00:21.760
+been raised
+
+0:00:19.439,0:00:22.640
+ruby's telling us that it was expecting
+
+0:00:21.760,0:00:27.439
+the keyword
+
+0:00:22.640,0:00:27.439
+end so let's look back at our code
+
+0:00:27.599,0:00:31.679
+you can see that we only have one
+
+0:00:29.519,0:00:34.960
+keyword end in our code on line
+
+0:00:31.679,0:00:37.760
+six however ruby is expecting an
+
+0:00:34.960,0:00:40.800
+end for both the if statement and our
+
+0:00:37.760,0:00:40.800
+method definition
+
+0:00:41.200,0:00:46.160
+so this end on line six gets matched as
+
+0:00:44.239,0:00:48.160
+part of our if statement
+
+0:00:46.160,0:00:49.360
+the reason an error is being raised is
+
+0:00:48.160,0:00:51.280
+that there is no
+
+0:00:49.360,0:00:53.520
+end associated with our method
+
+0:00:51.280,0:00:55.920
+definition
+
+0:00:53.520,0:00:59.840
+so we can correct this error by adding
+
+0:00:55.920,0:00:59.840
+the keyword end on line seven
+
+0:01:00.559,0:01:05.359
+now when we run our code it runs without
+
+0:01:10.840,0:01:15.840
+error
+
+0:01:13.760,0:01:15.840
+you
+

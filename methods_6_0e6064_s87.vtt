@@ -1,0 +1,296 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.400 --> 00:00:05.269 align:start position:0%
+ 
+we've<00:00:04.640><c> been</c><00:00:04.799><c> given</c>
+
+00:00:05.269 --> 00:00:05.279 align:start position:0%
+we've been given
+ 
+
+00:00:05.279 --> 00:00:07.829 align:start position:0%
+we've been given
+an<00:00:05.680><c> example</c><00:00:06.319><c> error</c><00:00:06.720><c> message</c><00:00:07.279><c> the</c><00:00:07.520><c> error</c>
+
+00:00:07.829 --> 00:00:07.839 align:start position:0%
+an example error message the error
+ 
+
+00:00:07.839 --> 00:00:08.950 align:start position:0%
+an example error message the error
+message<00:00:08.240><c> tells</c><00:00:08.559><c> us</c>
+
+00:00:08.950 --> 00:00:08.960 align:start position:0%
+message tells us
+ 
+
+00:00:08.960 --> 00:00:10.870 align:start position:0%
+message tells us
+we've<00:00:09.200><c> given</c><00:00:09.519><c> a</c><00:00:09.599><c> method</c><00:00:10.000><c> the</c><00:00:10.080><c> wrong</c><00:00:10.320><c> number</c><00:00:10.639><c> of</c>
+
+00:00:10.870 --> 00:00:10.880 align:start position:0%
+we've given a method the wrong number of
+ 
+
+00:00:10.880 --> 00:00:11.990 align:start position:0%
+we've given a method the wrong number of
+arguments
+
+00:00:11.990 --> 00:00:12.000 align:start position:0%
+arguments
+ 
+
+00:00:12.000 --> 00:00:14.310 align:start position:0%
+arguments
+we've<00:00:12.320><c> given</c><00:00:12.639><c> it</c><00:00:12.880><c> one</c><00:00:13.200><c> argument</c><00:00:13.759><c> when</c><00:00:14.000><c> it</c><00:00:14.080><c> was</c>
+
+00:00:14.310 --> 00:00:14.320 align:start position:0%
+we've given it one argument when it was
+ 
+
+00:00:14.320 --> 00:00:17.029 align:start position:0%
+we've given it one argument when it was
+expecting<00:00:14.960><c> two</c><00:00:15.839><c> reading</c><00:00:16.240><c> line</c><00:00:16.560><c> two</c><00:00:16.800><c> of</c><00:00:16.880><c> the</c>
+
+00:00:17.029 --> 00:00:17.039 align:start position:0%
+expecting two reading line two of the
+ 
+
+00:00:17.039 --> 00:00:17.990 align:start position:0%
+expecting two reading line two of the
+error<00:00:17.359><c> message</c>
+
+00:00:17.990 --> 00:00:18.000 align:start position:0%
+error message
+ 
+
+00:00:18.000 --> 00:00:20.310 align:start position:0%
+error message
+it<00:00:18.080><c> looks</c><00:00:18.320><c> like</c><00:00:18.560><c> this</c><00:00:18.800><c> error</c><00:00:19.199><c> is</c><00:00:19.359><c> taking</c><00:00:19.840><c> place</c>
+
+00:00:20.310 --> 00:00:20.320 align:start position:0%
+it looks like this error is taking place
+ 
+
+00:00:20.320 --> 00:00:22.630 align:start position:0%
+it looks like this error is taking place
+in<00:00:20.480><c> the</c><00:00:20.640><c> calculate</c><00:00:21.359><c> product</c><00:00:21.840><c> method</c>
+
+00:00:22.630 --> 00:00:22.640 align:start position:0%
+in the calculate product method
+ 
+
+00:00:22.640 --> 00:00:24.310 align:start position:0%
+in the calculate product method
+and<00:00:22.880><c> it</c><00:00:22.960><c> looks</c><00:00:23.119><c> like</c><00:00:23.279><c> we're</c><00:00:23.600><c> invoking</c><00:00:24.080><c> this</c>
+
+00:00:24.310 --> 00:00:24.320 align:start position:0%
+and it looks like we're invoking this
+ 
+
+00:00:24.320 --> 00:00:26.070 align:start position:0%
+and it looks like we're invoking this
+method<00:00:24.720><c> on</c><00:00:24.880><c> line</c><00:00:25.279><c> four</c>
+
+00:00:26.070 --> 00:00:26.080 align:start position:0%
+method on line four
+ 
+
+00:00:26.080 --> 00:00:28.230 align:start position:0%
+method on line four
+i've<00:00:26.400><c> written</c><00:00:26.720><c> some</c><00:00:27.039><c> code</c><00:00:27.359><c> to</c><00:00:27.680><c> produce</c><00:00:28.080><c> this</c>
+
+00:00:28.230 --> 00:00:28.240 align:start position:0%
+i've written some code to produce this
+ 
+
+00:00:28.240 --> 00:00:30.070 align:start position:0%
+i've written some code to produce this
+type<00:00:28.480><c> of</c><00:00:28.840><c> error</c>
+
+00:00:30.070 --> 00:00:30.080 align:start position:0%
+type of error
+ 
+
+00:00:30.080 --> 00:00:32.229 align:start position:0%
+type of error
+i've<00:00:30.320><c> defined</c><00:00:30.800><c> my</c><00:00:31.039><c> own</c><00:00:31.279><c> calculate</c><00:00:31.840><c> product</c>
+
+00:00:32.229 --> 00:00:32.239 align:start position:0%
+i've defined my own calculate product
+ 
+
+00:00:32.239 --> 00:00:33.270 align:start position:0%
+i've defined my own calculate product
+method<00:00:32.800><c> and</c>
+
+00:00:33.270 --> 00:00:33.280 align:start position:0%
+method and
+ 
+
+00:00:33.280 --> 00:00:36.310 align:start position:0%
+method and
+it<00:00:33.520><c> expects</c><00:00:34.160><c> two</c><00:00:34.399><c> arguments</c><00:00:35.520><c> our</c><00:00:35.760><c> parameters</c>
+
+00:00:36.310 --> 00:00:36.320 align:start position:0%
+it expects two arguments our parameters
+ 
+
+00:00:36.320 --> 00:00:38.150 align:start position:0%
+it expects two arguments our parameters
+are<00:00:36.480><c> defined</c><00:00:36.960><c> as</c><00:00:37.280><c> number</c><00:00:37.760><c> one</c>
+
+00:00:38.150 --> 00:00:38.160 align:start position:0%
+are defined as number one
+ 
+
+00:00:38.160 --> 00:00:41.190 align:start position:0%
+are defined as number one
+and<00:00:38.320><c> number</c><00:00:38.719><c> two</c><00:00:39.760><c> however</c><00:00:40.160><c> when</c><00:00:40.399><c> i</c><00:00:40.559><c> invoke</c><00:00:41.040><c> the</c>
+
+00:00:41.190 --> 00:00:41.200 align:start position:0%
+and number two however when i invoke the
+ 
+
+00:00:41.200 --> 00:00:43.830 align:start position:0%
+and number two however when i invoke the
+calculate<00:00:41.760><c> product</c><00:00:42.160><c> method</c><00:00:42.559><c> on</c><00:00:42.719><c> line</c><00:00:43.120><c> four</c>
+
+00:00:43.830 --> 00:00:43.840 align:start position:0%
+calculate product method on line four
+ 
+
+00:00:43.840 --> 00:00:45.830 align:start position:0%
+calculate product method on line four
+you<00:00:44.000><c> can</c><00:00:44.160><c> see</c><00:00:44.320><c> that</c><00:00:44.480><c> i've</c><00:00:44.719><c> only</c><00:00:45.039><c> passed</c><00:00:45.360><c> it</c><00:00:45.600><c> one</c>
+
+00:00:45.830 --> 00:00:45.840 align:start position:0%
+you can see that i've only passed it one
+ 
+
+00:00:45.840 --> 00:00:46.790 align:start position:0%
+you can see that i've only passed it one
+argument
+
+00:00:46.790 --> 00:00:46.800 align:start position:0%
+argument
+ 
+
+00:00:46.800 --> 00:00:50.549 align:start position:0%
+argument
+the<00:00:46.960><c> integer</c><00:00:47.440><c> four</c><00:00:49.360><c> so</c><00:00:49.600><c> let's</c><00:00:49.840><c> try</c><00:00:50.000><c> to</c><00:00:50.160><c> run</c><00:00:50.399><c> our</c>
+
+00:00:50.549 --> 00:00:50.559 align:start position:0%
+the integer four so let's try to run our
+ 
+
+00:00:50.559 --> 00:00:53.990 align:start position:0%
+the integer four so let's try to run our
+code<00:00:50.800><c> and</c><00:00:50.960><c> see</c><00:00:51.120><c> what</c><00:00:51.360><c> happens</c>
+
+00:00:53.990 --> 00:00:54.000 align:start position:0%
+ 
+ 
+
+00:00:54.000 --> 00:00:56.549 align:start position:0%
+ 
+and<00:00:54.239><c> we</c><00:00:54.399><c> see</c><00:00:54.559><c> a</c><00:00:54.640><c> very</c><00:00:54.960><c> similar</c><00:00:55.440><c> error</c><00:00:55.840><c> here</c><00:00:56.320><c> an</c>
+
+00:00:56.549 --> 00:00:56.559 align:start position:0%
+and we see a very similar error here an
+ 
+
+00:00:56.559 --> 00:00:58.549 align:start position:0%
+and we see a very similar error here an
+argument<00:00:57.120><c> error</c><00:00:57.440><c> with</c><00:00:57.600><c> the</c><00:00:57.840><c> wrong</c><00:00:58.079><c> number</c><00:00:58.399><c> of</c>
+
+00:00:58.549 --> 00:00:58.559 align:start position:0%
+argument error with the wrong number of
+ 
+
+00:00:58.559 --> 00:01:01.670 align:start position:0%
+argument error with the wrong number of
+arguments
+
+00:01:01.670 --> 00:01:01.680 align:start position:0%
+ 
+ 
+
+00:01:01.680 --> 00:01:03.430 align:start position:0%
+ 
+on<00:01:01.920><c> line</c><00:01:02.239><c> four</c><00:01:02.559><c> where</c><00:01:02.719><c> i</c><00:01:02.879><c> invoke</c><00:01:03.280><c> the</c>
+
+00:01:03.430 --> 00:01:03.440 align:start position:0%
+on line four where i invoke the
+ 
+
+00:01:03.440 --> 00:01:05.270 align:start position:0%
+on line four where i invoke the
+calculate<00:01:04.000><c> product</c><00:01:04.400><c> method</c>
+
+00:01:05.270 --> 00:01:05.280 align:start position:0%
+calculate product method
+ 
+
+00:01:05.280 --> 00:01:07.270 align:start position:0%
+calculate product method
+i<00:01:05.439><c> can</c><00:01:05.680><c> see</c><00:01:05.840><c> that</c><00:01:06.000><c> i've</c><00:01:06.240><c> passed</c><00:01:06.640><c> in</c><00:01:06.799><c> only</c><00:01:07.040><c> one</c>
+
+00:01:07.270 --> 00:01:07.280 align:start position:0%
+i can see that i've passed in only one
+ 
+
+00:01:07.280 --> 00:01:08.950 align:start position:0%
+i can see that i've passed in only one
+argument
+
+00:01:08.950 --> 00:01:08.960 align:start position:0%
+argument
+ 
+
+00:01:08.960 --> 00:01:11.750 align:start position:0%
+argument
+my<00:01:09.119><c> method</c><00:01:09.439><c> was</c><00:01:09.680><c> expecting</c><00:01:10.320><c> two</c><00:01:10.960><c> so</c><00:01:11.200><c> i'll</c><00:01:11.439><c> pass</c>
+
+00:01:11.750 --> 00:01:11.760 align:start position:0%
+my method was expecting two so i'll pass
+ 
+
+00:01:11.760 --> 00:01:14.310 align:start position:0%
+my method was expecting two so i'll pass
+in<00:01:11.840><c> the</c><00:01:12.000><c> second</c><00:01:12.400><c> integer</c>
+
+00:01:14.310 --> 00:01:14.320 align:start position:0%
+in the second integer
+ 
+
+00:01:14.320 --> 00:01:16.550 align:start position:0%
+in the second integer
+and<00:01:14.479><c> now</c><00:01:14.720><c> when</c><00:01:14.880><c> i</c><00:01:15.040><c> run</c><00:01:15.280><c> the</c><00:01:15.439><c> code</c><00:01:15.920><c> i</c><00:01:16.080><c> expect</c><00:01:16.479><c> it</c>
+
+00:01:16.550 --> 00:01:16.560 align:start position:0%
+and now when i run the code i expect it
+ 
+
+00:01:16.560 --> 00:01:19.830 align:start position:0%
+and now when i run the code i expect it
+to<00:01:16.720><c> run</c><00:01:16.960><c> without</c><00:01:17.360><c> error</c>
+
+00:01:19.830 --> 00:01:19.840 align:start position:0%
+ 
+ 
+
+00:01:19.840 --> 00:01:27.749 align:start position:0%
+ 
+and<00:01:20.080><c> it</c><00:01:24.840><c> does</c>
+
+00:01:27.749 --> 00:01:27.759 align:start position:0%
+and it does
+ 
+
+00:01:27.759 --> 00:01:29.840 align:start position:0%
+and it does
+you
+

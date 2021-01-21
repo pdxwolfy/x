@@ -1,0 +1,984 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.400 --> 00:00:06.630 align:start position:0%
+ 
+we<00:00:04.560><c> need</c><00:00:04.720><c> to</c><00:00:04.960><c> write</c><00:00:05.200><c> a</c><00:00:05.440><c> program</c><00:00:06.000><c> that's</c><00:00:06.319><c> going</c>
+
+00:00:06.630 --> 00:00:06.640 align:start position:0%
+we need to write a program that's going
+ 
+
+00:00:06.640 --> 00:00:06.950 align:start position:0%
+we need to write a program that's going
+to
+
+00:00:06.950 --> 00:00:06.960 align:start position:0%
+to
+ 
+
+00:00:06.960 --> 00:00:09.190 align:start position:0%
+to
+print<00:00:07.359><c> out</c><00:00:07.600><c> groups</c><00:00:08.000><c> of</c><00:00:08.240><c> words</c><00:00:08.720><c> from</c><00:00:08.880><c> this</c>
+
+00:00:09.190 --> 00:00:09.200 align:start position:0%
+print out groups of words from this
+ 
+
+00:00:09.200 --> 00:00:10.549 align:start position:0%
+print out groups of words from this
+words<00:00:09.599><c> array</c>
+
+00:00:10.549 --> 00:00:10.559 align:start position:0%
+words array
+ 
+
+00:00:10.559 --> 00:00:13.350 align:start position:0%
+words array
+that<00:00:10.880><c> are</c><00:00:11.120><c> anagrams</c><00:00:12.320><c> so</c><00:00:12.559><c> they</c><00:00:12.719><c> have</c><00:00:12.880><c> the</c><00:00:13.040><c> same</c>
+
+00:00:13.350 --> 00:00:13.360 align:start position:0%
+that are anagrams so they have the same
+ 
+
+00:00:13.360 --> 00:00:15.030 align:start position:0%
+that are anagrams so they have the same
+letters<00:00:13.920><c> but</c><00:00:14.160><c> the</c><00:00:14.320><c> letters</c><00:00:14.719><c> are</c><00:00:14.880><c> in</c><00:00:14.960><c> a</c>
+
+00:00:15.030 --> 00:00:15.040 align:start position:0%
+letters but the letters are in a
+ 
+
+00:00:15.040 --> 00:00:16.310 align:start position:0%
+letters but the letters are in a
+different<00:00:15.360><c> order</c>
+
+00:00:16.310 --> 00:00:16.320 align:start position:0%
+different order
+ 
+
+00:00:16.320 --> 00:00:19.429 align:start position:0%
+different order
+and<00:00:16.400><c> we</c><00:00:16.720><c> see</c><00:00:16.880><c> a</c><00:00:16.960><c> little</c><00:00:17.199><c> code</c><00:00:17.520><c> example</c><00:00:18.880><c> in</c><00:00:19.119><c> our</c>
+
+00:00:19.429 --> 00:00:19.439 align:start position:0%
+and we see a little code example in our
+ 
+
+00:00:19.439 --> 00:00:22.470 align:start position:0%
+and we see a little code example in our
+words<00:00:19.840><c> array</c><00:00:20.240><c> you</c><00:00:20.400><c> can</c><00:00:20.560><c> see</c><00:00:20.800><c> that</c><00:00:21.119><c> demo</c><00:00:21.840><c> dome</c>
+
+00:00:22.470 --> 00:00:22.480 align:start position:0%
+words array you can see that demo dome
+ 
+
+00:00:22.480 --> 00:00:25.189 align:start position:0%
+words array you can see that demo dome
+and<00:00:22.800><c> mode</c><00:00:23.199><c> for</c><00:00:23.439><c> example</c><00:00:24.160><c> these</c><00:00:24.400><c> are</c><00:00:24.560><c> anagrams</c>
+
+00:00:25.189 --> 00:00:25.199 align:start position:0%
+and mode for example these are anagrams
+ 
+
+00:00:25.199 --> 00:00:26.950 align:start position:0%
+and mode for example these are anagrams
+of<00:00:25.359><c> each</c><00:00:25.599><c> other</c>
+
+00:00:26.950 --> 00:00:26.960 align:start position:0%
+of each other
+ 
+
+00:00:26.960 --> 00:00:28.630 align:start position:0%
+of each other
+so<00:00:27.199><c> the</c><00:00:27.279><c> first</c><00:00:27.519><c> thing</c><00:00:27.760><c> we</c><00:00:27.840><c> need</c><00:00:28.000><c> to</c><00:00:28.160><c> do</c><00:00:28.400><c> is</c><00:00:28.480><c> just</c>
+
+00:00:28.630 --> 00:00:28.640 align:start position:0%
+so the first thing we need to do is just
+ 
+
+00:00:28.640 --> 00:00:29.990 align:start position:0%
+so the first thing we need to do is just
+to<00:00:28.880><c> break</c><00:00:29.119><c> down</c><00:00:29.359><c> this</c><00:00:29.599><c> problem</c>
+
+00:00:29.990 --> 00:00:30.000 align:start position:0%
+to break down this problem
+ 
+
+00:00:30.000 --> 00:00:31.990 align:start position:0%
+to break down this problem
+a<00:00:30.160><c> little</c><00:00:30.400><c> bit</c><00:00:30.800><c> and</c><00:00:31.039><c> consider</c><00:00:31.599><c> how</c><00:00:31.840><c> we're</c>
+
+00:00:31.990 --> 00:00:32.000 align:start position:0%
+a little bit and consider how we're
+ 
+
+00:00:32.000 --> 00:00:33.990 align:start position:0%
+a little bit and consider how we're
+going<00:00:32.160><c> to</c><00:00:32.399><c> approach</c><00:00:32.880><c> it</c>
+
+00:00:33.990 --> 00:00:34.000 align:start position:0%
+going to approach it
+ 
+
+00:00:34.000 --> 00:00:36.069 align:start position:0%
+going to approach it
+so<00:00:34.160><c> we've</c><00:00:34.399><c> been</c><00:00:34.559><c> given</c><00:00:34.880><c> an</c><00:00:35.040><c> array</c><00:00:35.600><c> and</c><00:00:35.840><c> the</c>
+
+00:00:36.069 --> 00:00:36.079 align:start position:0%
+so we've been given an array and the
+ 
+
+00:00:36.079 --> 00:00:39.590 align:start position:0%
+so we've been given an array and the
+first<00:00:36.320><c> step</c><00:00:36.719><c> here</c><00:00:37.040><c> is</c><00:00:37.200><c> simply</c><00:00:37.520><c> going</c><00:00:37.760><c> to</c><00:00:37.920><c> be</c><00:00:38.160><c> to</c>
+
+00:00:39.590 --> 00:00:39.600 align:start position:0%
+first step here is simply going to be to
+ 
+
+00:00:39.600 --> 00:00:42.630 align:start position:0%
+first step here is simply going to be to
+iterate<00:00:40.079><c> over</c><00:00:40.399><c> the</c><00:00:40.559><c> array</c>
+
+00:00:42.630 --> 00:00:42.640 align:start position:0%
+iterate over the array
+ 
+
+00:00:42.640 --> 00:00:45.270 align:start position:0%
+iterate over the array
+we're<00:00:42.800><c> going</c><00:00:43.040><c> to</c><00:00:43.440><c> organize</c><00:00:44.160><c> these</c><00:00:44.480><c> anagrams</c>
+
+00:00:45.270 --> 00:00:45.280 align:start position:0%
+we're going to organize these anagrams
+ 
+
+00:00:45.280 --> 00:00:47.670 align:start position:0%
+we're going to organize these anagrams
+into<00:00:45.680><c> a</c><00:00:45.840><c> hash</c>
+
+00:00:47.670 --> 00:00:47.680 align:start position:0%
+into a hash
+ 
+
+00:00:47.680 --> 00:00:50.389 align:start position:0%
+into a hash
+the<00:00:47.920><c> key</c><00:00:48.320><c> of</c><00:00:48.480><c> the</c><00:00:48.640><c> hash</c><00:00:49.120><c> is</c><00:00:49.280><c> going</c><00:00:49.600><c> to</c><00:00:49.840><c> be</c><00:00:50.079><c> the</c>
+
+00:00:50.389 --> 00:00:50.399 align:start position:0%
+the key of the hash is going to be the
+ 
+
+00:00:50.399 --> 00:00:52.470 align:start position:0%
+the key of the hash is going to be the
+word<00:00:50.800><c> alphabetically</c><00:00:51.760><c> sorted</c>
+
+00:00:52.470 --> 00:00:52.480 align:start position:0%
+word alphabetically sorted
+ 
+
+00:00:52.480 --> 00:00:54.630 align:start position:0%
+word alphabetically sorted
+so<00:00:52.719><c> on</c><00:00:52.879><c> line</c><00:00:53.199><c> one</c><00:00:53.440><c> of</c><00:00:53.520><c> the</c><00:00:53.760><c> example</c><00:00:54.239><c> code</c><00:00:54.480><c> we</c>
+
+00:00:54.630 --> 00:00:54.640 align:start position:0%
+so on line one of the example code we
+ 
+
+00:00:54.640 --> 00:00:55.590 align:start position:0%
+so on line one of the example code we
+were<00:00:54.879><c> given</c>
+
+00:00:55.590 --> 00:00:55.600 align:start position:0%
+were given
+ 
+
+00:00:55.600 --> 00:00:58.630 align:start position:0%
+were given
+demo<00:00:56.079><c> would</c><00:00:56.239><c> be</c><00:00:56.399><c> the</c><00:00:56.640><c> key</c><00:00:57.760><c> and</c><00:00:57.920><c> the</c><00:00:58.160><c> value</c>
+
+00:00:58.630 --> 00:00:58.640 align:start position:0%
+demo would be the key and the value
+ 
+
+00:00:58.640 --> 00:01:00.150 align:start position:0%
+demo would be the key and the value
+associated<00:00:59.280><c> with</c><00:00:59.440><c> that</c><00:00:59.760><c> key</c>
+
+00:01:00.150 --> 00:01:00.160 align:start position:0%
+associated with that key
+ 
+
+00:01:00.160 --> 00:01:02.869 align:start position:0%
+associated with that key
+is<00:01:00.320><c> going</c><00:01:00.559><c> to</c><00:01:00.800><c> be</c><00:01:01.120><c> an</c><00:01:01.280><c> array</c><00:01:02.000><c> of</c><00:01:02.399><c> all</c><00:01:02.640><c> of</c><00:01:02.719><c> the</c>
+
+00:01:02.869 --> 00:01:02.879 align:start position:0%
+is going to be an array of all of the
+ 
+
+00:01:02.879 --> 00:01:05.750 align:start position:0%
+is going to be an array of all of the
+anagrams<00:01:03.520><c> of</c><00:01:03.600><c> that</c><00:01:03.840><c> word</c>
+
+00:01:05.750 --> 00:01:05.760 align:start position:0%
+anagrams of that word
+ 
+
+00:01:05.760 --> 00:01:08.950 align:start position:0%
+anagrams of that word
+so<00:01:05.920><c> if</c><00:01:06.240><c> demo</c><00:01:06.720><c> were</c><00:01:06.960><c> our</c><00:01:07.280><c> key</c>
+
+00:01:08.950 --> 00:01:08.960 align:start position:0%
+so if demo were our key
+ 
+
+00:01:08.960 --> 00:01:11.109 align:start position:0%
+so if demo were our key
+then<00:01:09.119><c> the</c><00:01:09.360><c> value</c><00:01:09.760><c> associated</c><00:01:10.320><c> with</c><00:01:10.479><c> that</c><00:01:10.799><c> key</c>
+
+00:01:11.109 --> 00:01:11.119 align:start position:0%
+then the value associated with that key
+ 
+
+00:01:11.119 --> 00:01:11.990 align:start position:0%
+then the value associated with that key
+would<00:01:11.280><c> be</c><00:01:11.439><c> an</c><00:01:11.600><c> array</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+would be an array
+ 
+
+00:01:12.000 --> 00:01:15.830 align:start position:0%
+would be an array
+of<00:01:12.080><c> the</c><00:01:12.240><c> strings</c><00:01:12.799><c> demo</c><00:01:13.520><c> dome</c><00:01:14.000><c> and</c><00:01:14.240><c> mode</c>
+
+00:01:15.830 --> 00:01:15.840 align:start position:0%
+of the strings demo dome and mode
+ 
+
+00:01:15.840 --> 00:01:19.429 align:start position:0%
+of the strings demo dome and mode
+so<00:01:16.080><c> in</c><00:01:16.159><c> order</c><00:01:16.479><c> to</c><00:01:16.640><c> get</c><00:01:16.880><c> our</c><00:01:17.119><c> key</c><00:01:18.159><c> we</c><00:01:18.400><c> want</c><00:01:18.640><c> to</c>
+
+00:01:19.429 --> 00:01:19.439 align:start position:0%
+so in order to get our key we want to
+ 
+
+00:01:19.439 --> 00:01:23.670 align:start position:0%
+so in order to get our key we want to
+sort<00:01:19.920><c> each</c><00:01:20.320><c> word</c><00:01:20.880><c> into</c><00:01:21.360><c> alphabetical</c><00:01:22.159><c> order</c>
+
+00:01:23.670 --> 00:01:23.680 align:start position:0%
+sort each word into alphabetical order
+ 
+
+00:01:23.680 --> 00:01:27.190 align:start position:0%
+sort each word into alphabetical order
+as<00:01:23.920><c> we</c><00:01:24.080><c> iterate</c><00:01:24.479><c> through</c><00:01:24.640><c> this</c><00:01:24.880><c> array</c>
+
+00:01:27.190 --> 00:01:27.200 align:start position:0%
+as we iterate through this array
+ 
+
+00:01:27.200 --> 00:01:32.630 align:start position:0%
+as we iterate through this array
+if<00:01:27.439><c> this</c><00:01:27.759><c> key</c><00:01:28.080><c> already</c><00:01:28.560><c> exists</c>
+
+00:01:32.630 --> 00:01:32.640 align:start position:0%
+ 
+ 
+
+00:01:32.640 --> 00:01:36.870 align:start position:0%
+ 
+we<00:01:32.880><c> want</c><00:01:33.200><c> to</c><00:01:33.600><c> append</c><00:01:34.079><c> the</c><00:01:34.320><c> current</c><00:01:34.799><c> word</c>
+
+00:01:36.870 --> 00:01:36.880 align:start position:0%
+we want to append the current word
+ 
+
+00:01:36.880 --> 00:01:40.550 align:start position:0%
+we want to append the current word
+into<00:01:38.479><c> the</c><00:01:38.720><c> value</c><00:01:39.600><c> which</c><00:01:39.840><c> is</c><00:01:40.000><c> going</c><00:01:40.159><c> to</c><00:01:40.320><c> be</c><00:01:40.479><c> an</c>
+
+00:01:40.550 --> 00:01:40.560 align:start position:0%
+into the value which is going to be an
+ 
+
+00:01:40.560 --> 00:01:43.109 align:start position:0%
+into the value which is going to be an
+array
+
+00:01:43.109 --> 00:01:43.119 align:start position:0%
+ 
+ 
+
+00:01:43.119 --> 00:01:48.550 align:start position:0%
+ 
+otherwise<00:01:44.960><c> we</c><00:01:45.200><c> want</c><00:01:45.439><c> to</c><00:01:45.840><c> create</c><00:01:46.240><c> a</c><00:01:46.399><c> new</c><00:01:46.720><c> key</c>
+
+00:01:48.550 --> 00:01:48.560 align:start position:0%
+otherwise we want to create a new key
+ 
+
+00:01:48.560 --> 00:01:51.910 align:start position:0%
+otherwise we want to create a new key
+with<00:01:48.720><c> this</c><00:01:49.040><c> sorted</c><00:01:49.520><c> word</c>
+
+00:01:51.910 --> 00:01:51.920 align:start position:0%
+ 
+ 
+
+00:01:51.920 --> 00:01:53.990 align:start position:0%
+ 
+so<00:01:52.159><c> now</c><00:01:52.320><c> that</c><00:01:52.479><c> we've</c><00:01:52.799><c> kind</c><00:01:52.960><c> of</c><00:01:53.200><c> considered</c><00:01:53.759><c> our</c>
+
+00:01:53.990 --> 00:01:54.000 align:start position:0%
+so now that we've kind of considered our
+ 
+
+00:01:54.000 --> 00:01:58.709 align:start position:0%
+so now that we've kind of considered our
+approach<00:01:54.880><c> let's</c><00:01:55.280><c> transform</c><00:01:55.920><c> this</c><00:01:56.240><c> into</c><00:01:56.560><c> code</c>
+
+00:01:58.709 --> 00:01:58.719 align:start position:0%
+approach let's transform this into code
+ 
+
+00:01:58.719 --> 00:02:01.030 align:start position:0%
+approach let's transform this into code
+the<00:01:58.960><c> first</c><00:01:59.280><c> step</c><00:01:59.680><c> here</c><00:02:00.000><c> is</c><00:02:00.159><c> simply</c><00:02:00.640><c> to</c>
+
+00:02:01.030 --> 00:02:01.040 align:start position:0%
+the first step here is simply to
+ 
+
+00:02:01.040 --> 00:02:05.670 align:start position:0%
+the first step here is simply to
+initialize<00:02:01.840><c> a</c><00:02:02.159><c> result</c><00:02:02.719><c> hash</c>
+
+00:02:05.670 --> 00:02:05.680 align:start position:0%
+ 
+ 
+
+00:02:05.680 --> 00:02:07.590 align:start position:0%
+ 
+and<00:02:06.000><c> we'll</c><00:02:06.240><c> populate</c><00:02:06.719><c> this</c><00:02:06.960><c> hash</c><00:02:07.280><c> with</c><00:02:07.439><c> our</c>
+
+00:02:07.590 --> 00:02:07.600 align:start position:0%
+and we'll populate this hash with our
+ 
+
+00:02:07.600 --> 00:02:09.830 align:start position:0%
+and we'll populate this hash with our
+key<00:02:07.840><c> value</c><00:02:08.239><c> pairs</c><00:02:08.800><c> as</c><00:02:09.039><c> we</c><00:02:09.200><c> iterate</c><00:02:09.599><c> through</c>
+
+00:02:09.830 --> 00:02:09.840 align:start position:0%
+key value pairs as we iterate through
+ 
+
+00:02:09.840 --> 00:02:14.070 align:start position:0%
+key value pairs as we iterate through
+the<00:02:09.920><c> words</c><00:02:10.319><c> array</c>
+
+00:02:14.070 --> 00:02:14.080 align:start position:0%
+ 
+ 
+
+00:02:14.080 --> 00:02:18.309 align:start position:0%
+ 
+we<00:02:14.239><c> can</c><00:02:14.480><c> iterate</c><00:02:14.959><c> through</c><00:02:15.280><c> words</c><00:02:15.680><c> using</c><00:02:16.080><c> each</c>
+
+00:02:18.309 --> 00:02:18.319 align:start position:0%
+we can iterate through words using each
+ 
+
+00:02:18.319 --> 00:02:20.550 align:start position:0%
+we can iterate through words using each
+each<00:02:18.640><c> word</c><00:02:19.040><c> is</c><00:02:19.200><c> going</c><00:02:19.440><c> to</c><00:02:19.599><c> be</c><00:02:19.840><c> passed</c><00:02:20.239><c> as</c><00:02:20.400><c> an</c>
+
+00:02:20.550 --> 00:02:20.560 align:start position:0%
+each word is going to be passed as an
+ 
+
+00:02:20.560 --> 00:02:22.710 align:start position:0%
+each word is going to be passed as an
+argument<00:02:20.959><c> to</c><00:02:21.120><c> the</c><00:02:21.280><c> block</c>
+
+00:02:22.710 --> 00:02:22.720 align:start position:0%
+argument to the block
+ 
+
+00:02:22.720 --> 00:02:24.949 align:start position:0%
+argument to the block
+now<00:02:22.879><c> the</c><00:02:23.040><c> next</c><00:02:23.280><c> step</c><00:02:23.599><c> of</c><00:02:23.760><c> our</c><00:02:23.920><c> approach</c><00:02:24.480><c> is</c><00:02:24.640><c> to</c>
+
+00:02:24.949 --> 00:02:24.959 align:start position:0%
+now the next step of our approach is to
+ 
+
+00:02:24.959 --> 00:02:28.390 align:start position:0%
+now the next step of our approach is to
+sort<00:02:25.360><c> each</c><00:02:25.599><c> word</c><00:02:25.920><c> into</c><00:02:26.160><c> alphabetical</c><00:02:26.959><c> order</c>
+
+00:02:28.390 --> 00:02:28.400 align:start position:0%
+sort each word into alphabetical order
+ 
+
+00:02:28.400 --> 00:02:30.550 align:start position:0%
+sort each word into alphabetical order
+let's<00:02:28.640><c> hop</c><00:02:28.959><c> over</c><00:02:29.200><c> into</c><00:02:29.440><c> irb</c><00:02:30.000><c> to</c><00:02:30.160><c> see</c><00:02:30.319><c> how</c><00:02:30.480><c> we</c>
+
+00:02:30.550 --> 00:02:30.560 align:start position:0%
+let's hop over into irb to see how we
+ 
+
+00:02:30.560 --> 00:02:34.229 align:start position:0%
+let's hop over into irb to see how we
+can<00:02:30.720><c> do</c><00:02:30.879><c> this</c>
+
+00:02:34.229 --> 00:02:34.239 align:start position:0%
+ 
+ 
+
+00:02:34.239 --> 00:02:37.110 align:start position:0%
+ 
+let's<00:02:34.480><c> say</c><00:02:34.640><c> we</c><00:02:34.800><c> have</c><00:02:35.040><c> the</c><00:02:35.280><c> string</c><00:02:35.920><c> mode</c><00:02:36.720><c> we</c><00:02:36.879><c> can</c>
+
+00:02:37.110 --> 00:02:37.120 align:start position:0%
+let's say we have the string mode we can
+ 
+
+00:02:37.120 --> 00:02:39.509 align:start position:0%
+let's say we have the string mode we can
+sort<00:02:37.360><c> this</c><00:02:37.599><c> string</c><00:02:38.000><c> into</c><00:02:38.239><c> alphabetical</c><00:02:39.120><c> order</c>
+
+00:02:39.509 --> 00:02:39.519 align:start position:0%
+sort this string into alphabetical order
+ 
+
+00:02:39.519 --> 00:02:41.430 align:start position:0%
+sort this string into alphabetical order
+by<00:02:39.840><c> splitting</c><00:02:40.319><c> it</c><00:02:40.480><c> into</c><00:02:40.720><c> an</c><00:02:40.879><c> array</c><00:02:41.200><c> of</c>
+
+00:02:41.430 --> 00:02:41.440 align:start position:0%
+by splitting it into an array of
+ 
+
+00:02:41.440 --> 00:02:44.390 align:start position:0%
+by splitting it into an array of
+characters
+
+00:02:44.390 --> 00:02:44.400 align:start position:0%
+ 
+ 
+
+00:02:44.400 --> 00:02:48.070 align:start position:0%
+ 
+calling<00:02:44.879><c> sort</c><00:02:45.680><c> to</c><00:02:45.920><c> sort</c><00:02:46.239><c> those</c><00:02:46.560><c> characters</c>
+
+00:02:48.070 --> 00:02:48.080 align:start position:0%
+calling sort to sort those characters
+ 
+
+00:02:48.080 --> 00:02:49.910 align:start position:0%
+calling sort to sort those characters
+and<00:02:48.239><c> then</c><00:02:48.720><c> joining</c><00:02:49.200><c> this</c><00:02:49.440><c> array</c><00:02:49.680><c> of</c>
+
+00:02:49.910 --> 00:02:49.920 align:start position:0%
+and then joining this array of
+ 
+
+00:02:49.920 --> 00:02:51.270 align:start position:0%
+and then joining this array of
+characters<00:02:50.879><c> now</c>
+
+00:02:51.270 --> 00:02:51.280 align:start position:0%
+characters now
+ 
+
+00:02:51.280 --> 00:02:56.630 align:start position:0%
+characters now
+sorted<00:02:51.680><c> characters</c><00:02:52.720><c> back</c><00:02:52.959><c> into</c><00:02:53.280><c> a</c><00:02:53.440><c> string</c>
+
+00:02:56.630 --> 00:02:56.640 align:start position:0%
+ 
+ 
+
+00:02:56.640 --> 00:02:58.390 align:start position:0%
+ 
+and<00:02:56.800><c> when</c><00:02:56.959><c> i</c><00:02:57.120><c> hit</c><00:02:57.360><c> enter</c><00:02:57.680><c> you</c><00:02:57.840><c> can</c><00:02:58.000><c> see</c><00:02:58.239><c> that</c>
+
+00:02:58.390 --> 00:02:58.400 align:start position:0%
+and when i hit enter you can see that
+ 
+
+00:02:58.400 --> 00:02:59.670 align:start position:0%
+and when i hit enter you can see that
+the<00:02:58.560><c> sorted</c><00:02:59.040><c> string</c>
+
+00:02:59.670 --> 00:02:59.680 align:start position:0%
+the sorted string
+ 
+
+00:02:59.680 --> 00:03:08.949 align:start position:0%
+the sorted string
+is<00:03:02.840><c> demo</c>
+
+00:03:08.949 --> 00:03:08.959 align:start position:0%
+ 
+ 
+
+00:03:08.959 --> 00:03:11.270 align:start position:0%
+ 
+if<00:03:09.120><c> i</c><00:03:09.280><c> use</c><00:03:09.519><c> that</c><00:03:09.760><c> same</c><00:03:10.080><c> code</c><00:03:10.560><c> on</c><00:03:10.720><c> the</c><00:03:10.879><c> string</c>
+
+00:03:11.270 --> 00:03:11.280 align:start position:0%
+if i use that same code on the string
+ 
+
+00:03:11.280 --> 00:03:13.910 align:start position:0%
+if i use that same code on the string
+dome<00:03:11.920><c> again</c><00:03:12.239><c> we</c><00:03:12.400><c> see</c><00:03:12.560><c> the</c><00:03:12.800><c> string</c><00:03:13.120><c> demo</c><00:03:13.599><c> is</c><00:03:13.760><c> the</c>
+
+00:03:13.910 --> 00:03:13.920 align:start position:0%
+dome again we see the string demo is the
+ 
+
+00:03:13.920 --> 00:03:29.750 align:start position:0%
+dome again we see the string demo is the
+sorted<00:03:16.840><c> result</c>
+
+00:03:29.750 --> 00:03:29.760 align:start position:0%
+ 
+ 
+
+00:03:29.760 --> 00:03:31.509 align:start position:0%
+ 
+so<00:03:29.920><c> as</c><00:03:30.080><c> we</c><00:03:30.319><c> iterate</c><00:03:30.640><c> through</c><00:03:30.799><c> this</c><00:03:31.040><c> array</c><00:03:31.360><c> we</c>
+
+00:03:31.509 --> 00:03:31.519 align:start position:0%
+so as we iterate through this array we
+ 
+
+00:03:31.519 --> 00:03:33.910 align:start position:0%
+so as we iterate through this array we
+will<00:03:31.760><c> sort</c><00:03:32.080><c> the</c><00:03:32.239><c> characters</c><00:03:33.040><c> alphabetically</c>
+
+00:03:33.910 --> 00:03:33.920 align:start position:0%
+will sort the characters alphabetically
+ 
+
+00:03:33.920 --> 00:03:38.229 align:start position:0%
+will sort the characters alphabetically
+to<00:03:34.159><c> create</c><00:03:34.480><c> the</c><00:03:34.799><c> keys</c><00:03:35.200><c> of</c><00:03:35.280><c> this</c><00:03:35.519><c> result</c><00:03:35.920><c> hash</c>
+
+00:03:38.229 --> 00:03:38.239 align:start position:0%
+to create the keys of this result hash
+ 
+
+00:03:38.239 --> 00:03:44.630 align:start position:0%
+to create the keys of this result hash
+and<00:03:38.480><c> let's</c><00:03:38.720><c> store</c><00:03:39.040><c> that</c><00:03:39.200><c> in</c><00:03:39.360><c> a</c><00:03:39.519><c> variable</c><00:03:40.159><c> key</c>
+
+00:03:44.630 --> 00:03:44.640 align:start position:0%
+ 
+ 
+
+00:03:44.640 --> 00:03:48.869 align:start position:0%
+ 
+if<00:03:44.959><c> our</c><00:03:45.200><c> result</c><00:03:45.680><c> hash</c><00:03:46.159><c> already</c><00:03:46.640><c> has</c><00:03:46.879><c> this</c><00:03:47.280><c> key</c>
+
+00:03:48.869 --> 00:03:48.879 align:start position:0%
+if our result hash already has this key
+ 
+
+00:03:48.879 --> 00:03:52.309 align:start position:0%
+if our result hash already has this key
+we<00:03:49.040><c> can</c><00:03:49.280><c> use</c><00:03:49.519><c> the</c><00:03:49.680><c> hash</c><00:03:50.080><c> method</c><00:03:50.560><c> has</c><00:03:51.040><c> key</c><00:03:51.360><c> here</c>
+
+00:03:52.309 --> 00:03:52.319 align:start position:0%
+we can use the hash method has key here
+ 
+
+00:03:52.319 --> 00:03:55.110 align:start position:0%
+we can use the hash method has key here
+which<00:03:52.640><c> returns</c><00:03:53.120><c> a</c><00:03:53.200><c> boolean</c><00:03:54.400><c> and</c><00:03:54.560><c> we'll</c><00:03:54.799><c> pass</c>
+
+00:03:55.110 --> 00:03:55.120 align:start position:0%
+which returns a boolean and we'll pass
+ 
+
+00:03:55.120 --> 00:03:55.750 align:start position:0%
+which returns a boolean and we'll pass
+in<00:03:55.360><c> the</c>
+
+00:03:55.750 --> 00:03:55.760 align:start position:0%
+in the
+ 
+
+00:03:55.760 --> 00:03:58.830 align:start position:0%
+in the
+key<00:03:56.560><c> that</c><00:03:56.720><c> we</c><00:03:56.959><c> assigned</c><00:03:57.360><c> on</c><00:03:57.439><c> line</c><00:03:57.680><c> 12</c><00:03:58.080><c> as</c><00:03:58.239><c> the</c>
+
+00:03:58.830 --> 00:03:58.840 align:start position:0%
+key that we assigned on line 12 as the
+ 
+
+00:03:58.840 --> 00:04:04.710 align:start position:0%
+key that we assigned on line 12 as the
+argument
+
+00:04:04.710 --> 00:04:04.720 align:start position:0%
+ 
+ 
+
+00:04:04.720 --> 00:04:08.869 align:start position:0%
+ 
+then<00:04:04.959><c> we</c><00:04:05.040><c> want</c><00:04:05.280><c> to</c><00:04:05.519><c> push</c><00:04:05.840><c> the</c><00:04:06.080><c> current</c><00:04:06.560><c> word</c>
+
+00:04:08.869 --> 00:04:08.879 align:start position:0%
+then we want to push the current word
+ 
+
+00:04:08.879 --> 00:04:11.509 align:start position:0%
+then we want to push the current word
+into<00:04:09.280><c> the</c><00:04:09.519><c> array</c><00:04:10.400><c> that</c><00:04:10.560><c> will</c><00:04:10.720><c> be</c><00:04:10.879><c> the</c><00:04:11.040><c> value</c>
+
+00:04:11.509 --> 00:04:11.519 align:start position:0%
+into the array that will be the value
+ 
+
+00:04:11.519 --> 00:04:14.789 align:start position:0%
+into the array that will be the value
+associated<00:04:12.159><c> with</c><00:04:12.319><c> this</c><00:04:12.840><c> key</c>
+
+00:04:14.789 --> 00:04:14.799 align:start position:0%
+associated with this key
+ 
+
+00:04:14.799 --> 00:04:17.110 align:start position:0%
+associated with this key
+looking<00:04:15.120><c> up</c><00:04:15.360><c> at</c><00:04:15.519><c> our</c><00:04:15.599><c> notes</c><00:04:15.920><c> on</c><00:04:16.079><c> line</c><00:04:16.400><c> 7</c><00:04:16.799><c> we</c><00:04:16.959><c> can</c>
+
+00:04:17.110 --> 00:04:17.120 align:start position:0%
+looking up at our notes on line 7 we can
+ 
+
+00:04:17.120 --> 00:04:19.349 align:start position:0%
+looking up at our notes on line 7 we can
+see<00:04:17.359><c> that</c><00:04:17.680><c> otherwise</c><00:04:18.400><c> we</c><00:04:18.560><c> simply</c><00:04:18.880><c> want</c><00:04:19.120><c> to</c>
+
+00:04:19.349 --> 00:04:19.359 align:start position:0%
+see that otherwise we simply want to
+ 
+
+00:04:19.359 --> 00:04:21.590 align:start position:0%
+see that otherwise we simply want to
+create<00:04:19.759><c> a</c><00:04:19.919><c> new</c><00:04:20.239><c> key</c><00:04:20.479><c> in</c><00:04:20.639><c> the</c><00:04:20.799><c> hash</c>
+
+00:04:21.590 --> 00:04:21.600 align:start position:0%
+create a new key in the hash
+ 
+
+00:04:21.600 --> 00:04:27.590 align:start position:0%
+create a new key in the hash
+with<00:04:21.759><c> this</c><00:04:22.000><c> sorted</c><00:04:22.400><c> word</c>
+
+00:04:27.590 --> 00:04:27.600 align:start position:0%
+ 
+ 
+
+00:04:27.600 --> 00:04:30.710 align:start position:0%
+ 
+now<00:04:27.840><c> when</c><00:04:28.000><c> we</c><00:04:28.240><c> create</c><00:04:28.720><c> this</c><00:04:29.040><c> new</c><00:04:29.360><c> key</c><00:04:30.479><c> we're</c>
+
+00:04:30.710 --> 00:04:30.720 align:start position:0%
+now when we create this new key we're
+ 
+
+00:04:30.720 --> 00:04:31.430 align:start position:0%
+now when we create this new key we're
+going<00:04:31.040><c> to</c>
+
+00:04:31.430 --> 00:04:31.440 align:start position:0%
+going to
+ 
+
+00:04:31.440 --> 00:04:35.189 align:start position:0%
+going to
+assign<00:04:31.919><c> its</c><00:04:32.160><c> value</c><00:04:32.639><c> to</c><00:04:32.800><c> be</c><00:04:33.040><c> an</c><00:04:33.199><c> array</c>
+
+00:04:35.189 --> 00:04:35.199 align:start position:0%
+assign its value to be an array
+ 
+
+00:04:35.199 --> 00:04:37.189 align:start position:0%
+assign its value to be an array
+we'll<00:04:35.520><c> place</c><00:04:35.840><c> the</c><00:04:36.080><c> current</c><00:04:36.479><c> word</c><00:04:36.880><c> in</c><00:04:37.040><c> that</c>
+
+00:04:37.189 --> 00:04:37.199 align:start position:0%
+we'll place the current word in that
+ 
+
+00:04:37.199 --> 00:04:39.350 align:start position:0%
+we'll place the current word in that
+array
+
+00:04:39.350 --> 00:04:39.360 align:start position:0%
+array
+ 
+
+00:04:39.360 --> 00:04:42.230 align:start position:0%
+array
+and<00:04:39.440><c> this</c><00:04:39.680><c> is</c><00:04:39.840><c> why</c><00:04:40.080><c> on</c><00:04:40.240><c> line</c><00:04:40.639><c> 14</c><00:04:41.440><c> we</c><00:04:41.600><c> can</c><00:04:41.840><c> invoke</c>
+
+00:04:42.230 --> 00:04:42.240 align:start position:0%
+and this is why on line 14 we can invoke
+ 
+
+00:04:42.240 --> 00:04:43.510 align:start position:0%
+and this is why on line 14 we can invoke
+the<00:04:42.400><c> push</c><00:04:42.720><c> method</c>
+
+00:04:43.510 --> 00:04:43.520 align:start position:0%
+the push method
+ 
+
+00:04:43.520 --> 00:04:45.909 align:start position:0%
+the push method
+on<00:04:43.680><c> the</c><00:04:43.919><c> value</c><00:04:44.400><c> associated</c><00:04:45.040><c> with</c><00:04:45.199><c> an</c><00:04:45.360><c> existing</c>
+
+00:04:45.909 --> 00:04:45.919 align:start position:0%
+on the value associated with an existing
+ 
+
+00:04:45.919 --> 00:04:47.110 align:start position:0%
+on the value associated with an existing
+key
+
+00:04:47.110 --> 00:04:47.120 align:start position:0%
+key
+ 
+
+00:04:47.120 --> 00:04:49.110 align:start position:0%
+key
+at<00:04:47.280><c> this</c><00:04:47.520><c> point</c><00:04:48.000><c> let's</c><00:04:48.240><c> just</c><00:04:48.639><c> output</c><00:04:48.960><c> the</c>
+
+00:04:49.110 --> 00:04:49.120 align:start position:0%
+at this point let's just output the
+ 
+
+00:04:49.120 --> 00:04:55.590 align:start position:0%
+at this point let's just output the
+result<00:04:49.600><c> hash</c>
+
+00:04:55.590 --> 00:04:55.600 align:start position:0%
+ 
+ 
+
+00:04:55.600 --> 00:04:58.390 align:start position:0%
+ 
+so<00:04:55.759><c> we</c><00:04:56.000><c> see</c><00:04:56.160><c> our</c><00:04:56.400><c> result</c><00:04:56.880><c> hash</c><00:04:57.360><c> we've</c><00:04:57.600><c> got</c><00:04:58.000><c> five</c>
+
+00:04:58.390 --> 00:04:58.400 align:start position:0%
+so we see our result hash we've got five
+ 
+
+00:04:58.400 --> 00:05:00.950 align:start position:0%
+so we see our result hash we've got five
+key<00:04:58.639><c> value</c><00:04:59.120><c> pairs</c>
+
+00:05:00.950 --> 00:05:00.960 align:start position:0%
+key value pairs
+ 
+
+00:05:00.960 --> 00:05:04.150 align:start position:0%
+key value pairs
+and<00:05:01.280><c> each</c><00:05:01.600><c> value</c><00:05:02.160><c> is</c><00:05:02.320><c> an</c><00:05:02.479><c> array</c><00:05:03.039><c> or</c><00:05:03.280><c> a</c><00:05:03.440><c> list</c>
+
+00:05:04.150 --> 00:05:04.160 align:start position:0%
+and each value is an array or a list
+ 
+
+00:05:04.160 --> 00:05:07.110 align:start position:0%
+and each value is an array or a list
+of<00:05:04.320><c> the</c><00:05:04.479><c> anagrams</c><00:05:06.160><c> so</c><00:05:06.320><c> this</c><00:05:06.560><c> looks</c><00:05:06.800><c> pretty</c>
+
+00:05:07.110 --> 00:05:07.120 align:start position:0%
+of the anagrams so this looks pretty
+ 
+
+00:05:07.120 --> 00:05:08.629 align:start position:0%
+of the anagrams so this looks pretty
+good
+
+00:05:08.629 --> 00:05:08.639 align:start position:0%
+good
+ 
+
+00:05:08.639 --> 00:05:10.710 align:start position:0%
+good
+but<00:05:08.800><c> looking</c><00:05:09.199><c> at</c><00:05:09.280><c> the</c><00:05:09.440><c> example</c><00:05:10.000><c> output</c><00:05:10.560><c> and</c>
+
+00:05:10.710 --> 00:05:10.720 align:start position:0%
+but looking at the example output and
+ 
+
+00:05:10.720 --> 00:05:12.550 align:start position:0%
+but looking at the example output and
+the<00:05:10.960><c> problem</c><00:05:11.360><c> description</c>
+
+00:05:12.550 --> 00:05:12.560 align:start position:0%
+the problem description
+ 
+
+00:05:12.560 --> 00:05:15.510 align:start position:0%
+the problem description
+we<00:05:12.720><c> want</c><00:05:12.960><c> to</c><00:05:13.120><c> output</c><00:05:13.680><c> only</c><00:05:13.919><c> the</c><00:05:14.160><c> values</c><00:05:14.720><c> here</c>
+
+00:05:15.510 --> 00:05:15.520 align:start position:0%
+we want to output only the values here
+ 
+
+00:05:15.520 --> 00:05:17.510 align:start position:0%
+we want to output only the values here
+i'm<00:05:15.759><c> going</c><00:05:16.000><c> to</c><00:05:16.160><c> remove</c><00:05:16.720><c> the</c><00:05:16.880><c> notes</c><00:05:17.199><c> that</c><00:05:17.280><c> we</c>
+
+00:05:17.510 --> 00:05:17.520 align:start position:0%
+i'm going to remove the notes that we
+ 
+
+00:05:17.520 --> 00:05:19.189 align:start position:0%
+i'm going to remove the notes that we
+previously<00:05:18.240><c> used</c>
+
+00:05:19.189 --> 00:05:19.199 align:start position:0%
+previously used
+ 
+
+00:05:19.199 --> 00:05:22.830 align:start position:0%
+previously used
+to<00:05:19.360><c> make</c><00:05:19.600><c> room</c><00:05:19.919><c> for</c><00:05:20.240><c> a</c><00:05:20.320><c> little</c><00:05:20.479><c> bit</c><00:05:20.720><c> more</c><00:05:20.960><c> code</c>
+
+00:05:22.830 --> 00:05:22.840 align:start position:0%
+to make room for a little bit more code
+ 
+
+00:05:22.840 --> 00:05:24.150 align:start position:0%
+to make room for a little bit more code
+here
+
+00:05:24.150 --> 00:05:24.160 align:start position:0%
+here
+ 
+
+00:05:24.160 --> 00:05:26.629 align:start position:0%
+here
+we've<00:05:24.400><c> got</c><00:05:24.720><c> our</c><00:05:24.960><c> list</c><00:05:25.199><c> of</c><00:05:25.360><c> anagrams</c><00:05:26.080><c> stored</c><00:05:26.479><c> in</c>
+
+00:05:26.629 --> 00:05:26.639 align:start position:0%
+we've got our list of anagrams stored in
+ 
+
+00:05:26.639 --> 00:05:28.070 align:start position:0%
+we've got our list of anagrams stored in
+the<00:05:26.720><c> result</c><00:05:27.280><c> hash</c>
+
+00:05:28.070 --> 00:05:28.080 align:start position:0%
+the result hash
+ 
+
+00:05:28.080 --> 00:05:30.950 align:start position:0%
+the result hash
+and<00:05:28.400><c> we</c><00:05:28.639><c> want</c><00:05:28.880><c> to</c><00:05:29.199><c> output</c><00:05:29.840><c> only</c><00:05:30.160><c> the</c><00:05:30.320><c> values</c>
+
+00:05:30.950 --> 00:05:30.960 align:start position:0%
+and we want to output only the values
+ 
+
+00:05:30.960 --> 00:05:32.950 align:start position:0%
+and we want to output only the values
+only<00:05:31.280><c> this</c><00:05:31.520><c> list</c><00:05:31.759><c> of</c><00:05:31.919><c> anagrams</c>
+
+00:05:32.950 --> 00:05:32.960 align:start position:0%
+only this list of anagrams
+ 
+
+00:05:32.960 --> 00:05:36.390 align:start position:0%
+only this list of anagrams
+we<00:05:33.120><c> don't</c><00:05:33.280><c> need</c><00:05:33.440><c> to</c><00:05:33.600><c> output</c><00:05:33.919><c> the</c><00:05:34.160><c> key</c>
+
+00:05:36.390 --> 00:05:36.400 align:start position:0%
+we don't need to output the key
+ 
+
+00:05:36.400 --> 00:05:39.670 align:start position:0%
+we don't need to output the key
+so<00:05:36.560><c> we</c><00:05:36.720><c> can</c><00:05:37.039><c> invoke</c><00:05:37.440><c> the</c><00:05:37.919><c> each</c><00:05:38.639><c> value</c><00:05:39.120><c> method</c>
+
+00:05:39.670 --> 00:05:39.680 align:start position:0%
+so we can invoke the each value method
+ 
+
+00:05:39.680 --> 00:05:44.310 align:start position:0%
+so we can invoke the each value method
+on<00:05:39.919><c> our</c><00:05:40.080><c> result</c><00:05:40.560><c> hash</c>
+
+00:05:44.310 --> 00:05:44.320 align:start position:0%
+ 
+ 
+
+00:05:44.320 --> 00:05:49.749 align:start position:0%
+ 
+each<00:05:44.639><c> value</c><00:05:45.039><c> will</c><00:05:45.199><c> be</c><00:05:45.360><c> passed</c><00:05:45.680><c> to</c><00:05:45.840><c> the</c><00:05:46.000><c> block</c>
+
+00:05:49.749 --> 00:05:49.759 align:start position:0%
+ 
+ 
+
+00:05:49.759 --> 00:05:53.029 align:start position:0%
+ 
+and<00:05:49.919><c> then</c><00:05:50.080><c> let's</c><00:05:50.320><c> use</c><00:05:50.720><c> p</c><00:05:51.520><c> to</c><00:05:52.080><c> output</c><00:05:52.639><c> each</c><00:05:52.880><c> of</c>
+
+00:05:53.029 --> 00:05:53.039 align:start position:0%
+and then let's use p to output each of
+ 
+
+00:05:53.039 --> 00:05:54.629 align:start position:0%
+and then let's use p to output each of
+these<00:05:53.280><c> lists</c>
+
+00:05:54.629 --> 00:05:54.639 align:start position:0%
+these lists
+ 
+
+00:05:54.639 --> 00:05:56.710 align:start position:0%
+these lists
+we'll<00:05:54.800><c> run</c><00:05:55.039><c> our</c><00:05:55.199><c> code</c><00:05:55.440><c> again</c><00:05:55.840><c> and</c><00:05:56.160><c> we</c><00:05:56.319><c> expect</c>
+
+00:05:56.710 --> 00:05:56.720 align:start position:0%
+we'll run our code again and we expect
+ 
+
+00:05:56.720 --> 00:05:58.629 align:start position:0%
+we'll run our code again and we expect
+our<00:05:56.880><c> output</c><00:05:57.280><c> to</c><00:05:57.440><c> look</c><00:05:57.600><c> like</c><00:05:57.840><c> the</c><00:05:58.000><c> example</c><00:05:58.479><c> that</c>
+
+00:05:58.629 --> 00:05:58.639 align:start position:0%
+our output to look like the example that
+ 
+
+00:05:58.639 --> 00:06:04.309 align:start position:0%
+our output to look like the example that
+we<00:05:58.720><c> were</c><00:05:58.880><c> given</c>
+
+00:06:04.309 --> 00:06:04.319 align:start position:0%
+ 
+ 
+
+00:06:04.319 --> 00:06:07.840 align:start position:0%
+ 
+and<00:06:04.479><c> that's</c><00:06:04.720><c> what</c><00:06:04.800><c> we</c><00:06:05.039><c> see</c>
+

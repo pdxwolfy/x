@@ -1,0 +1,224 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.799 --> 00:00:05.749 align:start position:0%
+ 
+this<00:00:05.040><c> exercise</c>
+
+00:00:05.749 --> 00:00:05.759 align:start position:0%
+this exercise
+ 
+
+00:00:05.759 --> 00:00:08.470 align:start position:0%
+this exercise
+asks<00:00:06.160><c> us</c><00:00:06.399><c> whether</c><00:00:06.799><c> hash</c><00:00:07.279><c> values</c><00:00:07.919><c> can</c><00:00:08.160><c> be</c>
+
+00:00:08.470 --> 00:00:08.480 align:start position:0%
+asks us whether hash values can be
+ 
+
+00:00:08.480 --> 00:00:09.509 align:start position:0%
+asks us whether hash values can be
+arrays
+
+00:00:09.509 --> 00:00:09.519 align:start position:0%
+arrays
+ 
+
+00:00:09.519 --> 00:00:11.350 align:start position:0%
+arrays
+and<00:00:09.840><c> whether</c><00:00:10.160><c> we</c><00:00:10.320><c> can</c><00:00:10.480><c> have</c><00:00:10.719><c> an</c><00:00:10.880><c> array</c><00:00:11.200><c> of</c>
+
+00:00:11.350 --> 00:00:11.360 align:start position:0%
+and whether we can have an array of
+ 
+
+00:00:11.360 --> 00:00:14.230 align:start position:0%
+and whether we can have an array of
+hashes<00:00:12.480><c> so</c><00:00:12.799><c> let's</c><00:00:13.040><c> hop</c><00:00:13.280><c> into</c><00:00:13.519><c> irb</c>
+
+00:00:14.230 --> 00:00:14.240 align:start position:0%
+hashes so let's hop into irb
+ 
+
+00:00:14.240 --> 00:00:17.189 align:start position:0%
+hashes so let's hop into irb
+and<00:00:14.559><c> experiment</c><00:00:15.200><c> with</c><00:00:15.360><c> this</c><00:00:16.640><c> let's</c><00:00:16.880><c> write</c><00:00:17.039><c> a</c>
+
+00:00:17.189 --> 00:00:17.199 align:start position:0%
+and experiment with this let's write a
+ 
+
+00:00:17.199 --> 00:00:19.269 align:start position:0%
+and experiment with this let's write a
+hash
+
+00:00:19.269 --> 00:00:19.279 align:start position:0%
+hash
+ 
+
+00:00:19.279 --> 00:00:23.189 align:start position:0%
+hash
+and<00:00:19.600><c> our</c><00:00:19.920><c> key</c><00:00:20.160><c> will</c><00:00:20.400><c> be</c><00:00:20.880><c> names</c><00:00:22.240><c> now</c><00:00:22.400><c> this</c><00:00:22.720><c> value</c>
+
+00:00:23.189 --> 00:00:23.199 align:start position:0%
+and our key will be names now this value
+ 
+
+00:00:23.199 --> 00:00:24.870 align:start position:0%
+and our key will be names now this value
+can<00:00:23.519><c> be</c><00:00:23.760><c> an</c><00:00:23.920><c> array</c>
+
+00:00:24.870 --> 00:00:24.880 align:start position:0%
+can be an array
+ 
+
+00:00:24.880 --> 00:00:30.470 align:start position:0%
+can be an array
+so<00:00:25.039><c> let's</c><00:00:25.279><c> give</c><00:00:25.519><c> it</c><00:00:25.680><c> an</c><00:00:25.840><c> array</c><00:00:26.240><c> of</c><00:00:28.840><c> strings</c>
+
+00:00:30.470 --> 00:00:30.480 align:start position:0%
+so let's give it an array of strings
+ 
+
+00:00:30.480 --> 00:00:32.630 align:start position:0%
+so let's give it an array of strings
+here<00:00:30.720><c> you</c><00:00:30.800><c> can</c><00:00:31.039><c> see</c><00:00:31.199><c> we've</c><00:00:31.439><c> got</c><00:00:31.760><c> a</c><00:00:31.920><c> hash</c><00:00:32.320><c> with</c>
+
+00:00:32.630 --> 00:00:32.640 align:start position:0%
+here you can see we've got a hash with
+ 
+
+00:00:32.640 --> 00:00:34.549 align:start position:0%
+here you can see we've got a hash with
+one<00:00:32.880><c> key</c><00:00:33.120><c> value</c><00:00:33.520><c> pair</c>
+
+00:00:34.549 --> 00:00:34.559 align:start position:0%
+one key value pair
+ 
+
+00:00:34.559 --> 00:00:36.630 align:start position:0%
+one key value pair
+the<00:00:34.800><c> key</c><00:00:35.120><c> is</c><00:00:35.200><c> the</c><00:00:35.360><c> symbol</c><00:00:35.760><c> names</c><00:00:36.239><c> and</c><00:00:36.480><c> the</c>
+
+00:00:36.630 --> 00:00:36.640 align:start position:0%
+the key is the symbol names and the
+ 
+
+00:00:36.640 --> 00:00:40.389 align:start position:0%
+the key is the symbol names and the
+value<00:00:37.040><c> is</c><00:00:37.120><c> an</c><00:00:37.280><c> array</c><00:00:37.600><c> of</c><00:00:37.680><c> strings</c>
+
+00:00:40.389 --> 00:00:40.399 align:start position:0%
+ 
+ 
+
+00:00:40.399 --> 00:00:42.830 align:start position:0%
+ 
+now<00:00:40.559><c> let's</c><00:00:40.800><c> take</c><00:00:41.040><c> a</c><00:00:41.120><c> look</c><00:00:41.440><c> at</c><00:00:41.680><c> an</c><00:00:41.840><c> array</c><00:00:42.160><c> of</c>
+
+00:00:42.830 --> 00:00:42.840 align:start position:0%
+now let's take a look at an array of
+ 
+
+00:00:42.840 --> 00:00:49.270 align:start position:0%
+now let's take a look at an array of
+hashes<00:00:43.920><c> so</c><00:00:44.160><c> i'll</c><00:00:44.239><c> write</c><00:00:44.559><c> out</c><00:00:44.719><c> an</c><00:00:44.879><c> array</c>
+
+00:00:49.270 --> 00:00:49.280 align:start position:0%
+ 
+ 
+
+00:00:49.280 --> 00:00:52.389 align:start position:0%
+ 
+and<00:00:49.600><c> let's</c><00:00:49.840><c> give</c><00:00:50.079><c> it</c><00:00:50.320><c> several</c><00:00:51.360><c> hashes</c><00:00:52.000><c> with</c>
+
+00:00:52.389 --> 00:00:52.399 align:start position:0%
+and let's give it several hashes with
+ 
+
+00:00:52.399 --> 00:00:56.630 align:start position:0%
+and let's give it several hashes with
+one<00:00:52.719><c> key</c><00:00:52.960><c> value</c><00:00:53.360><c> pair</c>
+
+00:00:56.630 --> 00:00:56.640 align:start position:0%
+ 
+ 
+
+00:00:56.640 --> 00:00:58.950 align:start position:0%
+ 
+each<00:00:56.879><c> one</c><00:00:57.039><c> of</c><00:00:57.199><c> these</c><00:00:57.440><c> will</c><00:00:57.600><c> have</c><00:00:58.000><c> a</c><00:00:58.320><c> symbol</c><00:00:58.719><c> as</c>
+
+00:00:58.950 --> 00:00:58.960 align:start position:0%
+each one of these will have a symbol as
+ 
+
+00:00:58.960 --> 00:01:02.229 align:start position:0%
+each one of these will have a symbol as
+the<00:00:59.199><c> key</c>
+
+00:01:02.229 --> 00:01:02.239 align:start position:0%
+ 
+ 
+
+00:01:02.239 --> 00:01:08.550 align:start position:0%
+ 
+and<00:01:02.399><c> a</c><00:01:02.559><c> string</c><00:01:02.879><c> as</c><00:01:03.039><c> the</c><00:01:03.199><c> value</c>
+
+00:01:08.550 --> 00:01:08.560 align:start position:0%
+ 
+ 
+
+00:01:08.560 --> 00:01:10.550 align:start position:0%
+ 
+so<00:01:08.720><c> now</c><00:01:08.880><c> we've</c><00:01:09.040><c> got</c><00:01:09.280><c> a</c><00:01:09.439><c> three</c><00:01:09.680><c> element</c><00:01:10.159><c> array</c>
+
+00:01:10.550 --> 00:01:10.560 align:start position:0%
+so now we've got a three element array
+ 
+
+00:01:10.560 --> 00:01:12.070 align:start position:0%
+so now we've got a three element array
+and<00:01:10.880><c> each</c><00:01:11.119><c> of</c><00:01:11.200><c> those</c><00:01:11.439><c> elements</c>
+
+00:01:12.070 --> 00:01:12.080 align:start position:0%
+and each of those elements
+ 
+
+00:01:12.080 --> 00:01:15.350 align:start position:0%
+and each of those elements
+is<00:01:12.240><c> a</c><00:01:12.400><c> hash</c>
+
+00:01:15.350 --> 00:01:15.360 align:start position:0%
+ 
+ 
+
+00:01:15.360 --> 00:01:17.429 align:start position:0%
+ 
+so<00:01:15.600><c> this</c><00:01:15.920><c> is</c><00:01:16.000><c> definitely</c><00:01:16.560><c> possible</c><00:01:17.200><c> and</c>
+
+00:01:17.429 --> 00:01:17.439 align:start position:0%
+so this is definitely possible and
+ 
+
+00:01:17.439 --> 00:01:24.830 align:start position:0%
+so this is definitely possible and
+you'll<00:01:17.600><c> see</c><00:01:17.840><c> nested</c><00:01:18.320><c> collections</c><00:01:18.960><c> like</c><00:01:19.200><c> this</c>
+
+00:01:24.830 --> 00:01:24.840 align:start position:0%
+ 
+ 
+
+00:01:24.840 --> 00:01:27.830 align:start position:0%
+ 
+frequently
+
+00:01:27.830 --> 00:01:27.840 align:start position:0%
+frequently
+ 
+
+00:01:27.840 --> 00:01:29.920 align:start position:0%
+frequently
+you
+

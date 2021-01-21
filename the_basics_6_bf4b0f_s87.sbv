@@ -1,0 +1,72 @@
+0:00:04.400,0:00:08.639
+this exercise asks
+
+0:00:05.920,0:00:09.840
+us to write some code that calculates
+
+0:00:08.639,0:00:12.639
+the squares of
+
+0:00:09.840,0:00:15.759
+three float numbers and we're going to
+
+0:00:12.639,0:00:18.160
+output the result of those calculations
+
+0:00:15.759,0:00:21.039
+so a float is just a number with a
+
+0:00:18.160,0:00:21.039
+decimal value
+
+0:00:22.800,0:00:28.960
+and we can get the square of any number
+
+0:00:25.359,0:00:31.840
+by multiplying it by itself
+
+0:00:28.960,0:00:31.840
+let's run our code
+
+0:00:32.160,0:00:38.480
+and there's the square of 4.3
+
+0:00:35.440,0:00:41.520
+now an alternative way to calculate the
+
+0:00:38.480,0:00:41.520
+square of a number
+
+0:00:42.960,0:00:46.640
+is with the following syntax four point
+
+0:00:45.840,0:00:49.760
+three
+
+0:00:46.640,0:00:49.760
+to the power of two
+
+0:00:50.559,0:00:54.399
+you can see that we achieve the same
+
+0:00:56.840,0:01:01.760
+result
+
+0:00:59.680,0:01:05.199
+so we need to calculate the square of
+
+0:01:01.760,0:01:05.199
+three different float numbers
+
+0:01:11.119,0:01:15.280
+and we do that on lines one through
+
+0:01:12.960,0:01:15.280
+three
+
+0:01:16.000,0:01:29.759
+and our code runs successfully
+
+0:01:27.680,0:01:29.759
+you
+

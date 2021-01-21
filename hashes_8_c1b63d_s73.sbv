@@ -1,0 +1,90 @@
+0:00:04.160,0:00:07.839
+i've pasted the
+
+0:00:05.440,0:00:09.920
+error message from this problem into our
+
+0:00:07.839,0:00:11.280
+text editor so that we can take a look
+
+0:00:09.920,0:00:13.519
+at it
+
+0:00:11.280,0:00:15.679
+we need to determine what the problem is
+
+0:00:13.519,0:00:16.640
+here and which of the four options we've
+
+0:00:15.679,0:00:19.600
+been presented
+
+0:00:16.640,0:00:20.640
+is the cause of this problem so the
+
+0:00:19.600,0:00:23.680
+error is a
+
+0:00:20.640,0:00:24.240
+no method error reading the error
+
+0:00:23.680,0:00:27.519
+message
+
+0:00:24.240,0:00:29.439
+it tells us undefined method keys for
+
+0:00:27.519,0:00:31.599
+array
+
+0:00:29.439,0:00:32.960
+this message tells us that we have
+
+0:00:31.599,0:00:36.559
+invoked the method
+
+0:00:32.960,0:00:38.239
+keys on an array however this method is
+
+0:00:36.559,0:00:39.440
+undefined
+
+0:00:38.239,0:00:42.079
+and if we take a look at the
+
+0:00:39.440,0:00:45.440
+documentation for the array class
+
+0:00:42.079,0:00:48.399
+we can see that there is no keys method
+
+0:00:45.440,0:00:50.640
+the keys method is a hash method and you
+
+0:00:48.399,0:00:54.000
+can take a look at that in the ruby hash
+
+0:00:50.640,0:00:56.879
+class documentation invoking the
+
+0:00:54.000,0:00:59.840
+keys method on a hash will return an
+
+0:00:56.879,0:01:02.399
+array of all the keys in that hash
+
+0:00:59.840,0:01:03.600
+so the correct answer to this problem is
+
+0:01:02.399,0:01:08.320
+option b
+
+0:01:03.600,0:01:08.320
+there is no method called keys for array
+
+0:01:10.840,0:01:15.200
+objects
+
+0:01:13.119,0:01:15.200
+you
+

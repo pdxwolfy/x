@@ -1,0 +1,129 @@
+0:00:04.240,0:00:08.480
+we've been asked
+
+0:00:05.279,0:00:10.400
+to write a program that uses a hash to
+
+0:00:08.480,0:00:13.360
+store a list of movie titles
+
+0:00:10.400,0:00:14.719
+in the year they came out we'll then use
+
+0:00:13.360,0:00:17.680
+the put s method
+
+0:00:14.719,0:00:18.960
+to print out the year of each movie to
+
+0:00:17.680,0:00:21.600
+the screen
+
+0:00:18.960,0:00:25.439
+and we've been given some example output
+
+0:00:21.600,0:00:28.480
+so let's go ahead and create our hash
+
+0:00:25.439,0:00:30.240
+we'll call it movies we surround a hash
+
+0:00:28.480,0:00:33.600
+with curly braces
+
+0:00:30.240,0:00:36.800
+and a hash consists of comma separated
+
+0:00:33.600,0:00:36.800
+key value pairs
+
+0:00:37.840,0:00:42.160
+we'll use the movie title as the key and
+
+0:00:41.040,0:00:45.840
+the year it came out
+
+0:00:42.160,0:00:45.840
+as the value
+
+0:01:09.520,0:01:12.560
+so now that we've got our hash with five
+
+0:01:11.920,0:01:15.360
+movies
+
+0:01:12.560,0:01:16.720
+we want to output only the release year
+
+0:01:15.360,0:01:19.200
+for each movie
+
+0:01:16.720,0:01:22.080
+which is the value in each of our key
+
+0:01:19.200,0:01:22.080
+value pairs
+
+0:01:23.040,0:01:27.600
+we can do this using hash element
+
+0:01:25.520,0:01:30.479
+reference
+
+0:01:27.600,0:01:34.000
+the syntax to access the value of a
+
+0:01:30.479,0:01:37.200
+given key value pair in a hash
+
+0:01:34.000,0:01:38.880
+is to use square brackets and pass in
+
+0:01:37.200,0:01:42.880
+the key
+
+0:01:38.880,0:01:45.360
+so in this case our keys are symbols
+
+0:01:42.880,0:01:46.720
+let's access the value of our first key
+
+0:01:45.360,0:01:49.040
+value pair
+
+0:01:46.720,0:01:50.560
+so we'll pass in the symbol representing
+
+0:01:49.040,0:01:52.560
+the movie jaws
+
+0:01:50.560,0:01:54.200
+and when we run our file we'll expect
+
+0:01:52.560,0:01:58.719
+that the value
+
+0:01:54.200,0:01:58.719
+1975 is what will be output
+
+0:02:00.320,0:02:03.200
+and that's what we see
+
+0:02:04.000,0:02:23.840
+returning to our text editor
+
+0:02:08.720,0:02:23.840
+we want to output each of the years
+
+0:02:26.239,0:02:32.080
+and now we expect to see each value
+
+0:02:28.480,0:02:32.080
+printed when we run our program
+
+0:02:33.360,0:02:37.840
+and we do
+
+0:02:41.840,0:02:43.920
+you
+

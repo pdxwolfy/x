@@ -1,0 +1,108 @@
+0:00:04.720,0:00:09.200
+this exercise
+
+0:00:05.839,0:00:11.920
+has given us some code a method
+
+0:00:09.200,0:00:12.960
+called scream and an invocation of that
+
+0:00:11.920,0:00:15.599
+method on line
+
+0:00:12.960,0:00:17.520
+seven and we're asked to determine what
+
+0:00:15.599,0:00:19.760
+this code will print
+
+0:00:17.520,0:00:20.640
+looking at our method invocation on line
+
+0:00:19.760,0:00:22.640
+7
+
+0:00:20.640,0:00:24.640
+we've passed in as an argument the
+
+0:00:22.640,0:00:27.840
+string yippee
+
+0:00:24.640,0:00:30.080
+on line 2 words is reassigned
+
+0:00:27.840,0:00:31.920
+to the return value of concatenating
+
+0:00:30.080,0:00:35.360
+this string
+
+0:00:31.920,0:00:37.280
+with four exclamation marks because we
+
+0:00:35.360,0:00:39.920
+invoke put s on line four
+
+0:00:37.280,0:00:41.200
+and pass words to that invocation as an
+
+0:00:39.920,0:00:43.520
+argument
+
+0:00:41.200,0:00:46.320
+you may think that this string which
+
+0:00:43.520,0:00:49.280
+i've placed in a comment on line 7
+
+0:00:46.320,0:00:51.199
+will be printed to the screen but let's
+
+0:00:49.280,0:00:52.719
+think about the code execution in this
+
+0:00:51.199,0:00:55.680
+method
+
+0:00:52.719,0:00:58.000
+after reassigning words on line 2 when
+
+0:00:55.680,0:01:01.680
+we reach line 3 we see the reserve word
+
+0:00:58.000,0:01:02.719
+return when an explicit return like this
+
+0:01:01.680,0:01:04.960
+is executed
+
+0:01:02.719,0:01:06.000
+ruby will immediately exit from the
+
+0:01:04.960,0:01:09.040
+method
+
+0:01:06.000,0:01:11.439
+so line 4 will never be executed and we
+
+0:01:09.040,0:01:15.360
+will not output words
+
+0:01:11.439,0:01:15.360
+and we can see that when we run our code
+
+0:01:20.960,0:01:25.600
+it's important to remember that when you
+
+0:01:22.960,0:01:28.479
+explicitly return from a method
+
+0:01:25.600,0:01:30.400
+ruby exits that method immediately and
+
+0:01:28.479,0:01:39.759
+the subsequent code within that method
+
+0:01:30.400,0:01:39.759
+will not be executed
+

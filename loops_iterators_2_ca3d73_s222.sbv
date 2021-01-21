@@ -1,0 +1,237 @@
+0:00:04.560,0:00:08.160
+we need to
+
+0:00:05.520,0:00:09.200
+write a while loop that takes input from
+
+0:00:08.160,0:00:12.000
+the user
+
+0:00:09.200,0:00:13.200
+performs an action and only stops when
+
+0:00:12.000,0:00:15.519
+the user types
+
+0:00:13.200,0:00:18.560
+stop so we're going to be examining the
+
+0:00:15.519,0:00:18.560
+user input here
+
+0:00:18.800,0:00:24.240
+now when we write a while loop
+
+0:00:22.000,0:00:25.199
+we need to provide a condition to this
+
+0:00:24.240,0:00:27.680
+while loop
+
+0:00:25.199,0:00:29.039
+to determine when we want it to stop
+
+0:00:27.680,0:00:31.439
+looping
+
+0:00:29.039,0:00:34.239
+as long as this condition evaluates as
+
+0:00:31.439,0:00:36.719
+true the loop will continue
+
+0:00:34.239,0:00:40.239
+so let's create a variable x that will
+
+0:00:36.719,0:00:40.239
+reference our user input
+
+0:00:40.399,0:00:49.200
+while x is not equal to
+
+0:00:43.520,0:00:49.200
+stop then we want to continue looping
+
+0:00:50.000,0:00:54.800
+let's begin just by outputting a message
+
+0:00:52.079,0:00:54.800
+to the user
+
+0:00:57.520,0:01:00.719
+and let's run our code
+
+0:01:03.440,0:01:07.119
+we've gotten an error undefined local
+
+0:01:05.920,0:01:10.880
+variable or method
+
+0:01:07.119,0:01:14.479
+x this is on line one
+
+0:01:10.880,0:01:14.479
+so let's go back and look at our code
+
+0:01:14.799,0:01:20.960
+on line one we use x as part of our
+
+0:01:18.320,0:01:23.280
+condition but we haven't yet defined it
+
+0:01:20.960,0:01:24.840
+so let's go ahead and define x on line
+
+0:01:23.280,0:01:28.240
+one outside of this
+
+0:01:24.840,0:01:30.320
+loop and we can just set it equal to an
+
+0:01:28.240,0:01:32.400
+empty string right now
+
+0:01:30.320,0:01:35.439
+now let's run our code again and see if
+
+0:01:32.400,0:01:35.439
+it runs without error
+
+0:01:37.920,0:01:42.290
+this time we don't get an error however
+
+0:01:40.079,0:01:45.359
+we have an infinite loop
+
+0:01:42.290,0:01:45.359
+[Music]
+
+0:01:45.360,0:01:50.000
+and that's because we don't ever
+
+0:01:46.799,0:01:53.119
+reassign x x continues to reference an
+
+0:01:50.000,0:01:54.240
+empty string so the condition x is not
+
+0:01:53.119,0:01:57.040
+equal to stop
+
+0:01:54.240,0:02:00.240
+just continually evaluates as true and
+
+0:01:57.040,0:02:02.240
+our while loop continues looping
+
+0:02:00.240,0:02:04.960
+so let's add a little bit more code to
+
+0:02:02.240,0:02:04.960
+our while loop
+
+0:02:05.920,0:02:10.080
+we'll collect an answer from the user in
+
+0:02:08.160,0:02:12.479
+response to our question how are you
+
+0:02:10.080,0:02:12.479
+feeling
+
+0:02:15.680,0:02:22.239
+then we'll display another message to
+
+0:02:17.440,0:02:24.239
+the user
+
+0:02:22.239,0:02:25.840
+do you want me to ask you again and
+
+0:02:24.239,0:02:27.440
+their response to this question
+
+0:02:25.840,0:02:29.520
+will determine whether or not we
+
+0:02:27.440,0:02:32.879
+continue looping
+
+0:02:29.520,0:02:35.040
+so here is where we'll reassign x
+
+0:02:32.879,0:02:36.000
+we'll use git s to collect the user
+
+0:02:35.040,0:02:38.720
+input
+
+0:02:36.000,0:02:40.800
+and chain a method call to chomp to
+
+0:02:38.720,0:02:42.959
+remove the newline character
+
+0:02:40.800,0:02:44.000
+now when we enter stop we expect that
+
+0:02:42.959,0:02:46.959
+ruby will
+
+0:02:44.000,0:02:50.879
+break out of this loop let's run our
+
+0:02:46.959,0:02:53.599
+code again
+
+0:02:50.879,0:02:55.840
+so we're prompted how are you feeling
+
+0:02:53.599,0:02:57.599
+well input good
+
+0:02:55.840,0:02:59.280
+and the program asks us do you want me
+
+0:02:57.599,0:03:03.120
+to ask you again
+
+0:02:59.280,0:03:05.360
+let's input yes and we loop again we're
+
+0:03:03.120,0:03:08.800
+asked how we're feeling again
+
+0:03:05.360,0:03:11.599
+this time i'll input stop and you can
+
+0:03:08.800,0:03:13.440
+see that the loop continues
+
+0:03:11.599,0:03:14.959
+that's because in our program we're
+
+0:03:13.440,0:03:19.519
+specifically looking for
+
+0:03:14.959,0:03:21.360
+stop with all uppercase characters
+
+0:03:19.519,0:03:24.000
+our user input was in lowercase
+
+0:03:21.360,0:03:24.000
+characters
+
+0:03:25.040,0:03:29.360
+so this time i'll enter stop with all
+
+0:03:27.440,0:03:32.480
+capital letters
+
+0:03:29.360,0:03:44.319
+and we expect to break out of the loop
+
+0:03:32.480,0:03:44.319
+and we do
+

@@ -1,0 +1,93 @@
+0:00:04.799,0:00:09.599
+in this exercise
+
+0:00:06.080,0:00:11.440
+we are shown an error and asked why the
+
+0:00:09.599,0:00:12.799
+code we've been given produces this
+
+0:00:11.440,0:00:16.160
+error
+
+0:00:12.799,0:00:17.840
+so this is an argument error we're told
+
+0:00:16.160,0:00:20.240
+that we have the wrong number of
+
+0:00:17.840,0:00:22.160
+arguments being passed to our execute
+
+0:00:20.240,0:00:24.560
+method
+
+0:00:22.160,0:00:27.119
+the method was expecting one argument
+
+0:00:24.560,0:00:29.199
+and received zero
+
+0:00:27.119,0:00:30.480
+now this code looks very similar to
+
+0:00:29.199,0:00:32.320
+previous code
+
+0:00:30.480,0:00:34.160
+the difference is that we don't have an
+
+0:00:32.320,0:00:37.680
+ampersand preceding
+
+0:00:34.160,0:00:38.000
+block because of this ruby is expecting
+
+0:00:37.680,0:00:40.960
+for
+
+0:00:38.000,0:00:41.280
+execute to receive a regular argument
+
+0:00:40.960,0:00:44.480
+not
+
+0:00:41.280,0:00:45.039
+a block as an argument so this parameter
+
+0:00:44.480,0:00:47.280
+block
+
+0:00:45.039,0:00:48.079
+looks like just any other parameter to
+
+0:00:47.280,0:00:51.039
+ruby
+
+0:00:48.079,0:00:54.079
+ruby is not expecting it to represent a
+
+0:00:51.039,0:00:55.600
+block being passed in
+
+0:00:54.079,0:00:58.000
+and that's why we're receiving an
+
+0:00:55.600,0:01:00.719
+argument error
+
+0:00:58.000,0:01:01.680
+when using an ampersand to define this
+
+0:01:00.719,0:01:04.320
+parameter
+
+0:01:01.680,0:01:13.840
+ruby knows that it's expecting a block
+
+0:01:04.320,0:01:13.840
+and now it will run as expected
+
+0:01:20.720,0:01:22.799
+you
+

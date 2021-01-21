@@ -1,0 +1,204 @@
+0:00:04.720,0:00:09.840
+we've created a file
+
+0:00:06.120,0:00:10.480
+age.rb and we want our program to ask
+
+0:00:09.840,0:00:12.960
+the user
+
+0:00:10.480,0:00:13.519
+how old they are and then display to
+
+0:00:12.960,0:00:16.560
+them
+
+0:00:13.519,0:00:19.920
+how old they will be in 10 20
+
+0:00:16.560,0:00:20.880
+30 and 40 years so the first thing we
+
+0:00:19.920,0:00:24.320
+want to do
+
+0:00:20.880,0:00:28.080
+is prompt the user to enter their age
+
+0:00:24.320,0:00:28.080
+we'll invoke the put us method
+
+0:00:29.439,0:00:34.239
+and display a message to the user asking
+
+0:00:31.599,0:00:36.800
+how old they are
+
+0:00:34.239,0:00:40.559
+now we want to pause program execution
+
+0:00:36.800,0:00:42.559
+and allow the user to enter their age
+
+0:00:40.559,0:00:43.600
+and we'll use the get s method to do
+
+0:00:42.559,0:00:46.559
+that
+
+0:00:43.600,0:00:48.320
+and the chomp method to remove the
+
+0:00:46.559,0:00:51.120
+newline character at the end of that
+
+0:00:48.320,0:00:51.120
+user input
+
+0:00:51.760,0:00:57.120
+let's store that user input in a local
+
+0:00:53.840,0:01:00.800
+variable called age
+
+0:00:57.120,0:01:00.800
+so let's run our code as it is now
+
+0:01:04.559,0:01:07.600
+we'll input 20
+
+0:01:08.320,0:01:15.119
+in our program ends
+
+0:01:12.479,0:01:18.080
+the next step is to display a message
+
+0:01:15.119,0:01:18.080
+back to the user
+
+0:01:19.360,0:01:23.040
+so let's just start with the first
+
+0:01:21.600,0:01:28.159
+calculation which is
+
+0:01:23.040,0:01:32.000
+in 10 years you will be
+
+0:01:28.159,0:01:32.000
+and below that will output the age
+
+0:01:34.960,0:01:40.320
+so we'll reference our age variable and
+
+0:01:38.159,0:01:43.360
+we want to output the return value
+
+0:01:40.320,0:01:45.840
+of adding 10 to the user's age
+
+0:01:43.360,0:01:54.880
+let's run our code and see if we get the
+
+0:01:45.840,0:01:56.719
+expected behavior
+
+0:01:54.880,0:01:58.320
+so we've successfully displayed the
+
+0:01:56.719,0:02:00.640
+first line of our message
+
+0:01:58.320,0:02:02.000
+but the code on line 4 of our program
+
+0:02:00.640,0:02:03.840
+raised an error
+
+0:02:02.000,0:02:05.200
+and if we read our error message it
+
+0:02:03.840,0:02:07.360
+tells us no
+
+0:02:05.200,0:02:08.720
+implicit conversion of integer into
+
+0:02:07.360,0:02:10.879
+string
+
+0:02:08.720,0:02:15.200
+the error was raised when we tried to
+
+0:02:10.879,0:02:15.200
+add our age to the integer 10.
+
+0:02:16.400,0:02:22.319
+all user input comes in as a string
+
+0:02:19.680,0:02:23.120
+so our local variable age references the
+
+0:02:22.319,0:02:26.080
+string
+
+0:02:23.120,0:02:26.800
+20. in order for our program to work
+
+0:02:26.080,0:02:29.760
+properly
+
+0:02:26.800,0:02:31.840
+and perform the addition on line 4 we
+
+0:02:29.760,0:02:33.840
+need to convert that user input to an
+
+0:02:31.840,0:02:36.160
+integer
+
+0:02:33.840,0:02:37.280
+and we can do that by calling the 2i
+
+0:02:36.160,0:02:40.000
+method
+
+0:02:37.280,0:02:42.480
+on the user input string now the user
+
+0:02:40.000,0:02:44.400
+input is stored in the variable age as
+
+0:02:42.480,0:02:50.640
+an integer
+
+0:02:44.400,0:02:52.319
+let's run our code again
+
+0:02:50.640,0:02:54.720
+and this time we see the appropriate
+
+0:02:52.319,0:02:54.720
+output
+
+0:03:02.720,0:03:06.400
+so we also want to output the user's age
+
+0:03:05.280,0:03:09.920
+in 20
+
+0:03:06.400,0:03:09.920
+30 and 40 years
+
+0:03:16.239,0:03:19.840
+we'll run our code one more time
+
+0:03:22.239,0:03:25.920
+and we see the expected output
+
+0:03:28.959,0:03:41.360
+be sure to remember that user input
+
+0:03:31.120,0:03:41.360
+always comes in as a string
+

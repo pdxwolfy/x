@@ -1,0 +1,186 @@
+0:00:04.319,0:00:09.519
+we've been asked to write a program
+
+0:00:06.720,0:00:11.280
+that iterates over an array and builds a
+
+0:00:09.519,0:00:13.280
+new array that is the result
+
+0:00:11.280,0:00:14.480
+of incrementing each value in the
+
+0:00:13.280,0:00:17.520
+original array
+
+0:00:14.480,0:00:19.279
+by two so at the end of this program
+
+0:00:17.520,0:00:20.320
+we're going to have two arrays the
+
+0:00:19.279,0:00:22.720
+original array
+
+0:00:20.320,0:00:25.840
+and this new array and we want to output
+
+0:00:22.720,0:00:28.080
+both of them using p
+
+0:00:25.840,0:00:31.920
+so there's a few steps here let's just
+
+0:00:28.080,0:00:36.000
+begin by creating our original array
+
+0:00:31.920,0:00:36.000
+and we'll make this an array of integers
+
+0:00:37.440,0:00:42.079
+and i'll initialize an empty array we'll
+
+0:00:40.160,0:00:44.559
+call this new r
+
+0:00:42.079,0:00:47.120
+and this is where we'll collect our new
+
+0:00:44.559,0:00:47.120
+values
+
+0:00:48.800,0:00:53.199
+just to start out let's output both of
+
+0:00:50.879,0:00:55.039
+these arrays
+
+0:00:53.199,0:00:59.680
+and run our code to make sure we're
+
+0:00:55.039,0:01:02.960
+seeing what we expect
+
+0:00:59.680,0:01:06.960
+and we do we see our original array and
+
+0:01:02.960,0:01:06.960
+our new array which is currently empty
+
+0:01:07.520,0:01:10.880
+now we want to populate our new array
+
+0:01:09.920,0:01:14.799
+with five
+
+0:01:10.880,0:01:17.040
+elements and each element is going to be
+
+0:01:14.799,0:01:19.920
+an element from the original array
+
+0:01:17.040,0:01:23.520
+incremented by two
+
+0:01:19.920,0:01:26.159
+to do this we can iterate through the
+
+0:01:23.520,0:01:29.680
+original array
+
+0:01:26.159,0:01:29.680
+we can use the each method
+
+0:01:30.000,0:01:35.119
+and each element of this array will be
+
+0:01:32.159,0:01:38.799
+passed to the block as an argument
+
+0:01:35.119,0:01:38.799
+and we'll name that parameter n
+
+0:01:39.040,0:01:43.280
+now let's stop here and run our code
+
+0:01:43.680,0:01:47.600
+we're not going to put anything into our
+
+0:01:45.280,0:01:48.960
+new array yet we're simply going to
+
+0:01:47.600,0:01:55.759
+output the result
+
+0:01:48.960,0:01:58.719
+of adding 2 to each element
+
+0:01:55.759,0:01:58.719
+we'll run our code
+
+0:01:59.200,0:02:06.399
+and we can see five lines of output 3
+
+0:02:02.399,0:02:06.880
+4 5 6 and 7 and when we compare these
+
+0:02:06.399,0:02:09.119
+lines of
+
+0:02:06.880,0:02:10.479
+output to the elements in the original
+
+0:02:09.119,0:02:12.560
+array below
+
+0:02:10.479,0:02:15.040
+we see that these are the original
+
+0:02:12.560,0:02:18.160
+elements incremented by two
+
+0:02:15.040,0:02:18.160
+so this is what we want
+
+0:02:18.239,0:02:23.840
+now we need to add these to our new
+
+0:02:20.840,0:02:23.840
+array
+
+0:02:24.160,0:02:27.599
+we can use what is sometimes called the
+
+0:02:26.319,0:02:30.560
+shovel operator
+
+0:02:27.599,0:02:32.319
+this is an array method to append each
+
+0:02:30.560,0:02:35.360
+of these incremented values
+
+0:02:32.319,0:02:35.360
+into the new array
+
+0:02:35.440,0:02:39.120
+now after iterating through our original
+
+0:02:37.840,0:02:41.599
+array
+
+0:02:39.120,0:02:42.319
+and appending its elements incremented
+
+0:02:41.599,0:02:44.879
+by two
+
+0:02:42.319,0:02:48.080
+into our new array we expect to see the
+
+0:02:44.879,0:02:48.080
+final result that we want
+
+0:02:49.200,0:03:02.400
+and writing our code that's what we see
+

@@ -1,0 +1,492 @@
+0:00:03.919,0:00:08.400
+we've been given an array
+
+0:00:05.600,0:00:09.440
+and a hash and we need to move the
+
+0:00:08.400,0:00:12.000
+information
+
+0:00:09.440,0:00:14.719
+from the array into the empty hash that
+
+0:00:12.000,0:00:16.880
+applies to each person
+
+0:00:14.719,0:00:19.039
+so we can look at our array on lines one
+
+0:00:16.880,0:00:20.960
+and two contact data
+
+0:00:19.039,0:00:22.480
+and see that this is a two-dimensional
+
+0:00:20.960,0:00:25.680
+array
+
+0:00:22.480,0:00:26.960
+we have two elements in the array and
+
+0:00:25.680,0:00:29.439
+each sub-array has
+
+0:00:26.960,0:00:31.039
+three elements which are strings and
+
+0:00:29.439,0:00:34.160
+they seem to reflect the
+
+0:00:31.039,0:00:34.800
+email address and phone number of two
+
+0:00:34.160,0:00:37.920
+people
+
+0:00:34.800,0:00:39.280
+joe and sally so now looking down on
+
+0:00:37.920,0:00:42.399
+line four
+
+0:00:39.280,0:00:45.360
+we have a hash contacts
+
+0:00:42.399,0:00:47.840
+and this hash has two key value pairs
+
+0:00:45.360,0:00:49.120
+the keys are strings with the names joe
+
+0:00:47.840,0:00:52.160
+and sally
+
+0:00:49.120,0:00:54.160
+and the values are empty hashes
+
+0:00:52.160,0:00:56.719
+so what we want to do here is to
+
+0:00:54.160,0:00:57.840
+populate the values of this contact's
+
+0:00:56.719,0:01:00.000
+hash
+
+0:00:57.840,0:01:01.199
+with the information about each
+
+0:01:00.000,0:01:03.520
+individual
+
+0:01:01.199,0:01:05.680
+let's see how we might access the
+
+0:01:03.520,0:01:08.960
+information about each individual that's
+
+0:01:05.680,0:01:13.600
+stored in the contact data array
+
+0:01:08.960,0:01:16.560
+so i'm going to use p to output this
+
+0:01:13.600,0:01:18.000
+and let's use array element reference
+
+0:01:16.560,0:01:20.080
+just to display the
+
+0:01:18.000,0:01:22.720
+subarray that contains the information
+
+0:01:20.080,0:01:22.720
+about joe
+
+0:01:25.520,0:01:28.640
+there's our subarray
+
+0:01:29.759,0:01:32.960
+and we were able to access that with the
+
+0:01:31.920,0:01:36.560
+index 0
+
+0:01:32.960,0:01:38.799
+since arrays have a 0 based index
+
+0:01:36.560,0:01:40.479
+now in order to access these elements
+
+0:01:38.799,0:01:42.880
+within the subarray
+
+0:01:40.479,0:01:44.560
+these strings we can chain another
+
+0:01:42.880,0:01:46.640
+element reference on here
+
+0:01:44.560,0:01:48.240
+so our first element reference returns
+
+0:01:46.640,0:01:50.320
+the subarray
+
+0:01:48.240,0:01:52.560
+and let's say we want to retrieve the
+
+0:01:50.320,0:01:54.479
+email
+
+0:01:52.560,0:01:58.000
+we'll chain another element reference
+
+0:01:54.479,0:02:00.799
+here to return the element at index 0 of
+
+0:01:58.000,0:02:00.799
+our subarray
+
+0:02:01.840,0:02:05.680
+running our code again there we see the
+
+0:02:06.840,0:02:10.720
+email
+
+0:02:08.640,0:02:12.239
+so now that we know how we're going to
+
+0:02:10.720,0:02:14.560
+access the information
+
+0:02:12.239,0:02:16.160
+about these individuals from the contact
+
+0:02:14.560,0:02:17.840
+data array
+
+0:02:16.160,0:02:19.280
+we need to think about how we're going
+
+0:02:17.840,0:02:22.000
+to populate the hash
+
+0:02:19.280,0:02:24.400
+associated with each key in our contacts
+
+0:02:22.000,0:02:24.400
+hash
+
+0:02:26.959,0:02:31.840
+so in order to access this hash
+
+0:02:32.720,0:02:38.640
+we simply need to pass in the key of the
+
+0:02:35.920,0:02:40.640
+value that we want to access
+
+0:02:38.640,0:02:41.920
+both of the keys in this hash are
+
+0:02:40.640,0:02:45.599
+strings
+
+0:02:41.920,0:02:49.040
+so let's pass in the string joesmith
+
+0:02:45.599,0:02:51.680
+as our key and i'm going to output the
+
+0:02:49.040,0:02:55.120
+return value
+
+0:02:51.680,0:02:55.120
+and we'll see that empty hash
+
+0:02:55.360,0:02:57.920
+and we do
+
+0:02:58.720,0:03:02.879
+now that we know that this returns the
+
+0:03:01.040,0:03:05.920
+value of this key which
+
+0:03:02.879,0:03:09.200
+is a hash we can perform element
+
+0:03:05.920,0:03:09.200
+assignment on this hash
+
+0:03:09.920,0:03:14.560
+and to do that we simply need to pass in
+
+0:03:12.000,0:03:14.560
+the key
+
+0:03:14.959,0:03:20.480
+so let's call our key email and we'll
+
+0:03:17.440,0:03:20.480
+use a symbol here
+
+0:03:20.640,0:03:23.760
+and assign this
+
+0:03:25.680,0:03:32.080
+to the element in our contact data
+
+0:03:28.720,0:03:36.080
+array and we already saw how to access
+
+0:03:32.080,0:03:36.080
+that above with that code on line 6.
+
+0:03:38.080,0:03:46.000
+so i'm going to output our contacts hash
+
+0:03:42.560,0:03:48.959
+and this time we expect to see the hash
+
+0:03:46.000,0:03:51.680
+that is the value of the key joe smith
+
+0:03:48.959,0:03:55.599
+populated with one key value pair
+
+0:03:51.680,0:03:55.599
+and that'll be the email information
+
+0:03:57.360,0:04:00.879
+and that's what we see in our line of
+
+0:03:58.959,0:04:03.439
+output
+
+0:04:00.879,0:04:04.560
+so now let's work on moving the rest of
+
+0:04:03.439,0:04:14.959
+the information
+
+0:04:04.560,0:04:17.199
+associated with joe smith into the hash
+
+0:04:14.959,0:04:19.919
+i'm going to copy our line of code on
+
+0:04:17.199,0:04:19.919
+line 8
+
+0:04:20.479,0:04:25.040
+and now we'll edit the code on lines 9
+
+0:04:22.560,0:04:27.840
+and 10 appropriately
+
+0:04:25.040,0:04:28.800
+so we've moved the email into our hash
+
+0:04:27.840,0:04:31.759
+and the next step
+
+0:04:28.800,0:04:31.759
+is the address
+
+0:04:32.080,0:04:35.600
+so we'll name the key in this hash
+
+0:04:33.840,0:04:38.560
+address
+
+0:04:35.600,0:04:38.560
+and lastly
+
+0:04:40.840,0:04:46.240
+phone
+
+0:04:43.520,0:04:47.120
+now since all of the information about
+
+0:04:46.240,0:04:50.080
+joe smith
+
+0:04:47.120,0:04:51.120
+is in the first sub-array of our contact
+
+0:04:50.080,0:04:54.000
+data array
+
+0:04:51.120,0:04:59.120
+we always want to initially reference
+
+0:04:54.000,0:04:59.120
+the element at index 0 of contact data
+
+0:04:59.759,0:05:03.280
+the second element reference that we
+
+0:05:01.600,0:05:04.400
+chain on is what we're going to want to
+
+0:05:03.280,0:05:07.440
+change
+
+0:05:04.400,0:05:09.440
+so the address information is at index 1
+
+0:05:07.440,0:05:14.000
+of the subarray
+
+0:05:09.440,0:05:14.000
+and the phone information is at index 2.
+
+0:05:14.720,0:05:18.240
+now we expect to see all three key value
+
+0:05:17.600,0:05:21.199
+pairs
+
+0:05:18.240,0:05:22.560
+in the joe smith hash inside of our
+
+0:05:21.199,0:05:25.280
+contacts hash
+
+0:05:22.560,0:05:26.400
+for now the hash associated with the key
+
+0:05:25.280,0:05:29.520
+sally johnson
+
+0:05:26.400,0:05:29.520
+should still be empty
+
+0:05:29.600,0:05:33.600
+so we'll run our code and output this
+
+0:05:35.039,0:05:39.840
+and that looks like just what we
+
+0:05:36.840,0:05:39.840
+expected
+
+0:05:42.080,0:05:45.919
+now let's move the information about
+
+0:05:43.919,0:05:52.639
+sally johnson
+
+0:05:45.919,0:05:54.400
+into the hash associated with that key
+
+0:05:52.639,0:05:58.080
+again i'll paste this line of code but
+
+0:05:54.400,0:05:58.080
+we need to update it appropriately
+
+0:06:04.160,0:06:08.080
+so the value that we need to return is
+
+0:06:06.400,0:06:11.039
+associated with the key
+
+0:06:08.080,0:06:11.039
+sally johnson
+
+0:06:11.120,0:06:15.520
+and we'll update the keys of our hash
+
+0:06:17.600,0:06:23.280
+to call them email address and phone
+
+0:06:20.400,0:06:25.199
+just like we did with joe smith
+
+0:06:23.280,0:06:27.600
+now when we're performing element
+
+0:06:25.199,0:06:28.720
+reference on the contact data array we
+
+0:06:27.600,0:06:31.840
+need to update
+
+0:06:28.720,0:06:33.440
+which subarray we're accessing the first
+
+0:06:31.840,0:06:34.160
+sub-array contains all of the
+
+0:06:33.440,0:06:36.960
+information
+
+0:06:34.160,0:06:38.720
+relevant to joe smith because we now
+
+0:06:36.960,0:06:41.840
+want to access the elements that are
+
+0:06:38.720,0:06:44.400
+relevant to sally
+
+0:06:41.840,0:06:46.080
+we need to pass in the index 1 instead
+
+0:06:44.400,0:06:48.000
+of 0.
+
+0:06:46.080,0:06:49.680
+within that second sub array the
+
+0:06:48.000,0:06:52.160
+information about sally
+
+0:06:49.680,0:06:53.440
+is in the same order as the information
+
+0:06:52.160,0:06:57.120
+about joe
+
+0:06:53.440,0:07:00.960
+at index 0 is the email information
+
+0:06:57.120,0:07:05.360
+at index 1 is the address
+
+0:07:00.960,0:07:07.599
+and at index 2 is the phone number
+
+0:07:05.360,0:07:08.560
+now on line 14 when we output the
+
+0:07:07.599,0:07:11.759
+contacts
+
+0:07:08.560,0:07:13.520
+hash we'll expect to see our two key
+
+0:07:11.759,0:07:16.560
+value pairs
+
+0:07:13.520,0:07:20.160
+and both values will be hashes with
+
+0:07:16.560,0:07:22.080
+three of their own key value pairs
+
+0:07:20.160,0:07:24.080
+so at this point we expect that all of
+
+0:07:22.080,0:07:26.880
+the information will be populated in
+
+0:07:24.080,0:07:26.880
+these hashes
+
+0:07:29.039,0:07:31.840
+and that's what we see
+

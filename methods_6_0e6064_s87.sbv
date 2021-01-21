@@ -1,0 +1,111 @@
+0:00:04.400,0:00:07.839
+we've been given
+
+0:00:05.279,0:00:08.960
+an example error message the error
+
+0:00:07.839,0:00:10.880
+message tells us
+
+0:00:08.960,0:00:12.000
+we've given a method the wrong number of
+
+0:00:10.880,0:00:14.320
+arguments
+
+0:00:12.000,0:00:17.039
+we've given it one argument when it was
+
+0:00:14.320,0:00:18.000
+expecting two reading line two of the
+
+0:00:17.039,0:00:20.320
+error message
+
+0:00:18.000,0:00:22.640
+it looks like this error is taking place
+
+0:00:20.320,0:00:24.320
+in the calculate product method
+
+0:00:22.640,0:00:26.080
+and it looks like we're invoking this
+
+0:00:24.320,0:00:28.240
+method on line four
+
+0:00:26.080,0:00:30.080
+i've written some code to produce this
+
+0:00:28.240,0:00:32.239
+type of error
+
+0:00:30.080,0:00:33.280
+i've defined my own calculate product
+
+0:00:32.239,0:00:36.320
+method and
+
+0:00:33.280,0:00:38.160
+it expects two arguments our parameters
+
+0:00:36.320,0:00:41.200
+are defined as number one
+
+0:00:38.160,0:00:43.840
+and number two however when i invoke the
+
+0:00:41.200,0:00:45.840
+calculate product method on line four
+
+0:00:43.840,0:00:46.800
+you can see that i've only passed it one
+
+0:00:45.840,0:00:50.559
+argument
+
+0:00:46.800,0:00:53.760
+the integer four so let's try to run our
+
+0:00:50.559,0:00:53.760
+code and see what happens
+
+0:00:54.000,0:00:58.559
+and we see a very similar error here an
+
+0:00:56.559,0:01:01.120
+argument error with the wrong number of
+
+0:00:58.559,0:01:01.120
+arguments
+
+0:01:01.680,0:01:05.280
+on line four where i invoke the
+
+0:01:03.440,0:01:07.280
+calculate product method
+
+0:01:05.280,0:01:08.960
+i can see that i've passed in only one
+
+0:01:07.280,0:01:11.760
+argument
+
+0:01:08.960,0:01:14.320
+my method was expecting two so i'll pass
+
+0:01:11.760,0:01:16.560
+in the second integer
+
+0:01:14.320,0:01:19.759
+and now when i run the code i expect it
+
+0:01:16.560,0:01:19.759
+to run without error
+
+0:01:19.840,0:01:29.840
+and it does
+
+0:01:27.759,0:01:29.840
+you
+

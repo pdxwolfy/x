@@ -1,0 +1,162 @@
+0:00:03.760,0:00:09.599
+this exercise has asked us to
+
+0:00:06.560,0:00:10.559
+add two strings together so we're going
+
+0:00:09.599,0:00:14.920
+to return
+
+0:00:10.559,0:00:16.160
+a first name and a last name as a single
+
+0:00:14.920,0:00:18.880
+string
+
+0:00:16.160,0:00:21.199
+let's initialize a local variable first
+
+0:00:18.880,0:00:21.199
+name
+
+0:00:22.320,0:00:27.119
+john and last name do
+
+0:00:27.760,0:00:31.679
+both of these local variables reference
+
+0:00:29.920,0:00:34.079
+strings and we want to
+
+0:00:31.679,0:00:36.239
+add these two strings together and
+
+0:00:34.079,0:00:38.960
+return a single string
+
+0:00:36.239,0:00:41.600
+we can use simple string concatenation
+
+0:00:38.960,0:00:41.600
+to do this
+
+0:00:41.920,0:00:45.840
+we can use the plus sign
+
+0:00:48.320,0:00:52.399
+to add the string reference by first
+
+0:00:50.399,0:00:54.079
+name and the string reference by last
+
+0:00:52.399,0:00:55.760
+name together
+
+0:00:54.079,0:00:57.520
+there's a problem with how we've written
+
+0:00:55.760,0:00:59.520
+our code on line 4 though
+
+0:00:57.520,0:01:02.000
+and we can see that if we run this
+
+0:00:59.520,0:01:02.000
+program
+
+0:01:05.199,0:01:10.479
+so let's output the string returned by
+
+0:01:07.360,0:01:10.479
+this concatenation
+
+0:01:10.640,0:01:16.000
+i'm going to hop over to the command
+
+0:01:12.400,0:01:16.000
+line and run the file
+
+0:01:16.560,0:01:20.560
+and you can see that although we've
+
+0:01:18.240,0:01:21.520
+added the two strings together into a
+
+0:01:20.560,0:01:25.200
+single string
+
+0:01:21.520,0:01:27.920
+the format is not what we want
+
+0:01:25.200,0:01:30.159
+we need to put a space between john and
+
+0:01:27.920,0:01:30.159
+go
+
+0:01:33.360,0:01:38.000
+now when we run our file we expect to
+
+0:01:35.680,0:01:40.000
+see the first name a space and then the
+
+0:01:38.000,0:01:45.200
+last name
+
+0:01:40.000,0:01:46.880
+and we do so that's string concatenation
+
+0:01:45.200,0:01:49.600
+another way that we could achieve this
+
+0:01:46.880,0:01:53.360
+result is with string interpolation
+
+0:01:49.600,0:01:57.280
+this allows us to insert these variables
+
+0:01:53.360,0:01:57.280
+into an existing string
+
+0:01:57.840,0:02:04.240
+using a special syntax we'll place
+
+0:02:01.439,0:02:09.119
+a hash and then a pair of curly braces
+
+0:02:04.240,0:02:11.360
+around our variable names
+
+0:02:09.119,0:02:13.360
+in order for string interpolation to
+
+0:02:11.360,0:02:15.280
+work we need the string to be wrapped
+
+0:02:13.360,0:02:17.680
+in double quotes rather than single
+
+0:02:15.280,0:02:17.680
+quotes
+
+0:02:19.360,0:02:23.840
+running our file again we see the same
+
+0:02:21.440,0:02:23.840
+output
+
+0:02:26.080,0:02:30.959
+so two simple ways that we can add
+
+0:02:28.800,0:02:32.400
+multiple strings together to return a
+
+0:02:30.959,0:02:34.879
+single string
+
+0:02:32.400,0:02:37.840
+are string concatenation and string
+
+0:02:34.879,0:02:37.840
+interpolation
+

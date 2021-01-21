@@ -1,0 +1,576 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.799 --> 00:00:05.670 align:start position:0%
+ 
+we're<00:00:05.040><c> going</c><00:00:05.359><c> to</c>
+
+00:00:05.670 --> 00:00:05.680 align:start position:0%
+we're going to
+ 
+
+00:00:05.680 --> 00:00:08.549 align:start position:0%
+we're going to
+use<00:00:06.000><c> the</c><00:00:06.160><c> select</c><00:00:06.640><c> method</c><00:00:07.120><c> to</c><00:00:07.359><c> gather</c><00:00:08.000><c> only</c><00:00:08.240><c> the</c>
+
+00:00:08.549 --> 00:00:08.559 align:start position:0%
+use the select method to gather only the
+ 
+
+00:00:08.559 --> 00:00:10.709 align:start position:0%
+use the select method to gather only the
+immediate<00:00:09.200><c> family</c><00:00:09.519><c> members</c><00:00:10.000><c> names</c>
+
+00:00:10.709 --> 00:00:10.719 align:start position:0%
+immediate family members names
+ 
+
+00:00:10.719 --> 00:00:15.589 align:start position:0%
+immediate family members names
+from<00:00:10.960><c> this</c><00:00:11.200><c> hash</c><00:00:11.840><c> into</c><00:00:12.160><c> a</c><00:00:12.320><c> new</c><00:00:12.480><c> array</c>
+
+00:00:15.589 --> 00:00:15.599 align:start position:0%
+ 
+ 
+
+00:00:15.599 --> 00:00:18.470 align:start position:0%
+ 
+so<00:00:15.839><c> we</c><00:00:16.000><c> see</c><00:00:16.240><c> this</c><00:00:16.560><c> family</c><00:00:17.039><c> hash</c><00:00:17.600><c> on</c><00:00:17.840><c> lines</c><00:00:18.240><c> one</c>
+
+00:00:18.470 --> 00:00:18.480 align:start position:0%
+so we see this family hash on lines one
+ 
+
+00:00:18.480 --> 00:00:19.990 align:start position:0%
+so we see this family hash on lines one
+through<00:00:18.800><c> five</c>
+
+00:00:19.990 --> 00:00:20.000 align:start position:0%
+through five
+ 
+
+00:00:20.000 --> 00:00:23.990 align:start position:0%
+through five
+and<00:00:20.240><c> this</c><00:00:20.480><c> hash</c><00:00:20.880><c> has</c><00:00:21.279><c> four</c><00:00:21.680><c> key</c><00:00:21.920><c> value</c><00:00:22.400><c> pairs</c>
+
+00:00:23.990 --> 00:00:24.000 align:start position:0%
+and this hash has four key value pairs
+ 
+
+00:00:24.000 --> 00:00:26.630 align:start position:0%
+and this hash has four key value pairs
+each<00:00:24.400><c> value</c><00:00:25.119><c> is</c><00:00:25.359><c> actually</c><00:00:25.840><c> an</c><00:00:26.000><c> array</c><00:00:26.400><c> of</c>
+
+00:00:26.630 --> 00:00:26.640 align:start position:0%
+each value is actually an array of
+ 
+
+00:00:26.640 --> 00:00:28.230 align:start position:0%
+each value is actually an array of
+strings
+
+00:00:28.230 --> 00:00:28.240 align:start position:0%
+strings
+ 
+
+00:00:28.240 --> 00:00:31.109 align:start position:0%
+strings
+so<00:00:28.640><c> we</c><00:00:28.800><c> know</c><00:00:29.039><c> we</c><00:00:29.199><c> want</c><00:00:29.439><c> to</c><00:00:29.840><c> invoke</c><00:00:30.320><c> the</c><00:00:30.560><c> select</c>
+
+00:00:31.109 --> 00:00:31.119 align:start position:0%
+so we know we want to invoke the select
+ 
+
+00:00:31.119 --> 00:00:36.630 align:start position:0%
+so we know we want to invoke the select
+method<00:00:31.599><c> on</c><00:00:31.760><c> this</c><00:00:32.079><c> hash</c>
+
+00:00:36.630 --> 00:00:36.640 align:start position:0%
+ 
+ 
+
+00:00:36.640 --> 00:00:41.110 align:start position:0%
+ 
+and<00:00:36.800><c> when</c><00:00:37.040><c> calling</c><00:00:37.440><c> the</c><00:00:37.600><c> hash</c><00:00:37.920><c> select</c><00:00:38.399><c> method</c>
+
+00:00:41.110 --> 00:00:41.120 align:start position:0%
+ 
+ 
+
+00:00:41.120 --> 00:00:43.350 align:start position:0%
+ 
+each<00:00:41.440><c> key</c><00:00:41.680><c> value</c><00:00:42.160><c> pair</c><00:00:42.480><c> is</c><00:00:42.640><c> going</c><00:00:42.879><c> to</c><00:00:43.120><c> be</c>
+
+00:00:43.350 --> 00:00:43.360 align:start position:0%
+each key value pair is going to be
+ 
+
+00:00:43.360 --> 00:00:47.510 align:start position:0%
+each key value pair is going to be
+passed<00:00:43.680><c> to</c><00:00:43.840><c> the</c><00:00:44.000><c> block</c>
+
+00:00:47.510 --> 00:00:47.520 align:start position:0%
+ 
+ 
+
+00:00:47.520 --> 00:00:49.910 align:start position:0%
+ 
+the<00:00:47.680><c> first</c><00:00:48.000><c> block</c><00:00:48.320><c> parameter</c><00:00:49.039><c> k</c><00:00:49.760><c> will</c>
+
+00:00:49.910 --> 00:00:49.920 align:start position:0%
+the first block parameter k will
+ 
+
+00:00:49.920 --> 00:00:51.029 align:start position:0%
+the first block parameter k will
+represent<00:00:50.480><c> the</c><00:00:50.640><c> key</c>
+
+00:00:51.029 --> 00:00:51.039 align:start position:0%
+represent the key
+ 
+
+00:00:51.039 --> 00:00:53.029 align:start position:0%
+represent the key
+and<00:00:51.199><c> the</c><00:00:51.360><c> second</c><00:00:51.680><c> block</c><00:00:51.920><c> parameter</c><00:00:52.480><c> v</c><00:00:52.879><c> will</c>
+
+00:00:53.029 --> 00:00:53.039 align:start position:0%
+and the second block parameter v will
+ 
+
+00:00:53.039 --> 00:00:54.389 align:start position:0%
+and the second block parameter v will
+represent<00:00:53.520><c> the</c><00:00:53.680><c> value</c>
+
+00:00:54.389 --> 00:00:54.399 align:start position:0%
+represent the value
+ 
+
+00:00:54.399 --> 00:00:57.110 align:start position:0%
+represent the value
+now<00:00:54.719><c> the</c><00:00:54.960><c> select</c><00:00:55.360><c> method</c><00:00:55.760><c> will</c><00:00:56.079><c> return</c><00:00:56.559><c> a</c><00:00:56.719><c> new</c>
+
+00:00:57.110 --> 00:00:57.120 align:start position:0%
+now the select method will return a new
+ 
+
+00:00:57.120 --> 00:00:57.990 align:start position:0%
+now the select method will return a new
+hash
+
+00:00:57.990 --> 00:00:58.000 align:start position:0%
+hash
+ 
+
+00:00:58.000 --> 00:01:01.029 align:start position:0%
+hash
+containing<00:00:58.719><c> the</c><00:00:58.879><c> key</c><00:00:59.120><c> value</c><00:00:59.600><c> pairs</c><00:01:00.559><c> for</c><00:01:00.719><c> which</c>
+
+00:01:01.029 --> 00:01:01.039 align:start position:0%
+containing the key value pairs for which
+ 
+
+00:01:01.039 --> 00:01:02.310 align:start position:0%
+containing the key value pairs for which
+the<00:01:01.199><c> return</c><00:01:01.760><c> value</c>
+
+00:01:02.310 --> 00:01:02.320 align:start position:0%
+the return value
+ 
+
+00:01:02.320 --> 00:01:06.469 align:start position:0%
+the return value
+of<00:01:02.480><c> this</c><00:01:02.719><c> block</c><00:01:03.280><c> evaluates</c><00:01:04.000><c> as</c><00:01:04.239><c> true</c>
+
+00:01:06.469 --> 00:01:06.479 align:start position:0%
+of this block evaluates as true
+ 
+
+00:01:06.479 --> 00:01:08.550 align:start position:0%
+of this block evaluates as true
+so<00:01:06.640><c> we</c><00:01:06.720><c> need</c><00:01:06.880><c> to</c><00:01:07.040><c> do</c><00:01:07.200><c> some</c><00:01:07.360><c> type</c><00:01:07.600><c> of</c><00:01:07.760><c> comparison</c>
+
+00:01:08.550 --> 00:01:08.560 align:start position:0%
+so we need to do some type of comparison
+ 
+
+00:01:08.560 --> 00:01:12.550 align:start position:0%
+so we need to do some type of comparison
+here<00:01:08.880><c> on</c><00:01:09.040><c> line</c><00:01:10.840><c> 8.</c>
+
+00:01:12.550 --> 00:01:12.560 align:start position:0%
+here on line 8.
+ 
+
+00:01:12.560 --> 00:01:14.630 align:start position:0%
+here on line 8.
+we<00:01:12.720><c> know</c><00:01:12.880><c> that</c><00:01:13.040><c> we</c><00:01:13.200><c> want</c><00:01:13.439><c> to</c><00:01:13.680><c> include</c><00:01:14.080><c> only</c><00:01:14.400><c> the</c>
+
+00:01:14.630 --> 00:01:14.640 align:start position:0%
+we know that we want to include only the
+ 
+
+00:01:14.640 --> 00:01:16.310 align:start position:0%
+we know that we want to include only the
+immediate<00:01:15.200><c> family</c><00:01:15.520><c> members</c>
+
+00:01:16.310 --> 00:01:16.320 align:start position:0%
+immediate family members
+ 
+
+00:01:16.320 --> 00:01:19.190 align:start position:0%
+immediate family members
+in<00:01:16.479><c> this</c><00:01:16.799><c> new</c><00:01:17.040><c> hash</c><00:01:18.240><c> so</c><00:01:18.400><c> that</c><00:01:18.560><c> would</c><00:01:18.799><c> be</c><00:01:18.960><c> only</c>
+
+00:01:19.190 --> 00:01:19.200 align:start position:0%
+in this new hash so that would be only
+ 
+
+00:01:19.200 --> 00:01:21.510 align:start position:0%
+in this new hash so that would be only
+the<00:01:19.439><c> sisters</c><00:01:20.000><c> and</c><00:01:20.159><c> brothers</c>
+
+00:01:21.510 --> 00:01:21.520 align:start position:0%
+the sisters and brothers
+ 
+
+00:01:21.520 --> 00:01:23.510 align:start position:0%
+the sisters and brothers
+so<00:01:21.759><c> in</c><00:01:21.920><c> order</c><00:01:22.240><c> to</c><00:01:22.400><c> select</c><00:01:22.799><c> the</c><00:01:22.960><c> appropriate</c>
+
+00:01:23.510 --> 00:01:23.520 align:start position:0%
+so in order to select the appropriate
+ 
+
+00:01:23.520 --> 00:01:24.950 align:start position:0%
+so in order to select the appropriate
+key<00:01:23.759><c> value</c><00:01:24.159><c> pairs</c>
+
+00:01:24.950 --> 00:01:24.960 align:start position:0%
+key value pairs
+ 
+
+00:01:24.960 --> 00:01:27.990 align:start position:0%
+key value pairs
+we<00:01:25.119><c> can</c><00:01:25.360><c> simply</c><00:01:25.759><c> compare</c><00:01:26.240><c> the</c><00:01:26.479><c> key</c><00:01:27.600><c> to</c><00:01:27.759><c> the</c>
+
+00:01:27.990 --> 00:01:28.000 align:start position:0%
+we can simply compare the key to the
+ 
+
+00:01:28.000 --> 00:01:31.749 align:start position:0%
+we can simply compare the key to the
+symbols<00:01:28.479><c> sisters</c><00:01:29.040><c> and</c><00:01:29.200><c> brothers</c>
+
+00:01:31.749 --> 00:01:31.759 align:start position:0%
+symbols sisters and brothers
+ 
+
+00:01:31.759 --> 00:01:33.990 align:start position:0%
+symbols sisters and brothers
+these<00:01:32.000><c> are</c><00:01:32.159><c> going</c><00:01:32.400><c> to</c><00:01:32.560><c> be</c><00:01:33.040><c> our</c><00:01:33.439><c> key</c><00:01:33.600><c> value</c>
+
+00:01:33.990 --> 00:01:34.000 align:start position:0%
+these are going to be our key value
+ 
+
+00:01:34.000 --> 00:01:38.830 align:start position:0%
+these are going to be our key value
+pairs<00:01:34.400><c> related</c><00:01:34.799><c> to</c><00:01:35.040><c> immediate</c><00:01:35.520><c> family</c>
+
+00:01:38.830 --> 00:01:38.840 align:start position:0%
+ 
+ 
+
+00:01:38.840 --> 00:01:44.069 align:start position:0%
+ 
+members
+
+00:01:44.069 --> 00:01:44.079 align:start position:0%
+ 
+ 
+
+00:01:44.079 --> 00:01:46.389 align:start position:0%
+ 
+if<00:01:44.240><c> the</c><00:01:44.479><c> key</c><00:01:44.880><c> is</c><00:01:45.040><c> equal</c><00:01:45.280><c> to</c><00:01:45.439><c> the</c><00:01:45.680><c> symbol</c>
+
+00:01:46.389 --> 00:01:46.399 align:start position:0%
+if the key is equal to the symbol
+ 
+
+00:01:46.399 --> 00:01:49.109 align:start position:0%
+if the key is equal to the symbol
+sisters
+
+00:01:49.109 --> 00:01:49.119 align:start position:0%
+ 
+ 
+
+00:01:49.119 --> 00:01:52.789 align:start position:0%
+ 
+or<00:01:50.399><c> brothers</c>
+
+00:01:52.789 --> 00:01:52.799 align:start position:0%
+or brothers
+ 
+
+00:01:52.799 --> 00:01:56.310 align:start position:0%
+or brothers
+then<00:01:53.040><c> these</c><00:01:53.280><c> are</c><00:01:53.360><c> immediate</c><00:01:53.840><c> family</c><00:01:54.159><c> members</c>
+
+00:01:56.310 --> 00:01:56.320 align:start position:0%
+then these are immediate family members
+ 
+
+00:01:56.320 --> 00:01:58.870 align:start position:0%
+then these are immediate family members
+let's<00:01:56.719><c> store</c><00:01:57.119><c> the</c><00:01:57.439><c> returned</c><00:01:58.000><c> hash</c><00:01:58.640><c> in</c><00:01:58.799><c> a</c>
+
+00:01:58.870 --> 00:01:58.880 align:start position:0%
+let's store the returned hash in a
+ 
+
+00:01:58.880 --> 00:02:00.890 align:start position:0%
+let's store the returned hash in a
+variable
+
+00:02:00.890 --> 00:02:00.900 align:start position:0%
+variable
+ 
+
+00:02:00.900 --> 00:02:04.230 align:start position:0%
+variable
+[Music]
+
+00:02:04.230 --> 00:02:04.240 align:start position:0%
+ 
+ 
+
+00:02:04.240 --> 00:02:13.350 align:start position:0%
+ 
+and<00:02:04.479><c> just</c><00:02:04.799><c> output</c><00:02:05.119><c> this</c><00:02:05.360><c> new</c><00:02:06.840><c> hash</c>
+
+00:02:13.350 --> 00:02:13.360 align:start position:0%
+ 
+ 
+
+00:02:13.360 --> 00:02:15.830 align:start position:0%
+ 
+so<00:02:13.520><c> we</c><00:02:13.680><c> see</c><00:02:13.920><c> our</c><00:02:14.080><c> new</c><00:02:14.319><c> hash</c><00:02:14.720><c> that</c><00:02:14.959><c> has</c><00:02:15.280><c> two</c><00:02:15.599><c> key</c>
+
+00:02:15.830 --> 00:02:15.840 align:start position:0%
+so we see our new hash that has two key
+ 
+
+00:02:15.840 --> 00:02:17.430 align:start position:0%
+so we see our new hash that has two key
+value<00:02:16.319><c> pairs</c>
+
+00:02:17.430 --> 00:02:17.440 align:start position:0%
+value pairs
+ 
+
+00:02:17.440 --> 00:02:19.670 align:start position:0%
+value pairs
+this<00:02:17.680><c> is</c><00:02:17.760><c> what</c><00:02:17.920><c> we</c><00:02:18.160><c> want</c><00:02:18.879><c> however</c><00:02:19.360><c> in</c><00:02:19.520><c> our</c>
+
+00:02:19.670 --> 00:02:19.680 align:start position:0%
+this is what we want however in our
+ 
+
+00:02:19.680 --> 00:02:21.990 align:start position:0%
+this is what we want however in our
+final<00:02:20.080><c> result</c><00:02:20.480><c> we</c><00:02:20.720><c> only</c><00:02:21.040><c> want</c><00:02:21.280><c> the</c><00:02:21.520><c> names</c>
+
+00:02:21.990 --> 00:02:22.000 align:start position:0%
+final result we only want the names
+ 
+
+00:02:22.000 --> 00:02:23.030 align:start position:0%
+final result we only want the names
+which<00:02:22.239><c> in</c><00:02:22.400><c> this</c><00:02:22.640><c> case</c>
+
+00:02:23.030 --> 00:02:23.040 align:start position:0%
+which in this case
+ 
+
+00:02:23.040 --> 00:02:27.110 align:start position:0%
+which in this case
+are<00:02:23.200><c> the</c><00:02:23.360><c> values</c>
+
+00:02:27.110 --> 00:02:27.120 align:start position:0%
+ 
+ 
+
+00:02:27.120 --> 00:02:30.550 align:start position:0%
+ 
+we<00:02:27.280><c> can</c><00:02:27.520><c> invoke</c><00:02:27.920><c> the</c><00:02:28.239><c> hash</c><00:02:29.040><c> values</c><00:02:29.599><c> method</c>
+
+00:02:30.550 --> 00:02:30.560 align:start position:0%
+we can invoke the hash values method
+ 
+
+00:02:30.560 --> 00:02:33.990 align:start position:0%
+we can invoke the hash values method
+to<00:02:30.800><c> return</c><00:02:31.360><c> an</c><00:02:31.599><c> array</c><00:02:32.560><c> of</c><00:02:32.720><c> the</c><00:02:32.959><c> values</c><00:02:33.599><c> in</c><00:02:33.760><c> that</c>
+
+00:02:33.990 --> 00:02:34.000 align:start position:0%
+to return an array of the values in that
+ 
+
+00:02:34.000 --> 00:02:35.750 align:start position:0%
+to return an array of the values in that
+hash
+
+00:02:35.750 --> 00:02:35.760 align:start position:0%
+hash
+ 
+
+00:02:35.760 --> 00:02:38.150 align:start position:0%
+hash
+again<00:02:36.080><c> let's</c><00:02:36.400><c> run</c><00:02:36.560><c> this</c><00:02:36.879><c> code</c><00:02:37.360><c> and</c><00:02:37.760><c> output</c>
+
+00:02:38.150 --> 00:02:38.160 align:start position:0%
+again let's run this code and output
+ 
+
+00:02:38.160 --> 00:02:41.030 align:start position:0%
+again let's run this code and output
+that<00:02:38.400><c> with</c><00:02:38.640><c> p</c>
+
+00:02:41.030 --> 00:02:41.040 align:start position:0%
+ 
+ 
+
+00:02:41.040 --> 00:02:43.190 align:start position:0%
+ 
+okay<00:02:41.440><c> and</c><00:02:41.519><c> this</c><00:02:41.840><c> is</c><00:02:42.000><c> closer</c><00:02:42.400><c> to</c><00:02:42.560><c> what</c><00:02:42.720><c> we</c><00:02:42.879><c> want</c>
+
+00:02:43.190 --> 00:02:43.200 align:start position:0%
+okay and this is closer to what we want
+ 
+
+00:02:43.200 --> 00:02:45.270 align:start position:0%
+okay and this is closer to what we want
+we<00:02:43.360><c> see</c><00:02:43.680><c> all</c><00:02:43.840><c> the</c><00:02:44.080><c> names</c><00:02:44.400><c> of</c><00:02:44.560><c> the</c><00:02:44.720><c> immediate</c>
+
+00:02:45.270 --> 00:02:45.280 align:start position:0%
+we see all the names of the immediate
+ 
+
+00:02:45.280 --> 00:02:47.030 align:start position:0%
+we see all the names of the immediate
+family<00:02:45.599><c> members</c>
+
+00:02:47.030 --> 00:02:47.040 align:start position:0%
+family members
+ 
+
+00:02:47.040 --> 00:02:48.869 align:start position:0%
+family members
+but<00:02:47.200><c> you</c><00:02:47.360><c> can</c><00:02:47.519><c> see</c><00:02:47.760><c> that</c><00:02:48.000><c> the</c><00:02:48.160><c> array</c><00:02:48.480><c> we</c><00:02:48.640><c> have</c>
+
+00:02:48.869 --> 00:02:48.879 align:start position:0%
+but you can see that the array we have
+ 
+
+00:02:48.879 --> 00:02:51.830 align:start position:0%
+but you can see that the array we have
+right<00:02:49.040><c> now</c><00:02:49.280><c> is</c><00:02:49.440><c> a</c><00:02:49.599><c> two-dimensional</c><00:02:50.480><c> array</c>
+
+00:02:51.830 --> 00:02:51.840 align:start position:0%
+right now is a two-dimensional array
+ 
+
+00:02:51.840 --> 00:02:54.790 align:start position:0%
+right now is a two-dimensional array
+we<00:02:52.000><c> have</c><00:02:52.319><c> two</c><00:02:52.640><c> elements</c><00:02:53.120><c> in</c><00:02:53.200><c> this</c><00:02:53.440><c> array</c><00:02:54.400><c> the</c>
+
+00:02:54.790 --> 00:02:54.800 align:start position:0%
+we have two elements in this array the
+ 
+
+00:02:54.800 --> 00:02:57.270 align:start position:0%
+we have two elements in this array the
+array<00:02:55.360><c> of</c><00:02:55.680><c> the</c><00:02:55.840><c> names</c><00:02:56.160><c> of</c><00:02:56.319><c> the</c><00:02:56.480><c> sisters</c>
+
+00:02:57.270 --> 00:02:57.280 align:start position:0%
+array of the names of the sisters
+ 
+
+00:02:57.280 --> 00:03:00.550 align:start position:0%
+array of the names of the sisters
+and<00:02:57.519><c> the</c><00:02:57.760><c> array</c><00:02:58.080><c> of</c><00:02:58.239><c> the</c><00:02:58.319><c> names</c><00:02:58.640><c> of</c><00:02:58.800><c> brothers</c>
+
+00:03:00.550 --> 00:03:00.560 align:start position:0%
+and the array of the names of brothers
+ 
+
+00:03:00.560 --> 00:03:02.830 align:start position:0%
+and the array of the names of brothers
+we<00:03:00.720><c> want</c><00:03:00.879><c> just</c><00:03:01.120><c> a</c><00:03:01.200><c> one-dimensional</c><00:03:02.000><c> array</c>
+
+00:03:02.830 --> 00:03:02.840 align:start position:0%
+we want just a one-dimensional array
+ 
+
+00:03:02.840 --> 00:03:05.270 align:start position:0%
+we want just a one-dimensional array
+here
+
+00:03:05.270 --> 00:03:05.280 align:start position:0%
+here
+ 
+
+00:03:05.280 --> 00:03:09.110 align:start position:0%
+here
+we<00:03:05.440><c> can</c><00:03:05.760><c> invoke</c><00:03:06.159><c> the</c><00:03:06.319><c> array</c><00:03:07.200><c> flatten</c><00:03:07.760><c> method</c>
+
+00:03:09.110 --> 00:03:09.120 align:start position:0%
+we can invoke the array flatten method
+ 
+
+00:03:09.120 --> 00:03:11.190 align:start position:0%
+we can invoke the array flatten method
+this<00:03:09.280><c> will</c><00:03:09.440><c> return</c><00:03:09.920><c> a</c><00:03:10.000><c> flat</c><00:03:10.319><c> one</c><00:03:10.560><c> dimensional</c>
+
+00:03:11.190 --> 00:03:11.200 align:start position:0%
+this will return a flat one dimensional
+ 
+
+00:03:11.200 --> 00:03:13.910 align:start position:0%
+this will return a flat one dimensional
+array
+
+00:03:13.910 --> 00:03:13.920 align:start position:0%
+ 
+ 
+
+00:03:13.920 --> 00:03:18.470 align:start position:0%
+ 
+and<00:03:14.080><c> let's</c><00:03:14.480><c> store</c><00:03:14.879><c> this</c><00:03:15.120><c> new</c><00:03:16.840><c> array</c>
+
+00:03:18.470 --> 00:03:18.480 align:start position:0%
+and let's store this new array
+ 
+
+00:03:18.480 --> 00:03:26.630 align:start position:0%
+and let's store this new array
+in<00:03:18.720><c> a</c><00:03:18.800><c> variable</c><00:03:19.440><c> r</c><00:03:21.200><c> and</c><00:03:21.440><c> output</c><00:03:21.760><c> that</c><00:03:22.000><c> array</c>
+
+00:03:26.630 --> 00:03:26.640 align:start position:0%
+ 
+ 
+
+00:03:26.640 --> 00:03:39.990 align:start position:0%
+ 
+and<00:03:26.799><c> there</c><00:03:26.959><c> we</c><00:03:27.120><c> have</c><00:03:27.280><c> our</c><00:03:27.440><c> final</c><00:03:30.840><c> result</c>
+
+00:03:39.990 --> 00:03:40.000 align:start position:0%
+ 
+ 
+
+00:03:40.000 --> 00:03:42.080 align:start position:0%
+ 
+you
+

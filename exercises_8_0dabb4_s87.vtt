@@ -1,0 +1,256 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.520 --> 00:00:04.390 align:start position:0%
+ 
+we're<00:00:03.679><c> going</c><00:00:04.000><c> to</c>
+
+00:00:04.390 --> 00:00:04.400 align:start position:0%
+we're going to
+ 
+
+00:00:04.400 --> 00:00:07.349 align:start position:0%
+we're going to
+write<00:00:04.640><c> a</c><00:00:04.799><c> hash</c><00:00:05.359><c> using</c><00:00:05.759><c> both</c><00:00:06.080><c> the</c><00:00:06.480><c> old</c><00:00:06.799><c> style</c>
+
+00:00:07.349 --> 00:00:07.359 align:start position:0%
+write a hash using both the old style
+ 
+
+00:00:07.359 --> 00:00:08.870 align:start position:0%
+write a hash using both the old style
+and<00:00:07.600><c> new</c><00:00:07.839><c> style</c>
+
+00:00:08.870 --> 00:00:08.880 align:start position:0%
+and new style
+ 
+
+00:00:08.880 --> 00:00:12.629 align:start position:0%
+and new style
+so<00:00:09.040><c> i'm</c><00:00:09.200><c> going</c><00:00:09.440><c> to</c><00:00:09.679><c> do</c><00:00:09.840><c> this</c><00:00:10.000><c> in</c><00:00:10.080><c> irb</c>
+
+00:00:12.629 --> 00:00:12.639 align:start position:0%
+ 
+ 
+
+00:00:12.639 --> 00:00:15.589 align:start position:0%
+ 
+so<00:00:12.799><c> let's</c><00:00:13.040><c> create</c><00:00:13.360><c> an</c><00:00:13.519><c> example</c><00:00:14.080><c> hash</c><00:00:15.360><c> and</c>
+
+00:00:15.589 --> 00:00:15.599 align:start position:0%
+so let's create an example hash and
+ 
+
+00:00:15.599 --> 00:00:17.830 align:start position:0%
+so let's create an example hash and
+first<00:00:15.920><c> let's</c><00:00:16.240><c> write</c><00:00:16.400><c> this</c><00:00:16.640><c> in</c><00:00:16.800><c> the</c><00:00:17.039><c> old</c><00:00:17.279><c> syntax</c>
+
+00:00:17.830 --> 00:00:17.840 align:start position:0%
+first let's write this in the old syntax
+ 
+
+00:00:17.840 --> 00:00:20.310 align:start position:0%
+first let's write this in the old syntax
+style
+
+00:00:20.310 --> 00:00:20.320 align:start position:0%
+ 
+ 
+
+00:00:20.320 --> 00:00:24.070 align:start position:0%
+ 
+so<00:00:20.560><c> i'll</c><00:00:20.720><c> wrap</c><00:00:20.960><c> my</c><00:00:21.199><c> hash</c><00:00:21.520><c> and</c><00:00:21.600><c> curly</c><00:00:21.920><c> braces</c>
+
+00:00:24.070 --> 00:00:24.080 align:start position:0%
+so i'll wrap my hash and curly braces
+ 
+
+00:00:24.080 --> 00:00:27.349 align:start position:0%
+so i'll wrap my hash and curly braces
+and<00:00:24.560><c> our</c><00:00:24.880><c> key</c><00:00:25.279><c> will</c><00:00:25.439><c> be</c><00:00:26.000><c> name</c><00:00:26.640><c> and</c><00:00:26.800><c> this</c><00:00:27.039><c> is</c><00:00:27.199><c> a</c>
+
+00:00:27.349 --> 00:00:27.359 align:start position:0%
+and our key will be name and this is a
+ 
+
+00:00:27.359 --> 00:00:29.589 align:start position:0%
+and our key will be name and this is a
+symbol
+
+00:00:29.589 --> 00:00:29.599 align:start position:0%
+symbol
+ 
+
+00:00:29.599 --> 00:00:32.310 align:start position:0%
+symbol
+we'll<00:00:29.840><c> use</c><00:00:30.080><c> the</c><00:00:30.240><c> hash</c><00:00:30.640><c> rocket</c><00:00:31.519><c> to</c><00:00:31.760><c> associate</c>
+
+00:00:32.310 --> 00:00:32.320 align:start position:0%
+we'll use the hash rocket to associate
+ 
+
+00:00:32.320 --> 00:00:33.190 align:start position:0%
+we'll use the hash rocket to associate
+this<00:00:32.640><c> key</c>
+
+00:00:33.190 --> 00:00:33.200 align:start position:0%
+this key
+ 
+
+00:00:33.200 --> 00:00:35.270 align:start position:0%
+this key
+with<00:00:33.600><c> the</c><00:00:33.840><c> value</c><00:00:34.399><c> which</c><00:00:34.640><c> is</c><00:00:34.719><c> going</c><00:00:34.880><c> to</c><00:00:34.960><c> be</c><00:00:35.120><c> the</c>
+
+00:00:35.270 --> 00:00:35.280 align:start position:0%
+with the value which is going to be the
+ 
+
+00:00:35.280 --> 00:00:36.630 align:start position:0%
+with the value which is going to be the
+string<00:00:35.680><c> bob</c>
+
+00:00:36.630 --> 00:00:36.640 align:start position:0%
+string bob
+ 
+
+00:00:36.640 --> 00:00:39.830 align:start position:0%
+string bob
+so<00:00:36.800><c> this</c><00:00:37.040><c> hash</c><00:00:37.360><c> has</c><00:00:37.680><c> one</c><00:00:38.000><c> key</c><00:00:38.239><c> value</c><00:00:38.640><c> pair</c>
+
+00:00:39.830 --> 00:00:39.840 align:start position:0%
+so this hash has one key value pair
+ 
+
+00:00:39.840 --> 00:00:42.830 align:start position:0%
+so this hash has one key value pair
+a<00:00:40.000><c> symbol</c><00:00:40.480><c> as</c><00:00:40.640><c> the</c><00:00:40.879><c> key</c><00:00:41.280><c> and</c><00:00:41.440><c> a</c><00:00:41.520><c> string</c><00:00:42.000><c> for</c><00:00:42.160><c> the</c>
+
+00:00:42.830 --> 00:00:42.840 align:start position:0%
+a symbol as the key and a string for the
+ 
+
+00:00:42.840 --> 00:00:44.869 align:start position:0%
+a symbol as the key and a string for the
+value
+
+00:00:44.869 --> 00:00:44.879 align:start position:0%
+value
+ 
+
+00:00:44.879 --> 00:00:47.029 align:start position:0%
+value
+so<00:00:45.039><c> now</c><00:00:45.200><c> let's</c><00:00:45.440><c> write</c><00:00:45.680><c> this</c><00:00:45.920><c> same</c><00:00:46.239><c> hash</c><00:00:46.719><c> in</c><00:00:46.800><c> the</c>
+
+00:00:47.029 --> 00:00:47.039 align:start position:0%
+so now let's write this same hash in the
+ 
+
+00:00:47.039 --> 00:00:58.950 align:start position:0%
+so now let's write this same hash in the
+newer<00:00:47.440><c> syntax</c><00:00:56.840><c> style</c><00:00:57.920><c> and</c><00:00:58.079><c> when</c><00:00:58.320><c> i</c><00:00:58.480><c> press</c>
+
+00:00:58.950 --> 00:00:58.960 align:start position:0%
+newer syntax style and when i press
+ 
+
+00:00:58.960 --> 00:01:00.869 align:start position:0%
+newer syntax style and when i press
+enter<00:00:59.440><c> and</c><00:00:59.680><c> you</c><00:00:59.920><c> see</c><00:01:00.079><c> the</c><00:01:00.320><c> hash</c><00:01:00.640><c> that's</c>
+
+00:01:00.869 --> 00:01:00.879 align:start position:0%
+enter and you see the hash that's
+ 
+
+00:01:00.879 --> 00:01:03.029 align:start position:0%
+enter and you see the hash that's
+returned<00:01:01.359><c> from</c><00:01:01.600><c> this</c><00:01:01.920><c> assignment</c>
+
+00:01:03.029 --> 00:01:03.039 align:start position:0%
+returned from this assignment
+ 
+
+00:01:03.039 --> 00:01:05.189 align:start position:0%
+returned from this assignment
+you<00:01:03.199><c> can</c><00:01:03.440><c> see</c><00:01:03.680><c> that</c><00:01:03.920><c> it</c><00:01:04.159><c> looks</c><00:01:04.479><c> exactly</c><00:01:05.040><c> the</c>
+
+00:01:05.189 --> 00:01:05.199 align:start position:0%
+you can see that it looks exactly the
+ 
+
+00:01:05.199 --> 00:01:06.230 align:start position:0%
+you can see that it looks exactly the
+same<00:01:05.760><c> as</c>
+
+00:01:06.230 --> 00:01:06.240 align:start position:0%
+same as
+ 
+
+00:01:06.240 --> 00:01:09.109 align:start position:0%
+same as
+the<00:01:06.400><c> first</c><00:01:06.720><c> hash</c><00:01:07.040><c> that</c><00:01:07.119><c> we</c><00:01:07.360><c> wrote</c><00:01:07.600><c> on</c><00:01:07.760><c> line</c><00:01:08.080><c> one</c>
+
+00:01:09.109 --> 00:01:09.119 align:start position:0%
+the first hash that we wrote on line one
+ 
+
+00:01:09.119 --> 00:01:09.590 align:start position:0%
+the first hash that we wrote on line one
+now
+
+00:01:09.590 --> 00:01:09.600 align:start position:0%
+now
+ 
+
+00:01:09.600 --> 00:01:12.390 align:start position:0%
+now
+this<00:01:09.920><c> newer</c><00:01:10.400><c> syntax</c><00:01:11.040><c> only</c><00:01:11.280><c> works</c><00:01:11.600><c> if</c><00:01:11.760><c> your</c><00:01:12.000><c> key</c>
+
+00:01:12.390 --> 00:01:12.400 align:start position:0%
+this newer syntax only works if your key
+ 
+
+00:01:12.400 --> 00:01:14.390 align:start position:0%
+this newer syntax only works if your key
+is<00:01:12.560><c> a</c><00:01:12.799><c> symbol</c>
+
+00:01:14.390 --> 00:01:14.400 align:start position:0%
+is a symbol
+ 
+
+00:01:14.400 --> 00:01:16.870 align:start position:0%
+is a symbol
+if<00:01:14.560><c> you</c><00:01:14.640><c> want</c><00:01:14.799><c> your</c><00:01:15.040><c> key</c><00:01:15.200><c> to</c><00:01:15.360><c> be</c><00:01:15.600><c> a</c><00:01:15.840><c> string</c><00:01:16.479><c> or</c>
+
+00:01:16.870 --> 00:01:16.880 align:start position:0%
+if you want your key to be a string or
+ 
+
+00:01:16.880 --> 00:01:18.230 align:start position:0%
+if you want your key to be a string or
+any<00:01:17.119><c> other</c><00:01:17.439><c> object</c>
+
+00:01:18.230 --> 00:01:18.240 align:start position:0%
+any other object
+ 
+
+00:01:18.240 --> 00:01:20.230 align:start position:0%
+any other object
+then<00:01:18.479><c> you</c><00:01:18.560><c> need</c><00:01:18.720><c> to</c><00:01:18.880><c> use</c><00:01:19.119><c> the</c><00:01:19.360><c> older</c><00:01:19.680><c> syntax</c>
+
+00:01:20.230 --> 00:01:20.240 align:start position:0%
+then you need to use the older syntax
+ 
+
+00:01:20.240 --> 00:01:27.190 align:start position:0%
+then you need to use the older syntax
+style<00:01:20.479><c> with</c><00:01:20.720><c> the</c><00:01:20.799><c> hash</c><00:01:24.840><c> rocket</c>
+
+00:01:27.190 --> 00:01:27.200 align:start position:0%
+style with the hash rocket
+ 
+
+00:01:27.200 --> 00:01:29.280 align:start position:0%
+style with the hash rocket
+you
+

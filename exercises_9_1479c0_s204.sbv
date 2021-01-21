@@ -1,0 +1,213 @@
+0:00:05.120,0:00:09.360
+the first step of this
+
+0:00:06.240,0:00:12.799
+exercise is just to get the value of
+
+0:00:09.360,0:00:13.360
+key b so we've got a hash here on line
+
+0:00:12.799,0:00:15.599
+one
+
+0:00:13.360,0:00:17.199
+and we want to retrieve the value
+
+0:00:15.599,0:00:20.560
+associated with the key
+
+0:00:17.199,0:00:24.160
+that is the symbol b we can
+
+0:00:20.560,0:00:27.760
+do this using element reference
+
+0:00:24.160,0:00:28.880
+when working with a hash we can access a
+
+0:00:27.760,0:00:31.519
+value
+
+0:00:28.880,0:00:32.559
+by passing in a key to these square
+
+0:00:31.519,0:00:34.480
+brackets
+
+0:00:32.559,0:00:36.000
+so we know we want to access the value
+
+0:00:34.480,0:00:40.559
+associated with the key
+
+0:00:36.000,0:00:44.000
+b and on line three i'm going to use
+
+0:00:40.559,0:00:47.520
+p to output this so we can see the value
+
+0:00:44.000,0:00:47.520
+we expect that it'll be two
+
+0:00:50.559,0:00:53.440
+and that's what we see
+
+0:00:54.160,0:01:01.520
+the next step here is to add to the hash
+
+0:00:58.079,0:01:01.520
+a new key value pair
+
+0:01:01.920,0:01:05.680
+and to do this we'll use element
+
+0:01:03.600,0:01:07.680
+assignment
+
+0:01:05.680,0:01:13.680
+in the square brackets we'll place the
+
+0:01:07.680,0:01:15.920
+new key
+
+0:01:13.680,0:01:18.240
+and we'll assign this to whatever value
+
+0:01:15.920,0:01:22.000
+we want associated with that key
+
+0:01:18.240,0:01:22.000
+in this case the integer 5.
+
+0:01:23.520,0:01:28.960
+now on line 7 i'll output our hash
+
+0:01:26.640,0:01:31.280
+and we expect to see five key value
+
+0:01:28.960,0:01:31.280
+pairs
+
+0:01:34.400,0:01:37.280
+and that's what we see
+
+0:01:37.600,0:01:41.759
+the last step here is to remove all key
+
+0:01:40.400,0:01:45.119
+value pairs
+
+0:01:41.759,0:01:48.240
+whose value is less than 3.5
+
+0:01:45.119,0:01:55.600
+and to do this we can use the delete
+
+0:01:48.240,0:01:58.000
+if method
+
+0:01:55.600,0:01:59.200
+as the delete if method iterates through
+
+0:01:58.000,0:02:01.439
+our hash
+
+0:01:59.200,0:02:04.479
+each key value pair will be passed as
+
+0:02:01.439,0:02:06.719
+arguments to the block
+
+0:02:04.479,0:02:08.399
+our block parameter k will be assigned
+
+0:02:06.719,0:02:10.720
+to reference the key
+
+0:02:08.399,0:02:12.370
+and our block parameter v will reference
+
+0:02:10.720,0:02:13.680
+the value
+
+0:02:12.370,0:02:16.879
+[Music]
+
+0:02:13.680,0:02:18.160
+now the delete if method deletes every
+
+0:02:16.879,0:02:21.440
+key value pair
+
+0:02:18.160,0:02:22.480
+from the hash for which the return value
+
+0:02:21.440,0:02:25.599
+of the block
+
+0:02:22.480,0:02:28.080
+evaluates as true so if the return value
+
+0:02:25.599,0:02:30.160
+of this block is truthy
+
+0:02:28.080,0:02:31.440
+that key value pair will be deleted from
+
+0:02:30.160,0:02:33.120
+our hash
+
+0:02:31.440,0:02:35.599
+and because we know we want to delete
+
+0:02:33.120,0:02:38.080
+the key value pair if the value is less
+
+0:02:35.599,0:02:40.080
+than 3.5
+
+0:02:38.080,0:02:42.319
+we can do a simple comparison here on
+
+0:02:40.080,0:02:44.640
+line 9.
+
+0:02:42.319,0:02:45.760
+this will return a boolean either true
+
+0:02:44.640,0:02:48.080
+or false
+
+0:02:45.760,0:02:51.840
+and if it returns true that key value
+
+0:02:48.080,0:02:51.840
+pair will be deleted from our hash
+
+0:02:52.400,0:02:58.080
+so on line 12 we'll output our hash one
+
+0:02:55.519,0:02:58.080
+last time
+
+0:03:02.000,0:03:05.519
+on the third line of output you can see
+
+0:03:04.080,0:03:08.400
+that our hash has been
+
+0:03:05.519,0:03:09.760
+mutated destructively by the delete if
+
+0:03:08.400,0:03:11.840
+method
+
+0:03:09.760,0:03:13.360
+the only remaining key value pairs in
+
+0:03:11.840,0:03:19.840
+our hash
+
+0:03:13.360,0:03:19.840
+are those with values greater than 3.5
+

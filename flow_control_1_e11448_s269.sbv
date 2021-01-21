@@ -1,0 +1,261 @@
+0:00:04.080,0:00:08.000
+we've been given
+
+0:00:05.279,0:00:09.679
+five expressions and we're going to
+
+0:00:08.000,0:00:11.599
+examine each expression
+
+0:00:09.679,0:00:13.759
+and determine whether it will return
+
+0:00:11.599,0:00:15.759
+true or false
+
+0:00:13.759,0:00:17.039
+so taking a look at the expression on
+
+0:00:15.759,0:00:20.560
+line one
+
+0:00:17.039,0:00:24.640
+we are comparing whether 32 times 4
+
+0:00:20.560,0:00:27.920
+is greater than or equal to 129
+
+0:00:24.640,0:00:31.279
+32 times 4 is equal to 128
+
+0:00:27.920,0:00:36.880
+so this expression will return false
+
+0:00:31.279,0:00:36.880
+128 is not greater than or equal to 129.
+
+0:00:38.800,0:00:45.840
+and i'm going to paste that expression
+
+0:00:40.480,0:00:45.840
+into irb so we can see that
+
+0:00:46.719,0:00:50.960
+moving on to our next expression on line
+
+0:00:49.200,0:00:54.559
+three
+
+0:00:50.960,0:00:58.000
+false is not equal to not true
+
+0:00:54.559,0:01:01.039
+so what is not true when we use the
+
+0:00:58.000,0:01:01.840
+not operator in front of a boolean it
+
+0:01:01.039,0:01:05.280
+will return
+
+0:01:01.840,0:01:08.400
+the opposite boolean so in this case
+
+0:01:05.280,0:01:11.119
+not true is false
+
+0:01:08.400,0:01:12.080
+so the expression on line 3 reads as
+
+0:01:11.119,0:01:15.600
+false is not
+
+0:01:12.080,0:01:19.280
+equal to false and that will return
+
+0:01:15.600,0:01:22.240
+false the boolean false is equal to the
+
+0:01:19.280,0:01:22.240
+boolean false
+
+0:01:23.520,0:01:27.840
+again we'll bring this expression over
+
+0:01:25.280,0:01:27.840
+to irb
+
+0:01:32.000,0:01:39.520
+moving on to line 5 we're comparing true
+
+0:01:35.680,0:01:42.640
+to the integer 4 true is equal to 4.
+
+0:01:39.520,0:01:44.560
+4 is a truthy value meaning that
+
+0:01:42.640,0:01:45.840
+when used in a conditional it will
+
+0:01:44.560,0:01:48.640
+evaluate as
+
+0:01:45.840,0:01:49.280
+true however it's not equal to the
+
+0:01:48.640,0:01:53.439
+boolean
+
+0:01:49.280,0:01:55.840
+true so this expression will also return
+
+0:01:53.439,0:01:55.840
+false
+
+0:01:57.840,0:02:04.560
+i'll paste it into irb and we see that
+
+0:02:01.439,0:02:04.560
+false return value
+
+0:02:06.399,0:02:13.599
+moving on to line seven we first need to
+
+0:02:09.920,0:02:18.800
+evaluate the comparison in parentheses
+
+0:02:13.599,0:02:20.879
+we're comparing 847 to the string 874.
+
+0:02:18.800,0:02:24.319
+an integer will never be equal to a
+
+0:02:20.879,0:02:26.319
+string so this will evaluate to false
+
+0:02:24.319,0:02:29.680
+on the left side of our comparison here
+
+0:02:26.319,0:02:32.000
+on line 7 we also have false
+
+0:02:29.680,0:02:34.160
+so this expression reads as false is
+
+0:02:32.000,0:02:37.840
+equal to false
+
+0:02:34.160,0:02:37.840
+and that will return true
+
+0:02:41.040,0:02:45.280
+and we paste it into irb and see that
+
+0:02:47.360,0:02:53.040
+our last expression here on line 9 is a
+
+0:02:50.160,0:02:57.040
+little bit more difficult to parse
+
+0:02:53.040,0:03:00.080
+this expression uses the or operator
+
+0:02:57.040,0:03:02.400
+when using the logical or operator if
+
+0:03:00.080,0:03:03.680
+any of the expressions that we provide
+
+0:03:02.400,0:03:05.840
+return true
+
+0:03:03.680,0:03:07.440
+then the entire expression will return
+
+0:03:05.840,0:03:09.840
+true
+
+0:03:07.440,0:03:10.560
+we can see at the end of line 9 that we
+
+0:03:09.840,0:03:14.159
+have
+
+0:03:10.560,0:03:16.080
+false so now let's examine each
+
+0:03:14.159,0:03:18.080
+expression within the parentheses
+
+0:03:16.080,0:03:19.920
+on the left side of this logical or
+
+0:03:18.080,0:03:23.120
+operation
+
+0:03:19.920,0:03:26.720
+the first expression is not true
+
+0:03:23.120,0:03:26.720
+which evaluates to false
+
+0:03:27.120,0:03:32.319
+moving on to the next expression 100
+
+0:03:30.159,0:03:36.000
+divided by 5 is 20.
+
+0:03:32.319,0:03:38.560
+again we have the not operator here
+
+0:03:36.000,0:03:39.440
+so we're comparing the equality of not
+
+0:03:38.560,0:03:43.200
+20
+
+0:03:39.440,0:03:47.040
+to 20. not 20 evaluates as
+
+0:03:43.200,0:03:48.879
+false so false is not equal to 20.
+
+0:03:47.040,0:03:51.519
+we can move on to examine the next
+
+0:03:48.879,0:03:51.519
+expression
+
+0:03:53.360,0:03:57.920
+in this expression we're comparing 328
+
+0:03:56.319,0:04:02.080
+divided by 4
+
+0:03:57.920,0:04:05.200
+to the integer 82. 328 divided by 4
+
+0:04:02.080,0:04:06.000
+equals 82 so this equality comparison
+
+0:04:05.200,0:04:08.640
+will return
+
+0:04:06.000,0:04:09.439
+true meaning that the entire expression
+
+0:04:08.640,0:04:15.840
+on line 9
+
+0:04:09.439,0:04:15.840
+returns true
+
+0:04:17.040,0:04:29.280
+i'll paste that in and we see the return
+
+0:04:19.199,0:04:31.360
+value of true
+
+0:04:29.280,0:04:31.360
+you
+

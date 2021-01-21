@@ -1,0 +1,60 @@
+0:00:04.000,0:00:08.720
+this exercise asks us how we would
+
+0:00:06.160,0:00:11.440
+access the name of the person
+
+0:00:08.720,0:00:12.240
+we've got a hash here on line one and we
+
+0:00:11.440,0:00:14.920
+want to
+
+0:00:12.240,0:00:16.320
+access the value associated with the
+
+0:00:14.920,0:00:18.240
+name
+
+0:00:16.320,0:00:20.800
+in order to do that we can use element
+
+0:00:18.240,0:00:20.800
+reference
+
+0:00:22.480,0:00:25.680
+so in these square brackets we're going
+
+0:00:24.240,0:00:28.800
+to place the key
+
+0:00:25.680,0:00:30.960
+which in this case is a symbol
+
+0:00:28.800,0:00:32.719
+in this case we want to access the value
+
+0:00:30.960,0:00:36.239
+associated with the name
+
+0:00:32.719,0:00:38.239
+key passing in the key here is going to
+
+0:00:36.239,0:00:38.879
+return the value associated with that
+
+0:00:38.239,0:00:40.719
+key
+
+0:00:38.879,0:00:42.320
+so in this case it will be the string
+
+0:00:40.719,0:00:46.239
+bob
+
+0:00:42.320,0:00:46.239
+let's use p to output this
+
+0:00:48.640,0:01:00.000
+and we see bob you
+

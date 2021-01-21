@@ -1,0 +1,102 @@
+0:00:03.439,0:00:05.839
+we've been given some code that raises
+
+0:00:05.600,0:00:09.440
+an
+
+0:00:05.839,0:00:10.800
+error so on line one you can see that we
+
+0:00:09.440,0:00:15.280
+have an array
+
+0:00:10.800,0:00:17.600
+names and this array contains four names
+
+0:00:15.280,0:00:19.439
+on line two it looks like we're trying
+
+0:00:17.600,0:00:19.760
+to replace the name margaret with the
+
+0:00:19.439,0:00:22.480
+name
+
+0:00:19.760,0:00:23.519
+jody however this is the line of code
+
+0:00:22.480,0:00:27.439
+that's going to raise an
+
+0:00:23.519,0:00:28.080
+error it appears that what we're trying
+
+0:00:27.439,0:00:30.960
+to do
+
+0:00:28.080,0:00:32.640
+is use the array assignment method
+
+0:00:30.960,0:00:36.000
+however we've passed in an
+
+0:00:32.640,0:00:38.800
+element of the array the string margaret
+
+0:00:36.000,0:00:41.200
+rather than the index of that element
+
+0:00:38.800,0:00:43.760
+when we use array element reference
+
+0:00:41.200,0:00:45.200
+or element assignment we need to place
+
+0:00:43.760,0:00:47.680
+the index
+
+0:00:45.200,0:00:50.960
+of the element in the square brackets
+
+0:00:47.680,0:00:50.960
+not the element itself
+
+0:00:52.960,0:00:57.680
+so the index of the string margaret is
+
+0:00:55.360,0:00:57.680
+three
+
+0:00:57.840,0:01:02.320
+this is a four element array and the
+
+0:01:00.480,0:01:04.879
+index is zero based
+
+0:01:02.320,0:01:06.880
+so now on line two we are reassigning
+
+0:01:04.879,0:01:10.400
+the element at index three
+
+0:01:06.880,0:01:13.600
+to the string jody i'm going to
+
+0:01:10.400,0:01:15.680
+output the names array and run this code
+
+0:01:13.600,0:01:18.320
+we'll still expect to see a four element
+
+0:01:15.680,0:01:18.960
+array but now the last element will be
+
+0:01:18.320,0:01:21.920
+jody
+
+0:01:18.960,0:01:21.920
+rather than margaret
+
+0:01:23.200,0:01:27.840
+and that's what we see
+

@@ -1,0 +1,501 @@
+0:00:05.200,0:00:09.360
+rather than
+
+0:00:06.160,0:00:10.480
+manually setting the hash values in our
+
+0:00:09.360,0:00:13.759
+contacts hash
+
+0:00:10.480,0:00:14.799
+one by one we want to populate the data
+
+0:00:13.759,0:00:17.520
+in that hash
+
+0:00:14.799,0:00:20.960
+by iterating over our contacts hash and
+
+0:00:17.520,0:00:23.039
+populating it with the appropriate data
+
+0:00:20.960,0:00:25.199
+i'm going to create one other array here
+
+0:00:23.039,0:00:28.880
+on line three
+
+0:00:25.199,0:00:30.000
+we'll call it fields and this list is
+
+0:00:28.880,0:00:33.599
+going to represent
+
+0:00:30.000,0:00:33.599
+the different data fields
+
+0:00:34.239,0:00:39.360
+the email address and phone number now
+
+0:00:37.280,0:00:40.800
+because we know we want to iterate over
+
+0:00:39.360,0:00:44.480
+our contacts hash
+
+0:00:40.800,0:00:47.520
+let's just begin by doing that
+
+0:00:44.480,0:00:50.239
+i'll invoke the each method
+
+0:00:47.520,0:00:51.280
+and our key value pairs will be passed
+
+0:00:50.239,0:00:54.960
+to the block as
+
+0:00:51.280,0:00:59.600
+arguments i'll define those parameters
+
+0:00:54.960,0:01:02.559
+as name and hash
+
+0:00:59.600,0:01:04.479
+and to start i'm just going to output
+
+0:01:02.559,0:01:07.119
+the name
+
+0:01:04.479,0:01:07.119
+and the hash
+
+0:01:08.880,0:01:12.000
+so when we run our code we see the name
+
+0:01:11.360,0:01:15.119
+which is the
+
+0:01:12.000,0:01:17.759
+key joe smith and the value which is an
+
+0:01:15.119,0:01:17.759
+empty hash
+
+0:01:20.400,0:01:24.720
+and our contacts hash only has that one
+
+0:01:22.880,0:01:27.360
+key value pair right now
+
+0:01:24.720,0:01:29.360
+so now that we can access the key in
+
+0:01:27.360,0:01:32.479
+value
+
+0:01:29.360,0:01:35.280
+we want to populate the value
+
+0:01:32.479,0:01:36.479
+with three of its own key value pairs
+
+0:01:35.280,0:01:39.680
+and we've already got
+
+0:01:36.479,0:01:41.759
+a list of the keys on line three in our
+
+0:01:39.680,0:01:45.280
+fields array
+
+0:01:41.759,0:01:49.840
+so what we can actually do is
+
+0:01:45.280,0:01:49.840
+iterate through our fields array as well
+
+0:01:50.799,0:01:57.520
+and we'll call our block parameter field
+
+0:01:54.399,0:02:00.640
+so within this block not only are the
+
+0:01:57.520,0:02:03.119
+key and value or the name and hash from
+
+0:02:00.640,0:02:05.520
+our contacts hash available
+
+0:02:03.119,0:02:06.880
+but also each field that we want to
+
+0:02:05.520,0:02:10.160
+populate that hash with
+
+0:02:06.880,0:02:13.680
+is also available to us so on line 7
+
+0:02:10.160,0:02:13.680
+we can simply assign
+
+0:02:13.760,0:02:19.440
+the key which will be each field
+
+0:02:19.520,0:02:23.280
+to an element from our contact data
+
+0:02:21.840,0:02:25.920
+array
+
+0:02:23.280,0:02:26.640
+now this array is a one-dimensional
+
+0:02:25.920,0:02:29.360
+array now
+
+0:02:26.640,0:02:32.160
+and it has three elements representing
+
+0:02:29.360,0:02:34.879
+the email address and phone number
+
+0:02:32.160,0:02:35.280
+so on our first iteration here we just
+
+0:02:34.879,0:02:37.760
+need
+
+0:02:35.280,0:02:40.160
+the first element of this contact data
+
+0:02:37.760,0:02:40.160
+array
+
+0:02:41.840,0:02:45.760
+now as the problem description indicated
+
+0:02:43.840,0:02:46.959
+there is a useful array method here that
+
+0:02:45.760,0:02:50.400
+we can use
+
+0:02:46.959,0:02:52.959
+and that is the shift method
+
+0:02:50.400,0:02:55.840
+i'm going to hop into irb so we can see
+
+0:02:52.959,0:02:55.840
+how this works
+
+0:02:56.720,0:03:03.599
+i'll copy our contact data array
+
+0:03:00.239,0:03:03.599
+and paste it into irb
+
+0:03:03.760,0:03:10.319
+now when i invoke the array shift method
+
+0:03:07.680,0:03:12.159
+on our array it returns the first
+
+0:03:10.319,0:03:15.519
+element of that array
+
+0:03:12.159,0:03:17.200
+which in this case is the email now an
+
+0:03:15.519,0:03:20.720
+important thing to note about this
+
+0:03:17.200,0:03:22.800
+method is that it is destructive
+
+0:03:20.720,0:03:24.959
+so not only does it return the first
+
+0:03:22.800,0:03:27.200
+element of the calling array
+
+0:03:24.959,0:03:29.040
+but it also removes it destructively
+
+0:03:27.200,0:03:32.159
+from that array
+
+0:03:29.040,0:03:34.959
+so now contact data only has
+
+0:03:32.159,0:03:34.959
+two elements
+
+0:03:35.680,0:03:39.519
+and i can invoke shift again
+
+0:03:40.159,0:03:45.760
+and now contact data has one element
+
+0:03:43.280,0:03:46.959
+so we can continue to do this until the
+
+0:03:45.760,0:03:51.360
+contact data array
+
+0:03:46.959,0:03:54.159
+is empty so this is going to be useful
+
+0:03:51.360,0:03:54.159
+in our program
+
+0:03:55.040,0:03:59.439
+as we iterate through and assign the
+
+0:03:57.760,0:04:01.680
+keys of this hash
+
+0:03:59.439,0:04:03.040
+we will call shift on our contact data
+
+0:04:01.680,0:04:05.920
+array
+
+0:04:03.040,0:04:07.120
+and this will allow us to remove and
+
+0:04:05.920,0:04:10.720
+return the first
+
+0:04:07.120,0:04:13.519
+element of the array repeatedly
+
+0:04:10.720,0:04:16.160
+so on line 11 i'm going to output
+
+0:04:13.519,0:04:18.320
+contacts
+
+0:04:16.160,0:04:20.400
+and at this point we would expect that
+
+0:04:18.320,0:04:23.199
+when our program finishes iterating
+
+0:04:20.400,0:04:23.680
+we have three key value pairs in the
+
+0:04:23.199,0:04:26.639
+hash
+
+0:04:23.680,0:04:28.080
+associated with the key joe smith so we
+
+0:04:26.639,0:04:31.520
+expect to see our email
+
+0:04:28.080,0:04:31.520
+address and phone number there
+
+0:04:32.240,0:04:35.199
+and that's what we see
+
+0:04:37.840,0:04:43.280
+now let's take a look at the bonus part
+
+0:04:40.000,0:04:45.759
+of this problem
+
+0:04:43.280,0:04:46.320
+i'm going to replace the contact data
+
+0:04:45.759,0:04:48.320
+array
+
+0:04:46.320,0:04:50.560
+with a two-dimensional contact data
+
+0:04:48.320,0:04:52.960
+array
+
+0:04:50.560,0:04:55.440
+this also contains information about
+
+0:04:52.960,0:04:55.440
+sally
+
+0:04:55.600,0:05:02.160
+and i'll add sally johnson to our
+
+0:04:58.800,0:05:02.160
+contacts hash as well
+
+0:05:05.919,0:05:09.600
+so the challenge is the same we want to
+
+0:05:08.800,0:05:13.039
+populate this
+
+0:05:09.600,0:05:14.639
+information into the hash values in our
+
+0:05:13.039,0:05:16.639
+contacts hash
+
+0:05:14.639,0:05:18.560
+but this time we're not just doing it
+
+0:05:16.639,0:05:20.880
+for a single person
+
+0:05:18.560,0:05:22.880
+our contact data array is now a two
+
+0:05:20.880,0:05:25.280
+dimensional array
+
+0:05:22.880,0:05:26.160
+so the main thing that changes here on
+
+0:05:25.280,0:05:29.199
+line eight
+
+0:05:26.160,0:05:31.680
+is how we tell our program which
+
+0:05:29.199,0:05:33.360
+element from the contact data array that
+
+0:05:31.680,0:05:35.919
+we want to use
+
+0:05:33.360,0:05:38.080
+if we simply call shift on the contact
+
+0:05:35.919,0:05:40.639
+data array as it is now
+
+0:05:38.080,0:05:42.000
+it will return the entire three element
+
+0:05:40.639,0:05:44.800
+subarray
+
+0:05:42.000,0:05:46.720
+instead we want to first access that
+
+0:05:44.800,0:05:49.919
+sub-array
+
+0:05:46.720,0:05:52.400
+and then invoke shift on the subarray
+
+0:05:49.919,0:05:56.000
+one way that we can do this is to use
+
+0:05:52.400,0:06:00.000
+the each with index method
+
+0:05:56.000,0:06:00.000
+to iterate through our contacts hash
+
+0:06:01.199,0:06:04.720
+now we'll have an additional block
+
+0:06:02.800,0:06:06.880
+parameter
+
+0:06:04.720,0:06:09.440
+we still pass the key in value which
+
+0:06:06.880,0:06:12.000
+we've called name and hash
+
+0:06:09.440,0:06:13.919
+but an index will also be passed into
+
+0:06:12.000,0:06:15.840
+our block
+
+0:06:13.919,0:06:17.199
+and this is going to work out just fine
+
+0:06:15.840,0:06:19.440
+for our purposes
+
+0:06:17.199,0:06:20.960
+because the contacts hash has two key
+
+0:06:19.440,0:06:23.759
+value pairs
+
+0:06:20.960,0:06:26.400
+and our contact data array has two
+
+0:06:23.759,0:06:26.400
+subarrays
+
+0:06:28.160,0:06:35.280
+now as we iterate through the
+
+0:06:31.199,0:06:39.199
+fields array and we assign each key as a
+
+0:06:35.280,0:06:41.919
+field in our hash we can reference
+
+0:06:39.199,0:06:42.720
+the contact data element at the
+
+0:06:41.919,0:06:46.160
+appropriate
+
+0:06:42.720,0:06:47.199
+index so we'll first iterate through the
+
+0:06:46.160,0:06:50.240
+fields array
+
+0:06:47.199,0:06:52.720
+assigning each key of our hash
+
+0:06:50.240,0:06:54.960
+to an element within the appropriate
+
+0:06:52.720,0:06:56.800
+contact data subarray
+
+0:06:54.960,0:06:58.000
+after we've gone through and populated
+
+0:06:56.800,0:07:00.000
+the first hash
+
+0:06:58.000,0:07:01.919
+then our index will increase and we'll
+
+0:07:00.000,0:07:02.800
+go through and populate that next hash
+
+0:07:01.919,0:07:05.440
+as well
+
+0:07:02.800,0:07:07.680
+let's output our contacts hash now and
+
+0:07:05.440,0:07:09.759
+we'll expect to see both hashes
+
+0:07:07.680,0:07:10.720
+associated with the keys joe smith and
+
+0:07:09.759,0:07:17.120
+sally johnson
+
+0:07:10.720,0:07:30.000
+populated with the appropriate data
+
+0:07:17.120,0:07:30.000
+and we do
+

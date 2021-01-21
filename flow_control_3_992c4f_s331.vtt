@@ -1,0 +1,896 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.560 --> 00:00:05.510 align:start position:0%
+ 
+we're<00:00:04.799><c> going</c><00:00:05.120><c> to</c>
+
+00:00:05.510 --> 00:00:05.520 align:start position:0%
+we're going to
+ 
+
+00:00:05.520 --> 00:00:08.629 align:start position:0%
+we're going to
+write<00:00:05.759><c> a</c><00:00:05.920><c> program</c><00:00:07.040><c> that</c><00:00:07.279><c> prompts</c><00:00:07.680><c> the</c><00:00:07.919><c> user</c><00:00:08.320><c> to</c>
+
+00:00:08.629 --> 00:00:08.639 align:start position:0%
+write a program that prompts the user to
+ 
+
+00:00:08.639 --> 00:00:12.709 align:start position:0%
+write a program that prompts the user to
+input<00:00:09.040><c> a</c><00:00:09.120><c> number</c><00:00:09.519><c> between</c><00:00:09.920><c> 0</c><00:00:10.400><c> and</c><00:00:10.559><c> 100.</c>
+
+00:00:12.709 --> 00:00:12.719 align:start position:0%
+input a number between 0 and 100.
+ 
+
+00:00:12.719 --> 00:00:14.709 align:start position:0%
+input a number between 0 and 100.
+the<00:00:12.960><c> program</c><00:00:13.360><c> will</c><00:00:13.519><c> then</c><00:00:13.759><c> display</c><00:00:14.160><c> a</c><00:00:14.320><c> message</c>
+
+00:00:14.709 --> 00:00:14.719 align:start position:0%
+the program will then display a message
+ 
+
+00:00:14.719 --> 00:00:16.950 align:start position:0%
+the program will then display a message
+to<00:00:14.880><c> the</c><00:00:15.040><c> user</c><00:00:15.519><c> reporting</c><00:00:16.080><c> whether</c><00:00:16.400><c> the</c><00:00:16.560><c> number</c>
+
+00:00:16.950 --> 00:00:16.960 align:start position:0%
+to the user reporting whether the number
+ 
+
+00:00:16.960 --> 00:00:17.750 align:start position:0%
+to the user reporting whether the number
+is<00:00:17.119><c> between</c>
+
+00:00:17.750 --> 00:00:17.760 align:start position:0%
+is between
+ 
+
+00:00:17.760 --> 00:00:21.029 align:start position:0%
+is between
+0<00:00:18.080><c> and</c><00:00:18.240><c> 50</c><00:00:19.279><c> 51</c><00:00:19.920><c> and</c><00:00:20.080><c> 100</c>
+
+00:00:21.029 --> 00:00:21.039 align:start position:0%
+0 and 50 51 and 100
+ 
+
+00:00:21.039 --> 00:00:24.790 align:start position:0%
+0 and 50 51 and 100
+or<00:00:21.279><c> above</c><00:00:21.600><c> 100</c><00:00:23.600><c> so</c><00:00:23.760><c> the</c><00:00:23.920><c> first</c><00:00:24.160><c> step</c><00:00:24.480><c> here</c><00:00:24.720><c> is</c>
+
+00:00:24.790 --> 00:00:24.800 align:start position:0%
+or above 100 so the first step here is
+ 
+
+00:00:24.800 --> 00:00:29.029 align:start position:0%
+or above 100 so the first step here is
+simply<00:00:25.199><c> to</c><00:00:25.359><c> prompt</c><00:00:25.760><c> the</c><00:00:25.840><c> user</c><00:00:26.240><c> for</c><00:00:26.400><c> a</c><00:00:26.560><c> number</c>
+
+00:00:29.029 --> 00:00:29.039 align:start position:0%
+ 
+ 
+
+00:00:29.039 --> 00:00:32.069 align:start position:0%
+ 
+so<00:00:29.279><c> we'll</c><00:00:29.519><c> use</c><00:00:29.840><c> put</c><00:00:30.160><c> s</c><00:00:30.800><c> to</c><00:00:31.199><c> output</c><00:00:31.599><c> a</c><00:00:31.679><c> message</c>
+
+00:00:32.069 --> 00:00:32.079 align:start position:0%
+so we'll use put s to output a message
+ 
+
+00:00:32.079 --> 00:00:38.470 align:start position:0%
+so we'll use put s to output a message
+to<00:00:32.239><c> the</c><00:00:32.399><c> user</c>
+
+00:00:38.470 --> 00:00:38.480 align:start position:0%
+ 
+ 
+
+00:00:38.480 --> 00:00:42.310 align:start position:0%
+ 
+please<00:00:38.879><c> enter</c><00:00:39.200><c> a</c><00:00:39.360><c> number</c><00:00:39.680><c> between</c><00:00:40.160><c> 0</c><00:00:40.559><c> and</c><00:00:40.719><c> 100.</c>
+
+00:00:42.310 --> 00:00:42.320 align:start position:0%
+please enter a number between 0 and 100.
+ 
+
+00:00:42.320 --> 00:00:44.790 align:start position:0%
+please enter a number between 0 and 100.
+we<00:00:42.480><c> want</c><00:00:42.719><c> to</c><00:00:43.040><c> capture</c><00:00:43.440><c> that</c><00:00:43.680><c> user</c><00:00:44.079><c> input</c><00:00:44.480><c> and</c>
+
+00:00:44.790 --> 00:00:44.800 align:start position:0%
+we want to capture that user input and
+ 
+
+00:00:44.800 --> 00:00:47.270 align:start position:0%
+we want to capture that user input and
+store<00:00:45.039><c> it</c><00:00:45.200><c> in</c><00:00:45.360><c> a</c><00:00:45.440><c> variable</c>
+
+00:00:47.270 --> 00:00:47.280 align:start position:0%
+store it in a variable
+ 
+
+00:00:47.280 --> 00:00:50.709 align:start position:0%
+store it in a variable
+let's<00:00:47.520><c> call</c><00:00:47.760><c> that</c><00:00:48.000><c> variable</c><00:00:48.640><c> number</c>
+
+00:00:50.709 --> 00:00:50.719 align:start position:0%
+let's call that variable number
+ 
+
+00:00:50.719 --> 00:00:53.189 align:start position:0%
+let's call that variable number
+and<00:00:50.960><c> in</c><00:00:51.120><c> order</c><00:00:51.440><c> to</c><00:00:51.600><c> pause</c><00:00:52.000><c> program</c><00:00:52.399><c> execution</c>
+
+00:00:53.189 --> 00:00:53.199 align:start position:0%
+and in order to pause program execution
+ 
+
+00:00:53.199 --> 00:00:55.189 align:start position:0%
+and in order to pause program execution
+and<00:00:53.600><c> wait</c><00:00:53.840><c> for</c><00:00:54.000><c> the</c><00:00:54.160><c> user</c><00:00:54.559><c> to</c><00:00:54.719><c> give</c><00:00:54.960><c> their</c>
+
+00:00:55.189 --> 00:00:55.199 align:start position:0%
+and wait for the user to give their
+ 
+
+00:00:55.199 --> 00:00:55.910 align:start position:0%
+and wait for the user to give their
+input
+
+00:00:55.910 --> 00:00:55.920 align:start position:0%
+input
+ 
+
+00:00:55.920 --> 00:01:00.310 align:start position:0%
+input
+we'll<00:00:56.160><c> use</c><00:00:56.320><c> the</c><00:00:56.480><c> get</c><00:00:56.800><c> s</c><00:00:57.039><c> method</c>
+
+00:01:00.310 --> 00:01:00.320 align:start position:0%
+ 
+ 
+
+00:01:00.320 --> 00:01:03.189 align:start position:0%
+ 
+and<00:01:00.559><c> we'll</c><00:01:00.879><c> chain</c><00:01:01.440><c> a</c><00:01:01.680><c> method</c><00:01:02.079><c> call</c><00:01:02.399><c> to</c><00:01:02.719><c> chomp</c>
+
+00:01:03.189 --> 00:01:03.199 align:start position:0%
+and we'll chain a method call to chomp
+ 
+
+00:01:03.199 --> 00:01:04.869 align:start position:0%
+and we'll chain a method call to chomp
+on<00:01:03.440><c> the</c><00:01:03.600><c> get</c><00:01:03.840><c> s</c><00:01:04.080><c> method</c>
+
+00:01:04.869 --> 00:01:04.879 align:start position:0%
+on the get s method
+ 
+
+00:01:04.879 --> 00:01:06.630 align:start position:0%
+on the get s method
+and<00:01:05.119><c> this</c><00:01:05.280><c> will</c><00:01:05.519><c> remove</c><00:01:05.920><c> the</c><00:01:06.159><c> newline</c>
+
+00:01:06.630 --> 00:01:06.640 align:start position:0%
+and this will remove the newline
+ 
+
+00:01:06.640 --> 00:01:09.350 align:start position:0%
+and this will remove the newline
+character<00:01:07.200><c> from</c><00:01:07.439><c> user</c><00:01:07.840><c> input</c>
+
+00:01:09.350 --> 00:01:09.360 align:start position:0%
+character from user input
+ 
+
+00:01:09.360 --> 00:01:11.910 align:start position:0%
+character from user input
+so<00:01:09.600><c> i'm</c><00:01:09.760><c> going</c><00:01:10.000><c> to</c><00:01:10.159><c> run</c><00:01:10.400><c> our</c><00:01:10.640><c> program</c><00:01:11.280><c> as</c><00:01:11.439><c> it</c><00:01:11.600><c> is</c>
+
+00:01:11.910 --> 00:01:11.920 align:start position:0%
+so i'm going to run our program as it is
+ 
+
+00:01:11.920 --> 00:01:13.270 align:start position:0%
+so i'm going to run our program as it is
+now<00:01:12.240><c> and</c><00:01:12.560><c> use</c><00:01:12.799><c> the</c><00:01:13.040><c> p</c>
+
+00:01:13.270 --> 00:01:13.280 align:start position:0%
+now and use the p
+ 
+
+00:01:13.280 --> 00:01:16.950 align:start position:0%
+now and use the p
+method<00:01:15.200><c> to</c><00:01:15.520><c> output</c><00:01:16.000><c> number</c><00:01:16.400><c> after</c><00:01:16.720><c> we've</c>
+
+00:01:16.950 --> 00:01:16.960 align:start position:0%
+method to output number after we've
+ 
+
+00:01:16.960 --> 00:01:23.670 align:start position:0%
+method to output number after we've
+captured<00:01:17.360><c> it</c><00:01:17.520><c> from</c><00:01:17.759><c> the</c><00:01:17.920><c> user</c>
+
+00:01:23.670 --> 00:01:23.680 align:start position:0%
+ 
+ 
+
+00:01:23.680 --> 00:01:26.390 align:start position:0%
+ 
+so<00:01:23.920><c> i'll</c><00:01:24.080><c> run</c><00:01:24.320><c> our</c><00:01:24.479><c> program</c><00:01:25.439><c> i'm</c><00:01:25.680><c> prompted</c><00:01:26.240><c> for</c>
+
+00:01:26.390 --> 00:01:26.400 align:start position:0%
+so i'll run our program i'm prompted for
+ 
+
+00:01:26.400 --> 00:01:28.310 align:start position:0%
+so i'll run our program i'm prompted for
+a<00:01:26.560><c> number</c>
+
+00:01:28.310 --> 00:01:28.320 align:start position:0%
+a number
+ 
+
+00:01:28.320 --> 00:01:31.749 align:start position:0%
+a number
+i'll<00:01:28.560><c> enter</c><00:01:28.960><c> 50.</c><00:01:30.479><c> now</c><00:01:30.640><c> you'll</c><00:01:30.880><c> notice</c><00:01:31.280><c> that</c><00:01:31.520><c> on</c>
+
+00:01:31.749 --> 00:01:31.759 align:start position:0%
+i'll enter 50. now you'll notice that on
+ 
+
+00:01:31.759 --> 00:01:33.030 align:start position:0%
+i'll enter 50. now you'll notice that on
+the<00:01:31.920><c> last</c><00:01:32.240><c> line</c><00:01:32.560><c> there</c>
+
+00:01:33.030 --> 00:01:33.040 align:start position:0%
+the last line there
+ 
+
+00:01:33.040 --> 00:01:36.230 align:start position:0%
+the last line there
+when<00:01:33.360><c> our</c><00:01:33.600><c> program</c><00:01:34.159><c> output</c><00:01:34.640><c> number</c><00:01:35.439><c> it</c><00:01:35.759><c> output</c>
+
+00:01:36.230 --> 00:01:36.240 align:start position:0%
+when our program output number it output
+ 
+
+00:01:36.240 --> 00:01:40.390 align:start position:0%
+when our program output number it output
+a<00:01:38.840><c> string</c>
+
+00:01:40.390 --> 00:01:40.400 align:start position:0%
+a string
+ 
+
+00:01:40.400 --> 00:01:43.030 align:start position:0%
+a string
+remember<00:01:40.960><c> that</c><00:01:41.280><c> all</c><00:01:41.520><c> user</c><00:01:42.000><c> input</c><00:01:42.399><c> comes</c><00:01:42.720><c> in</c><00:01:42.880><c> as</c>
+
+00:01:43.030 --> 00:01:43.040 align:start position:0%
+remember that all user input comes in as
+ 
+
+00:01:43.040 --> 00:01:44.149 align:start position:0%
+remember that all user input comes in as
+a<00:01:43.200><c> string</c>
+
+00:01:44.149 --> 00:01:44.159 align:start position:0%
+a string
+ 
+
+00:01:44.159 --> 00:01:45.990 align:start position:0%
+a string
+but<00:01:44.320><c> because</c><00:01:44.640><c> we're</c><00:01:44.880><c> going</c><00:01:45.119><c> to</c><00:01:45.360><c> want</c><00:01:45.680><c> to</c>
+
+00:01:45.990 --> 00:01:46.000 align:start position:0%
+but because we're going to want to
+ 
+
+00:01:46.000 --> 00:01:47.350 align:start position:0%
+but because we're going to want to
+compare<00:01:46.560><c> this</c><00:01:46.880><c> number</c>
+
+00:01:47.350 --> 00:01:47.360 align:start position:0%
+compare this number
+ 
+
+00:01:47.360 --> 00:01:50.469 align:start position:0%
+compare this number
+to<00:01:48.000><c> integers</c><00:01:48.560><c> between</c><00:01:49.040><c> 0</c><00:01:49.439><c> and</c><00:01:49.520><c> 100</c>
+
+00:01:50.469 --> 00:01:50.479 align:start position:0%
+to integers between 0 and 100
+ 
+
+00:01:50.479 --> 00:01:55.350 align:start position:0%
+to integers between 0 and 100
+we<00:01:50.640><c> want</c><00:01:50.880><c> number</c><00:01:51.200><c> to</c><00:01:51.360><c> be</c><00:01:51.520><c> an</c><00:01:52.840><c> integer</c>
+
+00:01:55.350 --> 00:01:55.360 align:start position:0%
+we want number to be an integer
+ 
+
+00:01:55.360 --> 00:01:57.270 align:start position:0%
+we want number to be an integer
+we<00:01:55.439><c> can</c><00:01:55.680><c> store</c><00:01:56.000><c> the</c><00:01:56.079><c> user</c><00:01:56.479><c> input</c><00:01:56.880><c> as</c><00:01:57.119><c> an</c>
+
+00:01:57.270 --> 00:01:57.280 align:start position:0%
+we can store the user input as an
+ 
+
+00:01:57.280 --> 00:02:00.310 align:start position:0%
+we can store the user input as an
+integer<00:01:58.000><c> in</c><00:01:58.159><c> our</c><00:01:58.320><c> variable</c><00:01:58.880><c> number</c>
+
+00:02:00.310 --> 00:02:00.320 align:start position:0%
+integer in our variable number
+ 
+
+00:02:00.320 --> 00:02:03.830 align:start position:0%
+integer in our variable number
+by<00:02:00.560><c> chaining</c><00:02:01.040><c> a</c><00:02:01.200><c> method</c><00:02:01.600><c> called</c><00:02:02.399><c> 2i</c>
+
+00:02:03.830 --> 00:02:03.840 align:start position:0%
+by chaining a method called 2i
+ 
+
+00:02:03.840 --> 00:02:05.590 align:start position:0%
+by chaining a method called 2i
+i'm<00:02:04.000><c> going</c><00:02:04.240><c> to</c><00:02:04.399><c> run</c><00:02:04.640><c> our</c><00:02:04.799><c> program</c><00:02:05.200><c> the</c><00:02:05.360><c> same</c>
+
+00:02:05.590 --> 00:02:05.600 align:start position:0%
+i'm going to run our program the same
+ 
+
+00:02:05.600 --> 00:02:08.779 align:start position:0%
+i'm going to run our program the same
+way<00:02:05.840><c> one</c><00:02:06.000><c> more</c><00:02:06.840><c> time</c>
+
+00:02:08.779 --> 00:02:08.789 align:start position:0%
+way one more time
+ 
+
+00:02:08.789 --> 00:02:14.470 align:start position:0%
+way one more time
+[Music]
+
+00:02:14.470 --> 00:02:14.480 align:start position:0%
+ 
+ 
+
+00:02:14.480 --> 00:02:17.190 align:start position:0%
+ 
+again<00:02:14.720><c> i'll</c><00:02:14.959><c> enter</c><00:02:15.360><c> 50</c><00:02:16.160><c> and</c><00:02:16.319><c> this</c><00:02:16.640><c> time</c><00:02:16.879><c> when</c>
+
+00:02:17.190 --> 00:02:17.200 align:start position:0%
+again i'll enter 50 and this time when
+ 
+
+00:02:17.200 --> 00:02:17.670 align:start position:0%
+again i'll enter 50 and this time when
+we<00:02:17.360><c> use</c>
+
+00:02:17.670 --> 00:02:17.680 align:start position:0%
+we use
+ 
+
+00:02:17.680 --> 00:02:20.790 align:start position:0%
+we use
+p<00:02:18.160><c> to</c><00:02:18.640><c> output</c><00:02:19.120><c> that</c><00:02:19.280><c> number</c><00:02:19.680><c> back</c><00:02:19.920><c> to</c><00:02:20.160><c> us</c>
+
+00:02:20.790 --> 00:02:20.800 align:start position:0%
+p to output that number back to us
+ 
+
+00:02:20.800 --> 00:02:24.630 align:start position:0%
+p to output that number back to us
+you<00:02:20.959><c> can</c><00:02:21.200><c> see</c><00:02:21.360><c> that</c><00:02:21.599><c> it's</c><00:02:21.760><c> an</c><00:02:22.000><c> integer</c>
+
+00:02:24.630 --> 00:02:24.640 align:start position:0%
+ 
+ 
+
+00:02:24.640 --> 00:02:26.949 align:start position:0%
+ 
+so<00:02:24.959><c> now</c><00:02:25.120><c> that</c><00:02:25.280><c> we've</c><00:02:25.520><c> stored</c><00:02:25.920><c> the</c><00:02:26.080><c> user</c><00:02:26.560><c> input</c>
+
+00:02:26.949 --> 00:02:26.959 align:start position:0%
+so now that we've stored the user input
+ 
+
+00:02:26.959 --> 00:02:28.150 align:start position:0%
+so now that we've stored the user input
+as<00:02:27.200><c> an</c><00:02:27.360><c> integer</c>
+
+00:02:28.150 --> 00:02:28.160 align:start position:0%
+as an integer
+ 
+
+00:02:28.160 --> 00:02:30.630 align:start position:0%
+as an integer
+in<00:02:28.239><c> the</c><00:02:28.400><c> variable</c><00:02:28.959><c> number</c><00:02:29.680><c> we</c><00:02:29.840><c> can</c><00:02:30.080><c> compare</c>
+
+00:02:30.630 --> 00:02:30.640 align:start position:0%
+in the variable number we can compare
+ 
+
+00:02:30.640 --> 00:02:31.190 align:start position:0%
+in the variable number we can compare
+number
+
+00:02:31.190 --> 00:02:31.200 align:start position:0%
+number
+ 
+
+00:02:31.200 --> 00:02:33.509 align:start position:0%
+number
+to<00:02:31.519><c> different</c><00:02:31.920><c> integers</c><00:02:32.720><c> in</c><00:02:32.879><c> order</c><00:02:33.280><c> to</c>
+
+00:02:33.509 --> 00:02:33.519 align:start position:0%
+to different integers in order to
+ 
+
+00:02:33.519 --> 00:02:35.830 align:start position:0%
+to different integers in order to
+display<00:02:34.160><c> the</c><00:02:34.480><c> appropriate</c><00:02:35.120><c> message</c><00:02:35.519><c> to</c><00:02:35.680><c> the</c>
+
+00:02:35.830 --> 00:02:35.840 align:start position:0%
+display the appropriate message to the
+ 
+
+00:02:35.840 --> 00:02:38.150 align:start position:0%
+display the appropriate message to the
+user
+
+00:02:38.150 --> 00:02:38.160 align:start position:0%
+user
+ 
+
+00:02:38.160 --> 00:02:41.990 align:start position:0%
+user
+we<00:02:38.319><c> can</c><00:02:38.480><c> do</c><00:02:38.640><c> this</c><00:02:38.879><c> using</c><00:02:39.200><c> an</c><00:02:39.360><c> if</c><00:02:39.599><c> statement</c>
+
+00:02:41.990 --> 00:02:42.000 align:start position:0%
+we can do this using an if statement
+ 
+
+00:02:42.000 --> 00:02:43.990 align:start position:0%
+we can do this using an if statement
+so<00:02:42.239><c> first</c><00:02:42.560><c> we</c><00:02:42.720><c> want</c><00:02:42.959><c> to</c><00:02:43.120><c> make</c><00:02:43.280><c> sure</c><00:02:43.519><c> the</c><00:02:43.680><c> user</c>
+
+00:02:43.990 --> 00:02:44.000 align:start position:0%
+so first we want to make sure the user
+ 
+
+00:02:44.000 --> 00:02:46.229 align:start position:0%
+so first we want to make sure the user
+didn't<00:02:44.400><c> enter</c><00:02:44.800><c> a</c><00:02:44.959><c> negative</c><00:02:45.440><c> number</c>
+
+00:02:46.229 --> 00:02:46.239 align:start position:0%
+didn't enter a negative number
+ 
+
+00:02:46.239 --> 00:02:48.150 align:start position:0%
+didn't enter a negative number
+so<00:02:46.400><c> the</c><00:02:46.560><c> condition</c><00:02:47.040><c> we'll</c><00:02:47.200><c> provide</c><00:02:47.599><c> to</c><00:02:47.760><c> our</c><00:02:47.920><c> if</c>
+
+00:02:48.150 --> 00:02:48.160 align:start position:0%
+so the condition we'll provide to our if
+ 
+
+00:02:48.160 --> 00:02:49.270 align:start position:0%
+so the condition we'll provide to our if
+statement<00:02:48.720><c> is</c>
+
+00:02:49.270 --> 00:02:49.280 align:start position:0%
+statement is
+ 
+
+00:02:49.280 --> 00:02:52.550 align:start position:0%
+statement is
+if<00:02:49.519><c> number</c><00:02:50.000><c> is</c><00:02:50.239><c> less</c><00:02:50.480><c> than</c><00:02:50.720><c> zero</c><00:02:52.080><c> if</c><00:02:52.319><c> this</c>
+
+00:02:52.550 --> 00:02:52.560 align:start position:0%
+if number is less than zero if this
+ 
+
+00:02:52.560 --> 00:02:56.150 align:start position:0%
+if number is less than zero if this
+comparison<00:02:53.120><c> returns</c><00:02:53.760><c> true</c>
+
+00:02:56.150 --> 00:02:56.160 align:start position:0%
+comparison returns true
+ 
+
+00:02:56.160 --> 00:03:02.830 align:start position:0%
+comparison returns true
+we'll<00:02:56.560><c> output</c><00:02:57.280><c> you</c><00:02:57.519><c> can't</c><00:02:57.920><c> enter</c><00:02:58.640><c> a</c><00:02:58.879><c> negative</c>
+
+00:03:02.830 --> 00:03:02.840 align:start position:0%
+ 
+ 
+
+00:03:02.840 --> 00:03:04.710 align:start position:0%
+ 
+number
+
+00:03:04.710 --> 00:03:04.720 align:start position:0%
+number
+ 
+
+00:03:04.720 --> 00:03:06.790 align:start position:0%
+number
+if<00:03:04.879><c> this</c><00:03:05.200><c> next</c><00:03:05.519><c> branch</c><00:03:05.840><c> of</c><00:03:05.920><c> our</c><00:03:06.159><c> if</c><00:03:06.319><c> statement</c>
+
+00:03:06.790 --> 00:03:06.800 align:start position:0%
+if this next branch of our if statement
+ 
+
+00:03:06.800 --> 00:03:08.229 align:start position:0%
+if this next branch of our if statement
+is<00:03:06.959><c> being</c><00:03:07.200><c> evaluated</c>
+
+00:03:08.229 --> 00:03:08.239 align:start position:0%
+is being evaluated
+ 
+
+00:03:08.239 --> 00:03:10.229 align:start position:0%
+is being evaluated
+then<00:03:08.480><c> we</c><00:03:08.640><c> know</c><00:03:08.879><c> that</c><00:03:09.120><c> the</c><00:03:09.280><c> number</c><00:03:09.760><c> must</c><00:03:10.000><c> be</c>
+
+00:03:10.229 --> 00:03:10.239 align:start position:0%
+then we know that the number must be
+ 
+
+00:03:10.239 --> 00:03:13.270 align:start position:0%
+then we know that the number must be
+greater<00:03:10.560><c> than</c><00:03:10.800><c> or</c><00:03:10.959><c> equal</c><00:03:11.280><c> to</c><00:03:11.519><c> zero</c>
+
+00:03:13.270 --> 00:03:13.280 align:start position:0%
+greater than or equal to zero
+ 
+
+00:03:13.280 --> 00:03:15.270 align:start position:0%
+greater than or equal to zero
+so<00:03:13.519><c> now</c><00:03:13.760><c> we</c><00:03:13.920><c> simply</c><00:03:14.319><c> need</c><00:03:14.480><c> to</c><00:03:14.720><c> check</c><00:03:14.959><c> whether</c>
+
+00:03:15.270 --> 00:03:15.280 align:start position:0%
+so now we simply need to check whether
+ 
+
+00:03:15.280 --> 00:03:19.750 align:start position:0%
+so now we simply need to check whether
+the<00:03:15.519><c> number</c><00:03:15.920><c> is</c><00:03:16.080><c> less</c><00:03:16.319><c> than</c><00:03:16.480><c> or</c><00:03:16.720><c> equal</c><00:03:16.959><c> to</c><00:03:17.200><c> 50.</c>
+
+00:03:19.750 --> 00:03:19.760 align:start position:0%
+the number is less than or equal to 50.
+ 
+
+00:03:19.760 --> 00:03:22.790 align:start position:0%
+the number is less than or equal to 50.
+if<00:03:20.000><c> this</c><00:03:20.239><c> condition</c><00:03:20.720><c> evaluates</c><00:03:21.360><c> as</c><00:03:21.599><c> true</c>
+
+00:03:22.790 --> 00:03:22.800 align:start position:0%
+if this condition evaluates as true
+ 
+
+00:03:22.800 --> 00:03:24.949 align:start position:0%
+if this condition evaluates as true
+then<00:03:22.959><c> we</c><00:03:23.120><c> know</c><00:03:23.360><c> that</c><00:03:23.599><c> number</c><00:03:24.000><c> is</c><00:03:24.239><c> between</c><00:03:24.640><c> 0</c>
+
+00:03:24.949 --> 00:03:24.959 align:start position:0%
+then we know that number is between 0
+ 
+
+00:03:24.959 --> 00:03:26.789 align:start position:0%
+then we know that number is between 0
+and<00:03:25.200><c> 50.</c>
+
+00:03:26.789 --> 00:03:26.799 align:start position:0%
+and 50.
+ 
+
+00:03:26.799 --> 00:03:28.550 align:start position:0%
+and 50.
+we'll<00:03:27.040><c> output</c><00:03:27.440><c> a</c><00:03:27.519><c> message</c><00:03:27.920><c> to</c><00:03:28.080><c> the</c><00:03:28.239><c> user</c>
+
+00:03:28.550 --> 00:03:28.560 align:start position:0%
+we'll output a message to the user
+ 
+
+00:03:28.560 --> 00:03:30.949 align:start position:0%
+we'll output a message to the user
+reflecting<00:03:29.200><c> that</c><00:03:29.680><c> and</c><00:03:29.920><c> we</c><00:03:30.080><c> can</c><00:03:30.319><c> use</c><00:03:30.560><c> string</c>
+
+00:03:30.949 --> 00:03:30.959 align:start position:0%
+reflecting that and we can use string
+ 
+
+00:03:30.959 --> 00:03:32.070 align:start position:0%
+reflecting that and we can use string
+interpolation
+
+00:03:32.070 --> 00:03:32.080 align:start position:0%
+interpolation
+ 
+
+00:03:32.080 --> 00:03:40.470 align:start position:0%
+interpolation
+to<00:03:34.000><c> display</c><00:03:34.480><c> the</c><00:03:34.640><c> number</c>
+
+00:03:40.470 --> 00:03:40.480 align:start position:0%
+ 
+ 
+
+00:03:40.480 --> 00:03:43.270 align:start position:0%
+ 
+on<00:03:40.720><c> line</c><00:03:41.120><c> 8</c><00:03:41.599><c> we'll</c><00:03:41.840><c> write</c><00:03:42.080><c> a</c><00:03:42.239><c> condition</c><00:03:43.040><c> to</c>
+
+00:03:43.270 --> 00:03:43.280 align:start position:0%
+on line 8 we'll write a condition to
+ 
+
+00:03:43.280 --> 00:03:45.509 align:start position:0%
+on line 8 we'll write a condition to
+determine<00:03:43.840><c> whether</c><00:03:44.239><c> number</c><00:03:44.720><c> is</c><00:03:44.879><c> between</c>
+
+00:03:45.509 --> 00:03:45.519 align:start position:0%
+determine whether number is between
+ 
+
+00:03:45.519 --> 00:03:49.830 align:start position:0%
+determine whether number is between
+51<00:03:46.319><c> and</c><00:03:46.480><c> 100.</c><00:03:48.000><c> again</c><00:03:48.480><c> if</c><00:03:48.640><c> we've</c><00:03:49.040><c> reached</c><00:03:49.519><c> this</c>
+
+00:03:49.830 --> 00:03:49.840 align:start position:0%
+51 and 100. again if we've reached this
+ 
+
+00:03:49.840 --> 00:03:50.710 align:start position:0%
+51 and 100. again if we've reached this
+branch<00:03:50.319><c> of</c><00:03:50.480><c> our</c>
+
+00:03:50.710 --> 00:03:50.720 align:start position:0%
+branch of our
+ 
+
+00:03:50.720 --> 00:03:53.190 align:start position:0%
+branch of our
+if<00:03:50.879><c> statement</c><00:03:51.680><c> we</c><00:03:51.920><c> already</c><00:03:52.319><c> know</c><00:03:52.560><c> that</c><00:03:52.959><c> the</c>
+
+00:03:53.190 --> 00:03:53.200 align:start position:0%
+if statement we already know that the
+ 
+
+00:03:53.200 --> 00:03:56.070 align:start position:0%
+if statement we already know that the
+number<00:03:53.680><c> is</c><00:03:53.920><c> greater</c><00:03:54.319><c> than</c><00:03:54.560><c> 50.</c>
+
+00:03:56.070 --> 00:03:56.080 align:start position:0%
+number is greater than 50.
+ 
+
+00:03:56.080 --> 00:03:57.990 align:start position:0%
+number is greater than 50.
+so<00:03:56.239><c> we</c><00:03:56.480><c> simply</c><00:03:56.799><c> need</c><00:03:56.959><c> to</c><00:03:57.200><c> check</c><00:03:57.439><c> whether</c><00:03:57.760><c> it's</c>
+
+00:03:57.990 --> 00:03:58.000 align:start position:0%
+so we simply need to check whether it's
+ 
+
+00:03:58.000 --> 00:04:03.830 align:start position:0%
+so we simply need to check whether it's
+less<00:03:58.239><c> than</c><00:03:58.480><c> or</c><00:03:58.640><c> equal</c><00:03:58.879><c> to</c><00:03:59.040><c> 100</c>
+
+00:04:03.830 --> 00:04:03.840 align:start position:0%
+ 
+ 
+
+00:04:03.840 --> 00:04:05.670 align:start position:0%
+ 
+if<00:04:04.000><c> the</c><00:04:04.159><c> number</c><00:04:04.480><c> is</c><00:04:04.720><c> less</c><00:04:04.959><c> than</c><00:04:05.120><c> or</c><00:04:05.280><c> equal</c><00:04:05.519><c> to</c>
+
+00:04:05.670 --> 00:04:05.680 align:start position:0%
+if the number is less than or equal to
+ 
+
+00:04:05.680 --> 00:04:07.670 align:start position:0%
+if the number is less than or equal to
+100
+
+00:04:07.670 --> 00:04:07.680 align:start position:0%
+100
+ 
+
+00:04:07.680 --> 00:04:14.390 align:start position:0%
+100
+we'll<00:04:07.920><c> output</c><00:04:08.319><c> a</c><00:04:08.480><c> similar</c><00:04:12.840><c> message</c>
+
+00:04:14.390 --> 00:04:14.400 align:start position:0%
+we'll output a similar message
+ 
+
+00:04:14.400 --> 00:04:16.870 align:start position:0%
+we'll output a similar message
+lastly<00:04:15.040><c> we'll</c><00:04:15.280><c> give</c><00:04:15.519><c> our</c><00:04:15.840><c> if</c><00:04:16.079><c> statement</c><00:04:16.560><c> in</c>
+
+00:04:16.870 --> 00:04:16.880 align:start position:0%
+lastly we'll give our if statement in
+ 
+
+00:04:16.880 --> 00:04:21.189 align:start position:0%
+lastly we'll give our if statement in
+else<00:04:17.280><c> clause</c>
+
+00:04:21.189 --> 00:04:21.199 align:start position:0%
+ 
+ 
+
+00:04:21.199 --> 00:04:23.110 align:start position:0%
+ 
+and<00:04:21.359><c> the</c><00:04:21.519><c> code</c><00:04:21.840><c> in</c><00:04:21.919><c> this</c><00:04:22.160><c> branch</c><00:04:22.560><c> of</c><00:04:22.720><c> our</c><00:04:22.880><c> if</c>
+
+00:04:23.110 --> 00:04:23.120 align:start position:0%
+and the code in this branch of our if
+ 
+
+00:04:23.120 --> 00:04:25.030 align:start position:0%
+and the code in this branch of our if
+statement<00:04:23.680><c> will</c><00:04:23.919><c> be</c><00:04:24.160><c> executed</c>
+
+00:04:25.030 --> 00:04:25.040 align:start position:0%
+statement will be executed
+ 
+
+00:04:25.040 --> 00:04:27.030 align:start position:0%
+statement will be executed
+if<00:04:25.360><c> none</c><00:04:25.600><c> of</c><00:04:25.680><c> the</c><00:04:25.919><c> other</c><00:04:26.160><c> conditions</c><00:04:26.720><c> in</c><00:04:26.880><c> our</c>
+
+00:04:27.030 --> 00:04:27.040 align:start position:0%
+if none of the other conditions in our
+ 
+
+00:04:27.040 --> 00:04:29.590 align:start position:0%
+if none of the other conditions in our
+if<00:04:27.199><c> statement</c><00:04:27.680><c> evaluated</c><00:04:28.400><c> as</c><00:04:28.720><c> true</c>
+
+00:04:29.590 --> 00:04:29.600 align:start position:0%
+if statement evaluated as true
+ 
+
+00:04:29.600 --> 00:04:32.390 align:start position:0%
+if statement evaluated as true
+and<00:04:29.840><c> in</c><00:04:30.000><c> this</c><00:04:30.240><c> case</c><00:04:31.360><c> that</c><00:04:31.600><c> means</c><00:04:31.840><c> the</c><00:04:32.000><c> number</c>
+
+00:04:32.390 --> 00:04:32.400 align:start position:0%
+and in this case that means the number
+ 
+
+00:04:32.400 --> 00:04:33.670 align:start position:0%
+and in this case that means the number
+the<00:04:32.560><c> user</c><00:04:32.880><c> provided</c>
+
+00:04:33.670 --> 00:04:33.680 align:start position:0%
+the user provided
+ 
+
+00:04:33.680 --> 00:04:37.590 align:start position:0%
+the user provided
+is<00:04:33.840><c> over</c><00:04:34.160><c> 100</c>
+
+00:04:37.590 --> 00:04:37.600 align:start position:0%
+ 
+ 
+
+00:04:37.600 --> 00:04:39.590 align:start position:0%
+ 
+so<00:04:37.840><c> we'll</c><00:04:38.080><c> display</c><00:04:38.479><c> a</c><00:04:38.560><c> message</c><00:04:39.040><c> reflecting</c>
+
+00:04:39.590 --> 00:04:39.600 align:start position:0%
+so we'll display a message reflecting
+ 
+
+00:04:39.600 --> 00:04:41.110 align:start position:0%
+so we'll display a message reflecting
+that
+
+00:04:41.110 --> 00:04:41.120 align:start position:0%
+that
+ 
+
+00:04:41.120 --> 00:04:44.710 align:start position:0%
+that
+and<00:04:41.280><c> now</c><00:04:41.520><c> let's</c><00:04:41.759><c> run</c><00:04:42.000><c> our</c><00:04:42.160><c> code</c>
+
+00:04:44.710 --> 00:04:44.720 align:start position:0%
+ 
+ 
+
+00:04:44.720 --> 00:04:49.510 align:start position:0%
+ 
+so<00:04:44.960><c> first</c><00:04:45.199><c> we'll</c><00:04:45.440><c> input</c><00:04:45.759><c> a</c><00:04:45.840><c> negative</c><00:04:46.320><c> number</c>
+
+00:04:49.510 --> 00:04:49.520 align:start position:0%
+ 
+ 
+
+00:04:49.520 --> 00:04:55.590 align:start position:0%
+ 
+and<00:04:49.680><c> we</c><00:04:49.919><c> see</c><00:04:50.080><c> the</c><00:04:50.240><c> appropriate</c><00:04:50.880><c> message</c>
+
+00:04:55.590 --> 00:04:55.600 align:start position:0%
+ 
+ 
+
+00:04:55.600 --> 00:04:58.070 align:start position:0%
+ 
+let's<00:04:55.919><c> enter</c><00:04:56.160><c> a</c><00:04:56.240><c> number</c><00:04:56.560><c> between</c><00:04:57.040><c> 0</c><00:04:57.360><c> and</c><00:04:57.520><c> 50.</c>
+
+00:04:58.070 --> 00:04:58.080 align:start position:0%
+let's enter a number between 0 and 50.
+ 
+
+00:04:58.080 --> 00:04:58.710 align:start position:0%
+let's enter a number between 0 and 50.
+i'll<00:04:58.320><c> enter</c>
+
+00:04:58.710 --> 00:04:58.720 align:start position:0%
+i'll enter
+ 
+
+00:04:58.720 --> 00:05:04.710 align:start position:0%
+i'll enter
+15.
+
+00:05:04.710 --> 00:05:04.720 align:start position:0%
+ 
+ 
+
+00:05:04.720 --> 00:05:06.550 align:start position:0%
+ 
+this<00:05:04.880><c> time</c><00:05:05.199><c> i'll</c><00:05:05.360><c> choose</c><00:05:05.600><c> a</c><00:05:05.759><c> number</c><00:05:06.080><c> between</c>
+
+00:05:06.550 --> 00:05:06.560 align:start position:0%
+this time i'll choose a number between
+ 
+
+00:05:06.560 --> 00:05:13.749 align:start position:0%
+this time i'll choose a number between
+51<00:05:07.280><c> and</c><00:05:08.840><c> 100.</c>
+
+00:05:13.749 --> 00:05:13.759 align:start position:0%
+ 
+ 
+
+00:05:13.759 --> 00:05:15.830 align:start position:0%
+ 
+and<00:05:14.000><c> lastly</c><00:05:14.560><c> i'm</c><00:05:14.720><c> going</c><00:05:14.880><c> to</c><00:05:15.039><c> choose</c><00:05:15.280><c> a</c><00:05:15.360><c> number</c>
+
+00:05:15.830 --> 00:05:15.840 align:start position:0%
+and lastly i'm going to choose a number
+ 
+
+00:05:15.840 --> 00:05:18.870 align:start position:0%
+and lastly i'm going to choose a number
+over<00:05:16.080><c> 100</c>
+
+00:05:18.870 --> 00:05:18.880 align:start position:0%
+ 
+ 
+
+00:05:18.880 --> 00:05:30.790 align:start position:0%
+ 
+and<00:05:19.039><c> we</c><00:05:19.280><c> see</c><00:05:19.440><c> the</c><00:05:19.600><c> appropriate</c><00:05:22.840><c> message</c>
+
+00:05:30.790 --> 00:05:30.800 align:start position:0%
+ 
+ 
+
+00:05:30.800 --> 00:05:32.880 align:start position:0%
+ 
+you
+

@@ -1,0 +1,156 @@
+0:00:04.960,0:00:08.400
+using
+
+0:00:05.440,0:00:10.480
+a built-in hash method we're going to
+
+0:00:08.400,0:00:11.120
+write a program that loops through this
+
+0:00:10.480,0:00:14.480
+hash
+
+0:00:11.120,0:00:17.520
+and prints all of the keys
+
+0:00:14.480,0:00:21.199
+we can see that our hash here opposites
+
+0:00:17.520,0:00:23.920
+has three key value pairs
+
+0:00:21.199,0:00:24.640
+looking at the hash documentation we see
+
+0:00:23.920,0:00:26.960
+a method
+
+0:00:24.640,0:00:31.840
+each key so this looks like a good
+
+0:00:26.960,0:00:31.840
+candidate for what we're trying to do
+
+0:00:32.880,0:00:37.120
+we'll call this method on the hash
+
+0:00:38.480,0:00:43.280
+and each key is going to be passed to
+
+0:00:41.040,0:00:46.960
+the block as an argument
+
+0:00:43.280,0:00:50.160
+and we simply want to output each key
+
+0:00:46.960,0:00:50.160
+we'll invoke put us
+
+0:00:50.960,0:00:54.719
+and now when we run our code we should
+
+0:00:52.719,0:00:58.719
+see each of these three keys
+
+0:00:54.719,0:01:01.600
+output on its own line
+
+0:00:58.719,0:01:01.600
+and that's what we see
+
+0:01:02.399,0:01:05.600
+so moving on to the next part of our
+
+0:01:04.320,0:01:07.439
+problem
+
+0:01:05.600,0:01:08.880
+we need to write a program that does the
+
+0:01:07.439,0:01:12.000
+same thing here except
+
+0:01:08.880,0:01:14.240
+prints the values again
+
+0:01:12.000,0:01:16.159
+looking back at the hash documentation
+
+0:01:14.240,0:01:19.040
+we conveniently have a method that can
+
+0:01:16.159,0:01:19.040
+help us do this
+
+0:01:19.600,0:01:26.479
+each value will iterate through
+
+0:01:22.720,0:01:28.400
+each value of the calling hash
+
+0:01:26.479,0:01:31.200
+so let's name our block parameter
+
+0:01:28.400,0:01:31.200
+appropriately
+
+0:01:32.880,0:01:37.119
+and again we'll use put s to output the
+
+0:01:38.840,0:01:41.840
+value
+
+0:01:43.680,0:01:50.479
+now lastly we want to write a program
+
+0:01:46.000,0:01:50.479
+that prints both the key and value
+
+0:01:53.600,0:01:56.640
+so instead of calling each key or each
+
+0:01:56.000,0:02:00.240
+value
+
+0:01:56.640,0:02:02.640
+we can simply call the each method
+
+0:02:00.240,0:02:04.159
+each will iterate through our hash and
+
+0:02:02.640,0:02:08.080
+pass both the key
+
+0:02:04.159,0:02:10.000
+and value as arguments to the block
+
+0:02:08.080,0:02:12.000
+so we'll name our block parameters
+
+0:02:10.000,0:02:14.319
+accordingly
+
+0:02:12.000,0:02:17.360
+and then output a message with both the
+
+0:02:14.319,0:02:17.360
+key and value
+
+0:02:18.720,0:02:23.840
+and we'll use string interpolation here
+
+0:02:26.800,0:02:31.440
+now when we run our code we'll see our
+
+0:02:29.280,0:02:34.160
+display message which will include both
+
+0:02:31.440,0:02:34.160
+the key and
+
+0:02:34.840,0:02:49.360
+value
+
+0:02:37.120,0:02:49.360
+and that's what we see
+

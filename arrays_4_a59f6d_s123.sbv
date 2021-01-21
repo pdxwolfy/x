@@ -1,0 +1,150 @@
+0:00:03.760,0:00:06.399
+we've been given an array which you can
+
+0:00:05.680,0:00:09.440
+see on line
+
+0:00:06.399,0:00:10.960
+one and then we've been given three
+
+0:00:09.440,0:00:13.599
+method calls
+
+0:00:10.960,0:00:15.280
+on lines three five and seven and we
+
+0:00:13.599,0:00:17.119
+need to determine what each method will
+
+0:00:15.280,0:00:20.530
+return
+
+0:00:17.119,0:00:22.240
+so let's paste this array into irb
+
+0:00:20.530,0:00:24.320
+[Music]
+
+0:00:22.240,0:00:26.640
+now the first method we see is the index
+
+0:00:24.320,0:00:26.960
+method this method is going to return
+
+0:00:26.640,0:00:30.320
+the
+
+0:00:26.960,0:00:33.760
+index of the first object in the array
+
+0:00:30.320,0:00:34.800
+that is equal to the argument so in this
+
+0:00:33.760,0:00:38.399
+case we've passed
+
+0:00:34.800,0:00:40.320
+in the argument five now looking at our
+
+0:00:38.399,0:00:43.600
+array we can see that we have
+
+0:00:40.320,0:00:46.239
+two fives in our array but the method
+
+0:00:43.600,0:00:48.719
+documentation has told us that ruby will
+
+0:00:46.239,0:00:51.280
+return the index of the first
+
+0:00:48.719,0:00:52.640
+element that matches the argument so
+
+0:00:51.280,0:00:55.520
+looking at the position
+
+0:00:52.640,0:00:57.120
+of the first 5 in our array and knowing
+
+0:00:55.520,0:01:00.320
+that array indexes
+
+0:00:57.120,0:01:02.719
+are 0 based we expect that the return
+
+0:01:00.320,0:01:06.960
+value here will be 3.
+
+0:01:02.719,0:01:09.360
+the first 5 in this array is at index 3.
+
+0:01:06.960,0:01:10.560
+and that's what we see the next line of
+
+0:01:09.360,0:01:13.280
+code we've been given
+
+0:01:10.560,0:01:13.680
+it looks like we are trying to access
+
+0:01:13.280,0:01:17.119
+the
+
+0:01:13.680,0:01:18.960
+array element at index five
+
+0:01:17.119,0:01:21.360
+and in this case that's the integer
+
+0:01:18.960,0:01:23.439
+eight however this syntax is going to
+
+0:01:21.360,0:01:26.000
+raise an error
+
+0:01:23.439,0:01:27.840
+the square brackets look similar to
+
+0:01:26.000,0:01:31.360
+array element reference
+
+0:01:27.840,0:01:33.439
+but rather than using the index method
+
+0:01:31.360,0:01:36.560
+we're going to use this array element
+
+0:01:33.439,0:01:38.840
+reference on the array itself
+
+0:01:36.560,0:01:41.119
+and when i run that code we see 8 is
+
+0:01:38.840,0:01:43.759
+returned
+
+0:01:41.119,0:01:45.439
+so we can access elements in an array
+
+0:01:43.759,0:01:48.240
+based on their index
+
+0:01:45.439,0:01:50.079
+and we can access the index of a given
+
+0:01:48.240,0:01:52.840
+element in an array
+
+0:01:50.079,0:01:54.000
+just be sure to remember that the index
+
+0:01:52.840,0:01:56.320
+method
+
+0:01:54.000,0:02:05.600
+only returns the index of the first
+
+0:01:56.320,0:02:05.600
+occurrence of that element
+

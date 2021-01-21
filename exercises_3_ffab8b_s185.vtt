@@ -1,0 +1,472 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.080 --> 00:00:06.470 align:start position:0%
+ 
+this<00:00:04.400><c> exercise</c><00:00:05.040><c> requires</c><00:00:05.600><c> us</c><00:00:05.920><c> to</c>
+
+00:00:06.470 --> 00:00:06.480 align:start position:0%
+this exercise requires us to
+ 
+
+00:00:06.480 --> 00:00:09.750 align:start position:0%
+this exercise requires us to
+use<00:00:06.799><c> the</c><00:00:06.960><c> select</c><00:00:07.440><c> method</c><00:00:08.000><c> to</c><00:00:08.320><c> extract</c><00:00:09.040><c> all</c><00:00:09.440><c> odd</c>
+
+00:00:09.750 --> 00:00:09.760 align:start position:0%
+use the select method to extract all odd
+ 
+
+00:00:09.760 --> 00:00:12.150 align:start position:0%
+use the select method to extract all odd
+numbers<00:00:10.320><c> from</c><00:00:10.480><c> this</c><00:00:10.800><c> array</c>
+
+00:00:12.150 --> 00:00:12.160 align:start position:0%
+numbers from this array
+ 
+
+00:00:12.160 --> 00:00:14.390 align:start position:0%
+numbers from this array
+we're<00:00:12.400><c> going</c><00:00:12.719><c> to</c><00:00:13.200><c> place</c><00:00:13.519><c> these</c><00:00:13.759><c> odd</c><00:00:13.920><c> numbers</c>
+
+00:00:14.390 --> 00:00:14.400 align:start position:0%
+we're going to place these odd numbers
+ 
+
+00:00:14.400 --> 00:00:16.470 align:start position:0%
+we're going to place these odd numbers
+into<00:00:14.719><c> a</c><00:00:14.799><c> new</c><00:00:15.040><c> array</c>
+
+00:00:16.470 --> 00:00:16.480 align:start position:0%
+into a new array
+ 
+
+00:00:16.480 --> 00:00:18.950 align:start position:0%
+into a new array
+so<00:00:16.640><c> we</c><00:00:16.800><c> know</c><00:00:16.960><c> we</c><00:00:17.199><c> want</c><00:00:17.520><c> to</c><00:00:17.840><c> invoke</c><00:00:18.240><c> the</c><00:00:18.480><c> select</c>
+
+00:00:18.950 --> 00:00:18.960 align:start position:0%
+so we know we want to invoke the select
+ 
+
+00:00:18.960 --> 00:00:22.790 align:start position:0%
+so we know we want to invoke the select
+method<00:00:19.439><c> on</c><00:00:19.680><c> our</c><00:00:19.840><c> array</c>
+
+00:00:22.790 --> 00:00:22.800 align:start position:0%
+ 
+ 
+
+00:00:22.800 --> 00:00:24.550 align:start position:0%
+ 
+each<00:00:23.119><c> element</c><00:00:23.519><c> of</c><00:00:23.680><c> this</c><00:00:23.920><c> array</c><00:00:24.240><c> will</c><00:00:24.400><c> be</c>
+
+00:00:24.550 --> 00:00:24.560 align:start position:0%
+each element of this array will be
+ 
+
+00:00:24.560 --> 00:00:26.230 align:start position:0%
+each element of this array will be
+passed<00:00:24.880><c> to</c><00:00:25.039><c> the</c><00:00:25.199><c> block</c>
+
+00:00:26.230 --> 00:00:26.240 align:start position:0%
+passed to the block
+ 
+
+00:00:26.240 --> 00:00:30.390 align:start position:0%
+passed to the block
+we'll<00:00:26.400><c> name</c><00:00:26.720><c> our</c><00:00:26.800><c> block</c><00:00:27.119><c> parameter</c><00:00:28.840><c> number</c>
+
+00:00:30.390 --> 00:00:30.400 align:start position:0%
+we'll name our block parameter number
+ 
+
+00:00:30.400 --> 00:00:32.870 align:start position:0%
+we'll name our block parameter number
+now<00:00:30.640><c> let's</c><00:00:30.880><c> hop</c><00:00:31.119><c> into</c><00:00:31.359><c> irb</c><00:00:31.920><c> to</c><00:00:32.160><c> demonstrate</c>
+
+00:00:32.870 --> 00:00:32.880 align:start position:0%
+now let's hop into irb to demonstrate
+ 
+
+00:00:32.880 --> 00:00:37.910 align:start position:0%
+now let's hop into irb to demonstrate
+how<00:00:33.040><c> we</c><00:00:33.200><c> can</c><00:00:33.360><c> determine</c><00:00:33.920><c> if</c><00:00:34.160><c> a</c><00:00:34.239><c> number</c><00:00:34.559><c> is</c><00:00:34.800><c> odd</c>
+
+00:00:37.910 --> 00:00:37.920 align:start position:0%
+ 
+ 
+
+00:00:37.920 --> 00:00:40.709 align:start position:0%
+ 
+when<00:00:38.079><c> we</c><00:00:38.320><c> use</c><00:00:38.559><c> the</c><00:00:38.800><c> modulo</c><00:00:39.520><c> operator</c><00:00:40.320><c> to</c>
+
+00:00:40.709 --> 00:00:40.719 align:start position:0%
+when we use the modulo operator to
+ 
+
+00:00:40.719 --> 00:00:42.549 align:start position:0%
+when we use the modulo operator to
+determine<00:00:41.200><c> the</c><00:00:41.440><c> remainder</c><00:00:42.160><c> of</c>
+
+00:00:42.549 --> 00:00:42.559 align:start position:0%
+determine the remainder of
+ 
+
+00:00:42.559 --> 00:00:46.310 align:start position:0%
+determine the remainder of
+dividing<00:00:43.040><c> a</c><00:00:43.200><c> number</c><00:00:43.520><c> by</c><00:00:43.840><c> two</c>
+
+00:00:46.310 --> 00:00:46.320 align:start position:0%
+ 
+ 
+
+00:00:46.320 --> 00:00:48.069 align:start position:0%
+ 
+we<00:00:46.559><c> expect</c><00:00:46.960><c> that</c><00:00:47.039><c> the</c><00:00:47.200><c> remainder</c><00:00:47.680><c> will</c><00:00:47.840><c> be</c>
+
+00:00:48.069 --> 00:00:48.079 align:start position:0%
+we expect that the remainder will be
+ 
+
+00:00:48.079 --> 00:00:51.590 align:start position:0%
+we expect that the remainder will be
+zero<00:00:48.719><c> only</c><00:00:49.120><c> if</c><00:00:49.360><c> that</c><00:00:49.680><c> number</c><00:00:50.079><c> is</c><00:00:50.320><c> even</c>
+
+00:00:51.590 --> 00:00:51.600 align:start position:0%
+zero only if that number is even
+ 
+
+00:00:51.600 --> 00:00:53.510 align:start position:0%
+zero only if that number is even
+so<00:00:51.840><c> this</c><00:00:52.079><c> code</c><00:00:52.320><c> i've</c><00:00:52.480><c> just</c><00:00:52.640><c> written</c><00:00:53.039><c> on</c><00:00:53.199><c> line</c>
+
+00:00:53.510 --> 00:00:53.520 align:start position:0%
+so this code i've just written on line
+ 
+
+00:00:53.520 --> 00:00:55.590 align:start position:0%
+so this code i've just written on line
+one<00:00:54.239><c> we</c><00:00:54.480><c> expect</c><00:00:54.879><c> to</c><00:00:55.039><c> return</c>
+
+00:00:55.590 --> 00:00:55.600 align:start position:0%
+one we expect to return
+ 
+
+00:00:55.600 --> 00:00:58.869 align:start position:0%
+one we expect to return
+zero<00:00:56.399><c> because</c><00:00:56.640><c> the</c><00:00:56.800><c> remainder</c><00:00:57.440><c> of</c><00:00:57.600><c> dividing</c><00:00:58.239><c> 4</c>
+
+00:00:58.869 --> 00:00:58.879 align:start position:0%
+zero because the remainder of dividing 4
+ 
+
+00:00:58.879 --> 00:01:03.349 align:start position:0%
+zero because the remainder of dividing 4
+an<00:00:59.120><c> even</c><00:00:59.359><c> number</c><00:00:59.840><c> by</c><00:01:00.160><c> 2</c><00:01:01.440><c> is</c><00:01:01.600><c> 0.</c>
+
+00:01:03.349 --> 00:01:03.359 align:start position:0%
+an even number by 2 is 0.
+ 
+
+00:01:03.359 --> 00:01:06.149 align:start position:0%
+an even number by 2 is 0.
+and<00:01:03.440><c> that's</c><00:01:03.680><c> what</c><00:01:03.840><c> we</c><00:01:04.000><c> see</c><00:01:05.119><c> now</c><00:01:05.280><c> what</c><00:01:05.519><c> happens</c>
+
+00:01:06.149 --> 00:01:06.159 align:start position:0%
+and that's what we see now what happens
+ 
+
+00:01:06.159 --> 00:01:07.590 align:start position:0%
+and that's what we see now what happens
+when<00:01:06.320><c> we</c><00:01:06.479><c> do</c><00:01:06.640><c> the</c><00:01:06.880><c> same</c><00:01:07.119><c> with</c><00:01:07.360><c> an</c>
+
+00:01:07.590 --> 00:01:07.600 align:start position:0%
+when we do the same with an
+ 
+
+00:01:07.600 --> 00:01:10.789 align:start position:0%
+when we do the same with an
+odd<00:01:07.840><c> number</c><00:01:08.400><c> let's</c><00:01:08.720><c> choose</c><00:01:09.040><c> 5</c><00:01:10.400><c> since</c>
+
+00:01:10.789 --> 00:01:10.799 align:start position:0%
+odd number let's choose 5 since
+ 
+
+00:01:10.799 --> 00:01:13.830 align:start position:0%
+odd number let's choose 5 since
+5<00:01:11.119><c> cannot</c><00:01:11.520><c> be</c><00:01:11.680><c> evenly</c><00:01:12.159><c> divided</c><00:01:12.560><c> by</c><00:01:12.880><c> two</c>
+
+00:01:13.830 --> 00:01:13.840 align:start position:0%
+5 cannot be evenly divided by two
+ 
+
+00:01:13.840 --> 00:01:17.270 align:start position:0%
+5 cannot be evenly divided by two
+we<00:01:14.080><c> see</c><00:01:14.240><c> a</c><00:01:14.320><c> remainder</c><00:01:14.799><c> of</c><00:01:15.040><c> one</c>
+
+00:01:17.270 --> 00:01:17.280 align:start position:0%
+we see a remainder of one
+ 
+
+00:01:17.280 --> 00:01:19.270 align:start position:0%
+we see a remainder of one
+so<00:01:17.600><c> in</c><00:01:17.759><c> order</c><00:01:18.000><c> to</c><00:01:18.159><c> determine</c><00:01:18.720><c> whether</c><00:01:19.119><c> a</c>
+
+00:01:19.270 --> 00:01:19.280 align:start position:0%
+so in order to determine whether a
+ 
+
+00:01:19.280 --> 00:01:21.590 align:start position:0%
+so in order to determine whether a
+number<00:01:19.840><c> is</c><00:01:20.000><c> an</c><00:01:20.240><c> even</c><00:01:20.560><c> number</c>
+
+00:01:21.590 --> 00:01:21.600 align:start position:0%
+number is an even number
+ 
+
+00:01:21.600 --> 00:01:29.429 align:start position:0%
+number is an even number
+we<00:01:21.759><c> can</c><00:01:21.920><c> compare</c><00:01:22.400><c> that</c><00:01:22.640><c> return</c><00:01:23.119><c> value</c><00:01:23.520><c> to</c><00:01:24.840><c> zero</c>
+
+00:01:29.429 --> 00:01:29.439 align:start position:0%
+ 
+ 
+
+00:01:29.439 --> 00:01:32.310 align:start position:0%
+ 
+in<00:01:29.600><c> this</c><00:01:29.840><c> case</c><00:01:30.479><c> we</c><00:01:30.720><c> want</c><00:01:30.960><c> to</c><00:01:31.119><c> extract</c><00:01:31.840><c> only</c><00:01:32.159><c> the</c>
+
+00:01:32.310 --> 00:01:32.320 align:start position:0%
+in this case we want to extract only the
+ 
+
+00:01:32.320 --> 00:01:37.270 align:start position:0%
+in this case we want to extract only the
+odd<00:01:32.720><c> numbers</c>
+
+00:01:37.270 --> 00:01:37.280 align:start position:0%
+ 
+ 
+
+00:01:37.280 --> 00:01:39.270 align:start position:0%
+ 
+because<00:01:37.600><c> we</c><00:01:37.840><c> expect</c><00:01:38.240><c> that</c><00:01:38.400><c> this</c><00:01:38.640><c> operation</c>
+
+00:01:39.270 --> 00:01:39.280 align:start position:0%
+because we expect that this operation
+ 
+
+00:01:39.280 --> 00:01:42.310 align:start position:0%
+because we expect that this operation
+will<00:01:39.600><c> not</c><00:01:40.000><c> return</c><00:01:40.479><c> 0</c><00:01:40.880><c> for</c><00:01:41.119><c> odd</c><00:01:41.439><c> numbers</c>
+
+00:01:42.310 --> 00:01:42.320 align:start position:0%
+will not return 0 for odd numbers
+ 
+
+00:01:42.320 --> 00:01:44.230 align:start position:0%
+will not return 0 for odd numbers
+we've<00:01:42.640><c> written</c><00:01:43.040><c> our</c><00:01:43.280><c> code</c><00:01:43.520><c> on</c><00:01:43.680><c> line</c><00:01:43.920><c> 4</c>
+
+00:01:44.230 --> 00:01:44.240 align:start position:0%
+we've written our code on line 4
+ 
+
+00:01:44.240 --> 00:01:45.749 align:start position:0%
+we've written our code on line 4
+accordingly
+
+00:01:45.749 --> 00:01:45.759 align:start position:0%
+accordingly
+ 
+
+00:01:45.759 --> 00:01:48.389 align:start position:0%
+accordingly
+the<00:01:45.920><c> comparison</c><00:01:46.799><c> on</c><00:01:47.040><c> line</c><00:01:47.360><c> 4</c><00:01:47.680><c> will</c><00:01:47.920><c> return</c>
+
+00:01:48.389 --> 00:01:48.399 align:start position:0%
+the comparison on line 4 will return
+ 
+
+00:01:48.399 --> 00:01:50.230 align:start position:0%
+the comparison on line 4 will return
+true<00:01:48.799><c> for</c><00:01:49.040><c> odd</c><00:01:49.360><c> numbers</c>
+
+00:01:50.230 --> 00:01:50.240 align:start position:0%
+true for odd numbers
+ 
+
+00:01:50.240 --> 00:01:52.469 align:start position:0%
+true for odd numbers
+because<00:01:50.560><c> they</c><00:01:50.720><c> cannot</c><00:01:51.119><c> be</c><00:01:51.280><c> evenly</c><00:01:51.759><c> divided</c><00:01:52.240><c> by</c>
+
+00:01:52.469 --> 00:01:52.479 align:start position:0%
+because they cannot be evenly divided by
+ 
+
+00:01:52.479 --> 00:01:53.350 align:start position:0%
+because they cannot be evenly divided by
+2
+
+00:01:53.350 --> 00:01:53.360 align:start position:0%
+2
+ 
+
+00:01:53.360 --> 00:01:56.550 align:start position:0%
+2
+and<00:01:53.600><c> false</c><00:01:54.000><c> for</c><00:01:54.159><c> even</c><00:01:54.479><c> numbers</c><00:01:55.759><c> therefore</c><00:01:56.399><c> the</c>
+
+00:01:56.550 --> 00:01:56.560 align:start position:0%
+and false for even numbers therefore the
+ 
+
+00:01:56.560 --> 00:01:58.310 align:start position:0%
+and false for even numbers therefore the
+return<00:01:56.960><c> value</c><00:01:57.360><c> for</c><00:01:57.520><c> our</c><00:01:57.680><c> block</c><00:01:58.000><c> will</c><00:01:58.159><c> be</c>
+
+00:01:58.310 --> 00:01:58.320 align:start position:0%
+return value for our block will be
+ 
+
+00:01:58.320 --> 00:01:58.950 align:start position:0%
+return value for our block will be
+truthy
+
+00:01:58.950 --> 00:01:58.960 align:start position:0%
+truthy
+ 
+
+00:01:58.960 --> 00:02:02.630 align:start position:0%
+truthy
+only<00:01:59.200><c> for</c><00:01:59.439><c> odd</c><00:01:59.759><c> numbers</c><00:02:01.840><c> let's</c><00:02:02.159><c> store</c><00:02:02.479><c> the</c>
+
+00:02:02.630 --> 00:02:02.640 align:start position:0%
+only for odd numbers let's store the
+ 
+
+00:02:02.640 --> 00:02:09.190 align:start position:0%
+only for odd numbers let's store the
+returned<00:02:03.119><c> new</c><00:02:03.360><c> array</c><00:02:03.840><c> in</c><00:02:04.000><c> a</c><00:02:06.840><c> variable</c>
+
+00:02:09.190 --> 00:02:09.200 align:start position:0%
+returned new array in a variable
+ 
+
+00:02:09.200 --> 00:02:11.830 align:start position:0%
+returned new array in a variable
+and<00:02:09.360><c> on</c><00:02:09.679><c> line</c><00:02:10.080><c> seven</c><00:02:10.720><c> i'll</c><00:02:11.039><c> output</c><00:02:11.440><c> that</c><00:02:11.599><c> new</c>
+
+00:02:11.830 --> 00:02:11.840 align:start position:0%
+and on line seven i'll output that new
+ 
+
+00:02:11.840 --> 00:02:17.430 align:start position:0%
+and on line seven i'll output that new
+array
+
+00:02:17.430 --> 00:02:17.440 align:start position:0%
+ 
+ 
+
+00:02:17.440 --> 00:02:18.949 align:start position:0%
+ 
+and<00:02:17.520><c> there</c><00:02:17.760><c> we</c><00:02:17.920><c> see</c><00:02:18.160><c> our</c><00:02:18.319><c> new</c><00:02:18.560><c> array</c>
+
+00:02:18.949 --> 00:02:18.959 align:start position:0%
+and there we see our new array
+ 
+
+00:02:18.959 --> 00:02:24.550 align:start position:0%
+and there we see our new array
+containing<00:02:19.520><c> only</c><00:02:20.000><c> the</c><00:02:20.239><c> odd</c><00:02:20.840><c> numbers</c>
+
+00:02:24.550 --> 00:02:24.560 align:start position:0%
+ 
+ 
+
+00:02:24.560 --> 00:02:26.150 align:start position:0%
+ 
+another<00:02:24.959><c> way</c><00:02:25.120><c> that</c><00:02:25.280><c> we</c><00:02:25.360><c> could</c><00:02:25.599><c> determine</c>
+
+00:02:26.150 --> 00:02:26.160 align:start position:0%
+another way that we could determine
+ 
+
+00:02:26.160 --> 00:02:28.470 align:start position:0%
+another way that we could determine
+whether<00:02:26.480><c> each</c><00:02:26.720><c> of</c><00:02:26.800><c> these</c><00:02:27.040><c> numbers</c><00:02:27.520><c> is</c><00:02:27.760><c> odd</c>
+
+00:02:28.470 --> 00:02:28.480 align:start position:0%
+whether each of these numbers is odd
+ 
+
+00:02:28.480 --> 00:02:35.670 align:start position:0%
+whether each of these numbers is odd
+is<00:02:28.640><c> to</c><00:02:28.879><c> invoke</c><00:02:29.280><c> the</c><00:02:29.520><c> integer</c><00:02:30.239><c> odd</c><00:02:30.560><c> method</c>
+
+00:02:35.670 --> 00:02:35.680 align:start position:0%
+ 
+ 
+
+00:02:35.680 --> 00:02:37.830 align:start position:0%
+ 
+this<00:02:35.840><c> method</c><00:02:36.239><c> returns</c><00:02:36.640><c> a</c><00:02:36.800><c> boolean</c><00:02:37.440><c> either</c>
+
+00:02:37.830 --> 00:02:37.840 align:start position:0%
+this method returns a boolean either
+ 
+
+00:02:37.840 --> 00:02:39.589 align:start position:0%
+this method returns a boolean either
+true<00:02:38.319><c> or</c><00:02:38.560><c> false</c>
+
+00:02:39.589 --> 00:02:39.599 align:start position:0%
+true or false
+ 
+
+00:02:39.599 --> 00:02:43.030 align:start position:0%
+true or false
+if<00:02:39.760><c> the</c><00:02:39.920><c> number</c><00:02:40.319><c> is</c><00:02:40.560><c> odd</c><00:02:41.040><c> it</c><00:02:41.200><c> returns</c><00:02:41.840><c> true</c>
+
+00:02:43.030 --> 00:02:43.040 align:start position:0%
+if the number is odd it returns true
+ 
+
+00:02:43.040 --> 00:02:46.710 align:start position:0%
+if the number is odd it returns true
+if<00:02:43.280><c> it's</c><00:02:43.519><c> even</c><00:02:43.920><c> it</c><00:02:44.080><c> returns</c><00:02:44.720><c> false</c>
+
+00:02:46.710 --> 00:02:46.720 align:start position:0%
+if it's even it returns false
+ 
+
+00:02:46.720 --> 00:02:48.869 align:start position:0%
+if it's even it returns false
+so<00:02:46.879><c> we'll</c><00:02:47.040><c> run</c><00:02:47.280><c> our</c><00:02:47.440><c> code</c><00:02:47.680><c> one</c><00:02:47.840><c> more</c><00:02:48.080><c> time</c><00:02:48.560><c> and</c>
+
+00:02:48.869 --> 00:02:48.879 align:start position:0%
+so we'll run our code one more time and
+ 
+
+00:02:48.879 --> 00:02:56.229 align:start position:0%
+so we'll run our code one more time and
+see<00:02:49.040><c> these</c><00:02:49.280><c> same</c><00:02:49.599><c> values</c><00:02:50.000><c> in</c><00:02:50.160><c> our</c><00:02:50.239><c> new</c><00:02:50.480><c> array</c>
+
+00:02:56.229 --> 00:02:56.239 align:start position:0%
+ 
+ 
+
+00:02:56.239 --> 00:03:05.750 align:start position:0%
+ 
+and<00:02:56.400><c> we</c><00:03:02.840><c> do</c>
+
+00:03:05.750 --> 00:03:05.760 align:start position:0%
+and we do
+ 
+
+00:03:05.760 --> 00:03:07.840 align:start position:0%
+and we do
+you
+

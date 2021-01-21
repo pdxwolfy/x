@@ -1,0 +1,123 @@
+0:00:03.760,0:00:06.640
+this problem
+
+0:00:04.480,0:00:08.160
+asks us to demonstrate how we would
+
+0:00:06.640,0:00:10.480
+access joe's email
+
+0:00:08.160,0:00:11.280
+and sally's phone number so we can
+
+0:00:10.480,0:00:14.639
+access the
+
+0:00:11.280,0:00:14.639
+information about joe
+
+0:00:15.040,0:00:20.000
+by simply passing in the key joe smith
+
+0:00:21.439,0:00:25.680
+and when i run this code i see the value
+
+0:00:23.840,0:00:28.000
+associated with that key
+
+0:00:25.680,0:00:31.199
+however the value associated with the
+
+0:00:28.000,0:00:34.079
+key joe smith is a hash
+
+0:00:31.199,0:00:37.440
+in this problem we only want to return
+
+0:00:34.079,0:00:40.399
+one piece of information from this hash
+
+0:00:37.440,0:00:42.879
+our hash has three key value pairs we
+
+0:00:40.399,0:00:45.200
+only want to return the email
+
+0:00:42.879,0:00:47.840
+which is the value of this first key
+
+0:00:45.200,0:00:47.840
+value pair
+
+0:00:50.000,0:00:53.120
+so we know this code on line 14 returns
+
+0:00:52.399,0:00:55.920
+a hash
+
+0:00:53.120,0:00:56.719
+and to access a given value in a hash we
+
+0:00:55.920,0:00:59.920
+just need to
+
+0:00:56.719,0:01:03.760
+pass in the key so we'll again
+
+0:00:59.920,0:01:05.760
+pass in another key here on line 14
+
+0:01:03.760,0:01:07.760
+indicating that we want to access the
+
+0:01:05.760,0:01:11.280
+value associated with the key
+
+0:01:07.760,0:01:11.280
+email in this hash
+
+0:01:11.840,0:01:16.240
+and now when we run our code we see just
+
+0:01:13.680,0:01:16.240
+the email
+
+0:01:19.759,0:01:23.840
+so let's do as the problem says here
+
+0:01:24.560,0:01:29.759
+we'll access joe's email and sally's
+
+0:01:27.200,0:01:29.759
+phone number
+
+0:01:29.840,0:01:41.840
+and i'll use interpolation here
+
+0:01:51.600,0:01:54.880
+again we'll pass in the key sally
+
+0:01:53.600,0:01:57.840
+johnson
+
+0:01:54.880,0:01:58.159
+to return the hash associated with the
+
+0:01:57.840,0:02:02.399
+key
+
+0:01:58.159,0:02:06.479
+sally johnson and then we'll pass in
+
+0:02:02.399,0:02:06.479
+the key associated with her phone number
+
+0:02:07.119,0:02:23.280
+and now when we run our code we'll see
+
+0:02:09.039,0:02:25.360
+this information output nicely
+
+0:02:23.280,0:02:25.360
+you
+

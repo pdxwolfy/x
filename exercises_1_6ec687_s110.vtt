@@ -1,0 +1,248 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.760 --> 00:00:07.110 align:start position:0%
+ 
+we're<00:00:04.000><c> asked</c><00:00:04.319><c> to</c><00:00:04.560><c> use</c><00:00:04.880><c> the</c><00:00:05.120><c> array</c><00:00:05.759><c> each</c><00:00:06.080><c> method</c>
+
+00:00:07.110 --> 00:00:07.120 align:start position:0%
+we're asked to use the array each method
+ 
+
+00:00:07.120 --> 00:00:09.750 align:start position:0%
+we're asked to use the array each method
+to<00:00:07.600><c> iterate</c><00:00:08.080><c> over</c><00:00:08.400><c> an</c><00:00:08.559><c> array</c><00:00:08.960><c> of</c><00:00:09.200><c> integers</c>
+
+00:00:09.750 --> 00:00:09.760 align:start position:0%
+to iterate over an array of integers
+ 
+
+00:00:09.760 --> 00:00:11.350 align:start position:0%
+to iterate over an array of integers
+from<00:00:10.000><c> 1</c><00:00:10.240><c> to</c><00:00:10.480><c> 10</c>
+
+00:00:11.350 --> 00:00:11.360 align:start position:0%
+from 1 to 10
+ 
+
+00:00:11.360 --> 00:00:14.709 align:start position:0%
+from 1 to 10
+and<00:00:11.759><c> print</c><00:00:12.080><c> each</c><00:00:12.400><c> value</c><00:00:14.000><c> so</c><00:00:14.160><c> let's</c><00:00:14.400><c> just</c>
+
+00:00:14.709 --> 00:00:14.719 align:start position:0%
+and print each value so let's just
+ 
+
+00:00:14.719 --> 00:00:23.509 align:start position:0%
+and print each value so let's just
+initialize<00:00:15.280><c> an</c><00:00:15.440><c> array</c><00:00:15.759><c> here</c>
+
+00:00:23.509 --> 00:00:23.519 align:start position:0%
+ 
+ 
+
+00:00:23.519 --> 00:00:25.509 align:start position:0%
+ 
+so<00:00:23.760><c> on</c><00:00:23.920><c> line</c><00:00:24.240><c> one</c><00:00:24.480><c> we</c><00:00:24.640><c> have</c><00:00:24.800><c> an</c><00:00:24.960><c> array</c><00:00:25.359><c> of</c>
+
+00:00:25.509 --> 00:00:25.519 align:start position:0%
+so on line one we have an array of
+ 
+
+00:00:25.519 --> 00:00:27.670 align:start position:0%
+so on line one we have an array of
+integers<00:00:26.080><c> one</c><00:00:26.320><c> to</c><00:00:26.640><c> ten</c>
+
+00:00:27.670 --> 00:00:27.680 align:start position:0%
+integers one to ten
+ 
+
+00:00:27.680 --> 00:00:29.910 align:start position:0%
+integers one to ten
+and<00:00:27.840><c> now</c><00:00:28.000><c> we</c><00:00:28.080><c> want</c><00:00:28.320><c> to</c><00:00:28.560><c> invoke</c><00:00:28.960><c> the</c><00:00:29.199><c> array</c><00:00:29.679><c> each</c>
+
+00:00:29.910 --> 00:00:29.920 align:start position:0%
+and now we want to invoke the array each
+ 
+
+00:00:29.920 --> 00:00:34.470 align:start position:0%
+and now we want to invoke the array each
+method<00:00:30.400><c> on</c><00:00:30.560><c> this</c><00:00:30.800><c> array</c>
+
+00:00:34.470 --> 00:00:34.480 align:start position:0%
+ 
+ 
+
+00:00:34.480 --> 00:00:36.950 align:start position:0%
+ 
+we<00:00:34.640><c> know</c><00:00:34.880><c> that</c><00:00:35.200><c> each</c><00:00:35.520><c> element</c><00:00:36.000><c> of</c><00:00:36.160><c> this</c><00:00:36.480><c> array</c>
+
+00:00:36.950 --> 00:00:36.960 align:start position:0%
+we know that each element of this array
+ 
+
+00:00:36.960 --> 00:00:38.630 align:start position:0%
+we know that each element of this array
+is<00:00:37.120><c> going</c><00:00:37.360><c> to</c><00:00:37.520><c> be</c><00:00:37.760><c> passed</c><00:00:38.160><c> as</c><00:00:38.399><c> an</c>
+
+00:00:38.630 --> 00:00:38.640 align:start position:0%
+is going to be passed as an
+ 
+
+00:00:38.640 --> 00:00:41.830 align:start position:0%
+is going to be passed as an
+argument<00:00:39.120><c> to</c><00:00:39.280><c> the</c><00:00:39.440><c> block</c><00:00:40.960><c> so</c><00:00:41.200><c> let's</c><00:00:41.440><c> call</c><00:00:41.600><c> that</c>
+
+00:00:41.830 --> 00:00:41.840 align:start position:0%
+argument to the block so let's call that
+ 
+
+00:00:41.840 --> 00:00:43.270 align:start position:0%
+argument to the block so let's call that
+block<00:00:42.160><c> parameter</c>
+
+00:00:43.270 --> 00:00:43.280 align:start position:0%
+block parameter
+ 
+
+00:00:43.280 --> 00:00:46.549 align:start position:0%
+block parameter
+number
+
+00:00:46.549 --> 00:00:46.559 align:start position:0%
+ 
+ 
+
+00:00:46.559 --> 00:00:49.430 align:start position:0%
+ 
+now<00:00:46.719><c> within</c><00:00:47.120><c> the</c><00:00:47.280><c> block</c><00:00:48.000><c> we</c><00:00:48.239><c> simply</c><00:00:48.640><c> need</c><00:00:48.879><c> to</c>
+
+00:00:49.430 --> 00:00:49.440 align:start position:0%
+now within the block we simply need to
+ 
+
+00:00:49.440 --> 00:00:50.069 align:start position:0%
+now within the block we simply need to
+output
+
+00:00:50.069 --> 00:00:50.079 align:start position:0%
+output
+ 
+
+00:00:50.079 --> 00:00:52.709 align:start position:0%
+output
+each<00:00:50.320><c> value</c><00:00:51.680><c> and</c><00:00:51.840><c> we</c><00:00:52.000><c> can</c><00:00:52.160><c> do</c><00:00:52.320><c> that</c><00:00:52.480><c> by</c>
+
+00:00:52.709 --> 00:00:52.719 align:start position:0%
+each value and we can do that by
+ 
+
+00:00:52.719 --> 00:00:56.470 align:start position:0%
+each value and we can do that by
+invoking<00:00:53.199><c> put</c><00:00:53.520><c> us</c>
+
+00:00:56.470 --> 00:00:56.480 align:start position:0%
+ 
+ 
+
+00:00:56.480 --> 00:00:58.630 align:start position:0%
+ 
+now<00:00:56.719><c> when</c><00:00:56.879><c> we</c><00:00:57.039><c> run</c><00:00:57.280><c> our</c><00:00:57.440><c> code</c><00:00:57.760><c> we</c><00:00:58.079><c> expect</c><00:00:58.480><c> to</c>
+
+00:00:58.630 --> 00:00:58.640 align:start position:0%
+now when we run our code we expect to
+ 
+
+00:00:58.640 --> 00:01:00.470 align:start position:0%
+now when we run our code we expect to
+see<00:00:59.039><c> each</c><00:00:59.280><c> number</c><00:00:59.760><c> from</c><00:01:00.079><c> 1</c>
+
+00:01:00.470 --> 00:01:00.480 align:start position:0%
+see each number from 1
+ 
+
+00:01:00.480 --> 00:01:07.190 align:start position:0%
+see each number from 1
+through<00:01:00.719><c> 10</c><00:01:01.280><c> output</c><00:01:01.680><c> on</c><00:01:01.840><c> its</c><00:01:02.000><c> own</c><00:01:02.239><c> line</c>
+
+00:01:07.190 --> 00:01:07.200 align:start position:0%
+ 
+ 
+
+00:01:07.200 --> 00:01:12.070 align:start position:0%
+ 
+and<00:01:07.280><c> that's</c><00:01:07.520><c> what</c><00:01:07.680><c> we</c><00:01:10.840><c> see</c>
+
+00:01:12.070 --> 00:01:12.080 align:start position:0%
+and that's what we see
+ 
+
+00:01:12.080 --> 00:01:13.990 align:start position:0%
+and that's what we see
+now<00:01:12.320><c> because</c><00:01:12.640><c> the</c><00:01:12.799><c> code</c><00:01:13.040><c> within</c><00:01:13.439><c> our</c><00:01:13.600><c> block</c>
+
+00:01:13.990 --> 00:01:14.000 align:start position:0%
+now because the code within our block
+ 
+
+00:01:14.000 --> 00:01:16.070 align:start position:0%
+now because the code within our block
+here<00:01:14.320><c> is</c><00:01:14.400><c> so</c><00:01:14.720><c> short</c><00:01:15.119><c> we</c><00:01:15.280><c> can</c><00:01:15.520><c> actually</c>
+
+00:01:16.070 --> 00:01:16.080 align:start position:0%
+here is so short we can actually
+ 
+
+00:01:16.080 --> 00:01:24.789 align:start position:0%
+here is so short we can actually
+write<00:01:16.320><c> our</c><00:01:16.479><c> block</c><00:01:16.880><c> on</c><00:01:17.040><c> only</c><00:01:17.360><c> one</c><00:01:17.600><c> line</c>
+
+00:01:24.789 --> 00:01:24.799 align:start position:0%
+ 
+ 
+
+00:01:24.799 --> 00:01:28.310 align:start position:0%
+ 
+here<00:01:25.360><c> rather</c><00:01:25.680><c> than</c><00:01:25.920><c> using</c><00:01:26.720><c> do</c><00:01:27.280><c> and</c><00:01:27.680><c> end</c>
+
+00:01:28.310 --> 00:01:28.320 align:start position:0%
+here rather than using do and end
+ 
+
+00:01:28.320 --> 00:01:30.710 align:start position:0%
+here rather than using do and end
+to<00:01:28.560><c> start</c><00:01:28.880><c> and</c><00:01:29.040><c> end</c><00:01:29.200><c> our</c><00:01:29.360><c> block</c><00:01:30.000><c> we</c><00:01:30.159><c> use</c><00:01:30.400><c> curly</c>
+
+00:01:30.710 --> 00:01:30.720 align:start position:0%
+to start and end our block we use curly
+ 
+
+00:01:30.720 --> 00:01:33.350 align:start position:0%
+to start and end our block we use curly
+braces
+
+00:01:33.350 --> 00:01:33.360 align:start position:0%
+ 
+ 
+
+00:01:33.360 --> 00:01:35.910 align:start position:0%
+ 
+this<00:01:33.600><c> code</c><00:01:33.920><c> is</c><00:01:34.079><c> still</c><00:01:34.400><c> pretty</c><00:01:34.640><c> easy</c><00:01:34.880><c> to</c><00:01:35.119><c> read</c>
+
+00:01:35.910 --> 00:01:35.920 align:start position:0%
+this code is still pretty easy to read
+ 
+
+00:01:35.920 --> 00:01:37.990 align:start position:0%
+this code is still pretty easy to read
+and<00:01:36.079><c> when</c><00:01:36.240><c> we</c><00:01:36.400><c> run</c><00:01:36.640><c> it</c>
+
+00:01:37.990 --> 00:01:38.000 align:start position:0%
+and when we run it
+ 
+
+00:01:38.000 --> 00:01:41.840 align:start position:0%
+and when we run it
+we<00:01:38.159><c> see</c><00:01:38.320><c> the</c><00:01:38.479><c> same</c><00:01:38.840><c> output</c>
+

@@ -1,0 +1,42 @@
+0:00:03.641,0:00:05.641
+We've been given some code
+
+0:00:05.641,0:00:07.544
+and this exercise asks us
+
+0:00:07.616,0:00:11.410
+what the each method in this code will return
+
+0:00:11.484,0:00:13.484
+after it's finished executing
+
+0:00:14.572,0:00:17.823
+So we call the each method on the variable x
+
+0:00:17.976,0:00:19.976
+which references an array
+
+0:00:23.396,0:00:28.259
+We can determine the return value of a method by looking a the ruby documentation
+
+0:00:28.867,0:00:33.156
+In this case, we will look at the documentation for the Array#each method
+
+0:00:34.071,0:00:39.728
+We can also copy this code and paste it into IRB to see the return value
+
+0:00:41.115,0:00:43.115
+So I'll open up IRB
+
+0:00:43.630,0:00:45.630
+Paste in the code
+
+0:00:46.076,0:00:49.632
+And when I hit Enter, we can see that the original collection
+
+0:00:50.281,0:00:53.920
+the array on which we invoked each, is returned
+
+0:00:54.897,0:00:59.467
+Each will always return the original array, the array that it was called on
+

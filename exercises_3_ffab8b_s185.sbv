@@ -1,0 +1,177 @@
+0:00:04.080,0:00:09.760
+this exercise requires us to
+
+0:00:06.480,0:00:12.160
+use the select method to extract all odd
+
+0:00:09.760,0:00:14.400
+numbers from this array
+
+0:00:12.160,0:00:16.480
+we're going to place these odd numbers
+
+0:00:14.400,0:00:18.960
+into a new array
+
+0:00:16.480,0:00:22.240
+so we know we want to invoke the select
+
+0:00:18.960,0:00:22.240
+method on our array
+
+0:00:22.800,0:00:26.240
+each element of this array will be
+
+0:00:24.560,0:00:30.400
+passed to the block
+
+0:00:26.240,0:00:32.880
+we'll name our block parameter number
+
+0:00:30.400,0:00:37.120
+now let's hop into irb to demonstrate
+
+0:00:32.880,0:00:37.120
+how we can determine if a number is odd
+
+0:00:37.920,0:00:42.559
+when we use the modulo operator to
+
+0:00:40.719,0:00:46.160
+determine the remainder of
+
+0:00:42.559,0:00:46.160
+dividing a number by two
+
+0:00:46.320,0:00:51.600
+we expect that the remainder will be
+
+0:00:48.079,0:00:53.520
+zero only if that number is even
+
+0:00:51.600,0:00:55.600
+so this code i've just written on line
+
+0:00:53.520,0:00:58.879
+one we expect to return
+
+0:00:55.600,0:01:03.359
+zero because the remainder of dividing 4
+
+0:00:58.879,0:01:06.159
+an even number by 2 is 0.
+
+0:01:03.359,0:01:07.600
+and that's what we see now what happens
+
+0:01:06.159,0:01:10.799
+when we do the same with an
+
+0:01:07.600,0:01:13.840
+odd number let's choose 5 since
+
+0:01:10.799,0:01:17.280
+5 cannot be evenly divided by two
+
+0:01:13.840,0:01:19.280
+we see a remainder of one
+
+0:01:17.280,0:01:21.600
+so in order to determine whether a
+
+0:01:19.280,0:01:27.840
+number is an even number
+
+0:01:21.600,0:01:27.840
+we can compare that return value to zero
+
+0:01:29.439,0:01:35.200
+in this case we want to extract only the
+
+0:01:32.320,0:01:35.200
+odd numbers
+
+0:01:37.280,0:01:42.320
+because we expect that this operation
+
+0:01:39.280,0:01:44.240
+will not return 0 for odd numbers
+
+0:01:42.320,0:01:45.759
+we've written our code on line 4
+
+0:01:44.240,0:01:48.399
+accordingly
+
+0:01:45.759,0:01:50.240
+the comparison on line 4 will return
+
+0:01:48.399,0:01:52.479
+true for odd numbers
+
+0:01:50.240,0:01:53.360
+because they cannot be evenly divided by
+
+0:01:52.479,0:01:56.560
+2
+
+0:01:53.360,0:01:58.320
+and false for even numbers therefore the
+
+0:01:56.560,0:01:58.960
+return value for our block will be
+
+0:01:58.320,0:02:02.640
+truthy
+
+0:01:58.960,0:02:09.200
+only for odd numbers let's store the
+
+0:02:02.640,0:02:11.840
+returned new array in a variable
+
+0:02:09.200,0:02:14.239
+and on line seven i'll output that new
+
+0:02:11.840,0:02:14.239
+array
+
+0:02:17.440,0:02:23.840
+and there we see our new array
+
+0:02:18.959,0:02:23.840
+containing only the odd numbers
+
+0:02:24.560,0:02:28.480
+another way that we could determine
+
+0:02:26.160,0:02:33.040
+whether each of these numbers is odd
+
+0:02:28.480,0:02:33.040
+is to invoke the integer odd method
+
+0:02:35.680,0:02:39.599
+this method returns a boolean either
+
+0:02:37.840,0:02:43.040
+true or false
+
+0:02:39.599,0:02:46.720
+if the number is odd it returns true
+
+0:02:43.040,0:02:48.879
+if it's even it returns false
+
+0:02:46.720,0:02:52.800
+so we'll run our code one more time and
+
+0:02:48.879,0:02:52.800
+see these same values in our new array
+
+0:02:56.239,0:03:07.840
+and we do
+
+0:03:05.760,0:03:07.840
+you
+

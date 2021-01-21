@@ -1,0 +1,246 @@
+0:00:04.560,0:00:10.320
+this problem has given us an array
+
+0:00:07.040,0:00:10.639
+and a number we need to write some code
+
+0:00:10.320,0:00:13.280
+to
+
+0:00:10.639,0:00:16.880
+determine whether the given number is
+
+0:00:13.280,0:00:20.000
+included in the array
+
+0:00:16.880,0:00:22.640
+one simple way to do this is to iterate
+
+0:00:20.000,0:00:26.880
+through the array
+
+0:00:22.640,0:00:26.880
+we can use the each method to do this
+
+0:00:28.000,0:00:31.279
+each element of the array will be passed
+
+0:00:30.160,0:00:36.079
+to the block as an
+
+0:00:31.279,0:00:38.320
+argument let's call that parameter
+
+0:00:36.079,0:00:38.320
+num
+
+0:00:40.079,0:00:46.160
+now within the block we want to compare
+
+0:00:43.120,0:00:48.640
+each element of this array or
+
+0:00:46.160,0:00:50.079
+num to the local variable number that
+
+0:00:48.640,0:00:52.399
+was initialized on line
+
+0:00:50.079,0:00:52.399
+two
+
+0:00:54.239,0:01:00.719
+if num is equal to number
+
+0:00:58.800,0:01:03.120
+then we want to output a message to the
+
+0:01:00.719,0:01:03.120
+user
+
+0:01:03.680,0:01:11.040
+we'll use string interpolation
+
+0:01:06.960,0:01:13.840
+to output that the number in this case 3
+
+0:01:11.040,0:01:13.840
+is in the array
+
+0:01:15.840,0:01:18.960
+so the condition we've provided to this
+
+0:01:18.080,0:01:22.080
+if statement
+
+0:01:18.960,0:01:23.360
+is the comparison on line five that will
+
+0:01:22.080,0:01:26.720
+return either true
+
+0:01:23.360,0:01:30.479
+or false if it returns true
+
+0:01:26.720,0:01:30.479
+we'll output a message to the user
+
+0:01:30.720,0:01:33.759
+let's run our code
+
+0:01:35.680,0:01:41.840
+3 is in the array
+
+0:01:42.880,0:01:46.479
+now if i were to change number let's say
+
+0:01:45.920,0:01:50.479
+to
+
+0:01:46.479,0:01:52.880
+8 and run this code again we expect no
+
+0:01:50.479,0:01:52.880
+output
+
+0:01:53.600,0:01:56.560
+and that's what we see
+
+0:01:57.360,0:02:03.119
+that's because the number eight is not
+
+0:02:00.320,0:02:03.119
+in our array
+
+0:02:04.159,0:02:08.640
+now this code on lines four through
+
+0:02:06.320,0:02:10.879
+eight manually checks our array
+
+0:02:08.640,0:02:12.319
+to see if any of its elements are equal
+
+0:02:10.879,0:02:14.400
+to number
+
+0:02:12.319,0:02:16.720
+there's also an array method we could
+
+0:02:14.400,0:02:16.720
+use
+
+0:02:18.640,0:02:23.120
+the array include method will return a
+
+0:02:21.920,0:02:25.520
+boolean
+
+0:02:23.120,0:02:26.160
+true if its argument is in the calling
+
+0:02:25.520,0:02:28.800
+array
+
+0:02:26.160,0:02:30.560
+and false if it's not to demonstrate
+
+0:02:28.800,0:02:33.920
+this
+
+0:02:30.560,0:02:36.879
+let's just call include on our array
+
+0:02:33.920,0:02:37.519
+and we'll pass in number as the argument
+
+0:02:36.879,0:02:39.920
+i'm using
+
+0:02:37.519,0:02:43.519
+p on line four to output the return
+
+0:02:39.920,0:02:43.519
+value of this method invocation
+
+0:02:44.720,0:02:54.239
+so we'll run our code and we see true
+
+0:02:50.959,0:02:56.720
+and that's because 3 is in our array
+
+0:02:54.239,0:02:57.760
+one more time i'm going to assign number
+
+0:02:56.720,0:03:00.879
+to 8
+
+0:02:57.760,0:03:05.840
+instead which is not part of our array
+
+0:03:00.879,0:03:05.840
+and now we'll expect to see false
+
+0:03:10.239,0:03:18.480
+so now that we know how the include
+
+0:03:12.239,0:03:21.120
+method works
+
+0:03:18.480,0:03:22.480
+we can use an if statement to output a
+
+0:03:21.120,0:03:24.720
+message to the user
+
+0:03:22.480,0:03:25.760
+similarly to what we did in our previous
+
+0:03:24.720,0:03:28.319
+solution
+
+0:03:25.760,0:03:29.440
+the return value of invoking the include
+
+0:03:28.319,0:03:32.000
+method on line
+
+0:03:29.440,0:03:33.040
+4 will determine whether or not the code
+
+0:03:32.000,0:03:35.840
+on line 5
+
+0:03:33.040,0:03:37.840
+within our if statement is executed if
+
+0:03:35.840,0:03:41.920
+it returns true
+
+0:03:37.840,0:03:41.920
+again we'll output a message to the user
+
+0:03:43.680,0:03:48.480
+if it returns false no message will be
+
+0:03:46.080,0:03:48.480
+output
+
+0:03:48.560,0:03:51.599
+let's run our code
+
+0:03:52.000,0:03:56.080
+and we see that 3 is in the array
+
+0:03:59.280,0:04:02.560
+be sure to check out ruby's array
+
+0:04:01.519,0:04:05.360
+documentation
+
+0:04:02.560,0:04:15.120
+to learn about include and other
+
+0:04:05.360,0:04:15.120
+commonly used methods
+

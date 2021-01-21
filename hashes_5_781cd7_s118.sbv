@@ -1,0 +1,114 @@
+0:00:05.120,0:00:09.200
+we need to determine
+
+0:00:06.319,0:00:12.559
+what method we can use to find out if a
+
+0:00:09.200,0:00:14.480
+hash contains a specific value
+
+0:00:12.559,0:00:17.119
+and we're going to write a small program
+
+0:00:14.480,0:00:19.680
+to demonstrate this
+
+0:00:17.119,0:00:21.920
+so i've got our opposites hash up here
+
+0:00:19.680,0:00:24.960
+on line one in the editor
+
+0:00:21.920,0:00:27.320
+and this is going to be the calling hash
+
+0:00:24.960,0:00:29.679
+so let's take a look at the hash
+
+0:00:27.320,0:00:32.240
+documentation to see what method we
+
+0:00:29.679,0:00:32.240
+might use
+
+0:00:32.399,0:00:38.719
+there is a method called has value
+
+0:00:35.760,0:00:39.440
+and this method returns a boolean either
+
+0:00:38.719,0:00:42.320
+true or
+
+0:00:39.440,0:00:43.280
+false based on whether or not the
+
+0:00:42.320,0:00:46.719
+argument
+
+0:00:43.280,0:00:50.000
+is a value in the calling hash
+
+0:00:46.719,0:00:50.000
+so let's test this out
+
+0:00:50.480,0:00:54.239
+if our opposites hash
+
+0:00:55.120,0:01:01.840
+has the value negative
+
+0:01:00.079,0:01:04.719
+we'll output a message to the user
+
+0:01:01.840,0:01:04.719
+reflecting that
+
+0:01:05.040,0:01:07.760
+otherwise
+
+0:01:08.479,0:01:12.720
+we'll output nope so let's run our code
+
+0:01:12.240,0:01:15.600
+and
+
+0:01:12.720,0:01:17.280
+see if we get the expected result in
+
+0:01:15.600,0:01:18.000
+this case we're expecting to see the
+
+0:01:17.280,0:01:20.400
+output
+
+0:01:18.000,0:01:20.400
+got it
+
+0:01:21.920,0:01:28.320
+and we do
+
+0:01:26.080,0:01:31.520
+we can test this out with a value that
+
+0:01:28.320,0:01:31.520
+is not in the hash
+
+0:01:34.479,0:01:38.560
+and now we'll see the output nope
+
+0:01:39.439,0:01:42.320
+and that's what we see
+
+0:01:45.600,0:01:49.040
+the hash class has a lot of useful
+
+0:01:47.840,0:01:52.840
+methods so
+
+0:01:49.040,0:01:55.840
+be sure to take the time to review the
+
+0:01:52.840,0:01:55.840
+documentation
+

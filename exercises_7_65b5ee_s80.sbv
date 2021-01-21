@@ -1,0 +1,78 @@
+0:00:03.679,0:00:08.639
+the main difference between
+
+0:00:05.520,0:00:09.519
+an array and a hash is that a hash
+
+0:00:08.639,0:00:12.639
+contains
+
+0:00:09.519,0:00:15.839
+key value pairs each value is
+
+0:00:12.639,0:00:18.080
+associated with a key so in the example
+
+0:00:15.839,0:00:21.119
+hash i've created on line one
+
+0:00:18.080,0:00:23.119
+we have two keys dog and cat
+
+0:00:21.119,0:00:24.800
+and each of these keys has a string
+
+0:00:23.119,0:00:27.920
+value
+
+0:00:24.800,0:00:31.359
+now arrays are a sequence of elements
+
+0:00:27.920,0:00:34.719
+and each element can be accessed by its
+
+0:00:31.359,0:00:37.040
+index beginning from zero so
+
+0:00:34.719,0:00:38.480
+in our example array on line three we
+
+0:00:37.040,0:00:41.040
+have two elements
+
+0:00:38.480,0:00:42.239
+the index of fido our first element
+
+0:00:41.040,0:00:44.960
+would be zero
+
+0:00:42.239,0:00:48.879
+and the index of fluffy is 1. so to
+
+0:00:44.960,0:00:48.879
+access a value from our hash
+
+0:00:49.039,0:00:54.879
+we use the key and
+
+0:00:52.320,0:00:56.840
+i'll output this value we expect it to
+
+0:00:54.879,0:00:59.840
+be
+
+0:00:56.840,0:01:02.320
+fido
+
+0:00:59.840,0:01:03.120
+and now i'll also access phyto from our
+
+0:01:02.320,0:01:13.840
+array
+
+0:01:03.120,0:01:13.840
+using the index and output that as well
+
+0:01:20.320,0:01:22.400
+you
+

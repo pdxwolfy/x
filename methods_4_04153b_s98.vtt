@@ -1,0 +1,288 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.720 --> 00:00:05.829 align:start position:0%
+ 
+this<00:00:04.960><c> exercise</c>
+
+00:00:05.829 --> 00:00:05.839 align:start position:0%
+this exercise
+ 
+
+00:00:05.839 --> 00:00:09.190 align:start position:0%
+this exercise
+has<00:00:06.160><c> given</c><00:00:06.560><c> us</c><00:00:07.040><c> some</c><00:00:07.359><c> code</c><00:00:08.160><c> a</c><00:00:08.559><c> method</c>
+
+00:00:09.190 --> 00:00:09.200 align:start position:0%
+has given us some code a method
+ 
+
+00:00:09.200 --> 00:00:11.910 align:start position:0%
+has given us some code a method
+called<00:00:09.599><c> scream</c><00:00:10.480><c> and</c><00:00:10.800><c> an</c><00:00:10.960><c> invocation</c><00:00:11.599><c> of</c><00:00:11.679><c> that</c>
+
+00:00:11.910 --> 00:00:11.920 align:start position:0%
+called scream and an invocation of that
+ 
+
+00:00:11.920 --> 00:00:12.950 align:start position:0%
+called scream and an invocation of that
+method<00:00:12.320><c> on</c><00:00:12.559><c> line</c>
+
+00:00:12.950 --> 00:00:12.960 align:start position:0%
+method on line
+ 
+
+00:00:12.960 --> 00:00:15.589 align:start position:0%
+method on line
+seven<00:00:13.599><c> and</c><00:00:13.759><c> we're</c><00:00:14.000><c> asked</c><00:00:14.480><c> to</c><00:00:14.639><c> determine</c><00:00:15.440><c> what</c>
+
+00:00:15.589 --> 00:00:15.599 align:start position:0%
+seven and we're asked to determine what
+ 
+
+00:00:15.599 --> 00:00:17.510 align:start position:0%
+seven and we're asked to determine what
+this<00:00:15.839><c> code</c><00:00:16.080><c> will</c><00:00:16.320><c> print</c>
+
+00:00:17.510 --> 00:00:17.520 align:start position:0%
+this code will print
+ 
+
+00:00:17.520 --> 00:00:19.750 align:start position:0%
+this code will print
+looking<00:00:17.920><c> at</c><00:00:18.080><c> our</c><00:00:18.240><c> method</c><00:00:18.560><c> invocation</c><00:00:19.199><c> on</c><00:00:19.359><c> line</c>
+
+00:00:19.750 --> 00:00:19.760 align:start position:0%
+looking at our method invocation on line
+ 
+
+00:00:19.760 --> 00:00:20.630 align:start position:0%
+looking at our method invocation on line
+7
+
+00:00:20.630 --> 00:00:20.640 align:start position:0%
+7
+ 
+
+00:00:20.640 --> 00:00:22.630 align:start position:0%
+7
+we've<00:00:20.960><c> passed</c><00:00:21.359><c> in</c><00:00:21.600><c> as</c><00:00:21.760><c> an</c><00:00:21.920><c> argument</c><00:00:22.480><c> the</c>
+
+00:00:22.630 --> 00:00:22.640 align:start position:0%
+we've passed in as an argument the
+ 
+
+00:00:22.640 --> 00:00:24.630 align:start position:0%
+we've passed in as an argument the
+string<00:00:23.279><c> yippee</c>
+
+00:00:24.630 --> 00:00:24.640 align:start position:0%
+string yippee
+ 
+
+00:00:24.640 --> 00:00:27.830 align:start position:0%
+string yippee
+on<00:00:24.880><c> line</c><00:00:25.199><c> 2</c><00:00:26.000><c> words</c><00:00:26.400><c> is</c><00:00:26.640><c> reassigned</c>
+
+00:00:27.830 --> 00:00:27.840 align:start position:0%
+on line 2 words is reassigned
+ 
+
+00:00:27.840 --> 00:00:30.070 align:start position:0%
+on line 2 words is reassigned
+to<00:00:28.160><c> the</c><00:00:28.320><c> return</c><00:00:28.720><c> value</c><00:00:29.119><c> of</c><00:00:29.279><c> concatenating</c>
+
+00:00:30.070 --> 00:00:30.080 align:start position:0%
+to the return value of concatenating
+ 
+
+00:00:30.080 --> 00:00:31.910 align:start position:0%
+to the return value of concatenating
+this<00:00:30.320><c> string</c>
+
+00:00:31.910 --> 00:00:31.920 align:start position:0%
+this string
+ 
+
+00:00:31.920 --> 00:00:35.350 align:start position:0%
+this string
+with<00:00:32.239><c> four</c><00:00:32.559><c> exclamation</c><00:00:33.200><c> marks</c><00:00:34.800><c> because</c><00:00:35.120><c> we</c>
+
+00:00:35.350 --> 00:00:35.360 align:start position:0%
+with four exclamation marks because we
+ 
+
+00:00:35.360 --> 00:00:37.270 align:start position:0%
+with four exclamation marks because we
+invoke<00:00:35.760><c> put</c><00:00:36.000><c> s</c><00:00:36.239><c> on</c><00:00:36.480><c> line</c><00:00:36.800><c> four</c>
+
+00:00:37.270 --> 00:00:37.280 align:start position:0%
+invoke put s on line four
+ 
+
+00:00:37.280 --> 00:00:39.910 align:start position:0%
+invoke put s on line four
+and<00:00:37.520><c> pass</c><00:00:38.000><c> words</c><00:00:38.480><c> to</c><00:00:38.719><c> that</c><00:00:38.960><c> invocation</c><00:00:39.600><c> as</c><00:00:39.760><c> an</c>
+
+00:00:39.910 --> 00:00:39.920 align:start position:0%
+and pass words to that invocation as an
+ 
+
+00:00:39.920 --> 00:00:41.190 align:start position:0%
+and pass words to that invocation as an
+argument
+
+00:00:41.190 --> 00:00:41.200 align:start position:0%
+argument
+ 
+
+00:00:41.200 --> 00:00:43.510 align:start position:0%
+argument
+you<00:00:41.360><c> may</c><00:00:41.680><c> think</c><00:00:42.000><c> that</c><00:00:42.239><c> this</c><00:00:42.559><c> string</c><00:00:43.280><c> which</c>
+
+00:00:43.510 --> 00:00:43.520 align:start position:0%
+you may think that this string which
+ 
+
+00:00:43.520 --> 00:00:46.310 align:start position:0%
+you may think that this string which
+i've<00:00:43.840><c> placed</c><00:00:44.160><c> in</c><00:00:44.320><c> a</c><00:00:44.399><c> comment</c><00:00:44.879><c> on</c><00:00:45.039><c> line</c><00:00:45.360><c> 7</c>
+
+00:00:46.310 --> 00:00:46.320 align:start position:0%
+i've placed in a comment on line 7
+ 
+
+00:00:46.320 --> 00:00:49.270 align:start position:0%
+i've placed in a comment on line 7
+will<00:00:46.480><c> be</c><00:00:46.640><c> printed</c><00:00:47.039><c> to</c><00:00:47.200><c> the</c><00:00:47.440><c> screen</c><00:00:48.800><c> but</c><00:00:49.039><c> let's</c>
+
+00:00:49.270 --> 00:00:49.280 align:start position:0%
+will be printed to the screen but let's
+ 
+
+00:00:49.280 --> 00:00:51.189 align:start position:0%
+will be printed to the screen but let's
+think<00:00:49.520><c> about</c><00:00:49.760><c> the</c><00:00:49.920><c> code</c><00:00:50.239><c> execution</c><00:00:50.879><c> in</c><00:00:50.960><c> this</c>
+
+00:00:51.189 --> 00:00:51.199 align:start position:0%
+think about the code execution in this
+ 
+
+00:00:51.199 --> 00:00:52.709 align:start position:0%
+think about the code execution in this
+method
+
+00:00:52.709 --> 00:00:52.719 align:start position:0%
+method
+ 
+
+00:00:52.719 --> 00:00:55.670 align:start position:0%
+method
+after<00:00:53.039><c> reassigning</c><00:00:53.840><c> words</c><00:00:54.239><c> on</c><00:00:54.399><c> line</c><00:00:54.719><c> 2</c><00:00:55.520><c> when</c>
+
+00:00:55.670 --> 00:00:55.680 align:start position:0%
+after reassigning words on line 2 when
+ 
+
+00:00:55.680 --> 00:00:57.990 align:start position:0%
+after reassigning words on line 2 when
+we<00:00:55.840><c> reach</c><00:00:56.160><c> line</c><00:00:56.480><c> 3</c><00:00:56.879><c> we</c><00:00:57.039><c> see</c><00:00:57.199><c> the</c><00:00:57.360><c> reserve</c><00:00:57.760><c> word</c>
+
+00:00:57.990 --> 00:00:58.000 align:start position:0%
+we reach line 3 we see the reserve word
+ 
+
+00:00:58.000 --> 00:01:01.670 align:start position:0%
+we reach line 3 we see the reserve word
+return<00:00:59.440><c> when</c><00:00:59.680><c> an</c><00:00:59.840><c> explicit</c><00:01:00.559><c> return</c><00:01:01.120><c> like</c><00:01:01.359><c> this</c>
+
+00:01:01.670 --> 00:01:01.680 align:start position:0%
+return when an explicit return like this
+ 
+
+00:01:01.680 --> 00:01:02.709 align:start position:0%
+return when an explicit return like this
+is<00:01:01.840><c> executed</c>
+
+00:01:02.709 --> 00:01:02.719 align:start position:0%
+is executed
+ 
+
+00:01:02.719 --> 00:01:04.950 align:start position:0%
+is executed
+ruby<00:01:03.120><c> will</c><00:01:03.359><c> immediately</c><00:01:04.159><c> exit</c><00:01:04.559><c> from</c><00:01:04.799><c> the</c>
+
+00:01:04.950 --> 00:01:04.960 align:start position:0%
+ruby will immediately exit from the
+ 
+
+00:01:04.960 --> 00:01:05.990 align:start position:0%
+ruby will immediately exit from the
+method
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+method
+ 
+
+00:01:06.000 --> 00:01:09.030 align:start position:0%
+method
+so<00:01:06.400><c> line</c><00:01:06.799><c> 4</c><00:01:07.119><c> will</c><00:01:07.280><c> never</c><00:01:07.600><c> be</c><00:01:07.840><c> executed</c><00:01:08.720><c> and</c><00:01:08.880><c> we</c>
+
+00:01:09.030 --> 00:01:09.040 align:start position:0%
+so line 4 will never be executed and we
+ 
+
+00:01:09.040 --> 00:01:11.429 align:start position:0%
+so line 4 will never be executed and we
+will<00:01:09.280><c> not</c><00:01:09.520><c> output</c><00:01:10.000><c> words</c>
+
+00:01:11.429 --> 00:01:11.439 align:start position:0%
+will not output words
+ 
+
+00:01:11.439 --> 00:01:20.950 align:start position:0%
+will not output words
+and<00:01:11.600><c> we</c><00:01:11.760><c> can</c><00:01:12.000><c> see</c><00:01:12.159><c> that</c><00:01:12.320><c> when</c><00:01:12.479><c> we</c><00:01:12.640><c> run</c><00:01:12.880><c> our</c><00:01:13.040><c> code</c>
+
+00:01:20.950 --> 00:01:20.960 align:start position:0%
+ 
+ 
+
+00:01:20.960 --> 00:01:22.950 align:start position:0%
+ 
+it's<00:01:21.200><c> important</c><00:01:21.600><c> to</c><00:01:21.759><c> remember</c><00:01:22.320><c> that</c><00:01:22.479><c> when</c><00:01:22.720><c> you</c>
+
+00:01:22.950 --> 00:01:22.960 align:start position:0%
+it's important to remember that when you
+ 
+
+00:01:22.960 --> 00:01:25.590 align:start position:0%
+it's important to remember that when you
+explicitly<00:01:23.840><c> return</c><00:01:24.320><c> from</c><00:01:24.560><c> a</c><00:01:24.720><c> method</c>
+
+00:01:25.590 --> 00:01:25.600 align:start position:0%
+explicitly return from a method
+ 
+
+00:01:25.600 --> 00:01:28.469 align:start position:0%
+explicitly return from a method
+ruby<00:01:26.000><c> exits</c><00:01:26.400><c> that</c><00:01:26.640><c> method</c><00:01:27.040><c> immediately</c><00:01:28.240><c> and</c>
+
+00:01:28.469 --> 00:01:28.479 align:start position:0%
+ruby exits that method immediately and
+ 
+
+00:01:28.479 --> 00:01:30.390 align:start position:0%
+ruby exits that method immediately and
+the<00:01:28.640><c> subsequent</c><00:01:29.200><c> code</c><00:01:29.439><c> within</c><00:01:29.759><c> that</c><00:01:30.000><c> method</c>
+
+00:01:30.390 --> 00:01:30.400 align:start position:0%
+the subsequent code within that method
+ 
+
+00:01:30.400 --> 00:01:39.759 align:start position:0%
+the subsequent code within that method
+will<00:01:30.560><c> not</c><00:01:30.720><c> be</c><00:01:36.759><c> executed</c>
+

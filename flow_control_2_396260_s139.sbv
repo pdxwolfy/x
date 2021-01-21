@@ -1,0 +1,153 @@
+0:00:03.679,0:00:07.279
+we need to
+
+0:00:04.640,0:00:08.720
+write a method that takes a string as an
+
+0:00:07.279,0:00:10.880
+argument
+
+0:00:08.720,0:00:12.240
+if the string argument is greater than
+
+0:00:10.880,0:00:15.120
+10 characters
+
+0:00:12.240,0:00:16.880
+we want to return a new string with all
+
+0:00:15.120,0:00:19.439
+the characters uppercase
+
+0:00:16.880,0:00:20.480
+if the string argument has 10 characters
+
+0:00:19.439,0:00:23.600
+or less
+
+0:00:20.480,0:00:24.800
+we want to return the original string so
+
+0:00:23.600,0:00:28.840
+we'll call our method
+
+0:00:24.800,0:00:31.679
+caps and name the parameter
+
+0:00:28.840,0:00:34.239
+string and we can use a simple
+
+0:00:31.679,0:00:36.559
+if else conditional statement to achieve
+
+0:00:34.239,0:00:38.960
+this functionality
+
+0:00:36.559,0:00:42.239
+as the condition for our if statement
+
+0:00:38.960,0:00:44.719
+we'll examine the length of the string
+
+0:00:42.239,0:00:47.600
+we'll use the string length method to
+
+0:00:44.719,0:00:49.600
+return the length of the string
+
+0:00:47.600,0:00:51.840
+and we'll compare that length to the
+
+0:00:49.600,0:00:54.320
+integer 10.
+
+0:00:51.840,0:00:55.600
+this comparison will return either true
+
+0:00:54.320,0:00:58.160
+or false
+
+0:00:55.600,0:01:01.280
+if the comparison returns true and the
+
+0:00:58.160,0:01:03.920
+string's length is greater than 10
+
+0:01:01.280,0:01:05.680
+we want to return an uppercase version
+
+0:01:03.920,0:01:08.320
+of that string
+
+0:01:05.680,0:01:10.080
+and we can do that by using the string
+
+0:01:08.320,0:01:12.479
+up case method
+
+0:01:10.080,0:01:14.320
+if ruby does not execute this first
+
+0:01:12.479,0:01:16.560
+branch of our if statement
+
+0:01:14.320,0:01:17.520
+then we know our conditional return
+
+0:01:16.560,0:01:20.000
+false
+
+0:01:17.520,0:01:22.960
+and our string is less than or equal to
+
+0:01:20.000,0:01:22.960
+10 characters
+
+0:01:23.600,0:01:27.840
+so we'll just return the original string
+
+0:01:29.680,0:01:32.960
+let's invoke our caps method and we'll
+
+0:01:32.640,0:01:37.759
+pass
+
+0:01:32.960,0:01:37.759
+it one string argument with less than 10
+
+0:01:38.840,0:01:43.759
+characters
+
+0:01:40.240,0:01:46.479
+and another with more than 10 characters
+
+0:01:43.759,0:01:50.479
+and i'm going to output the return value
+
+0:01:46.479,0:01:50.479
+of each of these method invocations
+
+0:01:51.439,0:01:55.360
+we expect that the first method
+
+0:01:53.200,0:01:56.240
+invocation will return the original
+
+0:01:55.360,0:01:58.399
+string
+
+0:01:56.240,0:02:00.560
+and the second method invocation will
+
+0:01:58.399,0:02:02.640
+return the name with all uppercase
+
+0:02:00.560,0:02:05.920
+letters
+
+0:02:02.640,0:02:05.920
+so we'll run our file
+
+0:02:07.520,0:02:21.599
+and we see the result we expected
+
